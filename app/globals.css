@@ -71,7 +71,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .ranking { border-top: 2px solid var(--ink); }
 .tableHead, .showRow { display: grid; grid-template-columns: 64px minmax(280px, 2.2fr) 120px 80px 86px 160px; gap: 16px; align-items: center; }
 .tableHead { min-height: 36px; border-bottom: 1px solid var(--ink); font-size: 8px; font-weight: 900; letter-spacing: .13em; text-transform: uppercase; color: var(--muted); }
-.showEntry { border-bottom: 1px solid #bcb8ae; }
+.showEntry { position: relative; border-bottom: 1px solid #bcb8ae; }
 .showEntry.expanded { border-bottom-color: var(--ink); }
 .showRow { width: 100%; min-height: 88px; border: 0; padding: 10px 0; background: transparent; color: var(--ink); text-align: left; cursor: pointer; }
 .showRow:hover { background: rgba(255,255,255,.35); }
@@ -88,11 +88,17 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .reviews small, .ticket small { display: block; margin-top: 3px; font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .ticket b { display: block; font-size: 10px; }
 .ticket em { display: inline-block; margin-top: 6px; padding: 3px 5px; background: var(--ink); color: white; font-size: 7px; font-style: normal; font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
+.ticketLink, .ticketPending { position: absolute; z-index: 2; top: 10px; right: 0; width: 160px; min-height: 68px; padding: 9px 7px; display: flex; flex-direction: column; justify-content: center; }
+.ticketLink { border: 1px solid transparent; }
+.ticketLink:hover { border-color: var(--ink); background: var(--ink); color: white; }
+.ticketLink:hover small { color: var(--gold); }
+.ticketPending { color: var(--muted); }
 .sourcePanel { display: grid; grid-template-columns: .65fr repeat(3, 1fr); border-top: 1px solid var(--ink); background: #e6e0d2; }
 .sourcePanel > div { padding: 17px 19px; border-right: 1px solid #aaa59a; }
 .sourcePanel > div:last-child { border: 0; }
 .sourceIntro span { font: 800 16px Georgia, serif; }
 .sourceIntro p { margin: 5px 0 0; color: var(--muted); font-size: 9px; text-transform: uppercase; letter-spacing: .08em; }
+.officialListing { display: inline-block; margin-top: 13px; font-size: 8px; font-weight: 900; text-transform: uppercase; letter-spacing: .08em; text-decoration: underline; }
 .sourceReview > div { display: flex; justify-content: space-between; gap: 10px; }
 .sourceReview b { font: 800 13px Georgia, serif; }
 .sourceReview strong { color: var(--red); font-size: 11px; }
@@ -130,6 +136,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
   .methodPanel > div:nth-child(-n+2) { border-bottom: 1px solid #5d5c55; }
   .tableHead, .showRow { grid-template-columns: 55px minmax(240px, 1fr) 100px 70px 145px; }
   .tableHead span:nth-child(5), .reviews { display: none; }
+  .ticketLink, .ticketPending { width: 145px; }
   .sourcePanel { grid-template-columns: 1fr 1fr; }
   .sourceIntro { grid-column: 1 / -1; border-bottom: 1px solid #aaa59a; }
 }
@@ -155,6 +162,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
   .tableHead { display: none; }
   .showRow { min-height: 100px; grid-template-columns: 42px 1fr 55px; gap: 10px; }
   .genre, .reviews, .ticket { display: none; }
+  .ticketLink, .ticketPending { display: none; }
   .show b { font-size: 18px; }
   .show small { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .rank { font-size: 25px; }

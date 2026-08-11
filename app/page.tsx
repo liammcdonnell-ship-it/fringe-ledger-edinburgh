@@ -2,13 +2,14 @@
 
 import { useMemo, useState } from "react";
 import bcgReviewData from "./bcg-reviews.json";
+import edFringeListingData from "./edfringe-listings.json";
 import theQrReviewData from "./theqr-reviews.json";
 
 type Review = {
   outlet: string;
   score: string;
   value: number;
-  quote: string;
+  quote?: string;
   url: string;
 };
 
@@ -26,6 +27,7 @@ type Show = {
   source: string;
   movement: number;
   tag?: string;
+  listingUrl?: string;
   sources: Review[];
 };
 
@@ -114,7 +116,7 @@ const compactChortleShows: CompactShow[] = [
 const additionalShows: Show[] = [
   ...compactChortleShows.map((item) => {
     const sources: Review[] = [
-      { outlet: "Chortle", score: formatStars(item.score), value: item.score, quote: "A scored 2026 review of the production now appearing in Edinburgh.", url: item.url ?? chortleIndexUrl },
+      { outlet: "Chortle", score: formatStars(item.score), value: item.score, quote: "", url: item.url ?? chortleIndexUrl },
       ...(item.extras ?? []),
     ];
     const rawScore = Math.round(sources.reduce((sum, review) => sum + review.value, 0) / sources.length);
@@ -404,7 +406,7 @@ const reviewFromFeed = (review: FeedReview): Review => ({
   outlet: review.outlet,
   score: formatStars(review.value),
   value: review.value,
-  quote: "A scored 2026 Fringe review, newly matched from the live discovery feed.",
+  quote: "",
   url: review.url,
 });
 
@@ -436,14 +438,14 @@ allFeedReviews.forEach((item) => {
   mergedShows.set(key, {
     title: cleanImportedText(item.title),
     artist: item.artist ?? item.title.split(":")[0],
-    genre: item.genre ?? "Comedy",
+    genre: item.genre ?? "Unclassified",
     score: item.value,
     reviews: 1,
     fiveStars: item.value === 100 ? 1 : 0,
     venue: item.venue ?? "See listing",
     time: item.time ?? "See listing",
     until: "Current run",
-    quote: "Newly indexed from a scored 2026 Fringe notice",
+    quote: "",
     source: `${item.outlet} · 11 Aug`,
     movement: 0,
     tag: "New review",
@@ -451,10 +453,32 @@ allFeedReviews.forEach((item) => {
   });
 });
 
-const shows: Show[] = Array.from(mergedShows.values());
+const officialGenreLabels: Record<string, string> = {
+  CABARET: "Cabaret",
+  CHILDRENS_SHOWS: "Children's Shows",
+  CIRCUS: "Circus",
+  COMEDY: "Comedy",
+  MUSIC: "Music",
+  OPERA: "Musicals & Opera",
+  SPOKEN_WORD: "Spoken Word",
+  THEATRE: "Theatre",
+};
+
+const officialListings = new Map(edFringeListingData.listings.map((listing) => [titleKey(listing.title), listing]));
+
+const shows: Show[] = Array.from(mergedShows.values()).map((show) => {
+  const listing = officialListings.get(titleKey(show.title));
+  if (!listing) return show;
+  return {
+    ...show,
+    genre: officialGenreLabels[listing.genre] ?? listing.genre.replaceAll("_", " ").toLowerCase().replace(/\b\w/g, (letter) => letter.toUpperCase()),
+    listingUrl: listing.url,
+  };
+});
 const reviewNoticeCount = shows.reduce((total, show) => total + show.sources.length, 0);
 
-const genres = ["All shows", "Comedy", "Theatre"];
+const genreOrder = ["Comedy", "Theatre", "Musicals & Opera", "Cabaret", "Circus", "Children's Shows", "Music", "Spoken Word", "Unclassified"];
+const genres = ["All shows", ...genreOrder.filter((item) => shows.some((show) => show.genre === item))];
 
 type MonitoredSource = { name: string; url: string };
 
@@ -674,16 +698,31 @@ export default function Home() {
               <article className={`showEntry ${isExpanded ? "expanded" : ""}`} key={show.title}>
                 <button className="showRow" onClick={() => setExpanded(isExpanded ? null : show.title)} aria-expanded={isExpanded}>
                   <span className="rank">{String(index + 1).padStart(2, "0")}</span>
-                  <span className="show"><b>{show.title}</b><small>By {show.artist} · “{show.quote}” — {show.source}</small></span>
+                  <span className="show"><b>{show.title}</b><small>By {show.artist}{show.quote ? ` · “${show.quote}” — ${show.source}` : ` · ${show.source}`}</small></span>
                   <span className="genre">{show.genre}</span>
                   <span className={`score ${displayedScore < 86 ? "gold" : ""}`}>{displayedScore}</span>
                   <span className="reviews"><b>{show.reviews}</b><small>5-star: {show.fiveStars}</small></span>
-                  <span className="ticket"><b>{show.venue}</b><small>{show.time} · current 2026 run</small>{show.tag && <em>{show.tag}</em>}</span>
                 </button>
+                {show.listingUrl ? (
+                  <a className="ticket ticketLink" href={show.listingUrl} target="_blank" rel="noreferrer" aria-label={`Open ${show.title} on the official Edinburgh Fringe website`}>
+                    <b>{show.venue === "See listing" ? "Official EdFringe listing" : show.venue}</b>
+                    <small>{show.time === "See listing" ? "Dates & tickets ↗" : `${show.time} · Tickets ↗`}</small>
+                    {show.tag && <em>{show.tag}</em>}
+                  </a>
+                ) : (
+                  <span className="ticket ticketPending">
+                    <b>{show.venue === "See listing" ? "Listing being matched" : show.venue}</b>
+                    <small>{show.time === "See listing" ? "Official link pending" : `${show.time} · current run`}</small>
+                  </span>
+                )}
                 {isExpanded && (
                   <div className="sourcePanel" id="sources">
-                    <div className="sourceIntro"><span>Source reviews</span><p>{show.sources.length} of {show.reviews} indexed notices</p></div>
-                    {show.sources.map((review) => <div className="sourceReview" key={`${review.outlet}-${review.url}`}><div><b>{review.outlet}</b><strong>{review.score}</strong></div><p>{review.quote}</p><a href={review.url} target="_blank" rel="noreferrer">Read source ↗</a></div>)}
+                    <div className="sourceIntro">
+                      <span>Source reviews</span>
+                      <p>{show.sources.length} of {show.reviews} indexed notices</p>
+                      {show.listingUrl && <a className="officialListing" href={show.listingUrl} target="_blank" rel="noreferrer">Official listing & tickets ↗</a>}
+                    </div>
+                    {show.sources.map((review) => <div className="sourceReview" key={`${review.outlet}-${review.url}`}><div><b>{review.outlet}</b><strong>{review.score}</strong></div>{review.quote && <p>{review.quote}</p>}<a href={review.url} target="_blank" rel="noreferrer">Read source ↗</a></div>)}
                   </div>
                 )}
               </article>
