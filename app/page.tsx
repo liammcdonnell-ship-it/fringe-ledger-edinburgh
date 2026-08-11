@@ -26,80 +26,80 @@ type Show = {
   sources: Review[];
 };
 
-const currentPickUrl = "https://www.theguardian.com/stage/2026/jul/07/edinburgh-festival-2026-10-terrific-shows-weve-already-reviewed";
-
 const shows: Show[] = [
   {
-    title: "Woodhill", artist: "LUNG Theatre", genre: "Theatre", score: 92, reviews: 3, fiveStars: 2,
-    venue: "ZOO Southside", time: "See listing", until: "30 Aug", quote: "Verbatim theatre with extraordinary physical force", source: "2026 Guardian pick", movement: 1,
+    title: "Frankie Thompson: Horrible Things", artist: "Frankie Thompson", genre: "Comedy", score: 100, reviews: 1, fiveStars: 1,
+    venue: "Pleasance Courtyard", time: "20:45", until: "30 Aug", quote: "Avant-clowning with a newly commanding comic voice", source: "Time Out · 10 Aug", movement: 0, tag: "New review",
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A forceful portrait of families confronting failures in the prison system.", url: "https://www.theguardian.com/stage/2023/aug/10/woodhill-britain-failing-prison-system-summerhall-edinburgh" },
-      { outlet: "The Standard", score: "5/5", quote: "The production turns testimony, movement and sound into an intensely affecting whole.", url: "https://www.standard.co.uk/culture/theatre/woodhill-edinburgh-fringe-review-summerhall-lung-theatre-prison-b1100511.html" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Selected as one of the standout productions appearing at this year’s festival.", url: currentPickUrl },
+      { outlet: "Time Out", score: "5/5", quote: "A superb, singular hour that gives Thompson's strange comic world a forceful new centre.", url: "https://www.timeout.com/edinburgh/comedy/frankie-thompson-horrible-things-review" },
     ],
   },
   {
-    title: "Ten Thousand Hours", artist: "Gravity & Other Myths", genre: "Circus", score: 90, reviews: 2, fiveStars: 1,
-    venue: "Assembly Hall", time: "See listing", until: "30 Aug", quote: "High-skill circus with humour and audience play", source: "2026 Guardian pick", movement: 2, tag: "Critics’ pick",
+    title: "Bebe Cave: Swoon", artist: "Bebe Cave", genre: "Comedy", score: 100, reviews: 1, fiveStars: 1,
+    venue: "Pleasance Dome", time: "17:40", until: "30 Aug", quote: "A gleeful, high-energy collision of art history and modern misogyny", source: "Chortle · 10 Aug", movement: 0, tag: "New review",
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A celebration of the practice, precision and trust behind elite circus performance.", url: "https://www.theguardian.com/stage/2025/aug/16/ten-thousand-hours-review-assembly-hall-edinburgh-gravity-and-other-myths" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Highlighted for its exceptional skill, warmth and audience participation.", url: currentPickUrl },
+      { outlet: "Chortle", score: "5/5", quote: "A fiercely inventive one-woman romp packed with jokes, characters and pointed satire.", url: "https://www.chortle.co.uk/review/2026/08/10/61240/bebe_cave%3A_swoon" },
     ],
   },
   {
-    title: "Creepy Boys: Slugs", artist: "Sam Kruger & SE Grummett", genre: "Comedy", score: 89, reviews: 4, fiveStars: 2,
-    venue: "Summerhall", time: "See listing", until: "17 Aug", quote: "An existential rave disguised as gleeful chaos", source: "2026 Guardian pick", movement: 3, tag: "Ends soon",
+    title: "Andrew White: What a Life!", artist: "Andrew White", genre: "Comedy", score: 90, reviews: 1, fiveStars: 0,
+    venue: "Monkey Barrel · Cabaret Voltaire", time: "17:45", until: "30 Aug", quote: "Life-affirming comedy that balances grief, mischief and real heart", source: "Chortle · 6 Aug", movement: 0,
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "Absurd clowning that turns contemporary anxiety into a frantic, intelligent party.", url: "https://www.theguardian.com/stage/2025/aug/04/creepy-boys-slugs-review-absurdist-duo-summerhall-edinburgh" },
-      { outlet: "The Spy in the Stalls", score: "5/5", quote: "A confident blend of punk concert, puppetry, comedy and performance art.", url: "https://thespyinthestalls.com/2025/08/creepy-boys/" },
-      { outlet: "Corr Blimey", score: "4/5", quote: "Technically ambitious, deliberately chaotic and packed with sharp ideas.", url: "https://corrblimey.uk/2025/08/04/review-edinburgh-festival-fringe-2025-creepy-boys-slugs/" },
+      { outlet: "Chortle", score: "4.5/5", quote: "A skilfully interwoven hour where sentiment is repeatedly punctured by strong jokes.", url: "https://www.chortle.co.uk/review/2026/08/04/61184/andrew_white%3A_what_a_life%21" },
     ],
   },
   {
-    title: "David Elms Describes a Room", artist: "David Elms", genre: "Comedy", score: 86, reviews: 3, fiveStars: 0,
-    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "Understated improv built from collective imagination", source: "2026 Guardian pick", movement: 0,
+    title: "Andrew Doherty: Reviewers Welcome... TO DIE!", artist: "Andrew Doherty", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
+    venue: "Pleasance Courtyard", time: "22:50", until: "30 Aug", quote: "A gloriously petty supernatural revenge fantasy", source: "Time Out · 10 Aug", movement: 0, tag: "New review",
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A skilful, low-key hour in which the audience builds an imaginary room together.", url: "https://www.theguardian.com/stage/2025/aug/14/david-elms-describes-a-room-review-pleasance-courtyard-edinburgh" },
-      { outlet: "A Youngish Perspective", score: "4/5", quote: "Patient, precisely guided improv whose humour emerges naturally from the room.", url: "https://ayoungishperspective.co.uk/2025/08/19/review-david-elms-david-elms-describes-a-room/" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Chosen as a returning festival highlight for the 2026 programme.", url: currentPickUrl },
+      { outlet: "Time Out", score: "4/5", quote: "An exuberant horror-comedy that turns theatrical grievance into a joke on its creator.", url: "https://www.timeout.com/edinburgh/comedy/andrew-doherty-reviewers-welcome-to-die-review" },
     ],
   },
   {
-    title: "One Man Musical", artist: "Flo & Joan", genre: "Musical theatre", score: 85, reviews: 2, fiveStars: 0,
-    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "A wickedly playful Andrew Lloyd Webber musical", source: "2026 Guardian pick", movement: -1,
+    title: "Sh!t Theatre: Evita Too", artist: "Sh!t Theatre", genre: "Theatre", score: 80, reviews: 1, fiveStars: 0,
+    venue: "ZOO Southside", time: "See listing", until: "30 Aug", quote: "A subversive rummage through the myths surrounding Evita", source: "Time Out · 9 Aug", movement: 0,
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A clever musical comedy that balances affectionate pastiche with sharp theatrical jokes.", url: "https://www.theguardian.com/stage/article/2024/aug/18/one-man-musical-by-flo-joan-review-andrew-lloyd-webber-pleasance-dome-edinburgh" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Included among the critic-selected productions returning to Edinburgh this year.", url: currentPickUrl },
+      { outlet: "Time Out", score: "4/5", quote: "A playful, politically alert investigation of how women are remembered and rewritten.", url: "https://www.timeout.com/edinburgh/theatre/sh-t-theatre-evita-too-review-1" },
     ],
   },
   {
-    title: "Bog Witch", artist: "Bryony Kimmings", genre: "Theatre", score: 82, reviews: 3, fiveStars: 0,
-    venue: "Traverse Theatre", time: "See listing", until: "30 Aug", quote: "A funny, unsettling climate reckoning", source: "2026 Guardian pick", movement: 2,
+    title: "Amy Matthews: Definitions of Toast", artist: "Amy Matthews", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
+    venue: "Monkey Barrel · The Tron", time: "See listing", until: "30 Aug", quote: "A controlled, vulnerable hour about anger finally finding a voice", source: "Chortle · 9 Aug", movement: 0,
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "Personal eco-theatre that moves confidently between comedy, folklore and climate anxiety.", url: "https://www.theguardian.com/stage/2025/oct/15/bog-witch-review-bryony-kimmings-climate-soho-theatre-walthamstow" },
-      { outlet: "Time Out", score: "3/5", quote: "A visually rich and charismatic return that would benefit from tighter editing.", url: "https://www.timeout.com/edinburgh/theatre/bog-witch-review" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "One of the publication’s ten recommended shows for Edinburgh 2026.", url: currentPickUrl },
+      { outlet: "Chortle", score: "4/5", quote: "Smart, carefully structured stand-up with emotional clarity and a strong sense of arrival.", url: "https://www.chortle.co.uk/review/2026/08/09/61232/amy_matthews%3A_definitions_of_toast" },
     ],
   },
   {
-    title: "Furniture Boys", artist: "Emily Weitzman", genre: "Comedy", score: 81, reviews: 2, fiveStars: 0,
-    venue: "Underbelly, Bristo Square", time: "See listing", until: "30 Aug", quote: "Ex-boyfriends reimagined as troublesome furniture", source: "2026 Guardian pick", movement: 4,
+    title: "Chris Martin Lied to Us", artist: "Will Spence", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
+    venue: "Underbelly Cowgate", time: "See listing", until: "30 Aug", quote: "A playful, committed clown show built around one very yellow theory", source: "Chortle · 10 Aug", movement: 0, tag: "New review",
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A witty comic premise that opens into something more layered and emotionally resonant.", url: "https://www.theguardian.com/stage/2025/aug/16/furniture-boys-review-underbelly-george-square-edinburgh" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Selected for the 2026 guide after a warmly received earlier run.", url: currentPickUrl },
+      { outlet: "Chortle", score: "4/5", quote: "A charming, deliberately strange debut carried by physical commitment and playful invention.", url: "https://www.chortle.co.uk/review/2026/08/10/61243/chris_martin_lied_to_us" },
     ],
   },
   {
-    title: "Tell Me", artist: "Sadiq Ali Company", genre: "Circus", score: 80, reviews: 2, fiveStars: 0,
-    venue: "Summerhall", time: "See listing", until: "31 Aug", quote: "Intimate circus confronting stigma and the Aids crisis", source: "2026 Guardian pick", movement: 1,
+    title: "Freddie Meredith: Need A Light?", artist: "Freddie Meredith", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
+    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "An assured character debut about loneliness in the smoking area", source: "Chortle · 9 Aug", movement: 0,
     sources: [
-      { outlet: "The Guardian", score: "Recommended", quote: "A poignant piece combining Chinese pole, intimacy and stories of queer survival.", url: "https://www.theguardian.com/stage/2026/jan/26/sadiq-ali-company-tell-me-review-aids-crisis-the-place-london" },
-      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Highlighted as a compassionate and physically assured festival production.", url: currentPickUrl },
+      { outlet: "Chortle", score: "4/5", quote: "A finely observed and precisely performed character study with an unexpectedly tender centre.", url: "https://www.chortle.co.uk/review/2026/08/09/61234/freddie_meredith%3A_need_a_light%3F" },
+    ],
+  },
+  {
+    title: "Jenny Gorelick: Sorry", artist: "Jenny Gorelick", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
+    venue: "Monkey Barrel · Niddry Street", time: "See listing", until: "30 Aug", quote: "Rapid-fire dating comedy with sharper social commentary underneath", source: "Chortle · 6 Aug", movement: 0,
+    sources: [
+      { outlet: "Chortle", score: "4/5", quote: "A gag-dense stand-up hour whose bright persona carries perceptive writing on gender and relationships.", url: "https://www.chortle.co.uk/review/2026/08/06/61198/jenny_gorelick%3A_sorry" },
+    ],
+  },
+  {
+    title: "Bog Witch", artist: "Bryony Kimmings", genre: "Theatre", score: 60, reviews: 1, fiveStars: 0,
+    venue: "Traverse Theatre", time: "See listing", until: "30 Aug", quote: "A visually rich climate reckoning with an unruly shape", source: "Time Out · 9 Aug", movement: 0,
+    sources: [
+      { outlet: "Time Out", score: "3/5", quote: "A charismatic and visually imaginative return whose abundance could use tighter editing.", url: "https://www.timeout.com/edinburgh/theatre/bog-witch-review" },
     ],
   },
 ];
 
-const genres = ["All shows", "Comedy", "Theatre", "Musical theatre", "Circus"];
+const genres = ["All shows", "Comedy", "Theatre"];
 
 const monitoredSources = [
   "Chortle", "The Guardian", "The Times", "Binge Fringe", "British Theatre Guide",
@@ -108,6 +108,14 @@ const monitoredSources = [
   "The Stage", "Fest Mag", "Reyt Good Magazine", "Across the Arts", "On the Mic",
   "Bouquets & Brickbats", "The Scotsman", "Scottish Field", "Broadway Baby",
   "Bruce on the Fringe", "Get the Chance", "One4Review",
+  "The Skinny", "The List", "The Independent", "The Telegraph", "The Wee Review",
+  "The Reviews Hub", "The Quinntessential Review", "Corr Blimey", "All Edinburgh Theatre",
+  "LouReviews", "WhatsOnStage", "EdinburghGuide", "FringeReview", "STARBURST",
+  "Edinburgh Evening News", "What The Fringe", "The Flaneur", "StageSideUK",
+  "Theatre and Art Reviews", "Theatre Scotland", "Braw Theatre", "LondonTheatre1",
+  "European Comedy", "Arts Reviews Edinburgh", "Sounds & Stage", "Edinburgh Music Review",
+  "Country & Town House", "Theatre Village", "SNACK Magazine", "The Spy in the Stalls",
+  "A Youngish Perspective", "The Standard", "British Comedy Guide", "BroadwayWorld",
 ];
 
 function Arrow({ movement }: { movement: number }) {
@@ -166,13 +174,13 @@ export default function Home() {
           <div>
             <div className="kicker">Today’s consensus</div>
             <h1>The best-reviewed shows at the Fringe, ranked</h1>
-            <p className="summary">From radical verbatim theatre to existential clowning, these are current 2026 productions with strong published notices. Early scores combine reviews of the same production with this year’s verified programme picks.</p>
-            <p className="demoNote">Live 2026 watchlist · updated 11 August · early scores may move as new reviews arrive.</p>
+            <p className="summary">These are shows currently playing at the 2026 Fringe with scored reviews published this year. Archive reviews and preview selections no longer contribute to the ranking.</p>
+            <p className="demoNote">2026 reviews only · checked 11 August · early scores may move quickly as new notices arrive.</p>
           </div>
           <aside className="standfirst" id="method">
-            <div className="stat"><strong>92</strong><span>highest<br />early score</span></div>
+            <div className="stat"><strong>100</strong><span>highest<br />early score</span></div>
             <div>
-              <p className="method"><b>What is a Ledger score?</b><br />We normalise star ratings, weight outlets for review history and consistency, and only rank shows with three or more published reviews.</p>
+              <p className="method"><b>What is a Ledger score?</b><br />We convert published ratings to a common 0–100 scale. During the opening week, a show can enter with one professional 2026 review; its review count stays visible.</p>
               <button className="textButton" onClick={() => setMethodOpen(!methodOpen)} aria-expanded={methodOpen}>{methodOpen ? "Hide methodology" : "Read the methodology"} →</button>
             </div>
           </aside>
@@ -181,9 +189,9 @@ export default function Home() {
         {methodOpen && (
           <section className="methodPanel" aria-label="Scoring methodology">
             <div><b>01 · Normalise</b><p>Stars, grades and percentage scores become a common 0–100 scale.</p></div>
-            <div><b>02 · Weight</b><p>Outlets earn confidence from review volume, consistency and transparent authorship.</p></div>
-            <div><b>03 · Qualify</b><p>Early-festival listings may enter with one professional review and a verified 2026 programme appearance.</p></div>
-            <div><b>04 · Update</b><p>Scores recalculate as new criticism appears, with every source retained.</p></div>
+            <div><b>02 · Verify</b><p>Only reviews of a production in the current 2026 programme qualify; previews and archive notices are excluded.</p></div>
+            <div><b>03 · Combine</b><p>Multiple reviews are averaged, with the number of contributing notices shown beside every score.</p></div>
+            <div><b>04 · Update</b><p>Scores recalculate as new criticism appears, with every contributing source retained.</p></div>
           </section>
         )}
 
@@ -226,7 +234,7 @@ export default function Home() {
           <div>
             <span className="kicker">Coverage desk</span>
             <h2 id="source-heading">Publications monitored hourly</h2>
-            <p>New 2026 Fringe reviews are checked, matched to the correct production and deduplicated before they affect a Ledger score.</p>
+            <p>New 2026 Fringe reviews are checked, matched to the correct production and deduplicated before they affect a score. Crowd ratings and aggregation sites are used for discovery only.</p>
           </div>
           <div className="sourceTags">
             {monitoredSources.map((source) => <span key={source}>{source}</span>)}
@@ -234,7 +242,7 @@ export default function Home() {
         </section>
 
         <section className="bottomGrid" id="prototype-note">
-          <p className="editorialNote"><b>Editorial note.</b> Scores are an informed consensus, not a substitute for criticism. Every live listing will link to its source reviews so readers can follow the argument, discover unfamiliar publications and make up their own minds.</p>
+          <p className="editorialNote"><b>Editorial note.</b> Scores are an informed consensus, not a substitute for criticism. Every listing links to its contributing reviews so readers can follow the argument, discover unfamiliar publications and make up their own minds.</p>
           <div className="newsletter"><b>The Ledger, every lunchtime.</b><span>A concise email with the day’s biggest movers, new five-star notices and last-minute tickets.</span><button onClick={() => alert("Newsletter signup will connect in the next version.")}>Join free →</button></div>
         </section>
       </main>
