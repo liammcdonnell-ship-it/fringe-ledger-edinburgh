@@ -365,10 +365,28 @@ const canonicalReviewUrl = (value: string) => {
     url.hash = "";
     url.hostname = url.hostname.replace(/^www\./, "").toLowerCase();
     url.pathname = url.pathname.replace(/\/$/, "");
+    // Feed, RSS and campaign parameters do not identify a different review.
+    url.search = "";
     return url.toString();
   } catch {
-    return value.replace(/#$/, "").replace(/\/$/, "");
+    return value.replace(/[?#].*$/, "").replace(/\/$/, "");
   }
+};
+
+const outletKey = (value: string) => value
+  .normalize("NFKD")
+  .toLowerCase()
+  .replace(/[^a-z0-9]+/g, " ")
+  .trim();
+
+const reviewDate = (value: string) => {
+  const match = value.match(/\/(20\d{2})\/(\d{2})\/(\d{2})\//);
+  return match ? Number(`${match[1]}${match[2]}${match[3]}`) : 0;
+};
+
+const preferIncomingReview = (current: Review, incoming: Review) => {
+  if (current.url === chortleIndexUrl && incoming.url !== chortleIndexUrl) return true;
+  return reviewDate(incoming.url) >= reviewDate(current.url);
 };
 
 const allFeedReviews = [...feedReviews, ...bcgReviews, ...theQrReviews].filter((review, index, reviews) =>
@@ -398,7 +416,15 @@ allFeedReviews.forEach((item) => {
   const existing = mergedShows.get(key);
   if (existing) {
     const canonicalUrl = canonicalReviewUrl(incoming.url);
-    if (!existing.sources.some((review) => canonicalReviewUrl(review.url) === canonicalUrl)) existing.sources.push(incoming);
+    const sameUrl = existing.sources.some((review) => canonicalReviewUrl(review.url) === canonicalUrl);
+    const sameOutletIndex = existing.sources.findIndex((review) => outletKey(review.outlet) === outletKey(incoming.outlet));
+    if (!sameUrl && sameOutletIndex === -1) {
+      existing.sources.push(incoming);
+    } else if (!sameUrl && sameOutletIndex >= 0 && preferIncomingReview(existing.sources[sameOutletIndex], incoming)) {
+      // A publication gets one vote per production. Prefer its newest verified
+      // notice when archive and discovery feeds expose more than one URL.
+      existing.sources[sameOutletIndex] = incoming;
+    }
     existing.reviews = existing.sources.length;
     existing.fiveStars = existing.sources.filter((review) => review.value === 100).length;
     existing.score = Math.round(existing.sources.reduce((sum, review) => sum + review.value, 0) / existing.sources.length);
