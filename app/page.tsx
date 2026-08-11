@@ -225,10 +225,37 @@ type FeedReview = {
   url: string;
 };
 
-// Newly published notices discovered through the live 2026 British Comedy Guide
-// scroll. BCG is used as a discovery index only; every score links to the
-// publication that wrote the review and only that publication contributes a vote.
+// Verified 2026 notices found through publication archives and discovery feeds.
+// Aggregators are used for discovery only; every score links to the publication
+// that wrote the review and only that publication contributes a vote.
 const feedReviews: FeedReview[] = [
+  { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/chris-forbes-father-christmas-fringe-review" },
+  { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "Broken Legs Blog", value: 80, url: "https://brokenlegsblog.co.uk/2026/08/05/chris-forbes-father-christmas-monkey-barrel-comedy-edinburgh-fringe/" },
+  { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "North West End UK / Theatre Muse UK", value: 100, url: "https://theatremuseuk.org/2026/08/08/chris-forbes-father-christmas-monkey-barrel-comedy/" },
+  { title: "The Past", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/the-past-fringe-review" },
+  { title: "The Past", outlet: "Broken Legs Blog", value: 80, url: "https://brokenlegsblog.co.uk/2026/08/06/the-past-underbelly-edinburgh-fringe/" },
+  { title: "Blackbox", genre: "Theatre", outlet: "Elemental Theatre", value: 60, url: "https://www.elementaltheatre.com/post/blackbox-fringe-review" },
+  { title: "FLIGHT", genre: "Theatre", outlet: "Elemental Theatre", value: 80, url: "https://www.elementaltheatre.com/post/flight-fringe-review" },
+  { title: "Hole!", genre: "Theatre", outlet: "Elemental Theatre", value: 80, url: "https://www.elementaltheatre.com/post/hole-fringe-review" },
+  { title: "Hole!", genre: "Theatre", outlet: "Broken Legs Blog", value: 60, url: "https://brokenlegsblog.co.uk/2026/08/08/hole-underbelly-edinburgh-fringe/" },
+  { title: "Shamilton! The Improvised Hip-Hop Musical", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/shamilton-fringe-review" },
+  { title: "Shamilton! The Improvised Hip-Hop Musical", outlet: "Broken Legs Blog", value: 100, url: "https://brokenlegsblog.co.uk/2026/08/08/shamilton-the-improvised-hip-hop-musical-assembly-edinburgh-fringe-2/" },
+  { title: "The Bloopers!", outlet: "Elemental Theatre", value: 80, url: "https://www.elementaltheatre.com/post/the-bloopers-fringe-review" },
+  { title: "Aarushi Agni: Emoji", artist: "Aarushi Agni", outlet: "Elemental Theatre", value: 20, url: "https://www.elementaltheatre.com/post/aarushi-agni-emoji-fringe-review" },
+  { title: "Cowards!", genre: "Theatre", outlet: "Elemental Theatre", value: 60, url: "https://www.elementaltheatre.com/post/cowards-fringe-review" },
+  { title: "Waiting For Wonka", genre: "Theatre", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/waiting-for-wonka-fringe-review" },
+  { title: "Shakespeare for Breakfast", genre: "Theatre", outlet: "Elemental Theatre", value: 40, url: "https://www.elementaltheatre.com/post/shakespeare-for-breakfast-fringe-review" },
+  { title: "Ryan Cullen: Cullen Me Softly", artist: "Ryan Cullen", outlet: "Elemental Theatre", value: 70, url: "https://www.elementaltheatre.com/post/ryan-cullen-cullen-me-softly-fringe-review" },
+  { title: "Sean Morley: Backchannel", artist: "Sean Morley", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/sean-morley-backchannel-fringe-review" },
+  { title: "Ed Night: We'll Be Alright Darling", artist: "Ed Night", outlet: "Elemental Theatre", value: 60, url: "https://www.elementaltheatre.com/post/ed-night-we-ll-be-alright-darling-fringe-review" },
+  { title: "Impromptunes: The Completely Improvised Musical", outlet: "Broken Legs Blog", value: 60, url: "https://brokenlegsblog.co.uk/2026/08/08/impromptunes-the-completely-improvised-musical-underbelly-edinburgh-fringe/" },
+  { title: "Right Before I Go", genre: "Theatre", outlet: "Broken Legs Blog", value: 60, url: "https://brokenlegsblog.co.uk/2026/08/08/right-before-i-go-pleasance-dome-edinburgh-fringe/" },
+  { title: "Bliss", genre: "Theatre", outlet: "Broken Legs Blog", value: 20, url: "https://brokenlegsblog.co.uk/2026/08/08/bliss-pleasance-courtyard-edinburgh-fringe/" },
+  { title: "199 Jokes Before Lunch Time: Danny Matinee!", outlet: "Broken Legs Blog", value: 40, url: "https://brokenlegsblog.co.uk/2026/08/08/199-jokes-before-lunch-time-danny-matinee-thespace-edinburgh-fringe/" },
+  { title: "The Hunger", genre: "Theatre", outlet: "Broken Legs Blog", value: 80, url: "https://brokenlegsblog.co.uk/2026/08/08/the-hunger-thespace-edinburgh-fringe/" },
+  { title: "Escape Room: The Musical", outlet: "Broken Legs Blog", value: 60, url: "https://brokenlegsblog.co.uk/2026/08/07/escape-room-the-musical-just-the-tonic-edinburgh-fringe/" },
+  { title: "Jack Off The Beanstalk", outlet: "Broken Legs Blog", value: 40, url: "https://brokenlegsblog.co.uk/2026/08/07/jack-off-the-beanstalk-just-the-tonic-edinburgh-fringe/" },
+  { title: "Dogberry and Verges Are Scared", genre: "Theatre", outlet: "Broken Legs Blog", value: 100, url: "https://brokenlegsblog.co.uk/2026/08/07/dogberry-and-verges-are-scared-c-arts-edinburgh-fringe/" },
   { title: "Chris Cantrill: Rewilding", artist: "Chris Cantrill", outlet: "A Young(ish) Perspective", value: 100, url: "https://ayoungishperspective.co.uk/2026/08/11/review-chris-cantrill-rewilding-monkey-barrel/" },
   { title: "Elf Lyons is The Woman on the Edge", artist: "Elf Lyons", outlet: "Fest Mag", value: 100, url: "https://festmag.com/2026/08/11/review-elf-lyons-is-the-woman-on-the-edge/" },
   { title: "Helicops 1: Find Your Wings!", artist: "Helicops", outlet: "Corr Blimey", value: 80, url: "https://corrblimey.uk/2026/08/11/edinburgh-festival-fringe-2026-review-helicops-1-find-your-wings-the-crate-assembly-george-square/" },
@@ -402,7 +429,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "Perth Happenings", url: "https://perthhappenings.com.au/?s=fringe+review" },
   { name: "Elemental Theatre", url: "https://www.elementaltheatre.com/reviews" },
   { name: "Broken Legs Blog", url: "https://brokenlegsblog.co.uk/edinburgh-fringe-reviews/" },
-  { name: "North West End UK", url: "https://northwestend.com/category/reviews/scotland/" },
+  { name: "North West End UK / Theatre Muse UK", url: "https://theatremuseuk.org/category/edinburgh-fringe-festival/edinburgh-fringe-festival-reviews/" },
 ];
 
 export default function Home() {
