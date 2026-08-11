@@ -217,22 +217,78 @@ const shows: Show[] = [
 
 const genres = ["All shows", "Comedy", "Theatre"];
 
-const monitoredSources = [
-  "Chortle", "The Guardian", "The Times", "Binge Fringe", "British Theatre Guide",
-  "Phoenix Remix", "The Herald", "Roland’s Reviews", "Disrupt Reviews", "Time Out",
-  "FringeFan", "EdFringe Review", "From the North", "Boom Radio", "Mix Up Theatre",
-  "The Stage", "Fest Mag", "Reyt Good Magazine", "Across the Arts", "On the Mic",
-  "Bouquets & Brickbats", "The Scotsman", "Scottish Field", "Broadway Baby",
-  "Bruce on the Fringe", "Get the Chance", "One4Review",
-  "The Skinny", "The List", "The Independent", "The Telegraph", "The Wee Review",
-  "The Reviews Hub", "The Quinntessential Review", "Corr Blimey", "All Edinburgh Theatre",
-  "LouReviews", "WhatsOnStage", "EdinburghGuide", "FringeReview", "STARBURST",
-  "Edinburgh Evening News", "What The Fringe", "The Flaneur", "StageSideUK",
-  "Theatre and Art Reviews", "Theatre Scotland", "Braw Theatre", "LondonTheatre1",
-  "European Comedy", "Arts Reviews Edinburgh", "Sounds & Stage", "Edinburgh Music Review",
-  "Country & Town House", "Theatre Village", "SNACK Magazine", "The Spy in the Stalls",
-  "A Youngish Perspective", "The Standard", "British Comedy Guide", "BroadwayWorld",
-  "The Scoop", "Perth Happenings",
+type MonitoredSource = { name: string; url: string };
+
+const outletSearch = (domain: string) =>
+  `https://www.google.com/search?q=${encodeURIComponent(`site:${domain} Edinburgh Fringe reviews`)}`;
+
+const monitoredSources: MonitoredSource[] = [
+  { name: "Chortle", url: chortleIndexUrl },
+  { name: "The Guardian", url: "https://www.theguardian.com/stage/edinburgh-festival" },
+  { name: "The Times", url: "https://www.thetimes.com/search?source=nav-desktop&q=edinburgh%20fringe%20review" },
+  { name: "Binge Fringe", url: outletSearch("bingefringe.com") },
+  { name: "British Theatre Guide", url: outletSearch("britishtheatreguide.info") },
+  { name: "Phoenix Remix", url: outletSearch("phoenixremix.com") },
+  { name: "The Herald", url: "https://www.heraldscotland.com/search/?search=edinburgh%20fringe%20review" },
+  { name: "Roland’s Reviews", url: outletSearch("rolandsreviews.com") },
+  { name: "Disrupt Reviews", url: outletSearch("disruptmagazine.uk") },
+  { name: "Time Out", url: "https://www.timeout.com/edinburgh/theatre/edinburgh-fringe-international-festival-reviews" },
+  { name: "FringeFan", url: "https://fringefan.com/" },
+  { name: "EdFringe Review", url: "https://edfringereview.com/reviews/" },
+  { name: "From the North", url: outletSearch("fromthenorth.com") },
+  { name: "Boom Radio", url: outletSearch("boomradiouk.com") },
+  { name: "Mix Up Theatre", url: "https://www.mixuptheatre.com/search?q=edinburgh%20fringe" },
+  { name: "The Stage", url: "https://www.thestage.co.uk/search?q=edinburgh%20fringe" },
+  { name: "Fest Mag", url: "https://festmag.com/edinburgh/reviews" },
+  { name: "Reyt Good Magazine", url: outletSearch("reytgoodmagazine.com") },
+  { name: "Across the Arts", url: outletSearch("acrossthearts.co.uk") },
+  { name: "On the Mic", url: outletSearch("onthemic.co.uk") },
+  { name: "Bouquets & Brickbats", url: "https://bouquetsbrickbatsreviews.com/category/theatre/edinburgh-fringe/" },
+  { name: "The Scotsman", url: "https://www.scotsman.com/search?q=edinburgh%20fringe%20review" },
+  { name: "Scottish Field", url: "https://www.scottishfield.co.uk/?s=edinburgh+fringe+review" },
+  { name: "Broadway Baby", url: "https://broadwaybaby.com/shows" },
+  { name: "Bruce on the Fringe", url: "https://www.bruceonthefringe.com/" },
+  { name: "Get the Chance", url: "https://getthechance.wales/tag/edinburgh-fringe/" },
+  { name: "One4Review", url: outletSearch("one4review.co.uk") },
+  { name: "The Skinny", url: "https://www.theskinny.co.uk/festivals/edinburgh-fringe/reviews" },
+  { name: "The List", url: "https://list.co.uk/news/tag/edinburgh-festival-fringe" },
+  { name: "The Independent", url: "https://www.independent.co.uk/search?q=edinburgh%20fringe%20review" },
+  { name: "The Telegraph", url: "https://www.telegraph.co.uk/search.html?queryText=edinburgh%20fringe%20review" },
+  { name: "The Wee Review", url: "https://theweereview.com/festival/edinburgh-fringe/" },
+  { name: "The Reviews Hub", url: "https://www.thereviewshub.com/category/fringe/edinburgh-fringe/" },
+  { name: "The Quinntessential Review", url: "https://theqr.co.uk/category/edinburgh-fringe/" },
+  { name: "Corr Blimey", url: "https://corrblimey.uk/category/edinburgh-fringe/" },
+  { name: "All Edinburgh Theatre", url: "https://www.alledinburghtheatre.com/category/reviews/" },
+  { name: "LouReviews", url: "https://loureviews.blog/category/edinburgh-fringe/" },
+  { name: "WhatsOnStage", url: "https://www.whatsonstage.com/edinburgh-theatre/reviews/" },
+  { name: "EdinburghGuide", url: "https://edinburghguide.com/search?keys=edinburgh%20fringe%20review" },
+  { name: "FringeReview", url: outletSearch("fringereview.co.uk") },
+  { name: "STARBURST", url: "https://www.starburstmagazine.com/?s=edinburgh+fringe+review" },
+  { name: "Edinburgh Evening News", url: "https://www.edinburghnews.scotsman.com/search?q=edinburgh%20fringe%20review" },
+  { name: "What The Fringe", url: outletSearch("whatthefringe.com") },
+  { name: "The Flaneur", url: outletSearch("theflaneur.co.uk") },
+  { name: "StageSideUK", url: outletSearch("stagesideuk.com") },
+  { name: "Theatre and Art Reviews", url: outletSearch("theatreandartreviews.com") },
+  { name: "Theatre Scotland", url: outletSearch("theatrescotland.co.uk") },
+  { name: "Braw Theatre", url: outletSearch("brawtheatre.com") },
+  { name: "LondonTheatre1", url: "https://www.londontheatre1.com/?s=edinburgh+fringe+review" },
+  { name: "European Comedy", url: outletSearch("europeancomedy.com") },
+  { name: "Arts Reviews Edinburgh", url: outletSearch("artsreviewsedinburgh.com") },
+  { name: "Sounds & Stage", url: outletSearch("soundsandstage.com") },
+  { name: "Edinburgh Music Review", url: outletSearch("edinburghmusicreview.com") },
+  { name: "Country & Town House", url: "https://www.countryandtownhouse.com/?s=edinburgh+fringe+review" },
+  { name: "Theatre Village", url: outletSearch("theatrevillage.co.uk") },
+  { name: "SNACK Magazine", url: "https://snackmag.co.uk/?s=edinburgh+fringe+review" },
+  { name: "The Spy in the Stalls", url: "https://thespyinthestalls.com/category/edinburgh-fringe/" },
+  { name: "A Youngish Perspective", url: "https://ayoungishperspective.co.uk/category/reviews/edinburgh-fringe/" },
+  { name: "The Standard", url: "https://www.standard.co.uk/search?q=edinburgh%20fringe%20review" },
+  { name: "British Comedy Guide", url: "https://www.comedy.co.uk/fringe/reviews/" },
+  { name: "BroadwayWorld", url: "https://www.broadwayworld.com/scotland/reviewsnew.cfm" },
+  { name: "The Scoop", url: "https://thescoop.au/?s=fringe+review" },
+  { name: "Perth Happenings", url: "https://perthhappenings.com.au/?s=fringe+review" },
+  { name: "Elemental Theatre", url: "https://www.elementaltheatre.com/reviews" },
+  { name: "Broken Legs Blog", url: "https://brokenlegsblog.co.uk/edinburgh-fringe-reviews/" },
+  { name: "North West End UK", url: "https://northwestend.com/category/reviews/scotland/" },
 ];
 
 export default function Home() {
@@ -368,10 +424,14 @@ export default function Home() {
           <div>
             <span className="kicker">Coverage desk</span>
             <h2 id="source-heading">Publications monitored hourly</h2>
-            <p>New 2026 Fringe reviews are checked, matched to the correct production and deduplicated before they affect a score. Crowd ratings and aggregation sites are used for discovery only.</p>
+            <p>New 2026 Fringe reviews are checked, matched to the correct production and deduplicated before they affect a score. Select any publication to open its Fringe reviews.</p>
           </div>
           <div className="sourceTags">
-            {monitoredSources.map((source) => <span key={source}>{source}</span>)}
+            {monitoredSources.map((source) => (
+              <a key={source.name} href={source.url} target="_blank" rel="noreferrer" aria-label={`Open ${source.name} Fringe reviews`}>
+                {source.name}
+              </a>
+            ))}
           </div>
         </section>
 

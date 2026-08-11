@@ -107,7 +107,10 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .sourceDirectory h2 { margin: 0; font: 800 25px/1 Georgia, serif; }
 .sourceDirectory p { margin: 10px 0 0; max-width: 470px; font: 12px/1.5 Georgia, serif; color: var(--muted); }
 .sourceTags { align-content: start; display: flex; flex-wrap: wrap; gap: 7px; }
-.sourceTags span { border: 1px solid var(--ink); padding: 7px 9px; background: rgba(255,255,255,.22); font-size: 8px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; }
+.sourceTags a { border: 1px solid var(--ink); padding: 7px 9px; background: rgba(255,255,255,.22); font-size: 8px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; transition: background-color .15s ease, color .15s ease; }
+.sourceTags a::after { content: " ↗"; color: var(--red); }
+.sourceTags a:hover { background: var(--ink); color: white; }
+.sourceTags a:hover::after { color: var(--gold); }
 
 .bottomGrid { display: grid; grid-template-columns: 1.55fr 1fr; gap: 36px; margin-top: 25px; }
 .editorialNote { margin: 0; font: 12px/1.5 Georgia, serif; }
