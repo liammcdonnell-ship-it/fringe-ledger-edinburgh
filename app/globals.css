@@ -59,6 +59,15 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .pills { display: flex; gap: 7px; }
 .pills button { border: 1px solid var(--ink); background: transparent; padding: 8px 12px; cursor: pointer; font-size: 9px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
 .pills button.on, .pills button:hover { background: var(--ink); color: white; }
+.rankingOptions { display: flex; align-items: end; gap: 20px; margin: 0 0 14px; padding: 14px 16px; border: 1px solid var(--ink); background: rgba(255,255,255,.24); }
+.optionGroup { display: grid; gap: 7px; }
+.optionGroup > span { color: var(--muted); font-size: 8px; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
+.segmented { display: flex; }
+.segmented button { min-height: 34px; border: 1px solid var(--ink); background: transparent; padding: 7px 12px; font-size: 9px; font-weight: 900; letter-spacing: .06em; text-transform: uppercase; cursor: pointer; }
+.segmented button + button { border-left: 0; }
+.segmented button.on { background: var(--ink); color: white; }
+.minReviews select { min-height: 34px; border: 1px solid var(--ink); border-radius: 0; background: var(--paper); color: var(--ink); padding: 6px 34px 6px 10px; font: 800 10px Arial, sans-serif; }
+.showAllButton { margin-left: auto; border: 0; background: transparent; padding: 9px 0; font-size: 9px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; text-decoration: underline; cursor: pointer; }
 .ranking { border-top: 2px solid var(--ink); }
 .tableHead, .showRow { display: grid; grid-template-columns: 64px minmax(280px, 2.2fr) 120px 80px 86px 160px; gap: 16px; align-items: center; }
 .tableHead { min-height: 36px; border-bottom: 1px solid var(--ink); font-size: 8px; font-weight: 900; letter-spacing: .13em; text-transform: uppercase; color: var(--muted); }
@@ -92,6 +101,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .empty { min-height: 180px; display: grid; place-content: center; gap: 7px; text-align: center; }
 .empty b { font: 800 24px Georgia, serif; }
 .empty span { color: var(--muted); font-size: 12px; }
+.empty button { justify-self: center; border: 1px solid var(--ink); background: var(--ink); color: white; padding: 8px 11px; font-size: 9px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; cursor: pointer; }
 
 .sourceDirectory { margin-top: 30px; padding: 25px 0; border-top: 4px solid var(--ink); border-bottom: 1px solid var(--ink); display: grid; grid-template-columns: .72fr 1.6fr; gap: 42px; }
 .sourceDirectory h2 { margin: 0; font: 800 25px/1 Georgia, serif; }
@@ -137,6 +147,8 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
   .summary { font-size: 16px; }
   .controls { grid-template-columns: 1fr; }
   .pills { overflow-x: auto; padding-bottom: 5px; scrollbar-width: thin; }
+  .rankingOptions { align-items: stretch; flex-direction: column; gap: 13px; }
+  .showAllButton { margin-left: 0; align-self: flex-start; }
   .tableHead { display: none; }
   .showRow { min-height: 100px; grid-template-columns: 42px 1fr 55px; gap: 10px; }
   .genre, .reviews, .ticket { display: none; }
