@@ -531,6 +531,9 @@ const monitoredSources: MonitoredSource[] = [
   { name: "Lothian Life", url: outletSearch("lothianlife.co.uk") },
   { name: "ScotsGay", url: outletSearch("scotsgayarts.com") },
   { name: "Instafestreview", url: "https://www.instagram.com/instafestreview/" },
+  { name: "West End Best Friend", url: outletSearch("westendbestfriend.co.uk") },
+  { name: "Lisa in the Theatre", url: outletSearch("lisainthetheatre.com") },
+  { name: "Gonzo Magazine", url: outletSearch("gonzomagazine.co.uk") },
 ];
 
 export default function Home() {
