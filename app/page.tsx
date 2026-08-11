@@ -101,6 +101,15 @@ const shows: Show[] = [
 
 const genres = ["All shows", "Comedy", "Theatre", "Musical theatre", "Circus"];
 
+const monitoredSources = [
+  "Chortle", "The Guardian", "The Times", "Binge Fringe", "British Theatre Guide",
+  "Phoenix Remix", "The Herald", "Roland’s Reviews", "Disrupt Reviews", "Time Out",
+  "FringeFan", "EdFringe Review", "From the North", "Boom Radio", "Mix Up Theatre",
+  "The Stage", "Fest Mag", "Reyt Good Magazine", "Across the Arts", "On the Mic",
+  "Bouquets & Brickbats", "The Scotsman", "Scottish Field", "Broadway Baby",
+  "Bruce on the Fringe", "Get the Chance", "One4Review",
+];
+
 function Arrow({ movement }: { movement: number }) {
   if (movement === 0) return <span className="movement flat">—</span>;
   return (
@@ -136,7 +145,7 @@ export default function Home() {
         <div className="mastline">
           <div className="edition">Festival edition No. 01<br />Updated daily</div>
           <a className="wordmark" href="#top" aria-label="Fringe Ledger home">FRINGE LEDGER<span>.</span></a>
-          <div className="edition editionRight">2026 programme verified<br />Professional reviews indexed</div>
+          <div className="edition editionRight">Checked every hour<br />{monitoredSources.length} publications monitored</div>
         </div>
         <p>The critical record of the Edinburgh Festival Fringe</p>
       </header>
@@ -211,6 +220,17 @@ export default function Home() {
               </article>
             );
           })}
+        </section>
+
+        <section className="sourceDirectory" aria-labelledby="source-heading">
+          <div>
+            <span className="kicker">Coverage desk</span>
+            <h2 id="source-heading">Publications monitored hourly</h2>
+            <p>New 2026 Fringe reviews are checked, matched to the correct production and deduplicated before they affect a Ledger score.</p>
+          </div>
+          <div className="sourceTags">
+            {monitoredSources.map((source) => <span key={source}>{source}</span>)}
+          </div>
         </section>
 
         <section className="bottomGrid" id="prototype-note">

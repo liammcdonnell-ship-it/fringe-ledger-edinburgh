@@ -93,6 +93,12 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .empty b { font: 800 24px Georgia, serif; }
 .empty span { color: var(--muted); font-size: 12px; }
 
+.sourceDirectory { margin-top: 30px; padding: 25px 0; border-top: 4px solid var(--ink); border-bottom: 1px solid var(--ink); display: grid; grid-template-columns: .72fr 1.6fr; gap: 42px; }
+.sourceDirectory h2 { margin: 0; font: 800 25px/1 Georgia, serif; }
+.sourceDirectory p { margin: 10px 0 0; max-width: 470px; font: 12px/1.5 Georgia, serif; color: var(--muted); }
+.sourceTags { align-content: start; display: flex; flex-wrap: wrap; gap: 7px; }
+.sourceTags span { border: 1px solid var(--ink); padding: 7px 9px; background: rgba(255,255,255,.22); font-size: 8px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; }
+
 .bottomGrid { display: grid; grid-template-columns: 1.55fr 1fr; gap: 36px; margin-top: 25px; }
 .editorialNote { margin: 0; font: 12px/1.5 Georgia, serif; }
 .newsletter { border-top: 4px solid var(--red); padding-top: 10px; display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; }
@@ -144,6 +150,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
   .methodPanel { grid-template-columns: 1fr; }
   .methodPanel > div { border-right: 0; border-bottom: 1px solid #5d5c55; }
   .bottomGrid { grid-template-columns: 1fr; }
+  .sourceDirectory { grid-template-columns: 1fr; gap: 20px; }
   .newsletter { grid-template-columns: 1fr; }
   .newsletter button { grid-row: auto; grid-column: auto; justify-self: start; margin-top: 8px; }
   .siteFooter { padding: 22px 18px; }
