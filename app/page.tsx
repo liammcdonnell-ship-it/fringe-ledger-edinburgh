@@ -1,6 +1,8 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import bcgReviewData from "./bcg-reviews.json";
+import theQrReviewData from "./theqr-reviews.json";
 
 type Review = {
   outlet: string;
@@ -231,7 +233,7 @@ type FeedReview = {
 const feedReviews: FeedReview[] = [
   { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/chris-forbes-father-christmas-fringe-review" },
   { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "Broken Legs Blog", value: 80, url: "https://brokenlegsblog.co.uk/2026/08/05/chris-forbes-father-christmas-monkey-barrel-comedy-edinburgh-fringe/" },
-  { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "North West End UK / Theatre Muse UK", value: 100, url: "https://theatremuseuk.org/2026/08/08/chris-forbes-father-christmas-monkey-barrel-comedy/" },
+  { title: "Chris Forbes: Father Christmas", artist: "Chris Forbes", venue: "Monkey Barrel Comedy", time: "13:30", outlet: "Theatre Muse UK", value: 100, url: "https://theatremuseuk.org/2026/08/08/chris-forbes-father-christmas-monkey-barrel-comedy/" },
   { title: "The Past", outlet: "Elemental Theatre", value: 100, url: "https://www.elementaltheatre.com/post/the-past-fringe-review" },
   { title: "The Past", outlet: "Broken Legs Blog", value: 80, url: "https://brokenlegsblog.co.uk/2026/08/06/the-past-underbelly-edinburgh-fringe/" },
   { title: "Blackbox", genre: "Theatre", outlet: "Elemental Theatre", value: 60, url: "https://www.elementaltheatre.com/post/blackbox-fringe-review" },
@@ -258,6 +260,8 @@ const feedReviews: FeedReview[] = [
   { title: "Dogberry and Verges Are Scared", genre: "Theatre", outlet: "Broken Legs Blog", value: 100, url: "https://brokenlegsblog.co.uk/2026/08/07/dogberry-and-verges-are-scared-c-arts-edinburgh-fringe/" },
   { title: "Chris Cantrill: Rewilding", artist: "Chris Cantrill", outlet: "A Young(ish) Perspective", value: 100, url: "https://ayoungishperspective.co.uk/2026/08/11/review-chris-cantrill-rewilding-monkey-barrel/" },
   { title: "Elf Lyons is The Woman on the Edge", artist: "Elf Lyons", outlet: "Fest Mag", value: 100, url: "https://festmag.com/2026/08/11/review-elf-lyons-is-the-woman-on-the-edge/" },
+  { title: "Elf Lyons is The Woman on the Edge", artist: "Elf Lyons", outlet: "Chortle", value: 80, url: "https://www.chortle.co.uk/review/2026/08/11/61254/elf_lyons_is_the_woman_on_the_edge" },
+  { title: "Elf Lyons is The Woman on the Edge", artist: "Elf Lyons", outlet: "Theatre & Tonic", value: 100, url: "https://theatreandtonic.co.uk/edinburgh-fringe/elf-lyons-is-the-woman-on-the-edge-at-pleasance-courtyard-review" },
   { title: "Helicops 1: Find Your Wings!", artist: "Helicops", outlet: "Corr Blimey", value: 80, url: "https://corrblimey.uk/2026/08/11/edinburgh-festival-fringe-2026-review-helicops-1-find-your-wings-the-crate-assembly-george-square/" },
   { title: "Chris Grace: 88%", artist: "Chris Grace", outlet: "Binge Fringe", value: 60, url: "https://www.bingefringe.com/2026/08/11/review-chris-grace-88-edfringe-2026-%E2%98%85%E2%98%85%E2%98%85/" },
   { title: "Remember, Remember!", outlet: "British Theatre Guide", value: 80, url: "https://www.britishtheatreguide.info/reviews/remember-rememb-pleasance-dome-25806" },
@@ -309,6 +313,75 @@ const feedReviews: FeedReview[] = [
   { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "The List", value: 40, url: "https://list.co.uk/news/11-angry-men-review-sluggish-half-baked-spoof-48695" },
 ];
 
+const outletAliases: Record<string, string> = {
+  "A Young(ish) Perspective": "A Youngish Perspective",
+  "Across The Arts": "Across the Arts",
+  "Broadway World": "BroadwayWorld",
+  "Bruce On The Fringe": "Bruce on the Fringe",
+  "Distrupt Reviews": "Disrupt Reviews",
+  "Edinburgh Guide": "EdinburghGuide",
+  "From The North": "From the North",
+  "On The Mic": "On the Mic",
+  "Roland&apos;s Reviews": "Roland’s Reviews",
+  "Snack Magazine": "SNACK Magazine",
+  "The Quintessential Review": "The Quinntessential Review",
+  "Theatre, Films and Art reviews": "Theatre and Art Reviews",
+  "What&apos;s On Stage": "WhatsOnStage",
+};
+
+const cleanImportedText = (value: string) => value
+  .replace(/&amp;apos;|&apos;|&#0?39;|&#x27;/gi, "'")
+  .replace(/&amp;/gi, "&")
+  .replace(/Â½/g, "½")
+  .replace(/Â/g, "")
+  .replace(/\s+/g, " ")
+  .trim();
+
+const bcgReviews: FeedReview[] = bcgReviewData.map((review) => {
+  const rawOutlet = cleanImportedText(review.outlet);
+  const fraction = rawOutlet.match(/^\((\d+(?:[.,]\d+)?)\s*\/\s*(\d+(?:[.,]\d+)?)\)\s*(.+)$/);
+  const percent = rawOutlet.match(/^\((\d+(?:[.,]\d+)?)%\)\s*(.+)$/);
+  const reviewerPrefix = rawOutlet.match(/^\([^)]*[A-Za-z][^)]*\)\s*(.+)$/);
+  const withoutPrefix = fraction?.[3] ?? percent?.[2] ?? reviewerPrefix?.[1] ?? rawOutlet;
+  const outlet = outletAliases[withoutPrefix] ?? withoutPrefix;
+  const value = fraction
+    ? Math.round((Number(fraction[1].replace(",", ".")) / Number(fraction[2].replace(",", "."))) * 100)
+    : percent
+      ? Math.round(Number(percent[1].replace(",", ".")))
+      : review.value;
+  return { title: cleanImportedText(review.title), outlet, value, url: review.url };
+});
+
+const theQrReviews: FeedReview[] = theQrReviewData.map((review) => ({
+  title: cleanImportedText(review.title),
+  outlet: review.outlet,
+  value: review.value,
+  url: review.url,
+}));
+
+const canonicalReviewUrl = (value: string) => {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    url.hostname = url.hostname.replace(/^www\./, "").toLowerCase();
+    url.pathname = url.pathname.replace(/\/$/, "");
+    return url.toString();
+  } catch {
+    return value.replace(/#$/, "").replace(/\/$/, "");
+  }
+};
+
+const allFeedReviews = [...feedReviews, ...bcgReviews, ...theQrReviews].filter((review, index, reviews) =>
+  reviews.findIndex((candidate) => canonicalReviewUrl(candidate.url) === canonicalReviewUrl(review.url)) === index,
+);
+
+const titleKey = (value: string) => cleanImportedText(value)
+  .normalize("NFKD")
+  .toLowerCase()
+  .replace(/½/g, " 1 2 ")
+  .replace(/[^a-z0-9]+/g, " ")
+  .trim();
+
 const reviewFromFeed = (review: FeedReview): Review => ({
   outlet: review.outlet,
   score: formatStars(review.value),
@@ -317,14 +390,15 @@ const reviewFromFeed = (review: FeedReview): Review => ({
   url: review.url,
 });
 
-const mergedShows = new Map(seedShows.map((show) => [show.title, { ...show, sources: [...show.sources] }]));
+const mergedShows = new Map(seedShows.map((show) => [titleKey(show.title), { ...show, sources: [...show.sources] }]));
 
-feedReviews.forEach((item) => {
+allFeedReviews.forEach((item) => {
   const incoming = reviewFromFeed(item);
-  const existing = mergedShows.get(item.title);
+  const key = titleKey(item.title);
+  const existing = mergedShows.get(key);
   if (existing) {
-    const canonicalUrl = incoming.url.replace(/#$/, "");
-    if (!existing.sources.some((review) => review.url.replace(/#$/, "") === canonicalUrl)) existing.sources.push(incoming);
+    const canonicalUrl = canonicalReviewUrl(incoming.url);
+    if (!existing.sources.some((review) => canonicalReviewUrl(review.url) === canonicalUrl)) existing.sources.push(incoming);
     existing.reviews = existing.sources.length;
     existing.fiveStars = existing.sources.filter((review) => review.value === 100).length;
     existing.score = Math.round(existing.sources.reduce((sum, review) => sum + review.value, 0) / existing.sources.length);
@@ -333,8 +407,8 @@ feedReviews.forEach((item) => {
     return;
   }
 
-  mergedShows.set(item.title, {
-    title: item.title,
+  mergedShows.set(key, {
+    title: cleanImportedText(item.title),
     artist: item.artist ?? item.title.split(":")[0],
     genre: item.genre ?? "Comedy",
     score: item.value,
@@ -386,7 +460,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "The Scotsman", url: "https://www.scotsman.com/search?q=edinburgh%20fringe%20review" },
   { name: "Scottish Field", url: "https://www.scottishfield.co.uk/?s=edinburgh+fringe+review" },
   { name: "Broadway Baby", url: "https://broadwaybaby.com/shows" },
-  { name: "Bruce on the Fringe", url: "https://www.bruceonthefringe.com/" },
+  { name: "Bruce on the Fringe", url: "https://bruceonthefringe.blog/2026/08/" },
   { name: "Get the Chance", url: "https://getthechance.wales/tag/edinburgh-fringe/" },
   { name: "One4Review", url: outletSearch("one4review.co.uk") },
   { name: "Entertainment Now", url: "https://entertainment-now.com/category/edinburgh-festival-fringe/" },
@@ -397,7 +471,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "The Telegraph", url: "https://www.telegraph.co.uk/search.html?queryText=edinburgh%20fringe%20review" },
   { name: "The Wee Review", url: "https://theweereview.com/festival/edinburgh-fringe/" },
   { name: "The Reviews Hub", url: "https://www.thereviewshub.com/category/fringe/edinburgh-fringe/" },
-  { name: "The Quinntessential Review", url: "https://theqr.co.uk/category/edinburgh-fringe/" },
+  { name: "The Quinntessential Review", url: "https://theqr.co.uk/category/event/edinburgh-fringe-festival/" },
   { name: "Corr Blimey", url: "https://corrblimey.uk/category/edinburgh-fringe/" },
   { name: "All Edinburgh Theatre", url: "https://www.alledinburghtheatre.com/category/reviews/" },
   { name: "LouReviews", url: "https://loureviews.blog/category/edinburgh-fringe/" },
@@ -429,7 +503,34 @@ const monitoredSources: MonitoredSource[] = [
   { name: "Perth Happenings", url: "https://perthhappenings.com.au/?s=fringe+review" },
   { name: "Elemental Theatre", url: "https://www.elementaltheatre.com/reviews" },
   { name: "Broken Legs Blog", url: "https://brokenlegsblog.co.uk/edinburgh-fringe-reviews/" },
-  { name: "North West End UK / Theatre Muse UK", url: "https://theatremuseuk.org/category/edinburgh-fringe-festival/edinburgh-fringe-festival-reviews/" },
+  { name: "Theatre Muse UK", url: "https://theatremuseuk.org/category/edinburgh-fringe-festival/edinburgh-fringe-festival-reviews/" },
+  { name: "North West End UK", url: outletSearch("northwestend.com") },
+  { name: "Theatre & Tonic", url: "https://theatreandtonic.co.uk/edinburgh-fringe" },
+  { name: "Edinburgh Festivals", url: outletSearch("edfestmag.com") },
+  { name: "Edinburgh Reviews", url: outletSearch("edinburgh-reviews.co.uk") },
+  { name: "The Student (Edinburgh)", url: outletSearch("thestudentnews.co.uk") },
+  { name: "ThreeWeeks", url: "https://threeweeksedinburgh.com/category/reviews/" },
+  { name: "Theatre Weekly", url: outletSearch("theatreweekly.com") },
+  { name: "The Recs", url: outletSearch("therecs.co.uk") },
+  { name: "The Real Chrisparkle", url: outletSearch("therealchrisparkle.com") },
+  { name: "The Mumble", url: "https://themumble.uk/category/edinburgh-fringe/" },
+  { name: "The Arts Desk", url: outletSearch("theartsdesk.com") },
+  { name: "The Comics Comic", url: outletSearch("thecomicscomic.com") },
+  { name: "Beyond The Joke", url: outletSearch("beyondthejoke.co.uk") },
+  { name: "Counter Culture UK", url: outletSearch("countercultureuk.com") },
+  { name: "Culture Fix", url: outletSearch("culturefix.co.uk") },
+  { name: "Neurodiverse Review", url: outletSearch("neurodiversereview.co.uk") },
+  { name: "Hot Take Reviews", url: outletSearch("hottakereviews.co.uk") },
+  { name: "Everything Theatre", url: outletSearch("everything-theatre.co.uk") },
+  { name: "Musical Theatre Review", url: outletSearch("musicaltheatrereview.com") },
+  { name: "London Theatre Doc", url: outletSearch("londontheatredoc.com") },
+  { name: "London Born And Bred", url: outletSearch("londonbornandbred.co.uk") },
+  { name: "Bookmarks and Stages by Lou", url: outletSearch("bookmarksandstages.home.blog") },
+  { name: "Brig Newspaper", url: outletSearch("brignews.com") },
+  { name: "Butterwort", url: outletSearch("butterwort.art") },
+  { name: "Lothian Life", url: outletSearch("lothianlife.co.uk") },
+  { name: "ScotsGay", url: outletSearch("scotsgayarts.com") },
+  { name: "Instafestreview", url: "https://www.instagram.com/instafestreview/" },
 ];
 
 export default function Home() {
