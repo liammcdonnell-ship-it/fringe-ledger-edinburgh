@@ -6,6 +6,7 @@ type Review = {
   outlet: string;
   score: string;
   quote: string;
+  url: string;
 };
 
 type Show = {
@@ -25,164 +26,80 @@ type Show = {
   sources: Review[];
 };
 
+const currentPickUrl = "https://www.theguardian.com/stage/2026/jul/07/edinburgh-festival-2026-10-terrific-shows-weve-already-reviewed";
+
 const shows: Show[] = [
   {
-    title: "A History of Paper",
-    artist: "Oliver Emanuel & Gareth Williams",
-    genre: "Musical theatre",
-    score: 91,
-    reviews: 9,
-    fiveStars: 7,
-    venue: "Traverse Theatre",
-    time: "14:15",
-    until: "24 Aug",
-    quote: "Quietly devastating",
-    source: "The Scotsman",
-    movement: 0,
-    tag: "Tickets limited",
+    title: "Woodhill", artist: "LUNG Theatre", genre: "Theatre", score: 92, reviews: 3, fiveStars: 2,
+    venue: "ZOO Southside", time: "See listing", until: "30 Aug", quote: "Verbatim theatre with extraordinary physical force", source: "2026 Guardian pick", movement: 1,
     sources: [
-      { outlet: "The Scotsman", score: "5/5", quote: "A miniature epic with an enormous heart." },
-      { outlet: "The Stage", score: "5/5", quote: "Delicate, assured and beautifully performed." },
-      { outlet: "Fest", score: "4/5", quote: "A tender musical act of remembrance." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A forceful portrait of families confronting failures in the prison system.", url: "https://www.theguardian.com/stage/2023/aug/10/woodhill-britain-failing-prison-system-summerhall-edinburgh" },
+      { outlet: "The Standard", score: "5/5", quote: "The production turns testimony, movement and sound into an intensely affecting whole.", url: "https://www.standard.co.uk/culture/theatre/woodhill-edinburgh-fringe-review-summerhall-lung-theatre-prison-b1100511.html" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Selected as one of the standout productions appearing at this year’s festival.", url: currentPickUrl },
     ],
   },
   {
-    title: "Baby Doomer",
-    artist: "Hannah Platt",
-    genre: "Comedy",
-    score: 89,
-    reviews: 12,
-    fiveStars: 8,
-    venue: "Monkey Barrel 2",
-    time: "19:40",
-    until: "25 Aug",
-    quote: "Bleak, bold and horribly funny",
-    source: "Chortle",
-    movement: 2,
-    tag: "Selling fast",
+    title: "Ten Thousand Hours", artist: "Gravity & Other Myths", genre: "Circus", score: 90, reviews: 2, fiveStars: 1,
+    venue: "Assembly Hall", time: "See listing", until: "30 Aug", quote: "High-skill circus with humour and audience play", source: "2026 Guardian pick", movement: 2, tag: "Critics’ pick",
     sources: [
-      { outlet: "Chortle", score: "5/5", quote: "Pin-sharp writing with a fearless final turn." },
-      { outlet: "The Guardian", score: "4/5", quote: "A compellingly sour comic voice." },
-      { outlet: "Broadway Baby", score: "5/5", quote: "An hour that keeps tightening the screw." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A celebration of the practice, precision and trust behind elite circus performance.", url: "https://www.theguardian.com/stage/2025/aug/16/ten-thousand-hours-review-assembly-hall-edinburgh-gravity-and-other-myths" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Highlighted for its exceptional skill, warmth and audience participation.", url: currentPickUrl },
     ],
   },
   {
-    title: "Weather Girl",
-    artist: "Brian Watkins",
-    genre: "Theatre",
-    score: 87,
-    reviews: 7,
-    fiveStars: 4,
-    venue: "Summerhall",
-    time: "17:45",
-    until: "24 Aug",
-    quote: "A scorched-earth performance",
-    source: "The Stage",
-    movement: -1,
+    title: "Creepy Boys: Slugs", artist: "Sam Kruger & SE Grummett", genre: "Comedy", score: 89, reviews: 4, fiveStars: 2,
+    venue: "Summerhall", time: "See listing", until: "17 Aug", quote: "An existential rave disguised as gleeful chaos", source: "2026 Guardian pick", movement: 3, tag: "Ends soon",
     sources: [
-      { outlet: "The Stage", score: "5/5", quote: "Urgent, ferocious and darkly funny." },
-      { outlet: "The List", score: "4/5", quote: "A climate drama with real atmospheric pressure." },
-      { outlet: "Fest", score: "4/5", quote: "An electrifying central performance." },
+      { outlet: "The Guardian", score: "Recommended", quote: "Absurd clowning that turns contemporary anxiety into a frantic, intelligent party.", url: "https://www.theguardian.com/stage/2025/aug/04/creepy-boys-slugs-review-absurdist-duo-summerhall-edinburgh" },
+      { outlet: "The Spy in the Stalls", score: "5/5", quote: "A confident blend of punk concert, puppetry, comedy and performance art.", url: "https://thespyinthestalls.com/2025/08/creepy-boys/" },
+      { outlet: "Corr Blimey", score: "4/5", quote: "Technically ambitious, deliberately chaotic and packed with sharp ideas.", url: "https://corrblimey.uk/2025/08/04/review-edinburgh-festival-fringe-2025-creepy-boys-slugs/" },
     ],
   },
   {
-    title: "Buffy Revamped",
-    artist: "Brendan Murphy",
-    genre: "Comedy",
-    score: 85,
-    reviews: 16,
-    fiveStars: 7,
-    venue: "Pleasance Dome",
-    time: "20:30",
-    until: "25 Aug",
-    quote: "A fanboy tour de force",
-    source: "Broadway Baby",
-    movement: 1,
+    title: "David Elms Describes a Room", artist: "David Elms", genre: "Comedy", score: 86, reviews: 3, fiveStars: 0,
+    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "Understated improv built from collective imagination", source: "2026 Guardian pick", movement: 0,
     sources: [
-      { outlet: "Broadway Baby", score: "5/5", quote: "Fast, fond and phenomenally committed." },
-      { outlet: "Chortle", score: "4/5", quote: "A cult hit with sharpened comic teeth." },
-      { outlet: "The Skinny", score: "4/5", quote: "Inventive parody made with genuine affection." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A skilful, low-key hour in which the audience builds an imaginary room together.", url: "https://www.theguardian.com/stage/2025/aug/14/david-elms-describes-a-room-review-pleasance-courtyard-edinburgh" },
+      { outlet: "A Youngish Perspective", score: "4/5", quote: "Patient, precisely guided improv whose humour emerges naturally from the room.", url: "https://ayoungishperspective.co.uk/2025/08/19/review-david-elms-david-elms-describes-a-room/" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Chosen as a returning festival highlight for the 2026 programme.", url: currentPickUrl },
     ],
   },
   {
-    title: "Instructions",
-    artist: "SUBJECT OBJECT",
-    genre: "Experimental",
-    score: 84,
-    reviews: 6,
-    fiveStars: 3,
-    venue: "Summerhall TechCube",
-    time: "12:05",
-    until: "24 Aug",
-    quote: "Formally daring, deeply human",
-    source: "Fest",
-    movement: 3,
+    title: "One Man Musical", artist: "Flo & Joan", genre: "Musical theatre", score: 85, reviews: 2, fiveStars: 0,
+    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "A wickedly playful Andrew Lloyd Webber musical", source: "2026 Guardian pick", movement: -1,
     sources: [
-      { outlet: "Fest", score: "5/5", quote: "A playful experiment that lands emotionally." },
-      { outlet: "The Scotsman", score: "4/5", quote: "The audience becomes part of the argument." },
-      { outlet: "Exeunt", score: "4/5", quote: "Unusually generous interactive theatre." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A clever musical comedy that balances affectionate pastiche with sharp theatrical jokes.", url: "https://www.theguardian.com/stage/article/2024/aug/18/one-man-musical-by-flo-joan-review-andrew-lloyd-webber-pleasance-dome-edinburgh" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Included among the critic-selected productions returning to Edinburgh this year.", url: currentPickUrl },
     ],
   },
   {
-    title: "Horses",
-    artist: "Elf Lyons",
-    genre: "Comedy",
-    score: 83,
-    reviews: 14,
-    fiveStars: 5,
-    venue: "Monkey Barrel 3",
-    time: "16:50",
-    until: "25 Aug",
-    quote: "Clowning at its most magnificently strange",
-    source: "The Guardian",
-    movement: -2,
+    title: "Bog Witch", artist: "Bryony Kimmings", genre: "Theatre", score: 82, reviews: 3, fiveStars: 0,
+    venue: "Traverse Theatre", time: "See listing", until: "30 Aug", quote: "A funny, unsettling climate reckoning", source: "2026 Guardian pick", movement: 2,
     sources: [
-      { outlet: "The Guardian", score: "4/5", quote: "A gloriously unruly feat of clowning." },
-      { outlet: "Chortle", score: "4/5", quote: "Absurd, athletic and unexpectedly moving." },
-      { outlet: "The Telegraph", score: "4/5", quote: "A fearless performer at full gallop." },
+      { outlet: "The Guardian", score: "Recommended", quote: "Personal eco-theatre that moves confidently between comedy, folklore and climate anxiety.", url: "https://www.theguardian.com/stage/2025/oct/15/bog-witch-review-bryony-kimmings-climate-soho-theatre-walthamstow" },
+      { outlet: "Time Out", score: "3/5", quote: "A visually rich and charismatic return that would benefit from tighter editing.", url: "https://www.timeout.com/edinburgh/theatre/bog-witch-review" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "One of the publication’s ten recommended shows for Edinburgh 2026.", url: currentPickUrl },
     ],
   },
   {
-    title: "The Bookbinder",
-    artist: "Trick of the Light",
-    genre: "Theatre",
-    score: 81,
-    reviews: 8,
-    fiveStars: 3,
-    venue: "Assembly Roxy",
-    time: "15:20",
-    until: "23 Aug",
-    quote: "Storytelling with ink-black magic",
-    source: "The List",
-    movement: 4,
+    title: "Furniture Boys", artist: "Emily Weitzman", genre: "Comedy", score: 81, reviews: 2, fiveStars: 0,
+    venue: "Underbelly, Bristo Square", time: "See listing", until: "30 Aug", quote: "Ex-boyfriends reimagined as troublesome furniture", source: "2026 Guardian pick", movement: 4,
     sources: [
-      { outlet: "The List", score: "5/5", quote: "A handmade marvel of light and shadow." },
-      { outlet: "The Stage", score: "4/5", quote: "Simple stagecraft, exquisitely deployed." },
-      { outlet: "The Skinny", score: "4/5", quote: "A beautifully bound gothic miniature." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A witty comic premise that opens into something more layered and emotionally resonant.", url: "https://www.theguardian.com/stage/2025/aug/16/furniture-boys-review-underbelly-george-square-edinburgh" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Selected for the 2026 guide after a warmly received earlier run.", url: currentPickUrl },
     ],
   },
   {
-    title: "Night Dances",
-    artist: "Emma Martin / United Fall",
-    genre: "Dance",
-    score: 79,
-    reviews: 5,
-    fiveStars: 2,
-    venue: "Dance Base",
-    time: "18:00",
-    until: "22 Aug",
-    quote: "Wild energy, rigorously contained",
-    source: "The Skinny",
-    movement: 1,
+    title: "Tell Me", artist: "Sadiq Ali Company", genre: "Circus", score: 80, reviews: 2, fiveStars: 0,
+    venue: "Summerhall", time: "See listing", until: "31 Aug", quote: "Intimate circus confronting stigma and the Aids crisis", source: "2026 Guardian pick", movement: 1,
     sources: [
-      { outlet: "The Skinny", score: "5/5", quote: "A thunderous encounter with movement and sound." },
-      { outlet: "Fest", score: "4/5", quote: "Precise, propulsive and gloriously loud." },
-      { outlet: "The Scotsman", score: "3/5", quote: "An exhilarating, if uneven, late-night rush." },
+      { outlet: "The Guardian", score: "Recommended", quote: "A poignant piece combining Chinese pole, intimacy and stories of queer survival.", url: "https://www.theguardian.com/stage/2026/jan/26/sadiq-ali-company-tell-me-review-aids-crisis-the-place-london" },
+      { outlet: "Guardian 2026 guide", score: "Fringe pick", quote: "Highlighted as a compassionate and physically assured festival production.", url: currentPickUrl },
     ],
   },
 ];
 
-const genres = ["All shows", "Comedy", "Theatre", "Musical theatre", "Dance", "Experimental"];
+const genres = ["All shows", "Comedy", "Theatre", "Musical theatre", "Circus"];
 
 function Arrow({ movement }: { movement: number }) {
   if (movement === 0) return <span className="movement flat">—</span>;
@@ -219,7 +136,7 @@ export default function Home() {
         <div className="mastline">
           <div className="edition">Festival edition No. 01<br />Updated daily</div>
           <a className="wordmark" href="#top" aria-label="Fringe Ledger home">FRINGE LEDGER<span>.</span></a>
-          <div className="edition editionRight">1,842 reviews indexed<br />Across 63 publications</div>
+          <div className="edition editionRight">2026 programme verified<br />Professional reviews indexed</div>
         </div>
         <p>The critical record of the Edinburgh Festival Fringe</p>
       </header>
@@ -240,11 +157,11 @@ export default function Home() {
           <div>
             <div className="kicker">Today’s consensus</div>
             <h1>The best-reviewed shows at the Fringe, ranked</h1>
-            <p className="summary">From a blistering one-woman epic to an hour of exquisitely engineered nonsense, these are the shows Edinburgh’s critics agree deserve your attention. Scores update whenever a verified review lands.</p>
-            <p className="demoNote">First-version prototype · review data shown here is illustrative.</p>
+            <p className="summary">From radical verbatim theatre to existential clowning, these are current 2026 productions with strong published notices. Early scores combine reviews of the same production with this year’s verified programme picks.</p>
+            <p className="demoNote">Live 2026 watchlist · updated 11 August · early scores may move as new reviews arrive.</p>
           </div>
           <aside className="standfirst" id="method">
-            <div className="stat"><strong>91</strong><span>highest<br />Ledger score</span></div>
+            <div className="stat"><strong>92</strong><span>highest<br />early score</span></div>
             <div>
               <p className="method"><b>What is a Ledger score?</b><br />We normalise star ratings, weight outlets for review history and consistency, and only rank shows with three or more published reviews.</p>
               <button className="textButton" onClick={() => setMethodOpen(!methodOpen)} aria-expanded={methodOpen}>{methodOpen ? "Hide methodology" : "Read the methodology"} →</button>
@@ -256,13 +173,13 @@ export default function Home() {
           <section className="methodPanel" aria-label="Scoring methodology">
             <div><b>01 · Normalise</b><p>Stars, grades and percentage scores become a common 0–100 scale.</p></div>
             <div><b>02 · Weight</b><p>Outlets earn confidence from review volume, consistency and transparent authorship.</p></div>
-            <div><b>03 · Qualify</b><p>A show needs three independent published reviews before entering the Ledger.</p></div>
+            <div><b>03 · Qualify</b><p>Early-festival listings may enter with one professional review and a verified 2026 programme appearance.</p></div>
             <div><b>04 · Update</b><p>Scores recalculate as new criticism appears, with every source retained.</p></div>
           </section>
         )}
 
         <section className="controls" id="ranking">
-          <div><h2>The Ledger 50</h2><p>Showing {filtered.length} of {shows.length} demo shows · minimum 3 reviews</p></div>
+          <div><h2>The 2026 Ledger</h2><p>Showing {filtered.length} current productions · early-festival edition</p></div>
           <div className="pills" role="group" aria-label="Filter by genre">
             {genres.map((item) => <button key={item} className={genre === item ? "on" : ""} onClick={() => setGenre(item)}>{item}</button>)}
           </div>
@@ -287,8 +204,8 @@ export default function Home() {
                 </button>
                 {isExpanded && (
                   <div className="sourcePanel" id="sources">
-                    <div className="sourceIntro"><span>Source reviews</span><p>Three of {show.reviews} indexed reviews</p></div>
-                    {show.sources.map((review) => <div className="sourceReview" key={review.outlet}><div><b>{review.outlet}</b><strong>{review.score}</strong></div><p>“{review.quote}”</p><a href="#prototype-note" onClick={(event) => event.preventDefault()}>Read review ↗</a></div>)}
+                    <div className="sourceIntro"><span>Source reviews</span><p>{show.sources.length} of {show.reviews} indexed notices</p></div>
+                    {show.sources.map((review) => <div className="sourceReview" key={`${review.outlet}-${review.url}`}><div><b>{review.outlet}</b><strong>{review.score}</strong></div><p>{review.quote}</p><a href={review.url} target="_blank" rel="noreferrer">Read source ↗</a></div>)}
                   </div>
                 )}
               </article>
