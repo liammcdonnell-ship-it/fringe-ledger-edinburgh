@@ -217,7 +217,7 @@ export default function Home() {
                   <span className="genre">{show.genre}</span>
                   <span className={`score ${show.score < 86 ? "gold" : ""}`}>{show.score}</span>
                   <span className="reviews"><b>{show.reviews}</b><small>5-star: {show.fiveStars}</small></span>
-                  <span className="ticket"><b>{show.venue}</b><small>{show.time} · until {show.until}</small>{show.tag && <em>{show.tag}</em>}</span>
+                  <span className="ticket"><b>{show.venue}</b><small>{show.time} · current 2026 run</small>{show.tag && <em>{show.tag}</em>}</span>
                 </button>
                 {isExpanded && (
                   <div className="sourcePanel" id="sources">
