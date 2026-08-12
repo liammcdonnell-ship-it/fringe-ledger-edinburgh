@@ -37,6 +37,9 @@ jobs:
       - name: Reconcile every Quinntessential Review archive page
         run: node scripts/reconcile-theqr.mjs app/theqr-reviews.json
 
+      - name: Reconcile Fest and The Skinny directly
+        run: node scripts/reconcile-fest-skinny.mjs app/direct-reviews.json
+
       - name: Reconcile official EdFringe genres and ticket pages
         run: node scripts/reconcile-edfringe.mjs app/edfringe-listings.json
 
@@ -47,7 +50,7 @@ jobs:
         id: changes
         shell: bash
         run: |
-          if git diff --quiet -- app/bcg-reviews.json app/theqr-reviews.json app/edfringe-listings.json app/page.tsx; then
+          if git diff --quiet -- app/bcg-reviews.json app/theqr-reviews.json app/direct-reviews.json app/edfringe-listings.json app/page.tsx; then
             echo "verified_data=false" >> "$GITHUB_OUTPUT"
           else
             echo "verified_data=true" >> "$GITHUB_OUTPUT"
@@ -84,7 +87,7 @@ jobs:
         run: |
           git config user.name "Fringe Ledger scanner"
           git config user.email "scanner@users.noreply.github.com"
-          git add app/bcg-reviews.json app/theqr-reviews.json app/source-audit.json app/scan-history.json app/edfringe-listings.json
+          git add app/bcg-reviews.json app/theqr-reviews.json app/direct-reviews.json app/source-audit.json app/scan-history.json app/edfringe-listings.json
           if git diff --cached --quiet; then
             echo "No generated files changed."
           else

@@ -39,11 +39,12 @@ const readPrevious = (path) => {
   }
 };
 
-const previousRowsRaw = [...readPrevious("app/bcg-reviews.json"), ...readPrevious("app/theqr-reviews.json")];
+const previousRowsRaw = [...readPrevious("app/bcg-reviews.json"), ...readPrevious("app/theqr-reviews.json"), ...readPrevious("app/direct-reviews.json")];
 const previousRows = [...new Map(previousRowsRaw.map((row) => [canonical(row.url), row])).values()];
 const currentRowsRaw = [
   ...JSON.parse(await readFile("app/bcg-reviews.json", "utf8")),
   ...JSON.parse(await readFile("app/theqr-reviews.json", "utf8")),
+  ...JSON.parse(await readFile("app/direct-reviews.json", "utf8")),
 ];
 const currentGroups = new Map();
 for (const row of currentRowsRaw) {

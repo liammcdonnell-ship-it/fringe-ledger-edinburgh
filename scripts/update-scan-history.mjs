@@ -51,6 +51,9 @@ const history = await readJson("app/scan-history.json", { scans: [] });
 const sameScan = history.scans.find((scan) => scan.completedAt === audit.checked_at);
 if (sameScan) {
   sameScan.rankingSnapshot = currentRanking;
+  sameScan.totalShows = totalShows;
+  sameScan.totalNotices = totalNotices;
+  sameScan.defaultVisible = currentRanking.length;
   await writeFile("app/scan-history.json", `${JSON.stringify(history, null, 2)}\n`, "utf8");
   console.error(`Added a ${currentRanking.length}-show comparison snapshot to the current scan.`);
   process.exit(0);
@@ -72,7 +75,7 @@ const movers = currentRanking
   .slice(0, 12);
 const newEntries = currentRanking.filter((row) => !previousRanking.has(row.title));
 
-const previousReviewRows = [...previousFile("app/bcg-reviews.json", []), ...previousFile("app/theqr-reviews.json", [])];
+const previousReviewRows = [...previousFile("app/bcg-reviews.json", []), ...previousFile("app/theqr-reviews.json", []), ...previousFile("app/direct-reviews.json", [])];
 const currentReviewRows = [
   ...await readJson("app/bcg-reviews.json", []),
   ...await readJson("app/theqr-reviews.json", []),

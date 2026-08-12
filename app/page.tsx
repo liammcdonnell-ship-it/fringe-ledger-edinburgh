@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import bcgReviewData from "./bcg-reviews.json";
+import directReviewData from "./direct-reviews.json";
 import edFringeListingData from "./edfringe-listings.json";
 import scanHistoryData from "./scan-history.json";
 import theQrReviewData from "./theqr-reviews.json";
@@ -363,6 +364,12 @@ const theQrReviews: FeedReview[] = theQrReviewData.map((review) => ({
   url: review.url,
 }));
 
+const directReviews: FeedReview[] = directReviewData.map((review) => ({
+  title: cleanImportedText(review.title),
+  outlet: review.outlet,
+  value: review.value,
+  url: review.url,
+}));
 const canonicalReviewUrl = (value: string) => {
   try {
     const url = new URL(value);
@@ -393,13 +400,14 @@ const preferIncomingReview = (current: Review, incoming: Review) => {
   return reviewDate(incoming.url) >= reviewDate(current.url);
 };
 
-const allFeedReviews = [...feedReviews, ...bcgReviews, ...theQrReviews].filter((review, index, reviews) =>
+const allFeedReviews = [...feedReviews, ...bcgReviews, ...theQrReviews, ...directReviews].filter((review, index, reviews) =>
   reviews.findIndex((candidate) => canonicalReviewUrl(candidate.url) === canonicalReviewUrl(review.url)) === index,
 );
 
 const titleKey = (value: string) => cleanImportedText(value)
   .normalize("NFKD")
   .toLowerCase()
+  .replace(/\u00bd/g, " 1 2 ")
   .replace(/Â½/g, " 1 2 ")
   .replace(/[^a-z0-9]+/g, " ")
   .trim();
@@ -509,7 +517,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "Boom Radio", url: outletSearch("boomradiouk.com") },
   { name: "Mix Up Theatre", url: "https://www.mixuptheatre.com/search?q=edinburgh%20fringe" },
   { name: "The Stage", url: "https://www.thestage.co.uk/search?q=edinburgh%20fringe" },
-  { name: "Fest Mag", url: "https://festmag.com/edinburgh/reviews" },
+  { name: "Fest Mag", url: "https://festmag.com/category/reviews/" },
   { name: "Reyt Good Magazine", url: "https://rgm.press/?s=edinburgh+fringe" },
   { name: "Across the Arts", url: outletSearch("acrossthearts.co.uk") },
   { name: "On the Mic", url: outletSearch("onthemic.co.uk") },
@@ -522,7 +530,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "One4Review", url: outletSearch("one4review.co.uk") },
   { name: "Entertainment Now", url: "https://entertainment-now.com/category/edinburgh-festival-fringe/" },
   { name: "Midlothian View", url: "https://midlothianview.com/?s=fringe+review" },
-  { name: "The Skinny", url: "https://www.theskinny.co.uk/festivals/edinburgh-fringe/reviews" },
+  { name: "The Skinny", url: "https://www.theskinny.co.uk/festivals/edinburgh-fringe" },
   { name: "The List", url: "https://list.co.uk/news/tag/edinburgh-festival-fringe" },
   { name: "The Independent", url: "https://www.independent.co.uk/search?q=edinburgh%20fringe%20review" },
   { name: "The Telegraph", url: "https://www.telegraph.co.uk/search.html?queryText=edinburgh%20fringe%20review" },

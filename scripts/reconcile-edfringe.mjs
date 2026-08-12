@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const pagePath = path.join(root, "app", "page.tsx");
 const bcgPath = path.join(root, "app", "bcg-reviews.json");
+const directPath = path.join(root, "app", "direct-reviews.json");
 const qrPath = path.join(root, "app", "theqr-reviews.json");
 const outputPath = process.argv[2] ? path.resolve(process.argv[2]) : path.join(root, "app", "edfringe-listings.json");
 const officialSource = "https://www.edfringe.com/tickets/whats-on";
@@ -171,10 +172,11 @@ const fetchListing = async (title) => {
 
 const pageSource = await fs.readFile(pagePath, "utf8");
 const bcg = JSON.parse(await fs.readFile(bcgPath, "utf8"));
+const direct = JSON.parse(await fs.readFile(directPath, "utf8"));
 const qr = JSON.parse(await fs.readFile(qrPath, "utf8"));
 const inlineTitles = [...pageSource.matchAll(/\{\s*title:\s*"([^"]+)"/g)].map((match) => match[1]);
 const titles = [...new Map(
-  [...inlineTitles, ...bcg.map((review) => review.title), ...qr.map((review) => review.title)]
+  [...inlineTitles, ...bcg.map((review) => review.title), ...direct.map((review) => review.title), ...qr.map((review) => review.title)]
     .map((title) => [titleKey(title), cleanTitle(title)]),
 ).values()];
 
