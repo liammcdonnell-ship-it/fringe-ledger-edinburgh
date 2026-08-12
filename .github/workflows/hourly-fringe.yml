@@ -1,4 +1,4 @@
-﻿name: Hourly Fringe review scan
+name: Hourly Fringe review scan
 
 on:
   schedule:
@@ -36,6 +36,9 @@ jobs:
 
       - name: Reconcile every Quinntessential Review archive page
         run: node scripts/reconcile-theqr.mjs app/theqr-reviews.json
+
+      - name: Reconcile official EdFringe genres and ticket pages
+        run: node scripts/reconcile-edfringe.mjs app/edfringe-listings.json
 
       - name: Audit every listed publication
         run: node scripts/audit-sources.mjs app/source-audit.json

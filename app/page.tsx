@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useEffect, useMemo, useState } from "react";
 import bcgReviewData from "./bcg-reviews.json";
@@ -467,10 +467,15 @@ const officialGenreLabels: Record<string, string> = {
 };
 
 const officialListings = new Map(edFringeListingData.listings.map((listing) => [titleKey(listing.title), listing]));
+const verifiedGenreFallbacks = new Map([
+  // This production appears in British Comedy Guide's 2026 comedy programme,
+  // but its EdFringe listing is not currently exposed in the official sitemap.
+  [titleKey("Leviathan X Asmodeus"), "Comedy"],
+]);
 
 const shows: Show[] = Array.from(mergedShows.values()).map((show) => {
   const listing = officialListings.get(titleKey(show.title));
-  if (!listing) return show;
+  if (!listing) return { ...show, genre: verifiedGenreFallbacks.get(titleKey(show.title)) ?? show.genre };
   return {
     ...show,
     genre: officialGenreLabels[listing.genre] ?? listing.genre.replaceAll("_", " ").toLowerCase().replace(/\b\w/g, (letter) => letter.toUpperCase()),
@@ -861,5 +866,3 @@ export default function Home() {
     </>
   );
 }
-
-
