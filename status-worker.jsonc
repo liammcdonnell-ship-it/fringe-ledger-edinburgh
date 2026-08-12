@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "fringe-ledger-scan-status",
+  "main": "worker/status.js",
+  "compatibility_date": "2026-08-12",
+  "no_bundle": true,
+  "kv_namespaces": [
+    {
+      "binding": "SCAN_STATUS",
+      "id": "d4ab0760f9904e9d99ccee5effbbe7ac"
+    }
+  ],
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  }
+}

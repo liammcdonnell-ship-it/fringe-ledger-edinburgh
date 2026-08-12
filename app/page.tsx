@@ -1,8 +1,9 @@
-"use client";
+﻿"use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import bcgReviewData from "./bcg-reviews.json";
 import edFringeListingData from "./edfringe-listings.json";
+import scanHistoryData from "./scan-history.json";
 import theQrReviewData from "./theqr-reviews.json";
 
 type Review = {
@@ -97,7 +98,7 @@ const compactChortleShows: CompactShow[] = [
   { title: "Lizzy Sunshine", score: 70 },
   { title: "Mario Adrion: Live A Little", score: 70 },
   { title: "Sammy J: Hero Complex", score: 70 },
-  { title: "Courtney Büchner: One of the Girls", score: 60 },
+  { title: "Courtney BÃ¼chner: One of the Girls", score: 60 },
   { title: "Darryl J Carrington: Tennish", score: 60 },
   { title: "Dee Allum: Raumdeuter", score: 60 },
   { title: "Edith Alibec: The Void", score: 60 },
@@ -139,7 +140,7 @@ const additionalShows: Show[] = [
   }),
   {
     title: "[seagull]", artist: "FC Bergman", genre: "Theatre", score: 60, reviews: 1, fiveStars: 0,
-    venue: "Edinburgh International Festival", time: "See listing", until: "11 Aug", quote: "A challenging, visually distinctive sign-language reworking of Chekhov", source: "Time Out · 9 Aug", movement: 0,
+    venue: "Edinburgh International Festival", time: "See listing", until: "11 Aug", quote: "A challenging, visually distinctive sign-language reworking of Chekhov", source: "Time Out Â· 9 Aug", movement: 0,
     sources: [{ outlet: "Time Out", score: "3/5", value: 60, quote: "An ambitious production whose scale and pacing make for a demanding experience.", url: "https://www.timeout.com/edinburgh/theatre/edinburgh-fringe-international-festival-reviews" }],
   },
 ];
@@ -147,70 +148,70 @@ const additionalShows: Show[] = [
 const seedShows: Show[] = [
   {
     title: "Frankie Thompson: Horrible Things", artist: "Frankie Thompson", genre: "Comedy", score: 100, reviews: 1, fiveStars: 1,
-    venue: "Pleasance Courtyard", time: "20:45", until: "30 Aug", quote: "Avant-clowning with a newly commanding comic voice", source: "Time Out · 10 Aug", movement: 0, tag: "New review",
+    venue: "Pleasance Courtyard", time: "20:45", until: "30 Aug", quote: "Avant-clowning with a newly commanding comic voice", source: "Time Out Â· 10 Aug", movement: 0, tag: "New review",
     sources: [
       { outlet: "Time Out", score: "5/5", value: 100, quote: "A superb, singular hour that gives Thompson's strange comic world a forceful new centre.", url: "https://www.timeout.com/edinburgh/comedy/frankie-thompson-horrible-things-review" },
     ],
   },
   {
     title: "Bebe Cave: Swoon", artist: "Bebe Cave", genre: "Comedy", score: 100, reviews: 1, fiveStars: 1,
-    venue: "Pleasance Dome", time: "17:40", until: "30 Aug", quote: "A gleeful, high-energy collision of art history and modern misogyny", source: "Chortle · 10 Aug", movement: 0, tag: "New review",
+    venue: "Pleasance Dome", time: "17:40", until: "30 Aug", quote: "A gleeful, high-energy collision of art history and modern misogyny", source: "Chortle Â· 10 Aug", movement: 0, tag: "New review",
     sources: [
       { outlet: "Chortle", score: "5/5", value: 100, quote: "A fiercely inventive one-woman romp packed with jokes, characters and pointed satire.", url: "https://www.chortle.co.uk/review/2026/08/10/61240/bebe_cave%3A_swoon" },
     ],
   },
   {
     title: "Andrew White: What a Life!", artist: "Andrew White", genre: "Comedy", score: 90, reviews: 1, fiveStars: 0,
-    venue: "Monkey Barrel · Cabaret Voltaire", time: "17:45", until: "30 Aug", quote: "Life-affirming comedy that balances grief, mischief and real heart", source: "Chortle · 6 Aug", movement: 0,
+    venue: "Monkey Barrel Â· Cabaret Voltaire", time: "17:45", until: "30 Aug", quote: "Life-affirming comedy that balances grief, mischief and real heart", source: "Chortle Â· 6 Aug", movement: 0,
     sources: [
       { outlet: "Chortle", score: "4.5/5", value: 90, quote: "A skilfully interwoven hour where sentiment is repeatedly punctured by strong jokes.", url: "https://www.chortle.co.uk/review/2026/08/04/61184/andrew_white%3A_what_a_life%21" },
     ],
   },
   {
     title: "Andrew Doherty: Reviewers Welcome... TO DIE!", artist: "Andrew Doherty", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
-    venue: "Pleasance Courtyard", time: "22:50", until: "30 Aug", quote: "A gloriously petty supernatural revenge fantasy", source: "Time Out · 10 Aug", movement: 0, tag: "New review",
+    venue: "Pleasance Courtyard", time: "22:50", until: "30 Aug", quote: "A gloriously petty supernatural revenge fantasy", source: "Time Out Â· 10 Aug", movement: 0, tag: "New review",
     sources: [
       { outlet: "Time Out", score: "4/5", value: 80, quote: "An exuberant horror-comedy that turns theatrical grievance into a joke on its creator.", url: "https://www.timeout.com/edinburgh/comedy/andrew-doherty-reviewers-welcome-to-die-review" },
     ],
   },
   {
     title: "Sh!t Theatre: Evita Too", artist: "Sh!t Theatre", genre: "Theatre", score: 80, reviews: 1, fiveStars: 0,
-    venue: "ZOO Southside", time: "See listing", until: "30 Aug", quote: "A subversive rummage through the myths surrounding Evita", source: "Time Out · 9 Aug", movement: 0,
+    venue: "ZOO Southside", time: "See listing", until: "30 Aug", quote: "A subversive rummage through the myths surrounding Evita", source: "Time Out Â· 9 Aug", movement: 0,
     sources: [
       { outlet: "Time Out", score: "4/5", value: 80, quote: "A playful, politically alert investigation of how women are remembered and rewritten.", url: "https://www.timeout.com/edinburgh/theatre/sh-t-theatre-evita-too-review-1" },
     ],
   },
   {
     title: "Amy Matthews: Definitions of Toast", artist: "Amy Matthews", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
-    venue: "Monkey Barrel · The Tron", time: "See listing", until: "30 Aug", quote: "A controlled, vulnerable hour about anger finally finding a voice", source: "Chortle · 9 Aug", movement: 0,
+    venue: "Monkey Barrel Â· The Tron", time: "See listing", until: "30 Aug", quote: "A controlled, vulnerable hour about anger finally finding a voice", source: "Chortle Â· 9 Aug", movement: 0,
     sources: [
       { outlet: "Chortle", score: "4/5", value: 80, quote: "Smart, carefully structured stand-up with emotional clarity and a strong sense of arrival.", url: "https://www.chortle.co.uk/review/2026/08/09/61232/amy_matthews%3A_definitions_of_toast" },
     ],
   },
   {
     title: "Chris Martin Lied to Us", artist: "Will Spence", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
-    venue: "Underbelly Cowgate", time: "See listing", until: "30 Aug", quote: "A playful, committed clown show built around one very yellow theory", source: "Chortle · 10 Aug", movement: 0, tag: "New review",
+    venue: "Underbelly Cowgate", time: "See listing", until: "30 Aug", quote: "A playful, committed clown show built around one very yellow theory", source: "Chortle Â· 10 Aug", movement: 0, tag: "New review",
     sources: [
       { outlet: "Chortle", score: "4/5", value: 80, quote: "A charming, deliberately strange debut carried by physical commitment and playful invention.", url: "https://www.chortle.co.uk/review/2026/08/10/61243/chris_martin_lied_to_us" },
     ],
   },
   {
     title: "Freddie Meredith: Need A Light?", artist: "Freddie Meredith", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
-    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "An assured character debut about loneliness in the smoking area", source: "Chortle · 9 Aug", movement: 0,
+    venue: "Pleasance Courtyard", time: "See listing", until: "30 Aug", quote: "An assured character debut about loneliness in the smoking area", source: "Chortle Â· 9 Aug", movement: 0,
     sources: [
       { outlet: "Chortle", score: "4/5", value: 80, quote: "A finely observed and precisely performed character study with an unexpectedly tender centre.", url: "https://www.chortle.co.uk/review/2026/08/09/61234/freddie_meredith%3A_need_a_light%3F" },
     ],
   },
   {
     title: "Jenny Gorelick: Sorry", artist: "Jenny Gorelick", genre: "Comedy", score: 80, reviews: 1, fiveStars: 0,
-    venue: "Monkey Barrel · Niddry Street", time: "See listing", until: "30 Aug", quote: "Rapid-fire dating comedy with sharper social commentary underneath", source: "Chortle · 6 Aug", movement: 0,
+    venue: "Monkey Barrel Â· Niddry Street", time: "See listing", until: "30 Aug", quote: "Rapid-fire dating comedy with sharper social commentary underneath", source: "Chortle Â· 6 Aug", movement: 0,
     sources: [
       { outlet: "Chortle", score: "4/5", value: 80, quote: "A gag-dense stand-up hour whose bright persona carries perceptive writing on gender and relationships.", url: "https://www.chortle.co.uk/review/2026/08/06/61198/jenny_gorelick%3A_sorry" },
     ],
   },
   {
     title: "Bog Witch", artist: "Bryony Kimmings", genre: "Theatre", score: 60, reviews: 1, fiveStars: 0,
-    venue: "Traverse Theatre", time: "See listing", until: "30 Aug", quote: "A visually rich climate reckoning with an unruly shape", source: "Time Out · 9 Aug", movement: 0,
+    venue: "Traverse Theatre", time: "See listing", until: "30 Aug", quote: "A visually rich climate reckoning with an unruly shape", source: "Time Out Â· 9 Aug", movement: 0,
     sources: [
       { outlet: "Time Out", score: "3/5", value: 60, quote: "A charismatic and visually imaginative return whose abundance could use tighter editing.", url: "https://www.timeout.com/edinburgh/theatre/bog-witch-review" },
     ],
@@ -271,8 +272,8 @@ const feedReviews: FeedReview[] = [
   { title: "Bebe Cave: Swoon", artist: "Bebe Cave", outlet: "Phoenix Remix", value: 70, url: "https://thephoenixremix.com/2026/08/11/review-comedy-at-the-fringe-bebe-cave-swoon/" },
   { title: "Cathy", artist: "Elaine C. Smith", genre: "Theatre", outlet: "The Herald", value: 100, url: "https://www.heraldscotland.com/topics/edinburgh-festivals-2026/" },
   { title: "Cathy", artist: "Elaine C. Smith", genre: "Theatre", outlet: "Bouquets & Brickbats", value: 80, url: "https://bouquetsbrickbatsreviews.com/2026/08/10/cathy-2/" },
-  { title: "Mortal Sin", genre: "Theatre", outlet: "Roland’s Reviews", value: 80, url: "https://rolandcat.substack.com/p/review-mortal-sin-gilded-balloon" },
-  { title: "Baby Lame: Hit Me Baby One More Lame!", artist: "Baby Lame", outlet: "Roland’s Reviews", value: 80, url: "https://rolandcat.substack.com/p/review-baby-lame-hit-mr-one-more" },
+  { title: "Mortal Sin", genre: "Theatre", outlet: "Rolandâ€™s Reviews", value: 80, url: "https://rolandcat.substack.com/p/review-mortal-sin-gilded-balloon" },
+  { title: "Baby Lame: Hit Me Baby One More Lame!", artist: "Baby Lame", outlet: "Rolandâ€™s Reviews", value: 80, url: "https://rolandcat.substack.com/p/review-baby-lame-hit-mr-one-more" },
   { title: "Closure Cabaret", artist: "Maria Ansdell", outlet: "Disrupt Reviews", value: 80, url: "https://disruptreviews.wordpress.com/2026/08/10/maria-ansdell-closure-cabaret-hoots-nicholson-square/" },
   { title: "Harriet Richardson: Creep", artist: "Harriet Richardson", outlet: "Disrupt Reviews", value: 90, url: "https://disruptreviews.wordpress.com/2026/08/09/harriet-richardson-creep-pleasance-theatre-courtyard/" },
   { title: "Heated Rivalry: The Musical Parody", outlet: "Disrupt Reviews", value: 80, url: "https://disruptreviews.wordpress.com/2026/08/09/heated-rivalry-other-yin-gilded-balloon-patter-house/" },
@@ -306,13 +307,13 @@ const feedReviews: FeedReview[] = [
   { title: "Father, Away She Goes", genre: "Theatre", outlet: "The Stage", value: 60, url: "https://www.thestage.co.uk/reviews/father-away-she-goes-review-zoo-playground-edinburgh-electra-kolb" },
   { title: "CRUSH", genre: "Theatre", outlet: "The Scotsman", value: 60, url: "https://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-and-stage/fringe-theatre-reviews-good-with-faces-day-of-the-locust-helen-bradley-painter-and-storyteller-8848665" },
   { title: "Bunny!", artist: "Craig Manson", genre: "Theatre", outlet: "The Scotsman", value: 60, url: "https://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-and-stage/fringe-theatre-reviews-good-with-faces-day-of-the-locust-helen-bradley-painter-and-storyteller-8848665" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "One4Review", value: 90, url: "https://one4review.co.uk/2026/08/11-%C2%BD-angry-men-guy-masterson-theatre-tours-international-ltd4-5/" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Entertainment Now", value: 80, url: "https://entertainment-now.com/2026/08/edfringe-theatre-review-11-1-2-angry-men/" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "The Scotsman", value: 60, url: "https://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-and-stage/edinburgh-fringe-theatre-reviews-lifelong-the-bbcs-first-homosexual-11-12-angry-men-theyre-just-small-town-northern-lads-departure-is-my-homecoming-8847127" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Midlothian View", value: 60, url: "https://midlothianview.com/news/11-1-2-angry-men-delivers-clever-theatrical-comedy-but-wont-be-for-everyone" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Disrupt Reviews", value: 50, url: "https://disruptreviews.wordpress.com/2026/08/07/11-1-2-angry-men-pleasance-eicc/" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Chortle", value: 40, url: "https://www.chortle.co.uk/review/2026/08/08/61222/11%C2%BD_angry_men" },
-  { title: "11½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "The List", value: 40, url: "https://list.co.uk/news/11-angry-men-review-sluggish-half-baked-spoof-48695" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "One4Review", value: 90, url: "https://one4review.co.uk/2026/08/11-%C2%BD-angry-men-guy-masterson-theatre-tours-international-ltd4-5/" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Entertainment Now", value: 80, url: "https://entertainment-now.com/2026/08/edfringe-theatre-review-11-1-2-angry-men/" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "The Scotsman", value: 60, url: "https://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-and-stage/edinburgh-fringe-theatre-reviews-lifelong-the-bbcs-first-homosexual-11-12-angry-men-theyre-just-small-town-northern-lads-departure-is-my-homecoming-8847127" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Midlothian View", value: 60, url: "https://midlothianview.com/news/11-1-2-angry-men-delivers-clever-theatrical-comedy-but-wont-be-for-everyone" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Disrupt Reviews", value: 50, url: "https://disruptreviews.wordpress.com/2026/08/07/11-1-2-angry-men-pleasance-eicc/" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "Chortle", value: 40, url: "https://www.chortle.co.uk/review/2026/08/08/61222/11%C2%BD_angry_men" },
+  { title: "11Â½ Angry Men", artist: "Guy Masterson Theatre Tours International", genre: "Theatre", venue: "Pleasance at EICC", time: "14:30", outlet: "The List", value: 40, url: "https://list.co.uk/news/11-angry-men-review-sluggish-half-baked-spoof-48695" },
 ];
 
 const outletAliases: Record<string, string> = {
@@ -324,7 +325,7 @@ const outletAliases: Record<string, string> = {
   "Edinburgh Guide": "EdinburghGuide",
   "From The North": "From the North",
   "On The Mic": "On the Mic",
-  "Roland&apos;s Reviews": "Roland’s Reviews",
+  "Roland&apos;s Reviews": "Rolandâ€™s Reviews",
   "Snack Magazine": "SNACK Magazine",
   "The Quintessential Review": "The Quinntessential Review",
   "Theatre, Films and Art reviews": "Theatre and Art Reviews",
@@ -335,8 +336,8 @@ const cleanImportedText = (value: string) => value
   .replace(/&amp;apos;|&apos;|&#0?39;|&#x27;/gi, "'")
   .replace(/&#(?:8216|8217|x2018|x2019);/gi, "'")
   .replace(/&amp;/gi, "&")
-  .replace(/Â½/g, "½")
-  .replace(/Â/g, "")
+  .replace(/Ã‚Â½/g, "Â½")
+  .replace(/Ã‚/g, "")
   .replace(/\s+/g, " ")
   .trim();
 
@@ -399,7 +400,7 @@ const allFeedReviews = [...feedReviews, ...bcgReviews, ...theQrReviews].filter((
 const titleKey = (value: string) => cleanImportedText(value)
   .normalize("NFKD")
   .toLowerCase()
-  .replace(/½/g, " 1 2 ")
+  .replace(/Â½/g, " 1 2 ")
   .replace(/[^a-z0-9]+/g, " ")
   .trim();
 
@@ -447,7 +448,7 @@ allFeedReviews.forEach((item) => {
     time: item.time ?? "See listing",
     until: "Current run",
     quote: "",
-    source: `${item.outlet} · 11 Aug`,
+    source: `${item.outlet} Â· 11 Aug`,
     movement: 0,
     tag: "New review",
     sources: [incoming],
@@ -494,7 +495,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "British Theatre Guide", url: outletSearch("britishtheatreguide.info") },
   { name: "Phoenix Remix", url: "https://thephoenixremix.com/category/fringe/" },
   { name: "The Herald", url: "https://www.heraldscotland.com/search/?search=edinburgh%20fringe%20review" },
-  { name: "Roland’s Reviews", url: "https://rolandcat.substack.com/" },
+  { name: "Rolandâ€™s Reviews", url: "https://rolandcat.substack.com/" },
   { name: "Disrupt Reviews", url: "https://disruptreviews.wordpress.com/" },
   { name: "Time Out", url: "https://www.timeout.com/edinburgh/theatre/edinburgh-fringe-international-festival-reviews" },
   { name: "FringeFan", url: "https://fringefan.com/" },
@@ -591,13 +592,34 @@ const monitoredSources: MonitoredSource[] = [
   { name: "UK Cabaret", url: "https://www.ukcabaret.com/edinburgh-fringe-review/" },
 ];
 
+const fallbackLatestScan = scanHistoryData.scans[0];
+const scanStatusUrl = "https://fringe-ledger-scan-status.fringe-ledger-edinburgh.workers.dev/scan-history.json";
+
 export default function Home() {
+  const [activeTab, setActiveTab] = useState<"ranking" | "updates">("ranking");
   const [genre, setGenre] = useState("All shows");
   const [query, setQuery] = useState("");
   const [expanded, setExpanded] = useState<string | null>(null);
   const [methodOpen, setMethodOpen] = useState(false);
   const [scoreMode, setScoreMode] = useState<ScoreMode>("weighted");
   const [minReviews, setMinReviews] = useState(2);
+  const [latestScan, setLatestScan] = useState(fallbackLatestScan);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch(scanStatusUrl, { cache: "no-store", signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Scan status returned HTTP ${response.status}`);
+        return response.json();
+      })
+      .then((payload: { scans?: unknown[] }) => {
+        if (payload.scans?.[0]) setLatestScan(payload.scans[0] as typeof fallbackLatestScan);
+      })
+      .catch((error: Error) => {
+        if (error.name !== "AbortError") console.warn("Using the bundled scan history fallback.", error);
+      });
+    return () => controller.abort();
+  }, []);
 
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
@@ -610,13 +632,25 @@ export default function Home() {
       .sort((a, b) => scoreForMode(b, scoreMode) - scoreForMode(a, scoreMode) || b.reviews - a.reviews || a.title.localeCompare(b.title));
   }, [genre, minReviews, query, scoreMode]);
 
-  const highestScore = filtered.length ? scoreForMode(filtered[0], scoreMode) : "—";
+  const highestScore = filtered.length ? scoreForMode(filtered[0], scoreMode) : "â€”";
+  const scanCompletedAt = new Intl.DateTimeFormat("en-GB", {
+    day: "numeric", month: "long", year: "numeric",
+    hour: "2-digit", minute: "2-digit",
+    timeZone: "Europe/London", timeZoneName: "short",
+  }).format(new Date(latestScan.completedAt));
+
+  const openRankedShow = (title: string) => {
+    setQuery(title);
+    setMinReviews(1);
+    setActiveTab("ranking");
+    window.setTimeout(() => document.getElementById("ranking")?.scrollIntoView(), 0);
+  };
 
   return (
     <>
       <div className="newsbar">
         <span>Independent reviews, intelligently combined</span>
-        <span>Edinburgh · Festival edition</span>
+        <span>Edinburgh Â· Festival edition</span>
       </div>
 
       <header className="masthead">
@@ -629,44 +663,46 @@ export default function Home() {
       </header>
 
       <nav className="navigation" aria-label="Main navigation">
-        <a className="active" href="#ranking">The ranking</a>
-        <a href="#method">How it works</a>
+        <button className={activeTab === "ranking" ? "active" : ""} onClick={() => setActiveTab("ranking")} aria-pressed={activeTab === "ranking"}>The ranking</button>
+        <button className={activeTab === "updates" ? "active" : ""} onClick={() => setActiveTab("updates")} aria-pressed={activeTab === "updates"}>Scan updates</button>
+        <a href="#method" onClick={() => setActiveTab("ranking")}>How it works</a>
         <a href="#sources">Review sources</a>
         <label className="search">
           <span className="srOnly">Search shows, artists or venues</span>
-          <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search shows, artists or venues" />
-          <kbd>⌕</kbd>
+          <input value={query} onChange={(event) => { setQuery(event.target.value); setActiveTab("ranking"); }} placeholder="Search shows, artists or venues" />
+          <kbd>âŒ•</kbd>
         </label>
       </nav>
 
       <main id="top">
+        <div className="tabPanel" role="tabpanel" hidden={activeTab !== "ranking"}>
         <section className="lead">
           <div>
-            <div className="kicker">Today’s consensus</div>
+            <div className="kicker">Todayâ€™s consensus</div>
             <h1>The best-reviewed shows at the Fringe, ranked</h1>
             <p className="summary">These are shows currently playing at the 2026 Fringe with scored reviews published this year. Archive reviews and preview selections no longer contribute to the ranking.</p>
-            <p className="demoNote">2026 reviews only · checked 12 August · early scores may move quickly as new notices arrive.</p>
+            <p className="demoNote">2026 reviews only Â· checked 12 August Â· early scores may move quickly as new notices arrive.</p>
           </div>
           <aside className="standfirst" id="method">
             <div className="stat"><strong>{highestScore}</strong><span>highest<br />{scoreMode} score</span></div>
             <div>
               <p className="method"><b>What is a Ledger score?</b><br />Choose a confidence-weighted ranking or a straight average in which every five-star rating is worth exactly the same.</p>
-              <button className="textButton" onClick={() => setMethodOpen(!methodOpen)} aria-expanded={methodOpen}>{methodOpen ? "Hide methodology" : "Read the methodology"} →</button>
+              <button className="textButton" onClick={() => setMethodOpen(!methodOpen)} aria-expanded={methodOpen}>{methodOpen ? "Hide methodology" : "Read the methodology"} â†’</button>
             </div>
           </aside>
         </section>
 
         {methodOpen && (
           <section className="methodPanel" aria-label="Scoring methodology">
-            <div><b>01 · Normalise</b><p>Stars, grades and percentage scores become a common 0–100 scale.</p></div>
-            <div><b>02 · Unweighted</b><p>Every scored review contributes equally. A five-star rating is always 100, regardless of publication.</p></div>
-            <div><b>03 · Weighted</b><p>Outlet track record affects influence, while very small samples are gently pulled toward a neutral 70.</p></div>
-            <div><b>04 · Filter</b><p>Set the minimum review count from one to five; two independent notices is the default.</p></div>
+            <div><b>01 Â· Normalise</b><p>Stars, grades and percentage scores become a common 0â€“100 scale.</p></div>
+            <div><b>02 Â· Unweighted</b><p>Every scored review contributes equally. A five-star rating is always 100, regardless of publication.</p></div>
+            <div><b>03 Â· Weighted</b><p>Outlet track record affects influence, while very small samples are gently pulled toward a neutral 70.</p></div>
+            <div><b>04 Â· Filter</b><p>Set the minimum review count from one to five; two independent notices is the default.</p></div>
           </section>
         )}
 
         <section className="controls" id="ranking">
-          <div><h2>The 2026 Ledger</h2><p>Showing {filtered.length} of {shows.length} scored productions · {reviewNoticeCount} linked notices · sorted by {scoreMode} score</p></div>
+          <div><h2>The 2026 Ledger</h2><p>Showing {filtered.length} of {shows.length} scored productions Â· {reviewNoticeCount} linked notices Â· sorted by {scoreMode} score</p></div>
           <div className="pills" role="group" aria-label="Filter by genre">
             {genres.map((item) => <button key={item} className={genre === item ? "on" : ""} onClick={() => setGenre(item)}>{item}</button>)}
           </div>
@@ -683,13 +719,13 @@ export default function Home() {
           <label className="optionGroup minReviews">
             <span>Minimum reviews</span>
             <select value={minReviews} onChange={(event) => setMinReviews(Number(event.target.value))}>
-              <option value={1}>1+ · all {shows.length} shows</option>
-              <option value={2}>2+ · default</option>
+              <option value={1}>1+ Â· all {shows.length} shows</option>
+              <option value={2}>2+ Â· default</option>
               <option value={3}>3+</option>
               <option value={5}>5+</option>
             </select>
           </label>
-          {minReviews > 1 && <button className="showAllButton" onClick={() => setMinReviews(1)}>Show all {shows.length} indexed shows →</button>}
+          {minReviews > 1 && <button className="showAllButton" onClick={() => setMinReviews(1)}>Show all {shows.length} indexed shows â†’</button>}
         </section>
 
         <section className="ranking" aria-live="polite">
@@ -703,7 +739,7 @@ export default function Home() {
               <article className={`showEntry ${isExpanded ? "expanded" : ""}`} key={show.title}>
                 <button className="showRow" onClick={() => setExpanded(isExpanded ? null : show.title)} aria-expanded={isExpanded}>
                   <span className="rank">{String(index + 1).padStart(2, "0")}</span>
-                  <span className="show"><b>{show.title}</b><small>By {show.artist}{show.quote ? ` · “${show.quote}” — ${show.source}` : ` · ${show.source}`}</small></span>
+                  <span className="show"><b>{show.title}</b><small>By {show.artist}{show.quote ? ` Â· â€œ${show.quote}â€ â€” ${show.source}` : ` Â· ${show.source}`}</small></span>
                   <span className="genre">{show.genre}</span>
                   <span className={`score ${displayedScore < 86 ? "gold" : ""}`}>{displayedScore}</span>
                   <span className="reviews"><b>{show.reviews}</b><small>5-star: {show.fiveStars}</small></span>
@@ -711,31 +747,97 @@ export default function Home() {
                 {show.listingUrl ? (
                   <a className="ticket ticketLink" href={show.listingUrl} target="_blank" rel="noreferrer" aria-label={`Open ${show.title} on the official Edinburgh Fringe website`}>
                     <b>{show.venue === "See listing" ? "Official EdFringe listing" : show.venue}</b>
-                    <small>{show.time === "See listing" ? "Dates & tickets ↗" : `${show.time} · Tickets ↗`}</small>
+                    <small>{show.time === "See listing" ? "Dates & tickets â†—" : `${show.time} Â· Tickets â†—`}</small>
                     {show.tag && <em>{show.tag}</em>}
                   </a>
                 ) : (
                   <span className="ticket ticketPending">
                     <b>{show.venue === "See listing" ? "Listing being matched" : show.venue}</b>
-                    <small>{show.time === "See listing" ? "Official link pending" : `${show.time} · current run`}</small>
+                    <small>{show.time === "See listing" ? "Official link pending" : `${show.time} Â· current run`}</small>
                   </span>
                 )}
                 {isExpanded && (
-                  <div className="sourcePanel" id="sources">
+                  <div className="sourcePanel">
                     <div className="sourceIntro">
                       <span>Source reviews</span>
                       <p>{show.sources.length} of {show.reviews} indexed notices</p>
-                      {show.listingUrl && <a className="officialListing" href={show.listingUrl} target="_blank" rel="noreferrer">Official listing & tickets ↗</a>}
+                      {show.listingUrl && <a className="officialListing" href={show.listingUrl} target="_blank" rel="noreferrer">Official listing & tickets â†—</a>}
                     </div>
-                    {show.sources.map((review) => <div className="sourceReview" key={`${review.outlet}-${review.url}`}><div><b>{review.outlet}</b><strong>{review.score}</strong></div>{review.quote && <p>{review.quote}</p>}<a href={review.url} target="_blank" rel="noreferrer">Read source ↗</a></div>)}
+                    {show.sources.map((review) => <div className="sourceReview" key={`${review.outlet}-${review.url}`}><div><b>{review.outlet}</b><strong>{review.score}</strong></div>{review.quote && <p>{review.quote}</p>}<a href={review.url} target="_blank" rel="noreferrer">Read source â†—</a></div>)}
                   </div>
                 )}
               </article>
             );
           })}
         </section>
+        </div>
 
-        <section className="sourceDirectory" aria-labelledby="source-heading">
+        <section className="scanUpdates tabPanel" role="tabpanel" hidden={activeTab !== "updates"} aria-labelledby="scan-updates-heading">
+          <div className="updatesLead">
+            <div>
+              <span className="kicker">Audit trail</span>
+              <h1 id="scan-updates-heading">What changed in the latest full scan</h1>
+              <p className="summary">A transparent record of when every listed publication was last attempted, what entered the Ledger, and which scores moved as new criticism arrived.</p>
+            </div>
+            <aside className="scanStamp">
+              <span className={`scanStatus ${latestScan.status}`}>{latestScan.status === "complete" ? "Full scan complete" : "Incomplete scan"}</span>
+              <time dateTime={latestScan.completedAt}>{scanCompletedAt}</time>
+              <small>{latestScan.sourcesAttempted} of {latestScan.sourcesListed} publications attempted</small>
+            </aside>
+          </div>
+
+          <section className="scanStats" aria-label="Latest scan totals">
+            <div><strong>{latestScan.newReviews}</strong><span>new reviews</span></div>
+            <div><strong>+{latestScan.newShows}</strong><span>net new shows</span></div>
+            <div><strong>{latestScan.enteredRanking}</strong><span>entered the 2+ ranking</span></div>
+            <div><strong>{latestScan.totalShows}</strong><span>shows indexed</span></div>
+            <div><strong>{latestScan.totalNotices}</strong><span>review notices</span></div>
+          </section>
+
+          <div className="scanColumns">
+            <section className="scanBlock">
+              <div className="scanBlockHead"><span className="kicker">Score watch</span><h2>Biggest movers</h2><p>Weighted-score changes since the previous complete scan.</p></div>
+              <div className="moverList">
+                {latestScan.movers.map((mover) => (
+                  <button className="moverRow" key={mover.title} onClick={() => openRankedShow(mover.title)}>
+                    <span><b>{mover.title}</b><small>{mover.previousReviews} â†’ {mover.currentReviews} reviews</small></span>
+                    <span className={mover.delta > 0 ? "delta up" : "delta down"}>{mover.delta > 0 ? "+" : ""}{mover.delta}</span>
+                    <span className="scoreShift">{mover.previousScore} â†’ <b>{mover.currentScore}</b></span>
+                  </button>
+                ))}
+              </div>
+            </section>
+
+            <section className="scanBlock">
+              <div className="scanBlockHead"><span className="kicker">Fresh consensus</span><h2>New entries</h2><p>{latestScan.enteredRanking} shows newly reached the default two-review threshold.</p></div>
+              <div className="newEntryGrid">
+                {latestScan.newEntries.slice(0, 12).map((entry) => (
+                  <button className="newEntry" key={entry.title} onClick={() => openRankedShow(entry.title)}>
+                    <span><b>{entry.title}</b><small>{entry.reviews} reviews</small></span>
+                    <strong>{entry.score}</strong>
+                  </button>
+                ))}
+              </div>
+              <details className="scanDetails">
+                <summary>See all {latestScan.enteredRanking} new 2+ entries</summary>
+                <div className="compactEntryList">{latestScan.newEntries.map((entry) => <button key={entry.title} onClick={() => openRankedShow(entry.title)}>{entry.title}<span>{entry.score}</span></button>)}</div>
+              </details>
+              <details className="scanDetails">
+                <summary>See every newly discovered show title</summary>
+                <p className="detailNote">{latestScan.newShowTitles.length} title discoveries produced a net increase of {latestScan.newShows} shows after corrected and merged records.</p>
+                <div className="titleCloud">{latestScan.newShowTitles.map((title) => <span key={title}>{title}</span>)}</div>
+              </details>
+            </section>
+          </div>
+
+          <section className="coverageReport">
+            <div><span className="kicker">Coverage report</span><h2>{latestScan.sourcesChecked} sources checked Â· {latestScan.accessFailed} access failures</h2><p>Every listed publication was attempted. A failure means the publication blocked or throttled this scan; it remains on the next run.</p></div>
+            <div className="coverageFacts"><span>{latestScan.duplicates} duplicates removed</span><span>{latestScan.ambiguous} ambiguous matches held back</span><span>{latestScan.newOutlets.length} new outlets added</span></div>
+            <details className="scanDetails wide"><summary>Show access failures</summary><div className="failureList">{latestScan.accessFailures.map((source) => <span key={source}>{source}</span>)}</div></details>
+          </section>
+        </section>
+
+        <section className="sourceDirectory" id="sources" aria-labelledby="source-heading">
           <div>
             <span className="kicker">Coverage desk</span>
             <h2 id="source-heading">Publications monitored hourly</h2>
@@ -752,10 +854,12 @@ export default function Home() {
 
         <section className="bottomGrid" id="prototype-note">
           <p className="editorialNote"><b>Editorial note.</b> Scores are an informed consensus, not a substitute for criticism. Every listing links to its contributing reviews so readers can follow the argument, discover unfamiliar publications and make up their own minds.</p>
-          <div className="newsletter"><b>The Ledger, every lunchtime.</b><span>A concise email with the day’s biggest movers, new five-star notices and last-minute tickets.</span><button onClick={() => alert("Newsletter signup will connect in the next version.")}>Join free →</button></div>
+          <div className="newsletter"><b>The Ledger, every lunchtime.</b><span>A concise email with the dayâ€™s biggest movers, new five-star notices and last-minute tickets.</span><button onClick={() => alert("Newsletter signup will connect in the next version.")}>Join free â†’</button></div>
         </section>
       </main>
-      <footer className="siteFooter"><span>FRINGE LEDGER.</span><span>Independent · Transparent · Edinburgh</span><span>© 2026</span></footer>
+      <footer className="siteFooter"><span>FRINGE LEDGER.</span><span>Independent Â· Transparent Â· Edinburgh</span><span>Â© 2026</span></footer>
     </>
   );
 }
+
+

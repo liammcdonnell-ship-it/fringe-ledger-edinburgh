@@ -1,4 +1,5 @@
 import { execFileSync } from "node:child_process";
+import { existsSync } from "node:fs";
 import { readFile, writeFile } from "node:fs/promises";
 
 const pageSource = await readFile("app/page.tsx", "utf8");
@@ -31,7 +32,8 @@ const canonical = (value) => {
 
 const readPrevious = (path) => {
   try {
-    return JSON.parse(execFileSync("git", ["--git-dir=work/publish.git", "show", `HEAD:${path}`], { encoding: "utf8" }));
+    const gitPrefix = existsSync("work/publish.git") ? ["--git-dir=work/publish.git"] : [];
+    return JSON.parse(execFileSync("git", [...gitPrefix, "show", `HEAD:${path}`], { encoding: "utf8" }));
   } catch {
     return [];
   }
