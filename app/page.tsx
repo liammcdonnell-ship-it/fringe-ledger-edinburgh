@@ -626,7 +626,10 @@ export default function Home() {
         return response.json();
       })
       .then((payload: { scans?: unknown[] }) => {
-        if (payload.scans?.[0]) setLatestScan(payload.scans[0] as typeof fallbackLatestScan);
+        const remoteScan = payload.scans?.[0] as typeof fallbackLatestScan | undefined;
+        if (remoteScan && new Date(remoteScan.completedAt).getTime() > new Date(fallbackLatestScan.completedAt).getTime()) {
+          setLatestScan(remoteScan);
+        }
       })
       .catch((error: Error) => {
         if (error.name !== "AbortError") console.warn("Using the bundled scan history fallback.", error);
