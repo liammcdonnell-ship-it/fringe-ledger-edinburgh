@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-08-12T19:36:48.639Z",
+  "checked_at": "2026-08-12T20:15:07.420Z",
   "status": "complete",
   "summary": {
     "publications_listed": 102,
     "publications_attempted": 102,
     "checked": 79,
     "access_failed": 23,
-    "new_review_notices": 24
+    "new_review_notices": 5
   },
   "sources": [
     {
@@ -20,7 +20,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.141Z"
+      "checked_at": "2026-08-12T20:15:00.489Z"
     },
     {
       "publication": "Across the Arts",
@@ -33,7 +33,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.219Z"
+      "checked_at": "2026-08-12T20:14:56.497Z"
     },
     {
       "publication": "All Edinburgh Theatre",
@@ -46,7 +46,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:38.363Z"
+      "checked_at": "2026-08-12T20:14:56.967Z"
     },
     {
       "publication": "Arts Reviews Edinburgh",
@@ -59,7 +59,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.137Z"
+      "checked_at": "2026-08-12T20:14:58.704Z"
     },
     {
       "publication": "Beyond The Joke",
@@ -72,7 +72,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.546Z"
+      "checked_at": "2026-08-12T20:15:00.822Z"
     },
     {
       "publication": "Binge Fringe",
@@ -85,7 +85,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:40.576Z"
+      "checked_at": "2026-08-12T20:14:57.751Z"
     },
     {
       "publication": "Bookmarks and Stages by Lou",
@@ -98,7 +98,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.383Z"
+      "checked_at": "2026-08-12T20:15:01.977Z"
     },
     {
       "publication": "Boom Radio",
@@ -111,7 +111,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.196Z"
+      "checked_at": "2026-08-12T20:14:57.063Z"
     },
     {
       "publication": "Bouquets & Brickbats",
@@ -124,7 +124,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.478Z"
+      "checked_at": "2026-08-12T20:14:55.920Z"
     },
     {
       "publication": "Braw Theatre",
@@ -137,7 +137,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.826Z"
+      "checked_at": "2026-08-12T20:14:58.384Z"
     },
     {
       "publication": "Brig Newspaper",
@@ -150,7 +150,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:46.546Z"
+      "checked_at": "2026-08-12T20:15:04.922Z"
     },
     {
       "publication": "British Comedy Guide discovery feed",
@@ -163,7 +163,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.372Z"
+      "checked_at": "2026-08-12T20:14:58.562Z"
     },
     {
       "publication": "British Theatre Guide",
@@ -176,7 +176,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.174Z"
+      "checked_at": "2026-08-12T20:14:56.182Z"
     },
     {
       "publication": "Broadway Baby",
@@ -189,7 +189,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.253Z"
+      "checked_at": "2026-08-12T20:14:56.810Z"
     },
     {
       "publication": "BroadwayWorld",
@@ -202,7 +202,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.380Z"
+      "checked_at": "2026-08-12T20:14:59.035Z"
     },
     {
       "publication": "Broken Legs Blog",
@@ -215,7 +215,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.383Z"
+      "checked_at": "2026-08-12T20:14:58.952Z"
     },
     {
       "publication": "Bruce on the Fringe",
@@ -228,7 +228,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.397Z"
+      "checked_at": "2026-08-12T20:14:56.035Z"
     },
     {
       "publication": "Butterwort",
@@ -241,20 +241,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.700Z"
+      "checked_at": "2026-08-12T20:15:02.039Z"
     },
     {
       "publication": "Chortle",
       "checked_surface": "https://www.chortle.co.uk/about/2026/07/20/61020/edinburgh_fringe_2026_comedy_reviews",
       "pages_or_results_inspected": 1,
-      "newest_review_date_seen": "2026-08-11",
-      "candidate_count": 61,
+      "newest_review_date_seen": "2026-08-12",
+      "candidate_count": 69,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.007Z"
+      "checked_at": "2026-08-12T20:14:55.226Z"
     },
     {
       "publication": "Corr Blimey",
@@ -267,7 +267,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:39.832Z"
+      "checked_at": "2026-08-12T20:14:58.003Z"
     },
     {
       "publication": "Counter Culture UK",
@@ -280,7 +280,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.757Z"
+      "checked_at": "2026-08-12T20:15:01.033Z"
     },
     {
       "publication": "Country & Town House",
@@ -293,20 +293,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:42.522Z"
+      "checked_at": "2026-08-12T20:15:00.792Z"
     },
     {
       "publication": "Culture Fix",
       "checked_surface": "https://www.culturefix.co.uk/edfringe-2026-review-adi-parmar-sunny-boy",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 26,
+      "candidate_count": 21,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.088Z"
+      "checked_at": "2026-08-12T20:15:01.557Z"
     },
     {
       "publication": "DarkChat",
@@ -319,7 +319,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:43.517Z"
+      "checked_at": "2026-08-12T20:15:02.218Z"
     },
     {
       "publication": "Disrupt Reviews",
@@ -332,7 +332,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.035Z"
+      "checked_at": "2026-08-12T20:14:55.253Z"
     },
     {
       "publication": "EdFest Reviews",
@@ -345,7 +345,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:43.944Z"
+      "checked_at": "2026-08-12T20:15:02.503Z"
     },
     {
       "publication": "EdFringe Review",
@@ -358,7 +358,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.194Z"
+      "checked_at": "2026-08-12T20:14:55.456Z"
     },
     {
       "publication": "Edinburgh Evening News",
@@ -371,7 +371,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.306Z"
+      "checked_at": "2026-08-12T20:14:57.656Z"
     },
     {
       "publication": "Edinburgh Festivals",
@@ -384,7 +384,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:41.241Z"
+      "checked_at": "2026-08-12T20:14:59.917Z"
     },
     {
       "publication": "Edinburgh Music Review",
@@ -397,7 +397,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.311Z"
+      "checked_at": "2026-08-12T20:14:58.529Z"
     },
     {
       "publication": "Edinburgh Reviews",
@@ -405,25 +405,25 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-11",
       "candidate_count": 52,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:41.358Z"
+      "checked_at": "2026-08-12T20:14:59.950Z"
     },
     {
       "publication": "EdinburghGuide",
       "checked_surface": "https://edinburghguide.com/search?keys=edinburgh%20fringe%20review",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 60,
+      "candidate_count": 63,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:38.590Z"
+      "checked_at": "2026-08-12T20:14:57.460Z"
     },
     {
       "publication": "Elemental Theatre",
@@ -436,7 +436,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.455Z"
+      "checked_at": "2026-08-12T20:14:59.048Z"
     },
     {
       "publication": "Entertainment Now",
@@ -444,12 +444,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-11",
       "candidate_count": 28,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.172Z"
+      "checked_at": "2026-08-12T20:14:57.190Z"
     },
     {
       "publication": "European Comedy",
@@ -462,7 +462,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.222Z"
+      "checked_at": "2026-08-12T20:14:58.464Z"
     },
     {
       "publication": "Everything Theatre",
@@ -475,7 +475,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.949Z"
+      "checked_at": "2026-08-12T20:15:02.146Z"
     },
     {
       "publication": "Fest Mag",
@@ -483,12 +483,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-12",
       "candidate_count": 330,
-      "valid_reviews_added": 15,
+      "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.132Z"
+      "checked_at": "2026-08-12T20:14:55.401Z"
     },
     {
       "publication": "FringeFan",
@@ -501,7 +501,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.754Z"
+      "checked_at": "2026-08-12T20:14:56.011Z"
     },
     {
       "publication": "FringeReview",
@@ -514,7 +514,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.204Z"
+      "checked_at": "2026-08-12T20:14:57.876Z"
     },
     {
       "publication": "From the North",
@@ -527,7 +527,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.223Z"
+      "checked_at": "2026-08-12T20:14:55.628Z"
     },
     {
       "publication": "Get the Chance",
@@ -540,7 +540,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.821Z"
+      "checked_at": "2026-08-12T20:14:57.262Z"
     },
     {
       "publication": "Gonzo Magazine",
@@ -553,7 +553,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:44.277Z"
+      "checked_at": "2026-08-12T20:15:02.944Z"
     },
     {
       "publication": "Hot Take Reviews",
@@ -566,7 +566,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.798Z"
+      "checked_at": "2026-08-12T20:15:01.136Z"
     },
     {
       "publication": "Instafestreview",
@@ -579,7 +579,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:43.671Z"
+      "checked_at": "2026-08-12T20:15:02.320Z"
     },
     {
       "publication": "Kat Masterson",
@@ -592,7 +592,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:43.979Z"
+      "checked_at": "2026-08-12T20:15:02.715Z"
     },
     {
       "publication": "Lisa in the Theatre",
@@ -605,7 +605,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:44.429Z"
+      "checked_at": "2026-08-12T20:15:03.033Z"
     },
     {
       "publication": "London Born And Bred",
@@ -618,7 +618,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.306Z"
+      "checked_at": "2026-08-12T20:15:01.985Z"
     },
     {
       "publication": "London Theatre Doc",
@@ -631,7 +631,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.130Z"
+      "checked_at": "2026-08-12T20:15:01.786Z"
     },
     {
       "publication": "LondonTheatre1",
@@ -644,7 +644,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.121Z"
+      "checked_at": "2026-08-12T20:14:58.277Z"
     },
     {
       "publication": "Lothian Life",
@@ -657,7 +657,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:43.924Z"
+      "checked_at": "2026-08-12T20:15:02.043Z"
     },
     {
       "publication": "LouReviews",
@@ -670,7 +670,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.131Z"
+      "checked_at": "2026-08-12T20:14:57.932Z"
     },
     {
       "publication": "Midlothian View",
@@ -683,7 +683,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.658Z"
+      "checked_at": "2026-08-12T20:14:56.202Z"
     },
     {
       "publication": "Mix Up Theatre",
@@ -696,7 +696,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:37.560Z"
+      "checked_at": "2026-08-12T20:14:56.140Z"
     },
     {
       "publication": "Musical Theatre Review",
@@ -709,7 +709,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:44.625Z"
+      "checked_at": "2026-08-12T20:15:02.908Z"
     },
     {
       "publication": "Neurodiverse Review",
@@ -722,7 +722,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:44.833Z"
+      "checked_at": "2026-08-12T20:15:02.947Z"
     },
     {
       "publication": "North West End UK",
@@ -735,7 +735,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:41.683Z"
+      "checked_at": "2026-08-12T20:15:00.482Z"
     },
     {
       "publication": "On the Mic",
@@ -748,7 +748,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.211Z"
+      "checked_at": "2026-08-12T20:15:00.356Z"
     },
     {
       "publication": "One4Review",
@@ -756,12 +756,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-11",
       "candidate_count": 160,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.979Z"
+      "checked_at": "2026-08-12T20:14:57.649Z"
     },
     {
       "publication": "Perth Happenings",
@@ -774,7 +774,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:48.628Z"
+      "checked_at": "2026-08-12T20:15:07.409Z"
     },
     {
       "publication": "Phoenix Remix",
@@ -787,7 +787,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.370Z"
+      "checked_at": "2026-08-12T20:14:55.580Z"
     },
     {
       "publication": "Reyt Good Magazine",
@@ -795,12 +795,12 @@
       "pages_or_results_inspected": 0,
       "newest_review_date_seen": null,
       "candidate_count": 0,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:39.586Z"
+      "checked_at": "2026-08-12T20:14:55.953Z"
     },
     {
       "publication": "Rolandâ€™s Reviews",
@@ -813,7 +813,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.022Z"
+      "checked_at": "2026-08-12T20:14:56.052Z"
     },
     {
       "publication": "ScotsGay",
@@ -826,7 +826,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.586Z"
+      "checked_at": "2026-08-12T20:15:02.971Z"
     },
     {
       "publication": "Scottish Field",
@@ -839,7 +839,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:37.937Z"
+      "checked_at": "2026-08-12T20:14:56.296Z"
     },
     {
       "publication": "SNACK Magazine",
@@ -852,7 +852,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:41.125Z"
+      "checked_at": "2026-08-12T20:14:59.118Z"
     },
     {
       "publication": "Sounds & Stage",
@@ -865,7 +865,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.275Z"
+      "checked_at": "2026-08-12T20:14:58.720Z"
     },
     {
       "publication": "StageSideUK",
@@ -878,7 +878,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.833Z"
+      "checked_at": "2026-08-12T20:14:58.484Z"
     },
     {
       "publication": "STARBURST",
@@ -891,7 +891,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:39.127Z"
+      "checked_at": "2026-08-12T20:14:57.675Z"
     },
     {
       "publication": "The Arts Desk",
@@ -904,7 +904,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.113Z"
+      "checked_at": "2026-08-12T20:15:00.779Z"
     },
     {
       "publication": "The Comics Comic",
@@ -917,7 +917,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.681Z"
+      "checked_at": "2026-08-12T20:15:01.597Z"
     },
     {
       "publication": "The Flaneur",
@@ -930,7 +930,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.784Z"
+      "checked_at": "2026-08-12T20:14:58.292Z"
     },
     {
       "publication": "The Guardian",
@@ -943,7 +943,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:37.653Z"
+      "checked_at": "2026-08-12T20:14:56.037Z"
     },
     {
       "publication": "The Herald",
@@ -956,7 +956,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.316Z"
+      "checked_at": "2026-08-12T20:14:55.519Z"
     },
     {
       "publication": "The Independent",
@@ -969,7 +969,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:38.234Z"
+      "checked_at": "2026-08-12T20:14:56.958Z"
     },
     {
       "publication": "The List",
@@ -982,7 +982,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:39.158Z"
+      "checked_at": "2026-08-12T20:14:57.644Z"
     },
     {
       "publication": "The Mumble",
@@ -995,7 +995,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:42.173Z"
+      "checked_at": "2026-08-12T20:15:00.747Z"
     },
     {
       "publication": "The Quinntessential Review",
@@ -1008,7 +1008,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:39.491Z"
+      "checked_at": "2026-08-12T20:14:57.456Z"
     },
     {
       "publication": "The Real Chrisparkle",
@@ -1021,7 +1021,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:41.937Z"
+      "checked_at": "2026-08-12T20:15:00.015Z"
     },
     {
       "publication": "The Recs",
@@ -1034,20 +1034,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:41.769Z"
+      "checked_at": "2026-08-12T20:15:00.048Z"
     },
     {
       "publication": "The Reviews Hub",
-      "checked_surface": "https://www.thereviewshub.com/edinburgh-fringe-2026-an-a-to-z-guide-to-dating-buttercup-at-underbelly-george-square-edinburgh",
+      "checked_surface": "https://www.thereviewshub.com/edinburgh-fringe-2026-a-haunted-house-assembly-rooms-edinburgh",
       "pages_or_results_inspected": 1,
-      "newest_review_date_seen": null,
-      "candidate_count": 89,
-      "valid_reviews_added": 0,
+      "newest_review_date_seen": "2026-08-12",
+      "candidate_count": 86,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:38.819Z"
+      "checked_at": "2026-08-12T20:14:57.056Z"
     },
     {
       "publication": "The Scoop",
@@ -1060,7 +1060,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:43.775Z"
+      "checked_at": "2026-08-12T20:15:06.048Z"
     },
     {
       "publication": "The Scotsman",
@@ -1073,7 +1073,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:37.881Z"
+      "checked_at": "2026-08-12T20:14:56.087Z"
     },
     {
       "publication": "The Skinny",
@@ -1081,12 +1081,12 @@
       "pages_or_results_inspected": 4,
       "newest_review_date_seen": null,
       "candidate_count": 80,
-      "valid_reviews_added": 9,
+      "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:39.350Z"
+      "checked_at": "2026-08-12T20:14:57.668Z"
     },
     {
       "publication": "The Spy in the Stalls",
@@ -1099,7 +1099,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.212Z"
+      "checked_at": "2026-08-12T20:14:59.397Z"
     },
     {
       "publication": "The Stage",
@@ -1112,7 +1112,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.196Z"
+      "checked_at": "2026-08-12T20:14:56.056Z"
     },
     {
       "publication": "The Standard",
@@ -1125,7 +1125,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:40.732Z"
+      "checked_at": "2026-08-12T20:14:58.901Z"
     },
     {
       "publication": "The Student (Edinburgh)",
@@ -1138,7 +1138,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:41.807Z"
+      "checked_at": "2026-08-12T20:15:00.087Z"
     },
     {
       "publication": "The Telegraph",
@@ -1151,7 +1151,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 402; fallback failed: HTTP 429; known review failed: HTTP 402",
-      "checked_at": "2026-08-12T19:36:38.984Z"
+      "checked_at": "2026-08-12T20:14:57.127Z"
     },
     {
       "publication": "The Times",
@@ -1164,7 +1164,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.116Z"
+      "checked_at": "2026-08-12T20:14:55.891Z"
     },
     {
       "publication": "The Wee Review",
@@ -1177,7 +1177,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:40.988Z"
+      "checked_at": "2026-08-12T20:14:58.962Z"
     },
     {
       "publication": "Theatre & Tonic",
@@ -1190,7 +1190,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.516Z"
+      "checked_at": "2026-08-12T20:14:59.099Z"
     },
     {
       "publication": "Theatre and Art Reviews",
@@ -1203,7 +1203,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:40.274Z"
+      "checked_at": "2026-08-12T20:14:58.941Z"
     },
     {
       "publication": "Theatre Muse UK",
@@ -1216,7 +1216,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:40.498Z"
+      "checked_at": "2026-08-12T20:14:59.084Z"
     },
     {
       "publication": "Theatre Scotland",
@@ -1229,7 +1229,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:40.285Z"
+      "checked_at": "2026-08-12T20:14:58.568Z"
     },
     {
       "publication": "Theatre Village",
@@ -1242,7 +1242,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.859Z"
+      "checked_at": "2026-08-12T20:15:03.443Z"
     },
     {
       "publication": "Theatre Weekly",
@@ -1255,7 +1255,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:43.282Z"
+      "checked_at": "2026-08-12T20:15:03.654Z"
     },
     {
       "publication": "ThreeWeeks",
@@ -1268,7 +1268,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 403; fallback failed: HTTP 429; known review failed: HTTP 403",
-      "checked_at": "2026-08-12T19:36:41.113Z"
+      "checked_at": "2026-08-12T20:14:59.662Z"
     },
     {
       "publication": "Time Out",
@@ -1281,7 +1281,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:37.098Z"
+      "checked_at": "2026-08-12T20:14:55.533Z"
     },
     {
       "publication": "UK Cabaret",
@@ -1294,7 +1294,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:44.967Z"
+      "checked_at": "2026-08-12T20:15:03.667Z"
     },
     {
       "publication": "West End Best Friend",
@@ -1307,7 +1307,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429; verified through a known current original review after archive/search throttling",
-      "checked_at": "2026-08-12T19:36:44.210Z"
+      "checked_at": "2026-08-12T20:15:02.855Z"
     },
     {
       "publication": "What The Fringe",
@@ -1320,7 +1320,7 @@
       "ambiguous_matches": 0,
       "status": "access-failed",
       "error": "Direct access failed: HTTP 429; fallback failed: HTTP 429",
-      "checked_at": "2026-08-12T19:36:39.464Z"
+      "checked_at": "2026-08-12T20:14:57.951Z"
     },
     {
       "publication": "WhatsOnStage",
@@ -1333,7 +1333,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-12T19:36:38.449Z"
+      "checked_at": "2026-08-12T20:14:57.807Z"
     }
   ]
 }

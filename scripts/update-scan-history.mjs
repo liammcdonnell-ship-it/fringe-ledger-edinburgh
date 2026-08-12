@@ -1,4 +1,4 @@
-﻿import { execFileSync } from "node:child_process";
+import { execFileSync } from "node:child_process";
 import { existsSync } from "node:fs";
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -50,10 +50,30 @@ const totalNotices = Number(totals[2]);
 const history = await readJson("app/scan-history.json", { scans: [] });
 const sameScan = history.scans.find((scan) => scan.completedAt === audit.checked_at);
 if (sameScan) {
+  const priorScan = history.scans.find((scan) => scan.completedAt !== audit.checked_at);
+  const priorRanking = new Map((priorScan?.rankingSnapshot ?? []).map((row) => [row.title, row]));
+  const refreshedMovers = currentRanking
+    .filter((row) => priorRanking.has(row.title) && priorRanking.get(row.title).score !== row.score)
+    .map((row) => ({
+      title: row.title,
+      previousScore: priorRanking.get(row.title).score,
+      currentScore: row.score,
+      delta: row.score - priorRanking.get(row.title).score,
+      previousReviews: priorRanking.get(row.title).reviews,
+      currentReviews: row.reviews,
+    }))
+    .sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta) || b.currentReviews - a.currentReviews)
+    .slice(0, 12);
+  const refreshedEntries = currentRanking.filter((row) => !priorRanking.has(row.title));
+
   sameScan.rankingSnapshot = currentRanking;
   sameScan.totalShows = totalShows;
   sameScan.totalNotices = totalNotices;
+  sameScan.newShows = priorScan ? Math.max(0, totalShows - priorScan.totalShows) : sameScan.newShows;
   sameScan.defaultVisible = currentRanking.length;
+  sameScan.movers = refreshedMovers;
+  sameScan.newEntries = refreshedEntries;
+  sameScan.enteredRanking = refreshedEntries.length;
   await writeFile("app/scan-history.json", `${JSON.stringify(history, null, 2)}\n`, "utf8");
   console.error(`Added a ${currentRanking.length}-show comparison snapshot to the current scan.`);
   process.exit(0);
@@ -123,5 +143,7 @@ const scan = {
 history.scans = [scan, ...history.scans].slice(0, 30);
 await writeFile("app/scan-history.json", `${JSON.stringify(history, null, 2)}\n`, "utf8");
 console.error(`Recorded scan ${scan.completedAt}: ${scan.newReviews} reviews, ${scan.newShows} shows, ${scan.enteredRanking} ranking entries.`);
+
+
 
 
