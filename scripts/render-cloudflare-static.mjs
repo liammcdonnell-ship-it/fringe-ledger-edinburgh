@@ -13,7 +13,7 @@ const assetNames = await fs.readdir(assetsDir);
 await Promise.all(assetNames.filter((name) => name.endsWith(".js")).map(async (name) => {
   const assetPath = path.join(assetsDir, name);
   const source = await fs.readFile(assetPath, "utf8");
-  await fs.writeFile(assetPath, source.replace(/\.js(["'])/g, `.js?v=${release}$1`), "utf8");
+  await fs.writeFile(assetPath, source.replace(/\.js(["'`])/g, `.js?v=${release}$1`), "utf8");
 }));
 
 const workerUrl = pathToFileURL(path.join(root, "dist", "server", "index.js"));
@@ -27,9 +27,10 @@ const response = await worker.fetch(
 if (!response.ok) throw new Error(`Static render failed with HTTP ${response.status}`);
 
 const html = (await response.text()).replace(
-  /(["']\/assets\/[^"'?]+\.(?:js|css))(["'])/g,
+  /(["']\/assets\/[^"'?]+\.(?:js|css))(["'`])/g,
   `$1?v=${release}$2`,
 );
 await fs.writeFile(path.join(staticDir, "index.html"), html, "utf8");
 console.error(`Rendered ${Buffer.byteLength(html)} bytes to work/cloudflare-static/index.html.`);
+
 
