@@ -17,6 +17,10 @@ const response = await worker.fetch(
 );
 if (!response.ok) throw new Error(`Static render failed with HTTP ${response.status}`);
 
-const html = await response.text();
+const release = Date.now().toString(36);
+const html = (await response.text()).replace(
+  /(["']\/assets\/[^"'?]+\.(?:js|css))(["'])/g,
+  `$1?v=${release}$2`,
+);
 await fs.writeFile(path.join(staticDir, "index.html"), html, "utf8");
 console.error(`Rendered ${Buffer.byteLength(html)} bytes to work/cloudflare-static/index.html.`);
