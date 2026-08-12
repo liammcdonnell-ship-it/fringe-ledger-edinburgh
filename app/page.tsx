@@ -333,6 +333,7 @@ const outletAliases: Record<string, string> = {
 
 const cleanImportedText = (value: string) => value
   .replace(/&amp;apos;|&apos;|&#0?39;|&#x27;/gi, "'")
+  .replace(/&#(?:8216|8217|x2018|x2019);/gi, "'")
   .replace(/&amp;/gi, "&")
   .replace(/Â½/g, "½")
   .replace(/Â/g, "")
@@ -584,6 +585,10 @@ const monitoredSources: MonitoredSource[] = [
   { name: "West End Best Friend", url: outletSearch("westendbestfriend.co.uk") },
   { name: "Lisa in the Theatre", url: outletSearch("lisainthetheatre.com") },
   { name: "Gonzo Magazine", url: outletSearch("gonzomagazine.co.uk") },
+  { name: "DarkChat", url: "https://www.darkchat.co.uk/items" },
+  { name: "EdFest Reviews", url: "https://edfestreviews.com/category/2026/review/" },
+  { name: "Kat Masterson", url: "https://katmasterson.com/search/label/Edinburgh%20Fringe" },
+  { name: "UK Cabaret", url: "https://www.ukcabaret.com/edinburgh-fringe-review/" },
 ];
 
 export default function Home() {
@@ -640,7 +645,7 @@ export default function Home() {
             <div className="kicker">Today’s consensus</div>
             <h1>The best-reviewed shows at the Fringe, ranked</h1>
             <p className="summary">These are shows currently playing at the 2026 Fringe with scored reviews published this year. Archive reviews and preview selections no longer contribute to the ranking.</p>
-            <p className="demoNote">2026 reviews only · checked 11 August · early scores may move quickly as new notices arrive.</p>
+            <p className="demoNote">2026 reviews only · checked 12 August · early scores may move quickly as new notices arrive.</p>
           </div>
           <aside className="standfirst" id="method">
             <div className="stat"><strong>{highestScore}</strong><span>highest<br />{scoreMode} score</span></div>

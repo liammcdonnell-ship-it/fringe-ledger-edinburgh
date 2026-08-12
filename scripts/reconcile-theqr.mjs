@@ -4,6 +4,7 @@ const links = new Map();
 const clean = (value) => value
   .replace(/<[^>]+>/g, " ")
   .replace(/&amp;/g, "&")
+  .replace(/&#(?:8216|8217|x2018|x2019);/gi, "'")
   .replace(/&#039;|&#39;|&apos;/g, "'")
   .replace(/&quot;/g, '"')
   .replace(/\s+/g, " ")

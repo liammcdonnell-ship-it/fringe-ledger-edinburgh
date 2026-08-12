@@ -37,13 +37,23 @@ const readPrevious = (path) => {
   }
 };
 
-const previousRows = [...readPrevious("app/bcg-reviews.json"), ...readPrevious("app/theqr-reviews.json")];
-const currentRows = [
+const previousRowsRaw = [...readPrevious("app/bcg-reviews.json"), ...readPrevious("app/theqr-reviews.json")];
+const previousRows = [...new Map(previousRowsRaw.map((row) => [canonical(row.url), row])).values()];
+const currentRowsRaw = [
   ...JSON.parse(await readFile("app/bcg-reviews.json", "utf8")),
   ...JSON.parse(await readFile("app/theqr-reviews.json", "utf8")),
 ];
+const currentGroups = new Map();
+for (const row of currentRowsRaw) {
+  const key = canonical(row.url);
+  currentGroups.set(key, [...(currentGroups.get(key) ?? []), row]);
+}
+const currentRows = [...currentGroups.values()].map((rows) => rows[0]);
 const previousUrls = new Set(previousRows.map((row) => canonical(row.url)));
 const newlyAddedRows = currentRows.filter((row) => !previousUrls.has(canonical(row.url)));
+const duplicateNewRows = [...currentGroups.entries()]
+  .filter(([url]) => !previousUrls.has(url))
+  .flatMap(([, rows]) => rows.slice(1));
 
 const outletAliases = new Map([
   ["a young(ish) perspective", "a youngish perspective"],
@@ -56,6 +66,7 @@ const outletAliases = new Map([
   ["on the mic", "on the mic"],
   ["roland&apos;s reviews", "roland’s reviews"],
   ["snack magazine", "snack magazine"],
+  ["starburst magazine", "starburst"],
   ["the quintessential review", "the quinntessential review"],
   ["theatre, films and art reviews", "theatre and art reviews"],
   ["what&apos;s on stage", "whatsonstage"],
@@ -76,9 +87,14 @@ for (const row of newlyAddedRows) {
   const key = outletKey(row.outlet);
   newCounts.set(key, (newCounts.get(key) ?? 0) + 1);
 }
+const duplicateCounts = new Map();
+for (const row of duplicateNewRows) {
+  const key = outletKey(row.outlet);
+  duplicateCounts.set(key, (duplicateCounts.get(key) ?? 0) + 1);
+}
 
 const headers = {
-  "user-agent": "Mozilla/5.0 (compatible; FringeLedgerAudit/1.0; +https://fringe-ledger-edinburgh.liam-mcdonnell.chatgpt.site)",
+  "user-agent": "Mozilla/5.0 (compatible; FringeLedgerAudit/1.0; +https://fringe-ledger-edinburgh.pages.dev)",
   accept: "text/html,application/xhtml+xml",
 };
 
@@ -175,7 +191,7 @@ async function worker() {
       newest_review_date_seen: newestDate,
       candidate_count: candidateUrls.size,
       valid_reviews_added: newCounts.get(key) ?? 0,
-      duplicates: 0,
+      duplicates: duplicateCounts.get(key) ?? 0,
       ambiguous_matches: 0,
       status,
       error,
