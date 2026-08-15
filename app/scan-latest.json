@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-15T21:11:04.762Z",
-      "completedAt": "2026-08-15T21:11:04.762Z",
+      "id": "2026-08-15T22:08:46.178Z",
+      "completedAt": "2026-08-15T22:08:46.178Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 721,
-      "totalNotices": 1574,
-      "defaultVisible": 383,
+      "totalShows": 727,
+      "totalNotices": 1586,
+      "defaultVisible": 386,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-14T12:35:11.581Z",
-      "windowEndedAt": "2026-08-15T21:11:04.762Z",
-      "windowCoverageHours": 32.6,
-      "scansInWindow": 10,
-      "newReviews": 328,
-      "newShows": 55,
-      "enteredRanking": 55,
+      "windowEndedAt": "2026-08-15T22:08:46.178Z",
+      "windowCoverageHours": 33.6,
+      "scansInWindow": 11,
+      "newReviews": 341,
+      "newShows": 61,
+      "enteredRanking": 57,
       "newOutlets": [],
       "movers": [
         {
@@ -71,7 +71,7 @@
           "currentScore": 81,
           "delta": 7,
           "previousReviews": 4,
-          "currentReviews": 6
+          "currentReviews": 7
         },
         {
           "title": "MUSE: The Shakespeare Mayhem Musical",
@@ -186,6 +186,11 @@
         {
           "title": "Steak Out",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -345,6 +350,11 @@
         },
         {
           "title": "Shotgunned",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
           "score": 70,
           "reviews": 2
         },
