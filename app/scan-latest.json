@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-15T13:21:46.055Z",
-      "completedAt": "2026-08-15T13:21:46.055Z",
+      "id": "2026-08-15T14:11:59.339Z",
+      "completedAt": "2026-08-15T14:11:59.339Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 711,
-      "totalNotices": 1550,
-      "defaultVisible": 379,
+      "totalShows": 706,
+      "totalNotices": 1529,
+      "defaultVisible": 374,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-14T12:35:11.581Z",
-      "windowEndedAt": "2026-08-15T13:21:46.055Z",
-      "windowCoverageHours": 24.8,
-      "scansInWindow": 2,
-      "newReviews": 213,
-      "newShows": 45,
+      "windowEndedAt": "2026-08-15T14:11:59.339Z",
+      "windowCoverageHours": 25.6,
+      "scansInWindow": 3,
+      "newReviews": 231,
+      "newShows": 40,
       "enteredRanking": 52,
       "newOutlets": [],
       "movers": [
@@ -40,6 +40,22 @@
           "delta": 11,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Hole!",
+          "previousScore": 81,
+          "currentScore": 70,
+          "delta": -11,
+          "previousReviews": 6,
+          "currentReviews": 2
+        },
+        {
+          "title": "Chelsea Birkby: Is In Full Control The Entire Time",
+          "previousScore": 68,
+          "currentScore": 78,
+          "delta": 10,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "You Talkin' to Us?",
@@ -64,14 +80,6 @@
           "delta": 7,
           "previousReviews": 4,
           "currentReviews": 6
-        },
-        {
-          "title": "MUSE: The Shakespeare Mayhem Musical",
-          "previousScore": 58,
-          "currentScore": 65,
-          "delta": 7,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "Mike Wozniak: The Bench",
@@ -112,14 +120,6 @@
           "delta": 6,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Crybabies: The Scaring",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -229,7 +229,7 @@
           "reviews": 2
         },
         {
-          "title": "Kristen Schaal: The Legend of Crystal Shell",
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -279,16 +279,6 @@
           "reviews": 2
         },
         {
-          "title": "Let's Listen to Some of Lou Bega's Other Songs Together for an Hour",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Mark Vigeant: OUT THERE",
-          "score": 73,
-          "reviews": 2
-        },
-        {
           "title": "The Passion of Mr Cardboard",
           "score": 73,
           "reviews": 2
@@ -305,6 +295,16 @@
         },
         {
           "title": "Carys Should be the UK's Next Eurovision Entry",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Chip and Gus: A Comedy with Balls",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Ele McKenzie: Bringing It All Back Home",
           "score": 70,
           "reviews": 2
         },
@@ -391,6 +391,7 @@
         "@Jenna",
         "Acid’s Reign",
         "Alan Bissett: The Red Hourglass",
+        "Ali Brice: This Is The Way We Brush Our Teeth",
         "An American (Not) in Paris",
         "An Evening with Gerald Lloyd-Davies",
         "Andrew Maxwell",
@@ -401,6 +402,7 @@
         "Blood Me Up Marjorie!",
         "Brendan Scannell: The Abyss",
         "CABAPOCALYPSARET",
+        "Carl Carzana THE Comedian Creative Genius",
         "Casey Filips: What a Character",
         "Chip and Gus: A Comedy with Balls",
         "Chris Forbes: Father Christmas",
@@ -408,23 +410,27 @@
         "Democrazy",
         "Don&apos;t Know? Have A Go!",
         "Ele McKenzie: Bringing It All Back Home",
+        "Every Ghost Story Ever",
         "Farndale Avenue Housing Estate Townswomen&apos;s Guild Dramatic Society&apos;s Production of Macbeth",
         "Gameplay",
         "Georgina Thomas: Hysterical Soprano",
         "Grandma&apos;s Shop",
         "Guys Sing Dolls",
         "HOW TO FRINGE: a chat show with thom tuck",
+        "Hill and Jones Comedy Catastrophe",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
         "Improv Comedy with Box of Frogs",
         "John Robertson: Excitable Boy!",
         "Katie Norris: Mother Succubus",
         "Kristen Schaal: The Legend of Crystal Shell",
+        "Laughing Stock",
         "New York City Dreams",
         "Phuckets and Rainbows",
         "Rizal Van Geyzel: Arrested",
         "Rory Bremner: Making an Impression",
         "Rowan Hackett: Brewed",
         "Secrets Secrets Shhh!",
+        "Shaggers",
         "Shakespeare for Breakfast",
         "Siblings: Dreamweavers",
         "Slim for Life",
@@ -433,6 +439,7 @@
         "Stuart Mitchell and Festival Friends",
         "Taiwan Season: Birthday Party",
         "Ten Thousand Hours",
+        "The Frank Carson Story",
         "The Italians in England",
         "The Joker and The Thief",
         "The Kaye Hole Hosted by Reuben Kaye",
