@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-15T20:09:30.988Z",
-      "completedAt": "2026-08-15T20:09:30.988Z",
+      "id": "2026-08-15T21:11:04.762Z",
+      "completedAt": "2026-08-15T21:11:04.762Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 729,
-      "totalNotices": 1586,
-      "defaultVisible": 385,
+      "totalShows": 721,
+      "totalNotices": 1574,
+      "defaultVisible": 383,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-14T12:35:11.581Z",
-      "windowEndedAt": "2026-08-15T20:09:30.988Z",
-      "windowCoverageHours": 31.6,
-      "scansInWindow": 9,
-      "newReviews": 327,
-      "newShows": 63,
-      "enteredRanking": 56,
+      "windowEndedAt": "2026-08-15T21:11:04.762Z",
+      "windowCoverageHours": 32.6,
+      "scansInWindow": 10,
+      "newReviews": 328,
+      "newShows": 55,
+      "enteredRanking": 55,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 57,
-          "currentScore": 72,
-          "delta": 15,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
         {
           "title": "Fanny Bleach: The Nearly Naked Show",
           "previousScore": 76,
@@ -58,6 +50,14 @@
           "currentReviews": 4
         },
         {
+          "title": "You Talkin' to Us?",
+          "previousScore": 57,
+          "currentScore": 66,
+          "delta": 9,
+          "previousReviews": 2,
+          "currentReviews": 4
+        },
+        {
           "title": "Fool's Gold",
           "previousScore": 76,
           "currentScore": 68,
@@ -71,7 +71,7 @@
           "currentScore": 81,
           "delta": 7,
           "previousReviews": 4,
-          "currentReviews": 7
+          "currentReviews": 6
         },
         {
           "title": "MUSE: The Shakespeare Mayhem Musical",
@@ -186,11 +186,6 @@
         {
           "title": "Steak Out",
           "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 79,
           "reviews": 2
         },
         {
