@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-15T18:11:03.482Z",
-      "completedAt": "2026-08-15T18:11:03.482Z",
+      "id": "2026-08-15T19:13:26.080Z",
+      "completedAt": "2026-08-15T19:13:26.080Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 723,
-      "totalNotices": 1577,
-      "defaultVisible": 383,
+      "totalNotices": 1574,
+      "defaultVisible": 382,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-14T12:35:11.581Z",
-      "windowEndedAt": "2026-08-15T18:11:03.482Z",
-      "windowCoverageHours": 29.6,
-      "scansInWindow": 7,
-      "newReviews": 311,
+      "windowEndedAt": "2026-08-15T19:13:26.080Z",
+      "windowCoverageHours": 30.6,
+      "scansInWindow": 8,
+      "newReviews": 313,
       "newShows": 57,
       "enteredRanking": 56,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "You Talkin' to Us?",
+          "previousScore": 57,
+          "currentScore": 72,
+          "delta": 15,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
         {
           "title": "Fanny Bleach: The Nearly Naked Show",
           "previousScore": 76,
@@ -47,14 +55,6 @@
           "currentScore": 78,
           "delta": 10,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 57,
-          "currentScore": 66,
-          "delta": 9,
-          "previousReviews": 2,
           "currentReviews": 4
         },
         {
@@ -130,8 +130,8 @@
         },
         {
           "title": "Frankie Thompson: Horrible Things",
-          "score": 83,
-          "reviews": 3
+          "score": 84,
+          "reviews": 2
         },
         {
           "title": "A Gay Masseur's Guide to Happy Endings",
@@ -234,11 +234,6 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Kristen Schaal: The Legend of Crystal Shell",
           "score": 76,
           "reviews": 2
@@ -290,6 +285,11 @@
         },
         {
           "title": "Let's Listen to Some of Lou Bega's Other Songs Together for an Hour",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
           "score": 73,
           "reviews": 2
         },
