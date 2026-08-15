@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-15T14:11:59.339Z",
-      "completedAt": "2026-08-15T14:11:59.339Z",
+      "id": "2026-08-15T15:09:49.456Z",
+      "completedAt": "2026-08-15T15:09:49.456Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 706,
-      "totalNotices": 1529,
-      "defaultVisible": 374,
+      "totalShows": 719,
+      "totalNotices": 1572,
+      "defaultVisible": 383,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-14T12:35:11.581Z",
-      "windowEndedAt": "2026-08-15T14:11:59.339Z",
-      "windowCoverageHours": 25.6,
-      "scansInWindow": 3,
-      "newReviews": 231,
-      "newShows": 40,
-      "enteredRanking": 52,
+      "windowEndedAt": "2026-08-15T15:09:49.456Z",
+      "windowCoverageHours": 26.6,
+      "scansInWindow": 4,
+      "newReviews": 275,
+      "newShows": 53,
+      "enteredRanking": 56,
       "newOutlets": [],
       "movers": [
         {
@@ -40,14 +40,6 @@
           "delta": 11,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Hole!",
-          "previousScore": 81,
-          "currentScore": 70,
-          "delta": -11,
-          "previousReviews": 6,
-          "currentReviews": 2
         },
         {
           "title": "Chelsea Birkby: Is In Full Control The Entire Time",
@@ -82,6 +74,14 @@
           "currentReviews": 6
         },
         {
+          "title": "MUSE: The Shakespeare Mayhem Musical",
+          "previousScore": 58,
+          "currentScore": 65,
+          "delta": 7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "Mike Wozniak: The Bench",
           "previousScore": 83,
           "currentScore": 76,
@@ -114,11 +114,11 @@
           "currentReviews": 5
         },
         {
-          "title": "I Am Johnny",
-          "previousScore": 68,
-          "currentScore": 74,
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 76,
+          "currentScore": 82,
           "delta": 6,
-          "previousReviews": 3,
+          "previousReviews": 2,
           "currentReviews": 4
         }
       ],
@@ -229,7 +229,7 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
+          "title": "Kristen Schaal: The Legend of Crystal Shell",
           "score": 76,
           "reviews": 2
         },
@@ -259,6 +259,11 @@
           "reviews": 2
         },
         {
+          "title": "Top Gunchained",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Werewolf",
           "score": 76,
           "reviews": 2
@@ -275,6 +280,16 @@
         },
         {
           "title": "Freya Parker: An Hour Of Decay!",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Let's Listen to Some of Lou Bega's Other Songs Together for an Hour",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
           "score": 73,
           "reviews": 2
         },
@@ -320,6 +335,11 @@
         },
         {
           "title": "Marty Gleeson: Dog Ear",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Maxx Eddy: Bi Meets World",
           "score": 70,
           "reviews": 2
         },
@@ -399,6 +419,7 @@
         "Autism Mama",
         "BeetleMania",
         "Bigfoot Ripped My Dog in Half I Saw It",
+        "Bliss",
         "Blood Me Up Marjorie!",
         "Brendan Scannell: The Abyss",
         "CABAPOCALYPSARET",
@@ -412,26 +433,36 @@
         "Ele McKenzie: Bringing It All Back Home",
         "Every Ghost Story Ever",
         "Farndale Avenue Housing Estate Townswomen&apos;s Guild Dramatic Society&apos;s Production of Macbeth",
+        "Flamenc Oh!!",
         "Gameplay",
         "Georgina Thomas: Hysterical Soprano",
         "Grandma&apos;s Shop",
+        "Grimm AF",
         "Guys Sing Dolls",
         "HOW TO FRINGE: a chat show with thom tuck",
+        "Heated Rivalry: The Unauthorized Musical Parody",
+        "Helicops 1: Find Your Wings!",
         "Hill and Jones Comedy Catastrophe",
+        "Hole!",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
         "Improv Comedy with Box of Frogs",
         "John Robertson: Excitable Boy!",
         "Katie Norris: Mother Succubus",
         "Kristen Schaal: The Legend of Crystal Shell",
         "Laughing Stock",
+        "Let&apos;s Listen to Some of Lou Bega&apos;s Other Songs Together for an Hour",
+        "MUSE: The Shakespeare Mayhem Musical",
+        "Maxx Eddy: Bi Meets World",
         "New York City Dreams",
         "Phuckets and Rainbows",
+        "Pilate: The Lost Gospel",
         "Rizal Van Geyzel: Arrested",
         "Rory Bremner: Making an Impression",
         "Rowan Hackett: Brewed",
         "Secrets Secrets Shhh!",
         "Shaggers",
         "Shakespeare for Breakfast",
+        "Showstopper! The Kids Show",
         "Siblings: Dreamweavers",
         "Slim for Life",
         "Smile: The Charlie Chaplin Story",
@@ -440,6 +471,7 @@
         "Taiwan Season: Birthday Party",
         "Ten Thousand Hours",
         "The Frank Carson Story",
+        "The Greatest Magic Show",
         "The Italians in England",
         "The Joker and The Thief",
         "The Kaye Hole Hosted by Reuben Kaye",
