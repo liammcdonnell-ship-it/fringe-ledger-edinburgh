@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import bcgReviewData from "./bcg-reviews.json";
 import directReviewData from "./direct-reviews.json";
 import edFringeListingData from "./edfringe-listings.json";
-import scanHistoryData from "./scan-history.json";
+import scanLatestData from "./scan-latest.json";
 import theQrReviewData from "./theqr-reviews.json";
 
 type Review = {
@@ -34,6 +34,31 @@ type Show = {
 };
 
 type ScoreMode = "weighted" | "unweighted";
+
+type ScanRecord = {
+  completedAt: string;
+  status: string;
+  sourcesListed: number;
+  sourcesAttempted: number;
+  sourcesChecked: number;
+  accessFailed: number;
+  newReviews: number;
+  newShows: number;
+  enteredRanking: number;
+  totalShows: number;
+  totalNotices: number;
+  newOutlets: string[];
+  duplicates: number;
+  ambiguous: number;
+  movers: Array<{ title: string; previousScore: number; currentScore: number; delta: number; previousReviews: number; currentReviews: number }>;
+  newEntries: Array<{ title: string; score: number; reviews: number }>;
+  newShowTitles: string[];
+  accessFailures: string[];
+  windowHours?: number;
+  windowStartedAt?: string;
+  windowCoverageHours?: number;
+  scansInWindow?: number;
+};
 
 const outletWeights: Record<string, number> = {
   "Time Out": 1.15,
@@ -605,7 +630,7 @@ const monitoredSources: MonitoredSource[] = [
   { name: "UK Cabaret", url: "https://www.ukcabaret.com/edinburgh-fringe-review/" },
 ];
 
-const fallbackLatestScan = scanHistoryData.scans[0];
+const fallbackLatestScan = scanLatestData.scans[0] as ScanRecord;
 const scanStatusUrl = "https://fringe-ledger-scan-status.fringe-ledger-edinburgh.workers.dev/scan-history.json";
 
 export default function Home() {
@@ -625,8 +650,8 @@ export default function Home() {
         if (!response.ok) throw new Error(`Scan status returned HTTP ${response.status}`);
         return response.json();
       })
-      .then((payload: { scans?: unknown[] }) => {
-        const remoteScan = payload.scans?.[0] as typeof fallbackLatestScan | undefined;
+      .then((payload: { scans?: ScanRecord[] }) => {
+        const remoteScan = payload.scans?.[0];
         if (remoteScan && new Date(remoteScan.completedAt).getTime() > new Date(fallbackLatestScan.completedAt).getTime()) {
           setLatestScan(remoteScan);
         }
@@ -654,6 +679,11 @@ export default function Home() {
     hour: "2-digit", minute: "2-digit",
     timeZone: "Europe/London", timeZoneName: "short",
   }).format(new Date(latestScan.completedAt));
+  const scanWindowStartedAt = latestScan.windowStartedAt ? new Intl.DateTimeFormat("en-GB", {
+    day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
+    timeZone: "Europe/London",
+  }).format(new Date(latestScan.windowStartedAt)) : null;
+  const scanWindowHours = latestScan.windowHours ?? 1;
 
   const openRankedShow = (title: string) => {
     setQuery(title);
@@ -792,27 +822,28 @@ export default function Home() {
           <div className="updatesLead">
             <div>
               <span className="kicker">Audit trail</span>
-              <h1 id="scan-updates-heading">What changed in the latest full scan</h1>
-              <p className="summary">A transparent record of when every listed publication was last attempted, what entered the Ledger, and which scores moved as new criticism arrived.</p>
+              <h1 id="scan-updates-heading">What changed in the last 24 hours</h1>
+              <p className="summary">The main Ledger is still rebuilt every hour. This view rolls those completed scans together so new reviews, ranking entries and score changes are easier to follow across a full day.</p>
             </div>
             <aside className="scanStamp">
               <span className={`scanStatus ${latestScan.status}`}>{latestScan.status === "complete" ? "Full scan complete" : "Incomplete scan"}</span>
               <time dateTime={latestScan.completedAt}>{scanCompletedAt}</time>
               <small>{latestScan.sourcesAttempted} of {latestScan.sourcesListed} publications attempted</small>
+              <small>{latestScan.scansInWindow ?? 1} completed scans collated{scanWindowStartedAt ? ` since ${scanWindowStartedAt}` : ""}</small>
             </aside>
           </div>
 
-          <section className="scanStats" aria-label="Latest scan totals">
-            <div><strong>{latestScan.newReviews}</strong><span>new reviews</span></div>
-            <div><strong>+{latestScan.newShows}</strong><span>net new shows</span></div>
-            <div><strong>{latestScan.enteredRanking}</strong><span>entered the 2+ ranking</span></div>
+          <section className="scanStats" aria-label={`Rolling ${scanWindowHours}-hour changes`}>
+            <div><strong>{latestScan.newReviews}</strong><span>new reviews · {scanWindowHours}h</span></div>
+            <div><strong>{latestScan.newShows > 0 ? "+" : ""}{latestScan.newShows}</strong><span>net new shows · {scanWindowHours}h</span></div>
+            <div><strong>{latestScan.enteredRanking}</strong><span>entered 2+ · {scanWindowHours}h</span></div>
             <div><strong>{latestScan.totalShows}</strong><span>shows indexed</span></div>
             <div><strong>{latestScan.totalNotices}</strong><span>review notices</span></div>
           </section>
 
           <div className="scanColumns">
             <section className="scanBlock">
-              <div className="scanBlockHead"><span className="kicker">Score watch</span><h2>Biggest movers</h2><p>Weighted-score changes since the previous complete scan.</p></div>
+              <div className="scanBlockHead"><span className="kicker">Score watch</span><h2>Biggest movers</h2><p>Weighted-score changes across the rolling {scanWindowHours}-hour window.</p></div>
               <div className="moverList">
                 {latestScan.movers.map((mover) => (
                   <button className="moverRow" key={mover.title} onClick={() => openRankedShow(mover.title)}>
@@ -821,11 +852,12 @@ export default function Home() {
                     <span className="scoreShift">{mover.previousScore} â†’ <b>{mover.currentScore}</b></span>
                   </button>
                 ))}
+                {latestScan.movers.length === 0 && <p className="scanEmpty">No weighted scores changed during this window.</p>}
               </div>
             </section>
 
             <section className="scanBlock">
-              <div className="scanBlockHead"><span className="kicker">Fresh consensus</span><h2>New entries</h2><p>{latestScan.enteredRanking} shows newly reached the default two-review threshold.</p></div>
+              <div className="scanBlockHead"><span className="kicker">Fresh consensus</span><h2>New entries</h2><p>{latestScan.enteredRanking} shows reached the default two-review threshold during this window.</p></div>
               <div className="newEntryGrid">
                 {latestScan.newEntries.slice(0, 12).map((entry) => (
                   <button className="newEntry" key={entry.title} onClick={() => openRankedShow(entry.title)}>
@@ -833,6 +865,7 @@ export default function Home() {
                     <strong>{entry.score}</strong>
                   </button>
                 ))}
+                {latestScan.newEntries.length === 0 && <p className="scanEmpty">No shows entered the two-review ranking during this window.</p>}
               </div>
               <details className="scanDetails">
                 <summary>See all {latestScan.enteredRanking} new 2+ entries</summary>
@@ -840,14 +873,14 @@ export default function Home() {
               </details>
               <details className="scanDetails">
                 <summary>See every newly discovered show title</summary>
-                <p className="detailNote">{latestScan.newShowTitles.length} title discoveries produced a net increase of {latestScan.newShows} shows after corrected and merged records.</p>
+                <p className="detailNote">{latestScan.newShowTitles.length} title discoveries produced a net change of {latestScan.newShows} shows after corrected and merged records.</p>
                 <div className="titleCloud">{latestScan.newShowTitles.map((title) => <span key={title}>{title}</span>)}</div>
               </details>
             </section>
           </div>
 
           <section className="coverageReport">
-            <div><span className="kicker">Coverage report</span><h2>{latestScan.sourcesChecked} sources checked Â· {latestScan.accessFailed} access failures</h2><p>Every listed publication was attempted. A failure means the publication blocked or throttled this scan; it remains on the next run.</p></div>
+            <div><span className="kicker">Latest hourly scan</span><h2>{latestScan.sourcesChecked} sources checked Â· {latestScan.accessFailed} access failures</h2><p>Coverage figures describe the latest full scan at {scanCompletedAt}; movers and new entries above cover the rolling {scanWindowHours}-hour window.</p></div>
             <div className="coverageFacts"><span>{latestScan.duplicates} duplicates removed</span><span>{latestScan.ambiguous} ambiguous matches held back</span><span>{latestScan.newOutlets.length} new outlets added</span></div>
             <details className="scanDetails wide"><summary>Show access failures</summary><div className="failureList">{latestScan.accessFailures.map((source) => <span key={source}>{source}</span>)}</div></details>
           </section>

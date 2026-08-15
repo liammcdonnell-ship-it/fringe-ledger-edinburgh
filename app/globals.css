@@ -129,6 +129,7 @@ h1 { max-width: 940px; margin: 0 0 13px; font: 900 clamp(40px, 4.2vw, 66px)/.91 
 .scanBlockHead h2, .coverageReport h2 { margin: 0; font: 800 28px/1 Georgia, serif; }
 .scanBlockHead p, .coverageReport p { margin: 8px 0 0; color: var(--muted); font: 12px/1.45 Georgia, serif; }
 .moverList { border-bottom: 1px solid var(--ink); }
+.scanEmpty { min-height: 86px; margin: 0; padding: 24px 10px; color: var(--muted); font: italic 14px/1.45 Georgia, serif; }
 .moverRow { width: 100%; min-height: 66px; border: 0; border-bottom: 1px solid #bcb8ae; padding: 9px 6px; background: transparent; color: inherit; display: grid; grid-template-columns: minmax(0, 1fr) 48px 82px; gap: 10px; align-items: center; text-align: left; cursor: pointer; }
 .moverRow:last-child { border-bottom: 0; }
 .moverRow:hover, .newEntry:hover, .compactEntryList button:hover { background: rgba(255,255,255,.38); }

@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/hourly-fringe.yml"
+      - "app/globals.css"
+      - "app/page.tsx"
+      - "scripts/publish-scan-status.mjs"
+      - "scripts/update-scan-history.mjs"
+      - "tests/rendered-html.test.mjs"
 
 permissions:
   contents: write
@@ -46,16 +55,6 @@ jobs:
       - name: Audit every listed publication
         run: node scripts/audit-sources.mjs app/source-audit.json
 
-      - name: Detect verified review-data changes
-        id: changes
-        shell: bash
-        run: |
-          if git diff --quiet -- app/bcg-reviews.json app/theqr-reviews.json app/direct-reviews.json app/edfringe-listings.json app/page.tsx; then
-            echo "verified_data=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "verified_data=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Build and render the current Ledger
         run: |
           npm run build
@@ -69,28 +68,27 @@ jobs:
           npm run build
           node scripts/render-cloudflare-static.mjs
 
-      - name: Publish the latest scan status
-        env:
-          SCAN_STATUS_URL: ${{ vars.SCAN_STATUS_URL }}
-          SCAN_STATUS_TOKEN: ${{ secrets.SCAN_STATUS_TOKEN }}
-        run: node scripts/publish-scan-status.mjs
-
-      - name: Publish verified site changes to Cloudflare Pages
-        if: steps.changes.outputs.verified_data == 'true'
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: npx wrangler pages deploy work/cloudflare-static --project-name fringe-ledger-edinburgh --branch main
-
       - name: Save the audit trail for the next comparison
         shell: bash
         run: |
           git config user.name "Fringe Ledger scanner"
           git config user.email "scanner@users.noreply.github.com"
-          git add app/bcg-reviews.json app/theqr-reviews.json app/direct-reviews.json app/source-audit.json app/scan-history.json app/edfringe-listings.json
+          git add app/bcg-reviews.json app/theqr-reviews.json app/direct-reviews.json app/source-audit.json app/scan-history.json app/scan-latest.json app/edfringe-listings.json
           if git diff --cached --quiet; then
             echo "No generated files changed."
           else
             git commit -m "Update hourly Fringe review scan"
             git push
           fi
+
+      - name: Publish the hourly Ledger to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler pages deploy work/cloudflare-static --project-name fringe-ledger-edinburgh --branch main
+
+      - name: Publish the latest scan status
+        env:
+          SCAN_STATUS_URL: ${{ vars.SCAN_STATUS_URL }}
+          SCAN_STATUS_TOKEN: ${{ secrets.SCAN_STATUS_TOKEN }}
+        run: node scripts/publish-scan-status.mjs
