@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-16T12:13:21.384Z",
-      "completedAt": "2026-08-16T12:13:21.384Z",
+      "id": "2026-08-16T13:23:35.656Z",
+      "completedAt": "2026-08-16T13:23:35.656Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 781,
-      "totalNotices": 1772,
-      "defaultVisible": 417,
+      "totalShows": 785,
+      "totalNotices": 1803,
+      "defaultVisible": 426,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-15T13:07:46.632Z",
-      "windowEndedAt": "2026-08-16T12:13:21.384Z",
-      "windowCoverageHours": 23.1,
+      "windowStartedAt": "2026-08-15T13:21:46.055Z",
+      "windowEndedAt": "2026-08-16T13:23:35.656Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 403,
-      "newShows": 69,
-      "enteredRanking": 39,
+      "newReviews": 433,
+      "newShows": 74,
+      "enteredRanking": 48,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 67,
+          "currentScore": 76,
+          "delta": 9,
+          "previousReviews": 6,
+          "currentReviews": 6
+        },
         {
           "title": "Chelsea Birkby: Is In Full Control The Entire Time",
           "previousScore": 70,
@@ -50,12 +58,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Rosalie Minnitt: Clementine 2",
-          "previousScore": 72,
-          "currentScore": 78,
-          "delta": 6,
+          "title": "The Wolf of Poyais",
+          "previousScore": 73,
+          "currentScore": 67,
+          "delta": -6,
           "previousReviews": 3,
-          "currentReviews": 6
+          "currentReviews": 4
         },
         {
           "title": "Adults Only Magic Show",
@@ -112,14 +120,6 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "The Last Drop",
-          "previousScore": 77,
-          "currentScore": 72,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -149,9 +149,19 @@
           "reviews": 2
         },
         {
+          "title": "MC Hammersmith: Ice Ice Nepo Baby",
+          "score": 86,
+          "reviews": 2
+        },
+        {
           "title": "Andrew Frost: Just Let Me Have This",
           "score": 84,
           "reviews": 4
+        },
+        {
+          "title": "Adam Riches: The Captain",
+          "score": 83,
+          "reviews": 2
         },
         {
           "title": "Amelia Hamilton: Moral Support",
@@ -199,6 +209,11 @@
           "reviews": 2
         },
         {
+          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Mortal Sin",
           "score": 77,
           "reviews": 3
@@ -219,9 +234,29 @@
           "reviews": 2
         },
         {
+          "title": "Kate Dolan: Trout",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Katie Boyle: Irish Immigrant",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "The Joker and The Thief",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Dan Rath: Help Me Please",
           "score": 74,
           "reviews": 4
+        },
+        {
+          "title": "...Earnest?",
+          "score": 73,
+          "reviews": 2
         },
         {
           "title": "A&E",
@@ -234,7 +269,7 @@
           "reviews": 2
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
+          "title": "Sam Morrison: DUCK",
           "score": 73,
           "reviews": 2
         },
@@ -317,6 +352,16 @@
           "title": "Slim for Life",
           "score": 58,
           "reviews": 3
+        },
+        {
+          "title": "Parking Spot: The Musical!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -325,6 +370,8 @@
         "A Better Memory",
         "A Clown's Lullaby",
         "A Murder Mystery Musical - The Detective&apos;s Demise",
+        "ALOK: Eat Pray Leave",
+        "Abi Carter-Simpson and Joe McTernan: Stand-up Couple",
         "Adam Riches: The Captain",
         "After Party",
         "Alex Camp: Dopamine Rat",
@@ -347,8 +394,10 @@
         "Carl Carzana THE Comedian Creative Genius",
         "Cricket &#038; The Freebugs",
         "Dan Rath: Help Me Please",
+        "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Dracula: Lucy's Dream",
         "Dragon Tales",
+        "Emily Wilson: Escape from America",
         "Every Ghost Story Ever",
         "Everybody's Got a Bomb",
         "Extra Dry",
@@ -368,6 +417,7 @@
         "INDY!",
         "It&apos;s Always Sunny on Olympus",
         "Jacob Hatton: Ruins",
+        "Japanese Grandma Funeral",
         "Jody Kamali: This is My Dad",
         "Jordan Brookes: The Part of You That’s Always Screaming",
         "Jules Oakes: Fragile",
@@ -403,6 +453,7 @@
         "She/They",
         "Showstopper! The Kids Show",
         "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
+        "Smile, It Might Never Happen",
         "Snow",
         "Soft Spot",
         "Space In Between",
