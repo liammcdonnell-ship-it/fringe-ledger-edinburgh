@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-16T08:15:29.046Z",
-      "completedAt": "2026-08-16T08:15:29.046Z",
+      "id": "2026-08-16T09:16:14.431Z",
+      "completedAt": "2026-08-16T09:16:14.431Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 737,
-      "totalNotices": 1632,
-      "defaultVisible": 391,
+      "totalShows": 752,
+      "totalNotices": 1699,
+      "defaultVisible": 405,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-15T13:07:46.632Z",
-      "windowEndedAt": "2026-08-16T08:15:29.046Z",
-      "windowCoverageHours": 19.1,
-      "scansInWindow": 19,
-      "newReviews": 238,
-      "newShows": 25,
-      "enteredRanking": 13,
+      "windowEndedAt": "2026-08-16T09:16:14.431Z",
+      "windowCoverageHours": 20.1,
+      "scansInWindow": 20,
+      "newReviews": 306,
+      "newShows": 40,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
         {
@@ -39,14 +39,6 @@
           "currentScore": 82,
           "delta": -7,
           "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
-          "previousScore": 86,
-          "currentScore": 92,
-          "delta": 6,
-          "previousReviews": 4,
           "currentReviews": 3
         },
         {
@@ -90,12 +82,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Matt Forde: Project Holy Moly",
+          "title": "The Last Drop",
           "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
+          "currentScore": 72,
+          "delta": -5,
           "previousReviews": 3,
-          "currentReviews": 4
+          "currentReviews": 5
         },
         {
           "title": "Paul Foot: The Future",
@@ -106,7 +98,7 @@
           "currentReviews": 4
         },
         {
-          "title": "YUCK Circus: Naughties",
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "previousScore": 77,
           "currentScore": 82,
           "delta": 5,
@@ -120,9 +112,32 @@
           "delta": 5,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Matt Forde: Project Holy Moly",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "STAY",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Lawrence Dodd: This Can't Be It",
+          "score": 88,
+          "reviews": 2
+        },
+        {
+          "title": "Garry Starr: Classic Penguins",
+          "score": 87,
+          "reviews": 3
+        },
         {
           "title": "Mark Thomas: 40 in Stand-Up Years",
           "score": 87,
@@ -139,7 +154,7 @@
           "reviews": 2
         },
         {
-          "title": "Garry Starr: Classic Penguins",
+          "title": "Max Olesker: Making the Cut",
           "score": 83,
           "reviews": 2
         },
@@ -149,7 +164,22 @@
           "reviews": 2
         },
         {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Charlene Kaye: Diversity Shredder",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Clive",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Jess Carrivick: For Your Consideration",
           "score": 76,
           "reviews": 2
         },
@@ -159,8 +189,23 @@
           "reviews": 2
         },
         {
+          "title": "Alexander Bennett: All It Takes",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Surreally Good",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Dan Rath: Help Me Please",
           "score": 71,
+          "reviews": 2
+        },
+        {
+          "title": "Already Here",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -187,6 +232,31 @@
           "title": "Ele McKenzie: Bringing It All Back Home",
           "score": 68,
           "reviews": 3
+        },
+        {
+          "title": "Eric Lampaert: Zero Minus One",
+          "score": 67,
+          "reviews": 3
+        },
+        {
+          "title": "The Pod",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Parking Spot: The Musical!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Slim for Life",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -194,9 +264,12 @@
         "44 Minutes",
         "A Better Memory",
         "A Clown's Lullaby",
+        "A Murder Mystery Musical - The Detective&apos;s Demise",
         "Adam Riches: The Captain",
         "After Party",
         "Ali Brice: This Is The Way We Brush Our Teeth",
+        "Alice Keys: Rocket Fan",
+        "Amnesia",
         "Amy Annette: Say What You Like About Me",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "An Idiot&apos;s Guide to Murder",
@@ -223,22 +296,30 @@
         "Helicops 1: Find Your Wings!",
         "Hill and Jones Comedy Catastrophe",
         "Hole!",
+        "I Think I&apos;m Turning Japanese (I Really Think So, Not!)",
         "INDY!",
+        "Jacob Hatton: Ruins",
+        "Jody Kamali: This is My Dad",
         "Julian Clary: Fully Dilated",
         "Kanpur: 1857",
         "Kristen Schaal: The Legend of Crystal Shell",
         "Laughing Stock",
         "Let&apos;s Listen to Some of Lou Bega&apos;s Other Songs Together for an Hour",
+        "Lorraine Hoodless: Mean",
         "MUSE: The Shakespeare Mayhem Musical",
+        "Mandy: Prince of Darkness",
         "Maxx Eddy: Bi Meets World",
         "Octopus",
         "Of Mice And Men",
         "Other",
+        "Other People",
         "Paddy Young: Will Sir Be Laughing Alone?",
+        "Parkies",
         "Paul Currie: REMOVE YOUR SKIN PLEASE",
         "Pilate: The Lost Gospel",
         "Police Cops: The Original",
         "Quentin Blake's Mrs Armitage on Wheels",
+        "Sam Morrison: DUCK",
         "Shaggers",
         "Shamaniac",
         "She/They",
@@ -247,8 +328,10 @@
         "Snow",
         "Soft Spot",
         "Space In Between",
+        "Spooky Dookie: Cool New Planet!!",
         "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
         "Struan Logan: Chaotic Good",
+        "Swan Song",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Duo: A Three-Person Magic Show",
@@ -256,7 +339,11 @@
         "The Greatest Magic Show",
         "The Jolly Fisherman",
         "The Singer",
+        "This Little Thing of Ours",
+        "Tom Evans: All You Weed Is Love",
         "Turn This Sh*t Off",
+        "What Happens in the Dark",
+        "Will & Noah: Dinner Dinner Chicken Winner",
         "hame. teeth. CLUB."
       ]
     }
