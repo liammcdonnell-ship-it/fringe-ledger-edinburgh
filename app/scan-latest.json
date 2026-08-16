@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-16T18:11:26.858Z",
-      "completedAt": "2026-08-16T18:11:26.858Z",
+      "id": "2026-08-16T19:12:47.672Z",
+      "completedAt": "2026-08-16T19:12:47.672Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 799,
-      "totalNotices": 1845,
+      "totalShows": 812,
+      "totalNotices": 1860,
       "defaultVisible": 432,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-15T18:11:03.482Z",
-      "windowEndedAt": "2026-08-16T18:11:26.858Z",
+      "windowStartedAt": "2026-08-15T19:13:26.080Z",
+      "windowEndedAt": "2026-08-16T19:12:47.672Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 409,
-      "newShows": 76,
-      "enteredRanking": 49,
+      "newReviews": 422,
+      "newShows": 89,
+      "enteredRanking": 51,
       "newOutlets": [],
       "movers": [
         {
@@ -61,6 +61,14 @@
           "title": "The Wolf of Poyais",
           "previousScore": 73,
           "currentScore": 67,
+          "delta": -6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "You Talkin' to Us?",
+          "previousScore": 72,
+          "currentScore": 66,
           "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
@@ -111,14 +119,6 @@
           "currentScore": 72,
           "delta": -5,
           "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "Ayo Adenekan: Homeland Insecurity",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 2,
           "currentReviews": 5
         }
       ],
@@ -294,12 +294,12 @@
           "reviews": 2
         },
         {
-          "title": "Already Here",
-          "score": 70,
-          "reviews": 2
+          "title": "Grimm AF",
+          "score": 72,
+          "reviews": 3
         },
         {
-          "title": "Grimm AF",
+          "title": "Already Here",
           "score": 70,
           "reviews": 2
         },
@@ -329,6 +329,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "The Longer My Mother Is Dead the More I Like Her",
           "score": 67,
           "reviews": 2
@@ -345,6 +350,11 @@
         },
         {
           "title": "Impromptunes: The Completely Improvised Musical",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Temi Wilkey: Lover Girl",
           "score": 64,
           "reviews": 2
         },
@@ -399,6 +409,7 @@
         "Camelton",
         "Charming! The Musical",
         "Chief Petty Officer",
+        "Churchill&apos;s Urinal",
         "Cricket &#038; The Freebugs",
         "Dan Rath: Help Me Please",
         "Danny O&apos;Brien: Sure Look, Be Grand.",
@@ -411,6 +422,7 @@
         "Gameplay",
         "Garry Starr: Classic Penguins",
         "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
+        "Harun Musho&apos;d: A History of the Last Conservative Government, In Their Own Stupid Words",
         "Holmes/Shah",
         "Hudson Hughes: At Your Service",
         "I Think I&apos;m Turning Japanese (I Really Think So, Not!)",
@@ -489,6 +501,7 @@
         "What Happens in the Dark",
         "Will & Noah: Dinner Dinner Chicken Winner",
         "Will Sebag-Montefiore: Game of Phones",
+        "You and Me (and Whoever Comes Next)",
         "hame. teeth. CLUB."
       ]
     }
