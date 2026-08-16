@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-16T10:11:30.171Z",
-      "completedAt": "2026-08-16T10:11:30.171Z",
+      "id": "2026-08-16T11:11:46.314Z",
+      "completedAt": "2026-08-16T11:11:46.314Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 775,
-      "totalNotices": 1750,
-      "defaultVisible": 416,
+      "totalShows": 773,
+      "totalNotices": 1755,
+      "defaultVisible": 412,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-15T13:07:46.632Z",
-      "windowEndedAt": "2026-08-16T10:11:30.171Z",
-      "windowCoverageHours": 21.1,
-      "scansInWindow": 21,
-      "newReviews": 360,
-      "newShows": 63,
-      "enteredRanking": 38,
+      "windowEndedAt": "2026-08-16T11:11:46.314Z",
+      "windowCoverageHours": 22.1,
+      "scansInWindow": 22,
+      "newReviews": 386,
+      "newShows": 61,
+      "enteredRanking": 40,
       "newOutlets": [],
       "movers": [
         {
@@ -47,6 +47,22 @@
           "currentScore": 82,
           "delta": -7,
           "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Rosalie Minnitt: Clementine 2",
+          "previousScore": 72,
+          "currentScore": 78,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
+          "previousScore": 86,
+          "currentScore": 92,
+          "delta": 6,
+          "previousReviews": 4,
           "currentReviews": 3
         },
         {
@@ -98,28 +114,12 @@
           "currentReviews": 3
         },
         {
-          "title": "MUSE: The Shakespeare Mayhem Musical",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
           "title": "The Last Drop",
           "previousScore": 77,
           "currentScore": 72,
           "delta": -5,
           "previousReviews": 3,
           "currentReviews": 5
-        },
-        {
-          "title": "Matt Forde: Project Holy Moly",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -189,6 +189,11 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Girlfriends",
           "score": 79,
           "reviews": 2
@@ -215,8 +220,8 @@
         },
         {
           "title": "Dan Rath: Help Me Please",
-          "score": 73,
-          "reviews": 3
+          "score": 74,
+          "reviews": 4
         },
         {
           "title": "A&E",
@@ -225,11 +230,6 @@
         },
         {
           "title": "Alexander Bennett: All It Takes",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Mark Vigeant: OUT THERE",
           "score": 73,
           "reviews": 2
         },
@@ -249,12 +249,12 @@
           "reviews": 2
         },
         {
-          "title": "Jake Baker: The Gentle Men's Club",
+          "title": "Grimm AF",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "Maxx Eddy: Bi Meets World",
+          "title": "Jake Baker: The Gentle Men's Club",
           "score": 70,
           "reviews": 2
         },
@@ -279,6 +279,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "The Longer My Mother Is Dead the More I Like Her",
           "score": 67,
           "reviews": 2
@@ -297,6 +302,11 @@
           "title": "The Pod",
           "score": 64,
           "reviews": 2
+        },
+        {
+          "title": "Maxx Eddy: Bi Meets World",
+          "score": 63,
+          "reviews": 3
         },
         {
           "title": "Slim for Life",
@@ -322,6 +332,7 @@
         "A Murder Mystery Musical - The Detective&apos;s Demise",
         "Adam Riches: The Captain",
         "After Party",
+        "Alex Camp: Dopamine Rat",
         "Ali Brice: This Is The Way We Brush Our Teeth",
         "Alice Keys: Rocket Fan",
         "Amnesia",
@@ -351,6 +362,7 @@
         "Gameplay",
         "Garry Starr: Classic Penguins",
         "Grimm AF",
+        "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
         "Heated Rivalry: The Unauthorized Musical Parody",
         "Helicops 1: Find Your Wings!",
         "Hill and Jones Comedy Catastrophe",
@@ -359,8 +371,10 @@
         "I Think I&apos;m Turning Japanese (I Really Think So, Not!)",
         "I&apos;m Still Not That Girl",
         "INDY!",
+        "It&apos;s Always Sunny on Olympus",
         "Jacob Hatton: Ruins",
         "Jody Kamali: This is My Dad",
+        "Jordan Brookes: The Part of You That’s Always Screaming",
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
         "Just Blokes",
@@ -374,6 +388,7 @@
         "MUSE: The Shakespeare Mayhem Musical",
         "Mandy: Prince of Darkness",
         "Maxx Eddy: Bi Meets World",
+        "Nerine Skinner: Decisions Decisions WIP",
         "Octopus",
         "Of Mice And Men",
         "Ostrich",
@@ -406,12 +421,14 @@
         "The Jolly Fisherman",
         "The Meeples: XXX",
         "The Singer",
+        "The Yellow Wallpaper",
         "This Little Thing of Ours",
         "Tom Evans: All You Weed Is Love",
         "Turn This Sh*t Off",
         "Turn the Screw, Tickety-Boo",
         "What Happens in the Dark",
         "Will & Noah: Dinner Dinner Chicken Winner",
+        "Will Sebag-Montefiore: Game of Phones",
         "hame. teeth. CLUB."
       ]
     }
