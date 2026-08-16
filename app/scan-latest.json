@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-16T02:14:27.110Z",
-      "completedAt": "2026-08-16T02:14:27.110Z",
+      "id": "2026-08-16T03:37:58.208Z",
+      "completedAt": "2026-08-16T03:37:58.208Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 720,
-      "totalNotices": 1573,
-      "defaultVisible": 383,
+      "totalShows": 728,
+      "totalNotices": 1586,
+      "defaultVisible": 385,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-15T13:07:46.632Z",
-      "windowEndedAt": "2026-08-16T02:14:27.110Z",
-      "windowCoverageHours": 13.1,
-      "scansInWindow": 13,
-      "newReviews": 133,
-      "newShows": 8,
-      "enteredRanking": 5,
+      "windowEndedAt": "2026-08-16T03:37:58.208Z",
+      "windowCoverageHours": 14.5,
+      "scansInWindow": 14,
+      "newReviews": 147,
+      "newShows": 16,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
@@ -82,6 +82,14 @@
           "currentReviews": 6
         },
         {
+          "title": "Amanda Knox: Cartwheel",
+          "previousScore": 62,
+          "currentScore": 64,
+          "delta": 2,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
           "title": "Dom McGovern: Prize Hog",
           "previousScore": 87,
           "currentScore": 89,
@@ -112,14 +120,6 @@
           "delta": -2,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Giraffe",
-          "previousScore": 77,
-          "currentScore": 78,
-          "delta": 1,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -129,8 +129,8 @@
           "reviews": 2
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
-          "score": 73,
+          "title": "Dracula: Lucy's Dream",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -144,8 +144,18 @@
           "reviews": 2
         },
         {
+          "title": "Grimm AF",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Maxx Eddy: Bi Meets World",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         }
       ],
