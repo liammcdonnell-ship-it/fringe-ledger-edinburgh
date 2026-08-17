@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T21:15:15.479Z",
-      "completedAt": "2026-08-17T21:15:15.479Z",
+      "id": "2026-08-17T22:12:16.889Z",
+      "completedAt": "2026-08-17T22:12:16.889Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 857,
-      "totalNotices": 2081,
-      "defaultVisible": 475,
+      "totalShows": 875,
+      "totalNotices": 2141,
+      "defaultVisible": 487,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T21:09:45.026Z",
-      "windowEndedAt": "2026-08-17T21:15:15.479Z",
+      "windowStartedAt": "2026-08-16T22:09:06.286Z",
+      "windowEndedAt": "2026-08-17T22:12:16.889Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 434,
-      "newShows": 53,
-      "enteredRanking": 42,
+      "newReviews": 463,
+      "newShows": 46,
+      "enteredRanking": 51,
       "newOutlets": [],
       "movers": [
         {
@@ -82,14 +82,6 @@
           "currentReviews": 6
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 4
-        },
-        {
           "title": "Hasan Al-Habib: Stuck in the Middle (East) With You",
           "previousScore": 72,
           "currentScore": 78,
@@ -120,11 +112,24 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Ben Hart: The Labyrinth",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
           "title": "Danny O'Brien: Sure Look, Be Grand.",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Dogberry and Verges Are Scared",
           "score": 89,
           "reviews": 2
         },
@@ -159,7 +164,12 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Burke'n'Hare: Let the Bodies Hit the Floor",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Jack Docherty: Butterfly",
           "score": 83,
           "reviews": 2
         },
@@ -174,6 +184,11 @@
           "reviews": 2
         },
         {
+          "title": "Will & Noah: Dinner Dinner Chicken Winner",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Amnesia",
           "score": 82,
           "reviews": 3
@@ -182,6 +197,11 @@
           "title": "Paddy Young: Will Sir Be Laughing Alone?",
           "score": 82,
           "reviews": 3
+        },
+        {
+          "title": "Hudson Hughes: At Your Service",
+          "score": 82,
+          "reviews": 2
         },
         {
           "title": "John Robertson: Excitable Boy!",
@@ -254,12 +274,17 @@
           "reviews": 2
         },
         {
-          "title": "Good Boy",
-          "score": 73,
+          "title": "The Reunion",
+          "score": 76,
           "reviews": 2
         },
         {
           "title": "If We Really Were Witches",
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "Good Boy",
           "score": 73,
           "reviews": 2
         },
@@ -289,7 +314,7 @@
           "reviews": 2
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
+          "title": "The Last Days of Trump (A Liberal Fantasy)",
           "score": 70,
           "reviews": 2
         },
@@ -309,8 +334,18 @@
           "reviews": 2
         },
         {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Viggo Venn: Only One",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Man Who Said Too Much",
+          "score": 61,
           "reviews": 2
         },
         {
@@ -319,7 +354,17 @@
           "reviews": 3
         },
         {
+          "title": "Churchill's Urinal",
+          "score": 57,
+          "reviews": 2
+        },
+        {
           "title": "The Toe Poke",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "The Unwilling Accomplice",
           "score": 57,
           "reviews": 2
         },
@@ -338,6 +383,7 @@
         "(2026 Greek Comedian of the Year) George Zacharopoulos: The Meaning of Life (Maybe)",
         "0 BC: Before Crisis",
         "0 Hair - Bald Man Sings Rhianna",
+        "4 Aussies, For Aussies",
         "44 Minutes",
         "A Clown's Lullaby",
         "Abandoman: Afterglow",
@@ -355,16 +401,19 @@
         "Bull / Fight",
         "Burger and a Pint: Treats for the Soul",
         "Burke&apos;n&apos;Hare: Let the Bodies Hit the Floor",
+        "Cerys Bradley: On Road Signs WIP",
         "Collaborator",
         "Cricket &#038; The Freebugs",
         "Delusions and Grandeur",
         "Detective Heartbreak",
         "Dinner With the Wolves",
+        "Dogberry and Verges Are Scared",
         "Dom McGovern: Prize Hog",
         "Dracula: Lucy's Dream",
         "Dragon Tales",
         "Dune! The Musical",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
+        "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
         "Eva Peroni",
         "Everybody's Got a Bomb",
@@ -380,6 +429,7 @@
         "Hole!",
         "Hudson Hughes: At Your Service",
         "I Almost Died for This?! (A love story. Sort of.)",
+        "I Am Going to Reveal Something Personal About Myself",
         "INDY!",
         "Improbotics Presents: Artificial Reality",
         "In Butter (WIP)",
@@ -389,6 +439,7 @@
         "Jonathan Rudge: Stay at Home Son",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
+        "LOLyamorous: A Speed-Dating Comedy Show",
         "MAJENIN – A Palestinian Love Story",
         "Man or Bear",
         "Maxx Eddy: Bi Meets World",
@@ -396,8 +447,10 @@
         "Midsummer!",
         "Moment of Connection with a Smile",
         "Moth and Dog Are Dying to Get Out",
+        "My Date with Pierce Brosnan",
         "No Hard Felix",
         "Of Mice And Men",
+        "Olivia Xing: Baby of Colour",
         "Padlocked!",
         "Paul Hilleard",
         "Paul Savage: Comic, Relieved",
@@ -426,8 +479,11 @@
         "The Pigeon Factory",
         "The Plot",
         "The Singer",
+        "The Tao of Lloyd",
         "Third Party",
+        "Tia Rey: Oot Ma Banger",
         "Tom Little in His Comfort Zone",
+        "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
         "Twonkey&apos;s Soft December Night in Tallahassee",
         "Wiener Beacon",
         "You Are What You Eat",
