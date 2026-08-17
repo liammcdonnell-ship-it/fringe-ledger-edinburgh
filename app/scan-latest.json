@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T07:42:20.872Z",
-      "completedAt": "2026-08-17T07:42:20.872Z",
+      "id": "2026-08-17T08:29:43.533Z",
+      "completedAt": "2026-08-17T08:29:43.533Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 830,
-      "totalNotices": 1888,
-      "defaultVisible": 437,
+      "totalShows": 831,
+      "totalNotices": 1906,
+      "defaultVisible": 443,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T07:22:11.710Z",
-      "windowEndedAt": "2026-08-17T07:42:20.872Z",
-      "windowCoverageHours": 24.3,
+      "windowStartedAt": "2026-08-16T08:15:29.046Z",
+      "windowEndedAt": "2026-08-17T08:29:43.533Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 23,
-      "newReviews": 456,
-      "newShows": 110,
-      "enteredRanking": 55,
+      "newReviews": 414,
+      "newShows": 94,
+      "enteredRanking": 52,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 63,
+          "currentScore": 76,
+          "delta": 13,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "Bride To Be",
           "previousScore": 76,
@@ -34,27 +42,19 @@
           "currentReviews": 3
         },
         {
-          "title": "EVITA TOO",
-          "previousScore": 77,
-          "currentScore": 84,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 5
-        },
-        {
-          "title": "BATSU! Presents: GANBA!!",
-          "previousScore": 89,
-          "currentScore": 82,
-          "delta": -7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Simon Munnery",
-          "previousScore": 76,
-          "currentScore": 82,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 70,
+          "currentScore": 76,
           "delta": 6,
-          "previousReviews": 2,
+          "previousReviews": 8,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
+          "previousScore": 92,
+          "currentScore": 86,
+          "delta": -6,
+          "previousReviews": 3,
           "currentReviews": 4
         },
         {
@@ -90,22 +90,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 76,
-          "currentScore": 71,
-          "delta": -5,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "The Last Drop",
-          "previousScore": 77,
-          "currentScore": 72,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
           "title": "Ayo Adenekan: Homeland Insecurity",
           "previousScore": 70,
           "currentScore": 65,
@@ -119,6 +103,22 @@
           "currentScore": 82,
           "delta": 5,
           "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 67,
+          "currentScore": 72,
+          "delta": 5,
+          "previousReviews": 2,
           "currentReviews": 4
         }
       ],
@@ -144,16 +144,6 @@
           "reviews": 2
         },
         {
-          "title": "Garry Starr: Classic Penguins",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Mark Thomas: 40 in Stand-Up Years",
-          "score": 87,
-          "reviews": 2
-        },
-        {
           "title": "MC Hammersmith: Ice Ice Nepo Baby",
           "score": 86,
           "reviews": 2
@@ -164,12 +154,12 @@
           "reviews": 2
         },
         {
-          "title": "Amelia Hamilton: Moral Support",
+          "title": "Ali Brice: This Is The Way We Brush Our Teeth",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Casey Filips: What a Character",
+          "title": "Amelia Hamilton: Moral Support",
           "score": 83,
           "reviews": 2
         },
@@ -190,11 +180,6 @@
         },
         {
           "title": "Max Olesker: Making the Cut",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Shane Torres",
           "score": 83,
           "reviews": 2
         },
@@ -234,7 +219,12 @@
           "reviews": 3
         },
         {
-          "title": "Charlene Kaye: Diversity Shredder",
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 76,
+          "reviews": 3
+        },
+        {
+          "title": "Big Stuff",
           "score": 76,
           "reviews": 2
         },
@@ -244,7 +234,7 @@
           "reviews": 2
         },
         {
-          "title": "Jess Carrivick: For Your Consideration",
+          "title": "Gareth Waugh: Is Pepsi OK?",
           "score": 76,
           "reviews": 2
         },
@@ -255,6 +245,16 @@
         },
         {
           "title": "Lady Bolognese: Class War",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Sad Bride",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Tartan Tabletop: A Dungeons & Dragons Comedy",
           "score": 76,
           "reviews": 2
         },
@@ -279,27 +279,12 @@
           "reviews": 2
         },
         {
-          "title": "Dan Rath: Help Me Please",
-          "score": 74,
-          "reviews": 4
-        },
-        {
           "title": "...Earnest?",
           "score": 73,
           "reviews": 2
         },
         {
-          "title": "A&E",
-          "score": 73,
-          "reviews": 2
-        },
-        {
           "title": "Alexander Bennett: All It Takes",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Mark Vigeant: OUT THERE",
           "score": 73,
           "reviews": 2
         },
@@ -319,22 +304,17 @@
           "reviews": 3
         },
         {
+          "title": "Mark Vigeant: OUT THERE",
+          "score": 70,
+          "reviews": 3
+        },
+        {
           "title": "Already Here",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Camelton",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Jake Baker: The Gentle Men's Club",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Paper Cuts (and other small tragedies)",
           "score": 70,
           "reviews": 2
         },
@@ -397,6 +377,11 @@
           "title": "Parking Spot: The Musical!",
           "score": 57,
           "reviews": 2
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -406,15 +391,12 @@
         "A Murder Mystery Musical - The Detective&apos;s Demise",
         "ALOK: Eat Pray Leave",
         "Abi Carter-Simpson and Joe McTernan: Stand-up Couple",
-        "Adam Riches: The Captain",
         "Aditya Mayya Pretends to Be Sad",
         "After Party",
         "Alex Camp: Dopamine Rat",
         "Alice Keys: Rocket Fan",
         "Amnesia",
-        "Amy Annette: Say What You Like About Me",
         "An Audience with Virginia Woolf: Writing One's Mind",
-        "An Idiot&apos;s Guide to Murder",
         "Annie Wobbler (Revisited)",
         "August McEachern: Be My Friend",
         "Bad Boy",
@@ -430,16 +412,13 @@
         "Chief Petty Officer",
         "Churchill&apos;s Urinal",
         "Cricket &#038; The Freebugs",
-        "Dan Rath: Help Me Please",
         "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Dracula: Lucy's Dream",
         "Dragon Tales",
         "Dru Cripps: Juicy Bits",
         "Emily Wilson: Escape from America",
         "Everybody's Got a Bomb",
-        "Extra Dry",
         "Gameplay",
-        "Garry Starr: Classic Penguins",
         "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
         "Harun Musho&apos;d: A History of the Last Conservative Government, In Their Own Stupid Words",
         "Holmes/Shah",
@@ -457,7 +436,6 @@
         "Jody Kamali: This is My Dad",
         "Jordan Brookes: The Part of You That’s Always Screaming",
         "Jules Oakes: Fragile",
-        "Julian Clary: Fully Dilated",
         "Just Blokes",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
@@ -471,24 +449,19 @@
         "Murder, She Didn&apos;t Write",
         "Natalie and I",
         "Nerine Skinner: Decisions Decisions WIP",
-        "Octopus",
         "Of Mice And Men",
         "Ostrich",
-        "Other",
         "Other People",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Parkies",
         "Patrick Monahan: I&apos;m Not A Terrorist - I&apos;m Freddie Mercury",
-        "Paul Currie: REMOVE YOUR SKIN PLEASE",
         "Pilate: The Lost Gospel",
-        "Police Cops: The Original",
         "Quentin Blake's Mrs Armitage on Wheels",
+        "Richard Pulsford: Gold Fashioned Jokes",
         "Rob Kemp: Beatlesjuice",
         "Sam Morrison: DUCK",
         "Sam Serrano: Mars",
         "Shamaniac",
-        "She/They",
-        "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
         "Simon Evans: Shadow Play",
         "Smile, It Might Never Happen",
         "Snow",
@@ -497,8 +470,6 @@
         "Spare Room",
         "Spooky Dookie: Cool New Planet!!",
         "Steak Out",
-        "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
-        "Struan Logan: Chaotic Good",
         "Stuart Goldsmith: Canary",
         "Swan Song",
         "Taiwan Season: Birthday Party",
@@ -515,14 +486,12 @@
         "This Little Thing of Ours",
         "Tom Evans: All You Weed Is Love",
         "Tori Morancay: Le French c&apos;est Freak",
-        "Turn This Sh*t Off",
         "Turn the Screw, Tickety-Boo",
         "Viggo Venn: Only One",
         "What Happens in the Dark",
         "Will & Noah: Dinner Dinner Chicken Winner",
         "Will Sebag-Montefiore: Game of Phones",
-        "You and Me (and Whoever Comes Next)",
-        "hame. teeth. CLUB."
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
