@@ -2,31 +2,55 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T10:20:50.900Z",
-      "completedAt": "2026-08-17T10:20:50.900Z",
+      "id": "2026-08-17T11:15:51.844Z",
+      "completedAt": "2026-08-17T11:15:51.844Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 849,
-      "totalNotices": 1979,
-      "defaultVisible": 461,
+      "totalShows": 821,
+      "totalNotices": 1939,
+      "defaultVisible": 452,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T10:11:30.171Z",
-      "windowEndedAt": "2026-08-17T10:20:50.900Z",
-      "windowCoverageHours": 24.2,
+      "windowStartedAt": "2026-08-16T11:11:46.314Z",
+      "windowEndedAt": "2026-08-17T11:15:51.844Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 395,
-      "newShows": 74,
-      "enteredRanking": 46,
+      "newReviews": 390,
+      "newShows": 48,
+      "enteredRanking": 47,
       "newOutlets": [],
       "movers": [
         {
+          "title": "Hole!",
+          "previousScore": 83,
+          "currentScore": 70,
+          "delta": -13,
+          "previousReviews": 8,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 70,
+          "delta": 13,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
+        {
           "title": "Only Bones - Daniel Nodder",
+          "previousScore": 89,
+          "currentScore": 77,
+          "delta": -12,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "STAY",
           "previousScore": 89,
           "currentScore": 77,
           "delta": -12,
@@ -42,12 +66,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Gyles Brandreth: Up Memory Lane!",
-          "previousScore": 72,
-          "currentScore": 66,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 76,
+          "currentScore": 70,
           "delta": -6,
-          "previousReviews": 5,
-          "currentReviews": 7
+          "previousReviews": 6,
+          "currentReviews": 8
         },
         {
           "title": "The Pitch",
@@ -74,14 +98,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Steak Out",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Brick",
           "previousScore": 57,
           "currentScore": 63,
@@ -98,28 +114,12 @@
           "currentReviews": 5
         },
         {
-          "title": "MUSE: The Shakespeare Mayhem Musical",
-          "previousScore": 70,
-          "currentScore": 65,
+          "title": "Evaldas Karosas: A Very Capable Man",
+          "previousScore": 82,
+          "currentScore": 77,
           "delta": -5,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "Jess Robinson: Elton Reimagined",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 67,
-          "currentScore": 72,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -127,6 +127,11 @@
           "title": "MC Hammersmith: Ice Ice Nepo Baby",
           "score": 89,
           "reviews": 3
+        },
+        {
+          "title": "Danny O'Brien: Sure Look, Be Grand.",
+          "score": 89,
+          "reviews": 2
         },
         {
           "title": "Frisky's Remix Roulette",
@@ -159,11 +164,6 @@
           "reviews": 2
         },
         {
-          "title": "Amnesia",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Furniture Boys",
           "score": 83,
           "reviews": 2
@@ -174,24 +174,44 @@
           "reviews": 2
         },
         {
+          "title": "Stuart Goldsmith: Canary",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Amnesia",
+          "score": 82,
+          "reviews": 3
+        },
+        {
           "title": "...Earnest?",
           "score": 80,
           "reviews": 3
         },
         {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Silky in 'No, YOU'RE Poster Syndrome'",
           "score": 79,
           "reviews": 2
+        },
+        {
+          "title": "John Robertson: Excitable Boy!",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "Sami Abu Wardeh Hates You",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "Steak Out",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "Toast",
+          "score": 77,
+          "reviews": 3
         },
         {
           "title": "Sophie Garrad: A Period Drama",
@@ -210,16 +230,6 @@
         },
         {
           "title": "Gareth Waugh: Is Pepsi OK?",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "John Robertson: Excitable Boy!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -274,7 +284,12 @@
           "reviews": 2
         },
         {
-          "title": "Top Gunchained",
+          "title": "The Only Man Who Won't F*ck Me",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Sam Morrison: DUCK",
           "score": 75,
           "reviews": 3
         },
@@ -284,22 +299,12 @@
           "reviews": 2
         },
         {
-          "title": "Sam Morrison: DUCK",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Grimm AF",
-          "score": 72,
-          "reviews": 3
-        },
-        {
           "title": "Bad Boy",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "Camelton",
+          "title": "Mark Vigeant: OUT THERE",
           "score": 70,
           "reviews": 2
         },
@@ -314,17 +319,7 @@
           "reviews": 2
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
-          "score": 68,
-          "reviews": 3
-        },
-        {
           "title": "And The Little One Said",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
@@ -349,6 +344,16 @@
           "reviews": 3
         },
         {
+          "title": "The Buddha Wears Prada",
+          "score": 58,
+          "reviews": 3
+        },
+        {
+          "title": "Tori Morancay: Le French c'est Freak",
+          "score": 58,
+          "reviews": 3
+        },
+        {
           "title": "The Toe Poke",
           "score": 57,
           "reviews": 2
@@ -364,7 +369,6 @@
         "Abi Carter-Simpson and Joe McTernan: Stand-up Couple",
         "Aditya Mayya Pretends to Be Sad",
         "After Party",
-        "Alex Camp: Dopamine Rat",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Big Stuff",
@@ -387,8 +391,8 @@
         "Emily Wilson: Escape from America",
         "Everybody's Got a Bomb",
         "Gameplay",
+        "Geoffrey Asmus: Patriautism",
         "Gregor Fisher: An (Early) Evening With Gregor Fisher",
-        "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
         "Hard Pill",
         "Harun Musho&apos;d: A History of the Last Conservative Government, In Their Own Stupid Words",
         "High Heels from the Big Boot",
@@ -397,12 +401,10 @@
         "Improbotics Presents: Artificial Reality",
         "Impromptunes - The Completely Improvised Musical",
         "In Butter (WIP)",
-        "It&apos;s Always Sunny on Olympus",
         "Jack Docherty: Butterfly",
         "Jack Whitehall: Work in Progress",
         "Japanese Grandma Funeral",
         "Jeromaia Detto: Giuseppe&apos;s Love Quest",
-        "Jordan Brookes: The Part of You That’s Always Screaming",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
         "MC Hammersmith: Ice Ice Nepo Baby",
@@ -411,7 +413,6 @@
         "Moment of Connection with a Smile",
         "Murder, She Didn&apos;t Write",
         "Natalie and I",
-        "Nerine Skinner: Decisions Decisions WIP",
         "No Hard Felix",
         "Of Mice And Men",
         "Paddy Young: Will Sir Be Laughing Alone?",
@@ -433,6 +434,7 @@
         "Soft Spot",
         "Space In Between",
         "Spare Room",
+        "Splash Test Dummies Circus",
         "Steak Out",
         "Stuart Goldsmith: Canary",
         "Taiwan Season: Birthday Party",
@@ -445,13 +447,13 @@
         "The Singer",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Woman in the Mirror",
-        "The Yellow Wallpaper",
         "Third Party",
         "Tori Morancay: Le French c&apos;est Freak",
         "Viggo Venn: Only One",
-        "Will Sebag-Montefiore: Game of Phones",
+        "Wiener Beacon",
         "You Are What You Eat",
-        "You and Me (and Whoever Comes Next)"
+        "You and Me (and Whoever Comes Next)",
+        "Your Choice Amanda Royce"
       ]
     }
   ]
