@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T14:16:43.592Z",
-      "completedAt": "2026-08-17T14:16:43.592Z",
+      "id": "2026-08-17T15:15:35.244Z",
+      "completedAt": "2026-08-17T15:15:35.244Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 832,
-      "totalNotices": 1973,
-      "defaultVisible": 459,
-      "duplicates": 0,
+      "totalShows": 844,
+      "totalNotices": 2030,
+      "defaultVisible": 468,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T14:13:44.648Z",
-      "windowEndedAt": "2026-08-17T14:16:43.592Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-16T15:10:37.359Z",
+      "windowEndedAt": "2026-08-17T15:15:35.244Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 371,
-      "newShows": 48,
-      "enteredRanking": 39,
+      "newReviews": 417,
+      "newShows": 66,
+      "enteredRanking": 48,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 63,
+          "currentScore": 76,
+          "delta": 13,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 70,
+          "delta": 13,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
         {
           "title": "Only Bones - Daniel Nodder",
           "previousScore": 89,
@@ -36,10 +52,18 @@
         {
           "title": "STAY",
           "previousScore": 89,
-          "currentScore": 77,
-          "delta": -12,
+          "currentScore": 78,
+          "delta": -11,
           "previousReviews": 2,
-          "currentReviews": 3
+          "currentReviews": 4
+        },
+        {
+          "title": "HR The Musical",
+          "previousScore": 87,
+          "currentScore": 78,
+          "delta": -9,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "...Earnest?",
@@ -58,20 +82,20 @@
           "currentReviews": 3
         },
         {
+          "title": "Rory Marshall: Thank You for the Opportunity",
+          "previousScore": 68,
+          "currentScore": 74,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
           "title": "The Pitch",
           "previousScore": 72,
           "currentScore": 78,
           "delta": 6,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "The Shocking Truth About Flat Earth",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
         },
         {
           "title": "Brick",
@@ -82,12 +106,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 57,
-          "currentScore": 63,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 76,
+          "currentScore": 71,
+          "delta": -5,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
           "title": "EVITA TOO",
@@ -96,38 +120,9 @@
           "delta": 5,
           "previousReviews": 4,
           "currentReviews": 6
-        },
-        {
-          "title": "Jitters",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Evaldas Karosas: A Very Capable Man",
-          "previousScore": 82,
-          "currentScore": 77,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 70,
-          "currentScore": 75,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
-        {
-          "title": "MC Hammersmith: Ice Ice Nepo Baby",
-          "score": 89,
-          "reviews": 3
-        },
         {
           "title": "Danny O'Brien: Sure Look, Be Grand.",
           "score": 89,
@@ -159,6 +154,11 @@
           "reviews": 2
         },
         {
+          "title": "An American (Not) in Paris",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Furniture Boys",
           "score": 83,
           "reviews": 2
@@ -179,9 +179,9 @@
           "reviews": 3
         },
         {
-          "title": "One Man Musical",
-          "score": 81,
-          "reviews": 5
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
         },
         {
           "title": "John Robertson: Excitable Boy!",
@@ -189,14 +189,24 @@
           "reviews": 3
         },
         {
+          "title": "Playback",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "Paddy Young: Will Sir Be Laughing Alone?",
+          "score": 77,
+          "reviews": 2
+        },
+        {
           "title": "Sophie Garrad: A Period Drama",
           "score": 77,
           "reviews": 2
         },
         {
-          "title": "Patrick Monahan: I'm Not A Terrorist - I'm Freddie Mercury",
+          "title": "116 Grams: A Play to Lose Weight",
           "score": 76,
-          "reviews": 5
+          "reviews": 2
         },
         {
           "title": "Alfie Brown: The Entertainer",
@@ -264,7 +274,27 @@
           "reviews": 2
         },
         {
+          "title": "If We Really Were Witches",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Bad Boy",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Chief Petty Officer",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "FORIEGNER",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
           "score": 70,
           "reviews": 2
         },
@@ -279,7 +309,7 @@
           "reviews": 2
         },
         {
-          "title": "Playback",
+          "title": "Mark Vigeant: OUT THERE",
           "score": 70,
           "reviews": 2
         },
@@ -304,6 +334,11 @@
           "reviews": 2
         },
         {
+          "title": "Tap Out! (Or I'll Hit You Again)",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Under the Influence",
           "score": 64,
           "reviews": 2
@@ -317,23 +352,38 @@
           "title": "The Toe Poke",
           "score": 57,
           "reviews": 2
+        },
+        {
+          "title": "Improbotics Presents: Artificial Reality",
+          "score": 51,
+          "reviews": 2
+        },
+        {
+          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
+          "score": 51,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
+        "(2026 Greek Comedian of the Year) George Zacharopoulos: The Meaning of Life (Maybe)",
         "0 BC: Before Crisis",
         "44 Minutes",
         "90s Magic Throwback with Chris Fleming",
         "A Clown's Lullaby",
         "Abandoman: Afterglow",
+        "Abbie Edwards: Knee Touch",
         "Aditya Mayya Pretends to Be Sad",
         "After Party",
+        "Am I Losing My Mind Or Just My Figure?",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Big Stuff",
         "Billy Kirkwood: Mayhem",
+        "Bite Me Comedy",
         "Bloody Knees",
         "Boy in a Box",
         "Brendan Scannell: The Abyss",
+        "Broadguess",
         "Burger and a Pint: Treats for the Soul",
         "Camelton",
         "Charming! The Musical",
@@ -342,6 +392,7 @@
         "Collaborator",
         "Cricket &#038; The Freebugs",
         "Delusions and Grandeur",
+        "Detective Heartbreak",
         "Dinner With the Wolves",
         "Dom McGovern: Prize Hog",
         "Dracula: Lucy's Dream",
@@ -350,6 +401,8 @@
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
         "Eva Peroni",
         "Everybody's Got a Bomb",
+        "FUCCBOIS: LIVE IN CONCERT",
+        "Frenchy: The Instigator",
         "Gameplay",
         "Garry Starr: Classic Penguins",
         "Geoffrey Asmus: Patriautism",
@@ -371,7 +424,7 @@
         "Jonathan Rudge: Stay at Home Son",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
-        "MC Hammersmith: Ice Ice Nepo Baby",
+        "MAJENIN – A Palestinian Love Story",
         "Man or Bear",
         "Mark Simmons: Jokes At Noon",
         "Maxx Eddy: Bi Meets World",
@@ -381,13 +434,12 @@
         "Natalie and I",
         "No Hard Felix",
         "Of Mice And Men",
-        "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
-        "Patrick Monahan: I&apos;m Not A Terrorist - I&apos;m Freddie Mercury",
         "Paul Hilleard",
         "Paul Savage: Comic, Relieved",
         "Phil Cooper: Deckchair",
         "Pilate: The Lost Gospel",
+        "Platformed",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Richard Pulsford: Gold Fashioned Jokes",
         "Rob Kemp: Beatlesjuice",
@@ -403,13 +455,17 @@
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Jolly Fisherman",
+        "The Last Funny Woman",
         "The Mr Thing Show",
         "The Past",
+        "The Pigeon Factory",
         "The Proposal",
         "The Singer",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Woman in the Mirror",
         "Third Party",
+        "Tom Little in His Comfort Zone",
+        "Twonkey&apos;s Soft December Night in Tallahassee",
         "Viggo Venn: Only One",
         "Wiener Beacon",
         "You Are What You Eat",
