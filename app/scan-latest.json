@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T12:17:05.884Z",
-      "completedAt": "2026-08-17T12:17:05.884Z",
+      "id": "2026-08-17T13:31:56.854Z",
+      "completedAt": "2026-08-17T13:31:56.854Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 831,
-      "totalNotices": 1967,
+      "totalShows": 830,
+      "totalNotices": 1969,
       "defaultVisible": 459,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T12:13:21.384Z",
-      "windowEndedAt": "2026-08-17T12:17:05.884Z",
+      "windowStartedAt": "2026-08-16T13:23:35.656Z",
+      "windowEndedAt": "2026-08-17T13:31:56.854Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 401,
-      "newShows": 50,
-      "enteredRanking": 44,
+      "newReviews": 372,
+      "newShows": 45,
+      "enteredRanking": 36,
       "newOutlets": [],
       "movers": [
         {
@@ -38,6 +38,14 @@
           "previousScore": 89,
           "currentScore": 77,
           "delta": -12,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "...Earnest?",
+          "previousScore": 73,
+          "currentScore": 80,
+          "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -58,14 +66,6 @@
           "currentReviews": 4
         },
         {
-          "title": "The Wolf of Poyais",
-          "previousScore": 73,
-          "currentScore": 67,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "The Shocking Truth About Flat Earth",
           "previousScore": 76,
           "currentScore": 82,
@@ -82,20 +82,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 63,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "Gareth Mutch Means Well",
-          "previousScore": 62,
-          "currentScore": 67,
+          "title": "EVITA TOO",
+          "previousScore": 81,
+          "currentScore": 86,
           "delta": 5,
           "previousReviews": 4,
-          "currentReviews": 5
+          "currentReviews": 6
         },
         {
           "title": "Jitters",
@@ -124,11 +124,6 @@
       ],
       "newEntries": [
         {
-          "title": "MC Hammersmith: Ice Ice Nepo Baby",
-          "score": 89,
-          "reviews": 3
-        },
-        {
           "title": "Danny O'Brien: Sure Look, Be Grand.",
           "score": 89,
           "reviews": 2
@@ -151,11 +146,6 @@
         {
           "title": "Craig Hill: You're Not Even Safe Up the Back!",
           "score": 86,
-          "reviews": 2
-        },
-        {
-          "title": "Adam Riches: The Captain",
-          "score": 83,
           "reviews": 2
         },
         {
@@ -184,16 +174,6 @@
           "reviews": 3
         },
         {
-          "title": "...Earnest?",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "John Robertson: Excitable Boy!",
           "score": 77,
           "reviews": 3
@@ -215,11 +195,6 @@
         },
         {
           "title": "Gareth Waugh: Is Pepsi OK?",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Katie Boyle: Irish Immigrant",
           "score": 76,
           "reviews": 2
         },
@@ -259,11 +234,6 @@
           "reviews": 2
         },
         {
-          "title": "The Joker and The Thief",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "The Listies: 110% Ready",
           "score": 76,
           "reviews": 2
@@ -274,17 +244,22 @@
           "reviews": 2
         },
         {
-          "title": "Sam Morrison: DUCK",
-          "score": 75,
-          "reviews": 3
-        },
-        {
           "title": "Good Boy",
           "score": 73,
           "reviews": 2
         },
         {
           "title": "Bad Boy",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Kemah Bob: Love Child",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
           "score": 70,
           "reviews": 2
         },
@@ -309,11 +284,6 @@
           "reviews": 2
         },
         {
-          "title": "Gareth Gwynn: Cyril",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Impromptunes: The Completely Improvised Musical",
           "score": 64,
           "reviews": 2
@@ -324,19 +294,9 @@
           "reviews": 2
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "score": 63,
-          "reviews": 3
-        },
-        {
           "title": "BASIC BALD B*TCH",
           "score": 58,
           "reviews": 3
-        },
-        {
-          "title": "Parking Spot: The Musical!",
-          "score": 57,
-          "reviews": 2
         },
         {
           "title": "The Toe Poke",
@@ -349,9 +309,7 @@
         "44 Minutes",
         "90s Magic Throwback with Chris Fleming",
         "A Clown's Lullaby",
-        "ALOK: Eat Pray Leave",
         "Abandoman: Afterglow",
-        "Abi Carter-Simpson and Joe McTernan: Stand-up Couple",
         "Aditya Mayya Pretends to Be Sad",
         "After Party",
         "An Audience with Virginia Woolf: Writing One's Mind",
@@ -368,7 +326,6 @@
         "Churchill&apos;s Urinal",
         "Collaborator",
         "Cricket &#038; The Freebugs",
-        "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Delusions and Grandeur",
         "Dinner With the Wolves",
         "Dom McGovern: Prize Hog",
@@ -376,7 +333,6 @@
         "Dragon Tales",
         "Dru Cripps: Juicy Bits",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
-        "Emily Wilson: Escape from America",
         "Everybody's Got a Bomb",
         "Gameplay",
         "Garry Starr: Classic Penguins",
@@ -394,13 +350,13 @@
         "In Butter (WIP)",
         "Jack Docherty: Butterfly",
         "Jack Whitehall: Work in Progress",
-        "Japanese Grandma Funeral",
         "Jason Byrne: 30 Years Byrning",
         "Jeromaia Detto: Giuseppe&apos;s Love Quest",
         "Jonathan Rudge: Stay at Home Son",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
         "MC Hammersmith: Ice Ice Nepo Baby",
+        "Man or Bear",
         "Mark Simmons: Jokes At Noon",
         "Maxx Eddy: Bi Meets World",
         "Midsummer!",
@@ -422,7 +378,6 @@
         "Shamaniac",
         "Shoot From The Hip",
         "Simon Evans: Shadow Play",
-        "Smile, It Might Never Happen",
         "Snow",
         "Soft Spot",
         "Space In Between",
