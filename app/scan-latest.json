@@ -2,43 +2,43 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T16:18:20.672Z",
-      "completedAt": "2026-08-18T16:18:20.672Z",
+      "id": "2026-08-18T17:17:20.230Z",
+      "completedAt": "2026-08-18T17:17:20.230Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 918,
-      "totalNotices": 2292,
-      "defaultVisible": 518,
+      "totalShows": 906,
+      "totalNotices": 2271,
+      "defaultVisible": 515,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T16:13:35.964Z",
-      "windowEndedAt": "2026-08-18T16:18:20.672Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-17T17:16:01.999Z",
+      "windowEndedAt": "2026-08-18T17:17:20.230Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 347,
-      "newShows": 64,
-      "enteredRanking": 46,
+      "newReviews": 340,
+      "newShows": 50,
+      "enteredRanking": 41,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 76,
-          "currentScore": 62,
-          "delta": -14,
-          "previousReviews": 2,
-          "currentReviews": 4
-        },
         {
           "title": "Amelia Hamilton: Moral Support",
           "previousScore": 87,
           "currentScore": 77,
           "delta": -10,
           "previousReviews": 3,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 70,
+          "currentScore": 63,
+          "delta": -7,
+          "previousReviews": 2,
           "currentReviews": 3
         },
         {
@@ -58,20 +58,12 @@
           "currentReviews": 3
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 82,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 71,
           "currentScore": 76,
-          "delta": -6,
-          "previousReviews": 4,
-          "currentReviews": 2
-        },
-        {
-          "title": "Amanda Knox: Cartwheel",
-          "previousScore": 61,
-          "currentScore": 66,
           "delta": 5,
-          "previousReviews": 8,
-          "currentReviews": 10
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
           "title": "The Wolf of Poyais",
@@ -82,12 +74,20 @@
           "currentReviews": 5
         },
         {
-          "title": "Alexander Bennett: All It Takes",
-          "previousScore": 73,
-          "currentScore": 68,
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 82,
+          "currentScore": 77,
           "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 4
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "previousScore": 61,
+          "currentScore": 65,
+          "delta": 4,
+          "previousReviews": 8,
+          "currentReviews": 9
         },
         {
           "title": "Michael John Ciszewski: Mother, Superior",
@@ -174,16 +174,6 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Couplet: Folk Marry Kill",
           "score": 79,
           "reviews": 2
@@ -199,16 +189,6 @@
           "reviews": 2
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "score": 77,
-          "reviews": 3
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Am I Losing My Mind Or Just My Figure?",
           "score": 76,
           "reviews": 2
@@ -219,12 +199,12 @@
           "reviews": 2
         },
         {
-          "title": "The Durham Revue: Raiders of the Lost Laughs",
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "The Ghost of White Hart Lane",
+          "title": "The Durham Revue: Raiders of the Lost Laughs",
           "score": 76,
           "reviews": 2
         },
@@ -265,11 +245,6 @@
         },
         {
           "title": "Asian, But Wrong",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Camelton",
           "score": 70,
           "reviews": 2
         },
@@ -378,7 +353,6 @@
         "Diary of a Mad Man",
         "Do You Wanna Go?",
         "Dogberry and Verges Are Scared",
-        "Dracula: Lucy's Dream",
         "Dragon Tales",
         "Dystopia 26: The Rock Opera",
         "Eat Pray Cult",
@@ -434,7 +408,6 @@
         "Time Travel Postman",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
         "Tony Cantwell: You Cry Weird",
-        "You and Me (and Whoever Comes Next)",
         "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser",
         "not for glory"
       ]
