@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T13:35:24.288Z",
-      "completedAt": "2026-08-18T13:35:24.288Z",
+      "id": "2026-08-18T14:21:33.235Z",
+      "completedAt": "2026-08-18T14:21:33.235Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 885,
-      "totalNotices": 2223,
-      "defaultVisible": 507,
-      "duplicates": 1,
+      "totalShows": 889,
+      "totalNotices": 2244,
+      "defaultVisible": 513,
+      "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T13:31:56.854Z",
-      "windowEndedAt": "2026-08-18T13:35:24.288Z",
+      "windowStartedAt": "2026-08-17T14:16:43.592Z",
+      "windowEndedAt": "2026-08-18T14:21:33.235Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 375,
-      "newShows": 55,
-      "enteredRanking": 48,
+      "newReviews": 395,
+      "newShows": 57,
+      "enteredRanking": 55,
       "newOutlets": [],
       "movers": [
         {
@@ -82,6 +82,14 @@
           "currentReviews": 4
         },
         {
+          "title": "My Grandpa Doesn't Follow Me On Instagram",
+          "previousScore": 76,
+          "currentScore": 82,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "How to Art",
           "previousScore": 76,
           "currentScore": 71,
@@ -112,24 +120,11 @@
           "delta": -5,
           "previousReviews": 2,
           "currentReviews": 4
-        },
-        {
-          "title": "Bliss",
-          "previousScore": 71,
-          "currentScore": 67,
-          "delta": -4,
-          "previousReviews": 11,
-          "currentReviews": 14
         }
       ],
       "newEntries": [
         {
           "title": "Dogberry and Verges Are Scared",
-          "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Sh!t-faced Shakespeare®: Hamlet",
           "score": 89,
           "reviews": 2
         },
@@ -189,8 +184,18 @@
           "reviews": 3
         },
         {
+          "title": "Sh!t-faced Shakespeare®: Hamlet",
+          "score": 82,
+          "reviews": 3
+        },
+        {
           "title": "Hudson Hughes: At Your Service",
           "score": 82,
+          "reviews": 2
+        },
+        {
+          "title": "Couplet: Folk Marry Kill",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -219,6 +224,11 @@
           "reviews": 2
         },
         {
+          "title": "Kate Dolan: Trout",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Raj Poojara: Dice",
           "score": 76,
           "reviews": 2
@@ -234,7 +244,17 @@
           "reviews": 2
         },
         {
+          "title": "The Ghost of White Hart Lane",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "The Reunion",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "The Woman in the Mirror",
           "score": 76,
           "reviews": 2
         },
@@ -299,7 +319,17 @@
           "reviews": 2
         },
         {
+          "title": "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "The Last Days of Trump (A Liberal Fantasy)",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Will Sebag-Montefiore: Game of Phones",
           "score": 70,
           "reviews": 2
         },
@@ -332,6 +362,11 @@
           "title": "Stanislavski Can't Save Me From The Apocalypse",
           "score": 63,
           "reviews": 3
+        },
+        {
+          "title": "Eric's Tales of the Sea - A Submariner's Yarn",
+          "score": 61,
+          "reviews": 2
         },
         {
           "title": "The Man Who Said Too Much",
@@ -371,6 +406,7 @@
         "44 Minutes",
         "A Clown's Lullaby",
         "Abbie Edwards: Knee Touch",
+        "Adam Bromley: Hyperconnected",
         "After Party",
         "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
@@ -379,6 +415,7 @@
         "Annie Wobbler (Revisited)",
         "Aoife Dunne: Good Grief",
         "BATSU!",
+        "Ben&apos;s Book Club",
         "Bite Me Comedy",
         "Brendan Scannell: The Abyss",
         "Britain&apos;s Got Nonsense",
@@ -401,13 +438,15 @@
         "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
         "Eight",
+        "Emma Holland: The Dog Dies at the Start",
         "Escape Room: The Musical",
-        "Eva Peroni",
         "Everybody's Got a Bomb",
+        "Excel Comedy and Mathem-antics",
         "FUCCBOIS: LIVE IN CONCERT",
         "Fempaths: Transistor Radio Hour",
         "Frenchy: The Instigator",
         "Gameplay",
+        "Harriet Richardson",
         "Heart Beats Strong",
         "High Heels from the Big Boot",
         "I Almost Died for This?! (A love story. Sort of.)",
@@ -419,6 +458,7 @@
         "Kanpur: 1857",
         "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
         "LOLyamorous: A Speed-Dating Comedy Show",
+        "Lorna Rose Treen: Now That&apos;s What I Call Characters",
         "MAJENIN – A Palestinian Love Story",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
@@ -427,12 +467,12 @@
         "Nina&apos;s C*nti Cabaret",
         "Of Mice And Men",
         "Olivia Xing: Baby of Colour",
-        "Paul Hilleard",
         "Peggy Day",
         "Pilate: The Lost Gospel",
         "Platformed",
         "Quentin Blake's Mrs Armitage on Wheels",
         "SAND",
+        "Sami Abu Wardeh",
         "Scout Boxall: God’s Favourite",
         "Sean Morley",
         "Shamaniac",
@@ -441,11 +481,13 @@
         "Soft Spot",
         "Solve-Along-A-Murder-She-Wrote",
         "Space In Between",
+        "Steffen Haanes: The Master",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Ted Hill: PowerPoindexter",
         "Thank You for the Muesli",
         "The Breakup Variety Hour",
+        "The Ghost of White Hart Lane",
         "The Jolly Fisherman",
         "The Last Funny Woman",
         "The Pigeon Factory",
