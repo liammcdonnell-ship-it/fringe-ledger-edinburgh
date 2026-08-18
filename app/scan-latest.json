@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T07:28:36.556Z",
-      "completedAt": "2026-08-18T07:28:36.556Z",
+      "id": "2026-08-18T08:21:27.754Z",
+      "completedAt": "2026-08-18T08:21:27.754Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 864,
-      "totalNotices": 2126,
-      "defaultVisible": 485,
+      "totalShows": 874,
+      "totalNotices": 2150,
+      "defaultVisible": 491,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T07:42:20.872Z",
-      "windowEndedAt": "2026-08-18T07:28:36.556Z",
-      "windowCoverageHours": 23.8,
+      "windowStartedAt": "2026-08-17T08:29:43.533Z",
+      "windowEndedAt": "2026-08-18T08:21:27.754Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 426,
-      "newShows": 34,
+      "newReviews": 432,
+      "newShows": 43,
       "enteredRanking": 52,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 76,
+          "currentScore": 62,
+          "delta": -14,
+          "previousReviews": 2,
+          "currentReviews": 4
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 70,
+          "delta": 13,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
         {
           "title": "Only Bones - Daniel Nodder",
           "previousScore": 89,
@@ -74,6 +90,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 76,
+          "currentScore": 70,
+          "delta": -6,
+          "previousReviews": 6,
+          "currentReviews": 8
+        },
+        {
           "title": "Rory Marshall: Thank You for the Opportunity",
           "previousScore": 68,
           "currentScore": 74,
@@ -94,30 +118,6 @@
           "previousScore": 72,
           "currentScore": 78,
           "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "How to Art",
-          "previousScore": 76,
-          "currentScore": 71,
-          "delta": -5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Ben Hart: The Labyrinth",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
         }
@@ -144,6 +144,11 @@
           "reviews": 2
         },
         {
+          "title": "Smile: The Charlie Chaplin Story",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Stand Up If You're Here Tonight",
           "score": 89,
           "reviews": 2
@@ -151,11 +156,6 @@
         {
           "title": "Craig Hill: You're Not Even Safe Up the Back!",
           "score": 86,
-          "reviews": 2
-        },
-        {
-          "title": "Ali Brice: This Is The Way We Brush Our Teeth",
-          "score": 83,
           "reviews": 2
         },
         {
@@ -189,6 +189,11 @@
           "reviews": 2
         },
         {
+          "title": "The Tom Brace Magic Hour",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "score": 83,
           "reviews": 2
@@ -206,6 +211,11 @@
         {
           "title": "Hudson Hughes: At Your Service",
           "score": 82,
+          "reviews": 2
+        },
+        {
+          "title": "Katie Norris: Mother Succubus",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -234,16 +244,6 @@
           "reviews": 2
         },
         {
-          "title": "Big Stuff",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Gareth Waugh: Is Pepsi OK?",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Raj Poojara: Dice",
           "score": 76,
           "reviews": 2
@@ -254,17 +254,7 @@
           "reviews": 2
         },
         {
-          "title": "Sad Bride",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Sarah Bradley: How to Write a Romcom",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Tartan Tabletop: A Dungeons & Dragons Comedy",
           "score": 76,
           "reviews": 2
         },
@@ -299,12 +289,27 @@
           "reviews": 3
         },
         {
+          "title": "Struan Logan: Chaotic Good",
+          "score": 71,
+          "reviews": 2
+        },
+        {
+          "title": "Abbie Edwards: Knee Touch",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Amy Annette: Say What You Like About Me",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Bad Boy",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Doris, Dolly and the Dressing Room Divas",
           "score": 70,
           "reviews": 2
         },
@@ -322,6 +327,11 @@
           "title": "The Last Days of Trump (A Liberal Fantasy)",
           "score": 70,
           "reviews": 2
+        },
+        {
+          "title": "Churchill's Urinal",
+          "score": 68,
+          "reviews": 3
         },
         {
           "title": "And The Little One Said",
@@ -344,11 +354,6 @@
           "reviews": 2
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "score": 63,
-          "reviews": 3
-        },
-        {
           "title": "The Man Who Said Too Much",
           "score": 61,
           "reviews": 2
@@ -357,11 +362,6 @@
           "title": "BASIC BALD B*TCH",
           "score": 58,
           "reviews": 3
-        },
-        {
-          "title": "Churchill's Urinal",
-          "score": 57,
-          "reviews": 2
         },
         {
           "title": "The Toe Poke",
@@ -397,6 +397,7 @@
         "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "An Audience with Virginia Woolf: Writing One's Mind",
+        "Andrew O&apos;Neill: A Short, Aggressive Lecture On Krill. Then Jokes",
         "Annie Wobbler (Revisited)",
         "Aoife Dunne: Good Grief",
         "BATSU!",
@@ -409,6 +410,7 @@
         "Cerys Bradley: On Road Signs WIP",
         "Collaborator",
         "Cricket &#038; The Freebugs",
+        "David Alnwick: Magician. Not Creepy.",
         "Delusions and Grandeur",
         "Detective Heartbreak",
         "Dinner With the Wolves",
@@ -445,6 +447,7 @@
         "Jonathan Rudge: Stay at Home Son",
         "Kanpur: 1857",
         "Katie Norris: Mother Succubus",
+        "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
         "LOLyamorous: A Speed-Dating Comedy Show",
         "MAJENIN – A Palestinian Love Story",
         "Man or Bear",
@@ -454,6 +457,7 @@
         "Moment of Connection with a Smile",
         "Moth and Dog Are Dying to Get Out",
         "My Date with Pierce Brosnan",
+        "Nina&apos;s C*nti Cabaret",
         "No Hard Felix",
         "Of Mice And Men",
         "Olivia Xing: Baby of Colour",
@@ -464,7 +468,6 @@
         "Pilate: The Lost Gospel",
         "Platformed",
         "Quentin Blake's Mrs Armitage on Wheels",
-        "Richard Pulsford: Gold Fashioned Jokes",
         "SAND",
         "Scout Boxall: God’s Favourite",
         "Sean Morley",
@@ -474,6 +477,7 @@
         "Shoot From The Hip",
         "Snow",
         "Soft Spot",
+        "Solve-Along-A-Murder-She-Wrote",
         "Space In Between",
         "Splash Test Dummies Circus",
         "Taiwan Season: Birthday Party",
@@ -487,6 +491,7 @@
         "The Plot",
         "The Singer",
         "The Tao of Lloyd",
+        "The Tom Brace Magic Hour",
         "Third Party",
         "Tia Rey: Oot Ma Banger",
         "Tom Little in His Comfort Zone",
