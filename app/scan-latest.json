@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T03:35:09.641Z",
-      "completedAt": "2026-08-18T03:35:09.641Z",
+      "id": "2026-08-18T04:23:57.159Z",
+      "completedAt": "2026-08-18T04:23:57.159Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 874,
-      "totalNotices": 2137,
+      "totalShows": 862,
+      "totalNotices": 2123,
       "defaultVisible": 486,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T03:39:09.519Z",
-      "windowEndedAt": "2026-08-18T03:35:09.641Z",
+      "windowStartedAt": "2026-08-17T04:30:28.058Z",
+      "windowEndedAt": "2026-08-18T04:23:57.159Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 23,
       "newReviews": 466,
-      "newShows": 60,
-      "enteredRanking": 52,
+      "newShows": 57,
+      "enteredRanking": 53,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 57,
-          "currentScore": 70,
-          "delta": 13,
-          "previousReviews": 2,
-          "currentReviews": 2
-        },
         {
           "title": "Only Bones - Daniel Nodder",
           "previousScore": 89,
@@ -106,12 +98,12 @@
           "currentReviews": 4
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 76,
-          "currentScore": 71,
-          "delta": -5,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 63,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "How to Art",
@@ -120,6 +112,14 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Ben Hart: The Labyrinth",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -299,11 +299,6 @@
           "reviews": 3
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
-          "score": 70,
-          "reviews": 3
-        },
-        {
           "title": "Amy Annette: Say What You Like About Me",
           "score": 70,
           "reviews": 2
@@ -324,6 +319,11 @@
           "reviews": 2
         },
         {
+          "title": "Mark Vigeant: OUT THERE",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "The Last Days of Trump (A Liberal Fantasy)",
           "score": 70,
           "reviews": 2
@@ -340,6 +340,11 @@
         },
         {
           "title": "Tap Out! (Or I'll Hit You Again)",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
           "score": 64,
           "reviews": 2
         },
