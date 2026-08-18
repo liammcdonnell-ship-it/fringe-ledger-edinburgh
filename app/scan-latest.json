@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T20:11:18.268Z",
-      "completedAt": "2026-08-18T20:11:18.268Z",
+      "id": "2026-08-18T21:13:00.780Z",
+      "completedAt": "2026-08-18T21:13:00.780Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 916,
-      "totalNotices": 2316,
-      "defaultVisible": 523,
+      "totalShows": 922,
+      "totalNotices": 2325,
+      "defaultVisible": 524,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T20:13:17.971Z",
-      "windowEndedAt": "2026-08-18T20:11:18.268Z",
+      "windowStartedAt": "2026-08-17T21:15:15.479Z",
+      "windowEndedAt": "2026-08-18T21:13:00.780Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 359,
-      "newShows": 64,
+      "newReviews": 358,
+      "newShows": 65,
       "enteredRanking": 50,
       "newOutlets": [],
       "movers": [
@@ -34,9 +34,9 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 63,
+          "title": "Sh!t-faced Shakespeare®: Hamlet",
+          "previousScore": 89,
+          "currentScore": 82,
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
@@ -64,14 +64,6 @@
           "delta": 5,
           "previousReviews": 8,
           "currentReviews": 10
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
         },
         {
           "title": "Chris Forbes: Father Christmas",
@@ -120,6 +112,14 @@
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Gareth Waugh: Is Pepsi OK?",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -167,11 +167,6 @@
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Sh!t-faced Shakespeare®: Hamlet",
-          "score": 82,
-          "reviews": 3
         },
         {
           "title": "Hudson Hughes: At Your Service",
@@ -279,6 +274,11 @@
           "reviews": 2
         },
         {
+          "title": "Camelton",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Christopher Hall: Pizazz",
           "score": 70,
           "reviews": 2
@@ -375,7 +375,6 @@
         }
       ],
       "newShowTitles": [
-        "0 Hair - Bald Man Sings Rhianna",
         "4 Aussies, For Aussies",
         "44 Minutes",
         "A Clown's Lullaby",
@@ -417,7 +416,6 @@
         "I Am Going to Reveal Something Personal About Myself",
         "INDY!",
         "James Phelan: Showman",
-        "Jamie Kilstein: Can&apos;t Tie Knots",
         "Kanpur: 1857",
         "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
         "LOLyamorous: A Speed-Dating Comedy Show",
@@ -456,6 +454,7 @@
         "Time Travel Postman",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
         "Tony Cantwell: You Cry Weird",
+        "You and Me (and Whoever Comes Next)",
         "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser",
         "not for glory"
       ]
