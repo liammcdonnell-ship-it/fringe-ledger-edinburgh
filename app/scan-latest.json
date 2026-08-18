@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T19:22:33.321Z",
-      "completedAt": "2026-08-18T19:22:33.321Z",
+      "id": "2026-08-18T20:11:18.268Z",
+      "completedAt": "2026-08-18T20:11:18.268Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 899,
-      "totalNotices": 2292,
-      "defaultVisible": 520,
+      "totalShows": 916,
+      "totalNotices": 2316,
+      "defaultVisible": 523,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T19:20:15.507Z",
-      "windowEndedAt": "2026-08-18T19:22:33.321Z",
+      "windowStartedAt": "2026-08-17T20:13:17.971Z",
+      "windowEndedAt": "2026-08-18T20:11:18.268Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 335,
-      "newShows": 30,
-      "enteredRanking": 47,
+      "newReviews": 359,
+      "newShows": 64,
+      "enteredRanking": 50,
       "newOutlets": [],
       "movers": [
         {
@@ -31,6 +31,14 @@
           "currentScore": 77,
           "delta": -10,
           "previousReviews": 3,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 70,
+          "currentScore": 63,
+          "delta": -7,
+          "previousReviews": 2,
           "currentReviews": 3
         },
         {
@@ -48,6 +56,22 @@
           "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "previousScore": 61,
+          "currentScore": 66,
+          "delta": 5,
+          "previousReviews": 8,
+          "currentReviews": 10
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 71,
+          "currentScore": 76,
+          "delta": 5,
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
           "title": "Chris Forbes: Father Christmas",
@@ -96,30 +120,6 @@
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Gareth Waugh: Is Pepsi OK?",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Adele Cliff's Topical Early Late Show With Adele Cliff",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Ed Night: We'll Be Alright Darling",
-          "previousScore": 64,
-          "currentScore": 68,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -179,6 +179,16 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Couplet: Folk Marry Kill",
           "score": 79,
           "reviews": 2
@@ -196,6 +206,11 @@
         {
           "title": "The Breakup Variety Hour",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -230,11 +245,6 @@
         },
         {
           "title": "Thunderstruck",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Top Gunchained",
           "score": 76,
           "reviews": 2
         },
@@ -306,6 +316,11 @@
         {
           "title": "Will Sebag-Montefiore: Game of Phones",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -395,8 +410,10 @@
         "Excel Comedy and Mathem-antics",
         "Fempaths: Transistor Radio Hour",
         "Gameplay",
+        "Grandma&apos;s Shop",
         "Harriet Richardson",
         "Heart Beats Strong",
+        "Holmes/Shah",
         "I Am Going to Reveal Something Personal About Myself",
         "INDY!",
         "James Phelan: Showman",
@@ -412,6 +429,7 @@
         "Nosejob",
         "Of Mice And Men",
         "Olivia Xing: Baby of Colour",
+        "Owl at Home – Theatr Iolo",
         "Peggy Day",
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
