@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-18T17:17:20.230Z",
-      "completedAt": "2026-08-18T17:17:20.230Z",
+      "id": "2026-08-18T18:19:11.240Z",
+      "completedAt": "2026-08-18T18:19:11.240Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 906,
-      "totalNotices": 2271,
-      "defaultVisible": 515,
+      "totalShows": 894,
+      "totalNotices": 2280,
+      "defaultVisible": 518,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-17T17:16:01.999Z",
-      "windowEndedAt": "2026-08-18T17:17:20.230Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-17T18:22:23.998Z",
+      "windowEndedAt": "2026-08-18T18:19:11.240Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 340,
-      "newShows": 50,
-      "enteredRanking": 41,
+      "newReviews": 331,
+      "newShows": 16,
+      "enteredRanking": 47,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 63,
-          "delta": -7,
-          "previousReviews": 2,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 63,
+          "currentScore": 72,
+          "delta": 9,
+          "previousReviews": 3,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 63,
+          "currentScore": 70,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "Temi Wilkey: Lover Girl",
@@ -58,12 +66,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Sydnee Washington: My Black Barbie Story",
+          "previousScore": 83,
+          "currentScore": 77,
+          "delta": -6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousScore": 76,
+          "currentScore": 71,
+          "delta": -5,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Chris Forbes: Father Christmas",
+          "previousScore": 87,
+          "currentScore": 82,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "The Wolf of Poyais",
@@ -72,22 +96,6 @@
           "delta": 5,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 82,
-          "currentScore": 77,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "Amanda Knox: Cartwheel",
-          "previousScore": 61,
-          "currentScore": 65,
-          "delta": 4,
-          "previousReviews": 8,
-          "currentReviews": 9
         },
         {
           "title": "Michael John Ciszewski: Mother, Superior",
@@ -112,19 +120,16 @@
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Gareth Waugh: Is Pepsi OK?",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
           "title": "Dogberry and Verges Are Scared",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Dune! The Musical",
           "score": 89,
           "reviews": 2
         },
@@ -135,6 +140,11 @@
         },
         {
           "title": "Burke'n'Hare: Let the Bodies Hit the Floor",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -187,6 +197,16 @@
           "title": "The Breakup Variety Hour",
           "score": 79,
           "reviews": 2
+        },
+        {
+          "title": "Ted Hill: PowerPoindexter",
+          "score": 77,
+          "reviews": 6
+        },
+        {
+          "title": "I Almost Died for This?! (A love story. Sort of.)",
+          "score": 77,
+          "reviews": 3
         },
         {
           "title": "Am I Losing My Mind Or Just My Figure?",
@@ -249,12 +269,27 @@
           "reviews": 2
         },
         {
+          "title": "Christopher Hall: Pizazz",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Doris, Dolly and the Dressing Room Divas",
           "score": 70,
           "reviews": 2
         },
         {
+          "title": "It's Always Sunny on Olympus",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "John Achkar: His country is collapsing. He's having a baby. So obviously, this is the right year for a Lebanese comedian you've never heard of to try English stand-up for the first time.",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Otto & Astrid: The Stages Tour",
           "score": 70,
           "reviews": 2
         },
@@ -271,11 +306,6 @@
         {
           "title": "Will Sebag-Montefiore: Game of Phones",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
           "reviews": 2
         },
         {
@@ -354,6 +384,7 @@
         "Do You Wanna Go?",
         "Dogberry and Verges Are Scared",
         "Dragon Tales",
+        "Dreamgun Film Reads",
         "Dystopia 26: The Rock Opera",
         "Eat Pray Cult",
         "Eight",
@@ -387,12 +418,12 @@
         "SAND",
         "Sami Abu Wardeh",
         "Scout Boxall: God’s Favourite",
-        "Sean Morley",
         "Shamaniac",
         "Snow",
         "Soft Spot",
         "Solve-Along-A-Murder-She-Wrote",
         "Space In Between",
+        "Star Wars: The Next Generation",
         "Steffen Haanes: The Master",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
@@ -400,10 +431,10 @@
         "The Breakup Variety Hour",
         "The Ghost of White Hart Lane",
         "The Jolly Fisherman",
-        "The Plot",
         "The Singer",
         "The Tao of Lloyd",
         "The Tom Brace Magic Hour",
+        "The Very Best of Tommy Cooper - Just Like That!",
         "Tia Rey: Oot Ma Banger",
         "Time Travel Postman",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
