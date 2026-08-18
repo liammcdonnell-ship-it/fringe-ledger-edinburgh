@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-17T23:12:46.989Z",
-      "completedAt": "2026-08-17T23:12:46.989Z",
+      "id": "2026-08-18T00:28:45.274Z",
+      "completedAt": "2026-08-18T00:28:45.274Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 877,
-      "totalNotices": 2143,
-      "defaultVisible": 487,
+      "totalShows": 862,
+      "totalNotices": 2123,
+      "defaultVisible": 485,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-16T23:08:50.283Z",
-      "windowEndedAt": "2026-08-17T23:12:46.989Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-17T00:28:08.126Z",
+      "windowEndedAt": "2026-08-18T00:28:45.274Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 467,
-      "newShows": 63,
-      "enteredRanking": 55,
+      "newReviews": 465,
+      "newShows": 54,
+      "enteredRanking": 52,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 57,
+          "currentScore": 70,
+          "delta": 13,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
         {
           "title": "Only Bones - Daniel Nodder",
           "previousScore": 89,
@@ -74,6 +82,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Ulysses of Scranton",
+          "previousScore": 73,
+          "currentScore": 80,
+          "delta": 7,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Rory Marshall: Thank You for the Opportunity",
           "previousScore": 68,
           "currentScore": 74,
@@ -99,27 +115,11 @@
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "How to Art",
           "previousScore": 76,
           "currentScore": 71,
           "delta": -5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Ben Hart: The Labyrinth",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 6,
+          "currentReviews": 7
         }
       ],
       "newEntries": [
@@ -206,16 +206,6 @@
         {
           "title": "Hudson Hughes: At Your Service",
           "score": 82,
-          "reviews": 2
-        },
-        {
-          "title": "Ulysses of Scranton",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
           "reviews": 2
         },
         {
@@ -309,11 +299,6 @@
           "reviews": 3
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
-          "score": 70,
-          "reviews": 3
-        },
-        {
           "title": "Amy Annette: Say What You Like About Me",
           "score": 70,
           "reviews": 2
@@ -330,6 +315,11 @@
         },
         {
           "title": "Kemah Bob: Love Child",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
           "score": 70,
           "reviews": 2
         },
@@ -357,11 +347,6 @@
           "title": "Viggo Venn: Only One",
           "score": 64,
           "reviews": 2
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "score": 63,
-          "reviews": 3
         },
         {
           "title": "The Man Who Said Too Much",
