@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T11:14:31.507Z",
-      "completedAt": "2026-08-19T11:14:31.507Z",
+      "id": "2026-08-19T12:19:18.141Z",
+      "completedAt": "2026-08-19T12:19:18.141Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 940,
-      "totalNotices": 2400,
+      "totalShows": 942,
+      "totalNotices": 2404,
       "defaultVisible": 536,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T11:15:19.835Z",
-      "windowEndedAt": "2026-08-19T11:14:31.507Z",
+      "windowStartedAt": "2026-08-18T12:19:55.621Z",
+      "windowEndedAt": "2026-08-19T12:19:18.141Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 365,
-      "newShows": 62,
-      "enteredRanking": 37,
+      "newReviews": 374,
+      "newShows": 61,
+      "enteredRanking": 39,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 62,
+          "currentScore": 74,
+          "delta": 12,
+          "previousReviews": 4,
+          "currentReviews": 4
+        },
         {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "previousScore": 83,
@@ -50,12 +58,28 @@
           "currentReviews": 5
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 63,
+          "currentScore": 70,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "Sh!t-faced Shakespeare®: Hamlet",
           "previousScore": 89,
           "currentScore": 82,
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Struan Logan: Chaotic Good",
+          "previousScore": 71,
+          "currentScore": 64,
+          "delta": -7,
+          "previousReviews": 2,
+          "currentReviews": 2
         },
         {
           "title": "Abby Govindan: Pushing 30",
@@ -96,30 +120,6 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "Chris Forbes: Father Christmas",
-          "previousScore": 87,
-          "currentScore": 82,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Playback",
-          "previousScore": 77,
-          "currentScore": 81,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -171,6 +171,11 @@
         {
           "title": "Sarah Roberts: Scary Movie 7",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -279,6 +284,11 @@
           "reviews": 2
         },
         {
+          "title": "DADDY ISSUES",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Sodom, The Quintessence of Debauchery",
           "score": 63,
           "reviews": 3
@@ -323,6 +333,7 @@
         "Book Club",
         "Brendan Scannell: The Abyss",
         "Burce Tutku Tuncali: Perfectly Imperfeckt!",
+        "Chris Martin Lied To Us",
         "Collaborator",
         "Cricket &#038; The Freebugs",
         "DADDY ISSUES",
