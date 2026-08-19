@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T14:22:30.652Z",
-      "completedAt": "2026-08-19T14:22:30.652Z",
+      "id": "2026-08-19T15:21:31.261Z",
+      "completedAt": "2026-08-19T15:21:31.261Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 938,
-      "totalNotices": 2432,
-      "defaultVisible": 541,
+      "totalShows": 939,
+      "totalNotices": 2450,
+      "defaultVisible": 544,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T14:21:33.235Z",
-      "windowEndedAt": "2026-08-19T14:22:30.652Z",
+      "windowStartedAt": "2026-08-18T15:20:20.945Z",
+      "windowEndedAt": "2026-08-19T15:21:31.261Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 388,
-      "newShows": 49,
+      "newReviews": 393,
+      "newShows": 45,
       "enteredRanking": 30,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 63,
+          "currentScore": 77,
+          "delta": 14,
+          "previousReviews": 3,
+          "currentReviews": 3
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 62,
+          "currentScore": 74,
+          "delta": 12,
+          "previousReviews": 4,
+          "currentReviews": 4
+        },
         {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "previousScore": 83,
@@ -50,12 +66,20 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 63,
-          "currentScore": 70,
+          "title": "Abby Govindan: Pushing 30",
+          "previousScore": 58,
+          "currentScore": 65,
           "delta": 7,
           "previousReviews": 3,
-          "currentReviews": 4
+          "currentReviews": 5
+        },
+        {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 70,
+          "currentScore": 77,
+          "delta": 7,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Struan Logan: Chaotic Good",
@@ -64,14 +88,6 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 2
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "previousScore": 58,
-          "currentScore": 64,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Big Stuff",
@@ -90,36 +106,20 @@
           "currentReviews": 3
         },
         {
+          "title": "Sodom, The Quintessence of Debauchery",
+          "previousScore": 57,
+          "currentScore": 63,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Cruising",
           "previousScore": 64,
           "currentScore": 58,
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Chris Forbes: Father Christmas",
-          "previousScore": 87,
-          "currentScore": 82,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Katie Pritchard is Sir Elton Scone",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Robin Grainger: Lemonade",
-          "previousScore": 76,
-          "currentScore": 81,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -144,6 +144,11 @@
           "reviews": 2
         },
         {
+          "title": "The Tom Brace Magic Hour",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Gregor Fisher: An (Early) Evening With Gregor Fisher",
           "score": 79,
           "reviews": 2
@@ -151,6 +156,11 @@
         {
           "title": "Sarah Roberts: Scary Movie 7",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Burger and a Pint: Treats for the Soul",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -170,6 +180,11 @@
         },
         {
           "title": "In A Bad Way",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -244,19 +259,9 @@
           "reviews": 2
         },
         {
-          "title": "Chief Petty Officer",
-          "score": 66,
-          "reviews": 2
-        },
-        {
           "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
-        },
-        {
-          "title": "Sodom, The Quintessence of Debauchery",
-          "score": 63,
-          "reviews": 3
         },
         {
           "title": "Britain's Got Nonsense",
@@ -265,11 +270,6 @@
         },
         {
           "title": "Homunculus",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "Parking Spot: The Musical!",
           "score": 57,
           "reviews": 2
         }
@@ -290,7 +290,6 @@
         "Book Club",
         "Brendan Scannell: The Abyss",
         "Brit Barron: CHURCH",
-        "Burce Tutku Tuncali: Perfectly Imperfeckt!",
         "CROWD WORK",
         "Chris Martin Lied To Us",
         "Christopher Hall",
@@ -302,7 +301,6 @@
         "Doing Time with Lavinia",
         "Dragon Tales",
         "Dreamgun Film Reads",
-        "Dystopia 26: The Rock Opera",
         "Elizabeth I: Regina Vagina",
         "Everybody's Got a Bomb",
         "Follow Me",
@@ -311,6 +309,7 @@
         "Garry Starr: Classic Penguins",
         "Grace Jarvis: Getting Dragged Backwards Through a Hedge",
         "Grandma&apos;s Shop",
+        "Here Comes Almost",
         "Holmes/Shah",
         "I Bought a Flip Phone",
         "INDY!",
@@ -349,19 +348,19 @@
         "TO BE FRANK",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
+        "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
         "The Cambridge Footlights Tour Show 2026",
         "The Horse of Jenin",
         "The Jolly Fisherman",
         "The Leeds Tealights",
         "The Palestinian Circus: Step and a Half",
         "The Singer",
+        "The Spy Who Came in from the Park",
         "The Very Best of Tommy Cooper - Just Like That!",
         "Tom Cashman: NPC (Nearly Proficient Comedian)",
         "Tom Towelling Teaches You to Knit",
-        "Tony Cantwell: You Cry Weird",
         "Will BF: Moon Team IIIV",
-        "You and Me (and Whoever Comes Next)",
-        "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser"
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
