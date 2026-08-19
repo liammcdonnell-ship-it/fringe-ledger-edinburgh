@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T12:19:18.141Z",
-      "completedAt": "2026-08-19T12:19:18.141Z",
+      "id": "2026-08-19T13:36:51.424Z",
+      "completedAt": "2026-08-19T13:36:51.424Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 942,
-      "totalNotices": 2404,
-      "defaultVisible": 536,
+      "totalShows": 924,
+      "totalNotices": 2397,
+      "defaultVisible": 540,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T12:19:55.621Z",
-      "windowEndedAt": "2026-08-19T12:19:18.141Z",
+      "windowStartedAt": "2026-08-18T13:35:24.288Z",
+      "windowEndedAt": "2026-08-19T13:36:51.424Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 374,
-      "newShows": 61,
-      "enteredRanking": 39,
+      "newReviews": 377,
+      "newShows": 39,
+      "enteredRanking": 34,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 62,
-          "currentScore": 74,
-          "delta": 12,
-          "previousReviews": 4,
-          "currentReviews": 4
-        },
         {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "previousScore": 83,
@@ -120,6 +112,14 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Chris Forbes: Father Christmas",
+          "previousScore": 87,
+          "currentScore": 82,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -144,21 +144,6 @@
           "reviews": 2
         },
         {
-          "title": "Plano",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Couplet: Folk Marry Kill",
           "score": 79,
           "reviews": 2
@@ -171,11 +156,6 @@
         {
           "title": "Sarah Roberts: Scary Movie 7",
           "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
           "reviews": 2
         },
         {
@@ -194,7 +174,7 @@
           "reviews": 2
         },
         {
-          "title": "The Durham Revue: Raiders of the Lost Laughs",
+          "title": "Paul Merton and Suki Webster's Improv Show",
           "score": 76,
           "reviews": 2
         },
@@ -209,6 +189,16 @@
           "reviews": 2
         },
         {
+          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Top Gunchained",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "What Happens in the Dark",
           "score": 76,
           "reviews": 2
@@ -219,7 +209,7 @@
           "reviews": 2
         },
         {
-          "title": "Spare Room",
+          "title": "Spooky Dookie: Cool New Planet!!",
           "score": 73,
           "reviews": 2
         },
@@ -229,8 +219,8 @@
           "reviews": 2
         },
         {
-          "title": "Asian, But Wrong",
-          "score": 70,
+          "title": "Courtney Büchner: One of the Girls",
+          "score": 71,
           "reviews": 2
         },
         {
@@ -259,11 +249,6 @@
           "reviews": 2
         },
         {
-          "title": "John Achkar: His country is collapsing. He's having a baby. So obviously, this is the right year for a Lebanese comedian you've never heard of to try English stand-up for the first time.",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Otto & Astrid: The Stages Tour",
           "score": 70,
           "reviews": 2
@@ -279,12 +264,12 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Chief Petty Officer",
+          "score": 66,
           "reviews": 2
         },
         {
-          "title": "DADDY ISSUES",
+          "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
         },
@@ -304,18 +289,8 @@
           "reviews": 2
         },
         {
-          "title": "Escape Room: The Musical",
-          "score": 57,
-          "reviews": 2
-        },
-        {
           "title": "Homunculus",
           "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "Jack Ansett: Looks Like A Bit Of Me!",
-          "score": 54,
           "reviews": 2
         }
       ],
@@ -330,15 +305,15 @@
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Ben&apos;s Book Club",
+        "Boogie on the Bones",
         "Book Club",
         "Brendan Scannell: The Abyss",
+        "Brit Barron: CHURCH",
         "Burce Tutku Tuncali: Perfectly Imperfeckt!",
         "Chris Martin Lied To Us",
         "Collaborator",
         "Cricket &#038; The Freebugs",
-        "DADDY ISSUES",
         "Dave Chawner: Dry Humour",
-        "Diary of a DL Trade",
         "Dinosaurs",
         "Doing Time with Lavinia",
         "Dragon Tales",
@@ -346,9 +321,9 @@
         "Dystopia 26: The Rock Opera",
         "Elizabeth I: Regina Vagina",
         "Emma Holland: The Dog Dies at the Start",
-        "Escape Room: The Musical",
         "Everybody's Got a Bomb",
         "Excel Comedy and Mathem-antics",
+        "Frank Skinner: Work in Progress",
         "Gameplay",
         "Garry Starr: Classic Penguins",
         "Grandma&apos;s Shop",
@@ -363,6 +338,7 @@
         "Love&apos;s Labour&apos;s Found",
         "Marina di Marzo: Love in the Time of Fifth Grade",
         "Mark Steel: What The F*** Is Going On?",
+        "Megasquirt: Fully Loaded",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Mind The Gap Year",
@@ -370,12 +346,12 @@
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
         "Paul Merton and Suki Webster&apos;s Improv Show",
-        "Peggy Day",
         "Persona",
         "Pigeon Syndrome",
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Rhys James: Chop Logic",
+        "RobWords Live",
         "Ryan Cullen: Cullen Me Softly",
         "SAND",
         "Sami Abu Wardeh",
@@ -394,11 +370,12 @@
         "The Palestinian Circus: Step and a Half",
         "The Singer",
         "The Very Best of Tommy Cooper - Just Like That!",
+        "Tom Cashman: NPC (Nearly Proficient Comedian)",
+        "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Will BF: Moon Team IIIV",
         "You and Me (and Whoever Comes Next)",
-        "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser",
-        "not for glory"
+        "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser"
       ]
     }
   ]
