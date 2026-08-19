@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T16:18:36.886Z",
-      "completedAt": "2026-08-19T16:18:36.886Z",
+      "id": "2026-08-19T17:17:39.316Z",
+      "completedAt": "2026-08-19T17:17:39.316Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 948,
-      "totalNotices": 2484,
-      "defaultVisible": 550,
+      "totalShows": 952,
+      "totalNotices": 2494,
+      "defaultVisible": 551,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T16:18:20.672Z",
-      "windowEndedAt": "2026-08-19T16:18:36.886Z",
+      "windowStartedAt": "2026-08-18T17:17:20.230Z",
+      "windowEndedAt": "2026-08-19T17:17:39.316Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 391,
-      "newShows": 30,
-      "enteredRanking": 38,
+      "newReviews": 400,
+      "newShows": 46,
+      "enteredRanking": 37,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 63,
+          "currentScore": 75,
+          "delta": 12,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
         {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "previousScore": 83,
@@ -42,28 +50,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Alexander Bennett: All It Takes",
-          "previousScore": 68,
-          "currentScore": 75,
-          "delta": 7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
           "title": "Abby Govindan: Pushing 30",
           "previousScore": 58,
           "currentScore": 65,
           "delta": 7,
-          "previousReviews": 4,
+          "previousReviews": 3,
           "currentReviews": 5
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 77,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
         },
         {
           "title": "Struan Logan: Chaotic Good",
@@ -72,22 +64,6 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 2
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 4
-        },
-        {
-          "title": "Grimm AF",
-          "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Big Stuff",
@@ -120,6 +96,30 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Chris Forbes: Father Christmas",
+          "previousScore": 87,
+          "currentScore": 82,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Amelia Hamilton: Moral Support",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "I Almost Died for This?! (A love story. Sort of.)",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -145,11 +145,6 @@
         },
         {
           "title": "2ShoulderPads: Galaxy Train",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -274,6 +269,11 @@
           "reviews": 2
         },
         {
+          "title": "Love's Labour's Found",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Christopher Hall: Pizazz",
           "score": 68,
           "reviews": 3
@@ -286,11 +286,6 @@
         {
           "title": "Chief Petty Officer",
           "score": 66,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "score": 64,
           "reviews": 2
         },
         {
@@ -335,9 +330,11 @@
         "Chris Martin Lied To Us",
         "Christopher Hall",
         "Collaborator",
+        "Crash Course",
         "Cricket &#038; The Freebugs",
         "Darren Gaffney: The Full Gaffney",
         "Dave Chawner: Dry Humour",
+        "Derek Demko&apos;s Last Day of Camp!",
         "Dinosaurs",
         "Doing Time with Lavinia",
         "Dragon Tales",
@@ -351,6 +348,7 @@
         "Garry Starr: Classic Penguins",
         "Grace Jarvis: Getting Dragged Backwards Through a Hedge",
         "Grandma&apos;s Shop",
+        "Harry Stachini: Lobster",
         "Here Comes Almost",
         "Holmes/Shah",
         "I Bought a Flip Phone",
@@ -386,6 +384,7 @@
         "Snow",
         "Soaked",
         "Soft Spot",
+        "Sokopop Quiz Night",
         "Space In Between",
         "Star Wars: The Next Generation",
         "TO BE FRANK",
