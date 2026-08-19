@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T03:36:13.238Z",
-      "completedAt": "2026-08-19T03:36:13.238Z",
+      "id": "2026-08-19T04:25:32.164Z",
+      "completedAt": "2026-08-19T04:25:32.164Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 903,
-      "totalNotices": 2295,
-      "defaultVisible": 520,
+      "totalShows": 928,
+      "totalNotices": 2332,
+      "defaultVisible": 524,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T03:35:09.641Z",
-      "windowEndedAt": "2026-08-19T03:36:13.238Z",
+      "windowStartedAt": "2026-08-18T04:23:57.159Z",
+      "windowEndedAt": "2026-08-19T04:25:32.164Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 288,
-      "newShows": 29,
-      "enteredRanking": 35,
+      "newReviews": 325,
+      "newShows": 66,
+      "enteredRanking": 39,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 64,
+          "currentScore": 75,
+          "delta": 11,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
         {
           "title": "Amelia Hamilton: Moral Support",
           "previousScore": 87,
@@ -50,14 +58,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 63,
-          "delta": -7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Temi Wilkey: Lover Girl",
           "previousScore": 64,
           "currentScore": 70,
@@ -74,12 +74,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
+          "title": "Amanda Knox: Cartwheel",
+          "previousScore": 61,
+          "currentScore": 66,
           "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousReviews": 8,
+          "currentReviews": 10
         },
         {
           "title": "Chris Forbes: Father Christmas",
@@ -98,14 +98,6 @@
           "currentReviews": 5
         },
         {
-          "title": "Amanda Knox: Cartwheel",
-          "previousScore": 61,
-          "currentScore": 65,
-          "delta": 4,
-          "previousReviews": 8,
-          "currentReviews": 9
-        },
-        {
           "title": "Aidan Greene: Stuttermilk Pancakes",
           "previousScore": 67,
           "currentScore": 71,
@@ -120,6 +112,14 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Gareth Waugh: Is Pepsi OK?",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -149,6 +149,16 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Couplet: Folk Marry Kill",
           "score": 79,
           "reviews": 2
@@ -166,6 +176,11 @@
         {
           "title": "The Breakup Variety Hour",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -199,11 +214,6 @@
           "reviews": 2
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "score": 75,
-          "reviews": 2
-        },
-        {
           "title": "Spare Room",
           "score": 73,
           "reviews": 2
@@ -225,6 +235,11 @@
         },
         {
           "title": "Asian, But Wrong",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Camelton",
           "score": 70,
           "reviews": 2
         },
@@ -261,6 +276,11 @@
         {
           "title": "Will Sebag-Montefiore: Game of Phones",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -342,6 +362,7 @@
         "Kanpur: 1857",
         "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
         "Lorna Rose Treen: Now That&apos;s What I Call Characters",
+        "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Nina&apos;s C*nti Cabaret",
         "Nosejob",
