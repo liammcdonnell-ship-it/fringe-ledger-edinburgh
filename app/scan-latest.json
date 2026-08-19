@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-19T09:21:15.168Z",
-      "completedAt": "2026-08-19T09:21:15.168Z",
+      "id": "2026-08-19T10:17:16.103Z",
+      "completedAt": "2026-08-19T10:17:16.103Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 922,
-      "totalNotices": 2365,
-      "defaultVisible": 534,
+      "totalShows": 943,
+      "totalNotices": 2406,
+      "defaultVisible": 538,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-18T09:21:00.320Z",
-      "windowEndedAt": "2026-08-19T09:21:15.168Z",
+      "windowStartedAt": "2026-08-18T10:16:54.065Z",
+      "windowEndedAt": "2026-08-19T10:17:16.103Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 353,
-      "newShows": 44,
+      "newReviews": 371,
+      "newShows": 54,
       "enteredRanking": 39,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Will & Noah: Dinner Dinner Chicken Winner",
+          "previousScore": 83,
+          "currentScore": 72,
+          "delta": -11,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
         {
           "title": "Alexander Bennett: All It Takes",
           "previousScore": 68,
@@ -34,12 +42,44 @@
           "currentReviews": 5
         },
         {
+          "title": "Amnesia",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 72,
+          "currentScore": 65,
+          "delta": -7,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 63,
+          "currentScore": 70,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "Sh!t-faced Shakespeare®: Hamlet",
           "previousScore": 89,
           "currentScore": 82,
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "previousScore": 58,
+          "currentScore": 64,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Cadet Kelly is the Best Movie I've Ever Seen in my Friggin Life",
@@ -74,52 +114,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Viggo Venn: Only One",
-          "previousScore": 64,
-          "currentScore": 70,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 2
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 76,
-          "delta": 5,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
           "title": "Chris Forbes: Father Christmas",
           "previousScore": 87,
           "currentScore": 82,
           "delta": -5,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 72,
-          "currentScore": 68,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "Playback",
-          "previousScore": 77,
-          "currentScore": 81,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -149,6 +149,16 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Couplet: Folk Marry Kill",
           "score": 79,
           "reviews": 2
@@ -164,6 +174,11 @@
           "reviews": 2
         },
         {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Detective Heartbreak",
           "score": 76,
           "reviews": 2
@@ -175,11 +190,6 @@
         },
         {
           "title": "In A Bad Way",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Julian Clary: Fully Dilated",
           "score": 76,
           "reviews": 2
         },
@@ -204,11 +214,6 @@
           "reviews": 2
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "score": 75,
-          "reviews": 2
-        },
-        {
           "title": "Ryan Cullen: Cullen Me Softly",
           "score": 73,
           "reviews": 2
@@ -219,12 +224,17 @@
           "reviews": 2
         },
         {
-          "title": "A Murder Mystery Musical - The Detective's Demise",
-          "score": 70,
+          "title": "Jeromaia Detto: Giuseppe's Love Quest",
+          "score": 72,
           "reviews": 2
         },
         {
           "title": "Asian, But Wrong",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Camelton",
           "score": 70,
           "reviews": 2
         },
@@ -274,18 +284,8 @@
           "reviews": 2
         },
         {
-          "title": "An Evening with Gerald Lloyd-Davies",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Charming! The Musical",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Little in His Comfort Zone",
-          "score": 64,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -367,6 +367,7 @@
         "Nosejob",
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
+        "Paul Merton and Suki Webster&apos;s Improv Show",
         "Peggy Day",
         "Persona",
         "Pigeon Syndrome",
