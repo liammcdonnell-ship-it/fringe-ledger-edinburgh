@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T08:24:22.753Z",
-      "completedAt": "2026-08-20T08:24:22.753Z",
+      "id": "2026-08-20T09:24:05.996Z",
+      "completedAt": "2026-08-20T09:24:05.996Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 970,
-      "totalNotices": 2533,
-      "defaultVisible": 553,
-      "duplicates": 0,
+      "totalShows": 991,
+      "totalNotices": 2599,
+      "defaultVisible": 571,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T08:22:41.403Z",
-      "windowEndedAt": "2026-08-20T08:24:22.753Z",
+      "windowStartedAt": "2026-08-19T09:21:15.168Z",
+      "windowEndedAt": "2026-08-20T09:24:05.996Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 364,
+      "newReviews": 376,
       "newShows": 69,
-      "enteredRanking": 31,
+      "enteredRanking": 40,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Will & Noah: Dinner Dinner Chicken Winner",
+          "previousScore": 87,
+          "currentScore": 72,
+          "delta": -15,
+          "previousReviews": 3,
+          "currentReviews": 3
+        },
         {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 70,
@@ -34,23 +42,23 @@
           "currentReviews": 4
         },
         {
-          "title": "Will & Noah: Dinner Dinner Chicken Winner",
-          "previousScore": 83,
-          "currentScore": 72,
-          "delta": -11,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
+          "title": "Amelia Hamilton: Moral Support",
+          "previousScore": 77,
+          "currentScore": 85,
+          "delta": 8,
+          "previousReviews": 3,
           "currentReviews": 5
         },
         {
           "title": "Lucas Jefcoate: If I'm Not Somebody, I'm Nobody",
+          "previousScore": 76,
+          "currentScore": 68,
+          "delta": -8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
           "previousScore": 76,
           "currentScore": 68,
           "delta": -8,
@@ -82,6 +90,14 @@
           "currentReviews": 2
         },
         {
+          "title": "Don Quixote (Is a Very Big Book)",
+          "previousScore": 72,
+          "currentScore": 78,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
           "title": "Big Stuff",
           "previousScore": 76,
           "currentScore": 82,
@@ -90,31 +106,15 @@
           "currentReviews": 3
         },
         {
-          "title": "Cadet Kelly is the Best Movie I've Ever Seen in my Friggin Life",
-          "previousScore": 76,
+          "title": "I Almost Died for This?! (A love story. Sort of.)",
+          "previousScore": 77,
           "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
-          "title": "Sodom, The Quintessence of Debauchery",
-          "previousScore": 57,
-          "currentScore": 63,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Cruising",
-          "previousScore": 64,
-          "currentScore": 58,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Amelia Hamilton: Moral Support",
+          "title": "Katie Pritchard is Sir Elton Scone",
           "previousScore": 77,
           "currentScore": 82,
           "delta": 5,
@@ -134,12 +134,17 @@
           "reviews": 2
         },
         {
-          "title": "2ShoulderPads: Galaxy Train",
+          "title": "Smile, It Might Never Happen",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Annie Boyle: To All The Boys I've Loved Before",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Dru Cripps: Juicy Bits",
+          "title": "Fake",
           "score": 83,
           "reviews": 2
         },
@@ -154,6 +159,16 @@
           "reviews": 2
         },
         {
+          "title": "The Tom Brace Magic Hour",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "TO BE FRANK",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Will BF: Moon Team IIIV",
           "score": 83,
           "reviews": 2
@@ -164,17 +179,37 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Confessions Of A Mulatto Love Child",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Detective Heartbreak",
+          "title": "FLOP! The Best Songs From The Worst Musicals",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Grandma's Shop",
+          "title": "James Trickey: Split",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Murder, She Didn't Write",
           "score": 76,
           "reviews": 2
         },
@@ -184,22 +219,37 @@
           "reviews": 2
         },
         {
+          "title": "The Last Mad Man",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "This Little Thing of Ours",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Tia Rey: Oot Ma Banger",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "What Happens in the Dark",
+          "title": "Top Gunchained",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "CROWD WORK",
+          "title": "Courtney Büchner: One of the Girls",
           "score": 73,
-          "reviews": 2
+          "reviews": 3
         },
         {
-          "title": "Ryan Cullen: Cullen Me Softly",
+          "title": "CROWD WORK",
           "score": 73,
           "reviews": 2
         },
@@ -214,33 +264,18 @@
           "reviews": 2
         },
         {
-          "title": "Courtney Büchner: One of the Girls",
-          "score": 71,
-          "reviews": 2
-        },
-        {
           "title": "Democrazy",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Flesh",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Gerry Carroll: Young",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "January 6th the Musical",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Love's Labour's Found",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Mandy: Prince of Darkness",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -254,17 +289,27 @@
           "reviews": 2
         },
         {
+          "title": "Broke and Fabulous in the 21st Century",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Dinosaurs",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Persona",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "Britain's Got Nonsense",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "Homunculus",
+          "title": "Fab Goualin: Mixed Messages",
           "score": 57,
           "reviews": 2
         },
@@ -285,14 +330,16 @@
         "2 Truths, 1 Lie",
         "44 Minutes",
         "A Clown's Lullaby",
+        "A Companion",
         "A Man Proposes to a Balloon, or Possibly Something Worse",
-        "A Traitors Pantomime",
         "Absolutely! One-Liner Jokes!",
         "Alfie Moore: Fair Cop - Live!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "An Immigrant&apos;s Comedy Show",
+        "Annie Boyle: To All The Boys I&apos;ve Loved Before",
         "Annie Wobbler (Revisited)",
+        "Big Naked Comedy Show",
         "Boogie on the Bones",
         "Brendan Scannell: The Abyss",
         "Brit Barron: CHURCH",
@@ -310,10 +357,7 @@
         "David O&apos;Doherty: At This Stage",
         "Davro&apos;s Back! Bobby Davro",
         "Derek Demko&apos;s Last Day of Camp!",
-        "Dinosaurs",
-        "Doing Time with Lavinia",
         "Dragon Tales",
-        "Elizabeth I: Regina Vagina",
         "Everybody's Got a Bomb",
         "Felicity Ward: I Wish I Could Come Out of My Shell",
         "Follow Me",
@@ -321,61 +365,58 @@
         "GIRLZ",
         "Gameplay",
         "Grace Jarvis: Getting Dragged Backwards Through a Hedge",
+        "Graham and Steen",
         "Harry Stachini: Lobster",
         "Here Comes Almost",
+        "Hope This Helps!",
         "I Bought a Flip Phone",
         "INDY!",
-        "Joe Sib: Aggie - A Comedy About Moms",
         "Kanpur: 1857",
         "Kevin Quantum: Invisible Force",
         "Little Animals",
-        "Love&apos;s Labour&apos;s Found",
-        "Marina di Marzo: Love in the Time of Fifth Grade",
-        "Mark Steel: What The F*** Is Going On?",
+        "Marc Burrows in the Ten Best Songs of All Time",
         "Mates Rates - The Golden Age Begins",
         "Megasquirt: Fully Loaded",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
-        "Mind The Gap Year",
+        "Mike Rice: Cruel Little Man",
+        "Nathan Cassidy: Ewwww!",
         "Obie: The Fuck It List",
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
         "Paul Merton and Suki Webster&apos;s Improv Show",
-        "Persona",
         "Pervert Werewolf",
-        "Pigeon Syndrome",
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Reformer",
-        "Rhys James: Chop Logic",
         "RobWords Live",
-        "Ryan Cullen: Cullen Me Softly",
         "SAND",
         "Sam Nicoresti: Baby Doomer",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Shamaniac",
         "Snow",
-        "Soaked",
         "Soft Spot",
         "Sokopop Quiz Night",
         "Space In Between",
         "TO BE FRANK",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
+        "The Augur",
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
         "The Cambridge Footlights Tour Show 2026",
-        "The Horse of Jenin",
         "The Jolly Fisherman",
         "The Leeds Tealights",
         "The Powerpop Girls: A New Diva Religion",
         "The Real Housewives of the Zombie Apocalypse",
         "The Singer",
         "The Spy Who Came in from the Park",
+        "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Vagina Monologues",
         "Tom Cashman: NPC (Nearly Proficient Comedian)",
         "Tom Towelling Teaches You to Knit",
+        "We Were Sisters",
         "When We Were Young",
-        "Will BF: Moon Team IIIV",
+        "Woman Seeking Cuddles",
         "You Are What You Eat",
         "You and Me (and Whoever Comes Next)"
       ]
