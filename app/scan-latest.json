@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T22:16:53.143Z",
-      "completedAt": "2026-08-20T22:16:53.143Z",
+      "id": "2026-08-20T23:15:44.924Z",
+      "completedAt": "2026-08-20T23:15:44.924Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1037,
-      "totalNotices": 2833,
-      "defaultVisible": 604,
-      "duplicates": 1,
+      "totalShows": 1020,
+      "totalNotices": 2838,
+      "defaultVisible": 606,
+      "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T22:12:20.512Z",
-      "windowEndedAt": "2026-08-20T22:16:53.143Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-19T23:14:42.093Z",
+      "windowEndedAt": "2026-08-20T23:15:44.924Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 587,
-      "newShows": 84,
-      "enteredRanking": 54,
+      "newReviews": 596,
+      "newShows": 43,
+      "enteredRanking": 57,
       "newOutlets": [],
       "movers": [
         {
@@ -42,6 +42,14 @@
           "currentReviews": 3
         },
         {
+          "title": "The Heterosexuals",
+          "previousScore": 76,
+          "currentScore": 68,
+          "delta": -8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Dear Michelle Kwan",
           "previousScore": 82,
           "currentScore": 75,
@@ -56,6 +64,14 @@
           "delta": -7,
           "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "Book of Shadows",
+          "previousScore": 63,
+          "currentScore": 70,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "It's Always Sunny on Olympus",
@@ -79,7 +95,7 @@
           "currentScore": 78,
           "delta": 6,
           "previousReviews": 3,
-          "currentReviews": 4
+          "currentReviews": 5
         },
         {
           "title": "RobWords Live",
@@ -98,28 +114,12 @@
           "currentReviews": 3
         },
         {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 85,
-          "currentScore": 90,
-          "delta": 5,
+          "title": "You Talkin' to Us?",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
           "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
-          "title": "MUSE: The Shakespeare Mayhem Musical",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Little Pink Dress",
-          "previousScore": 70,
-          "currentScore": 75,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -149,7 +149,7 @@
           "reviews": 3
         },
         {
-          "title": "Brendan Scannell: The Abyss",
+          "title": "Ten Thousand Hours",
           "score": 86,
           "reviews": 2
         },
@@ -160,6 +160,11 @@
         },
         {
           "title": "atticwife",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -204,37 +209,27 @@
           "reviews": 3
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
+          "title": "A Highly Suspect Murder Mystery: Knives In",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "The Singer",
+          "title": "Motorway",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "Murder, She Didn't Write",
-          "score": 77,
-          "reviews": 3
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
         },
         {
-          "title": "After Party",
+          "title": "Angelshark",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "In the Black",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "James Phelan: Showman",
           "score": 76,
           "reviews": 2
         },
@@ -245,6 +240,11 @@
         },
         {
           "title": "Madam(e) Lou",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Murder, She Didn't Write",
           "score": 76,
           "reviews": 2
         },
@@ -264,11 +264,6 @@
           "reviews": 2
         },
         {
-          "title": "The Last Mad Man",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Tia Rey: Oot Ma Banger",
           "score": 76,
           "reviews": 2
@@ -282,6 +277,11 @@
           "title": "War of the Worlds (On a Budget)",
           "score": 76,
           "reviews": 2
+        },
+        {
+          "title": "The Last Mad Man",
+          "score": 75,
+          "reviews": 3
         },
         {
           "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
@@ -339,9 +339,19 @@
           "reviews": 2
         },
         {
+          "title": "Shhh! (A Wordless Comedy)",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Swan Song",
           "score": 70,
           "reviews": 2
+        },
+        {
+          "title": "James Phelan: Showman",
+          "score": 68,
+          "reviews": 3
         },
         {
           "title": "This Little Thing of Ours",
@@ -354,7 +364,7 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
+          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
           "score": 67,
           "reviews": 2
         },
@@ -369,14 +379,14 @@
           "reviews": 2
         },
         {
-          "title": "Persona",
+          "title": "Natalie and I",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "The Pigeon Factory",
-          "score": 63,
-          "reviews": 3
+          "title": "Persona",
+          "score": 64,
+          "reviews": 2
         },
         {
           "title": "Delphi: The Musical",
@@ -392,6 +402,11 @@
           "title": "Prophets",
           "score": 57,
           "reviews": 2
+        },
+        {
+          "title": "The Pigeon Factory",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -399,6 +414,7 @@
         "1979: Persianality Disorder",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
         "2 Truths, 1 Lie",
+        "28.06.1980 (or How A Fake Version of Deep Purple Brought Rock Music to Mexico)",
         "44 Minutes",
         "A Clown's Lullaby",
         "A Companion",
@@ -410,6 +426,7 @@
         "Angelshark",
         "Annie Boyle: To All The Boys I&apos;ve Loved Before",
         "Annie Wobbler (Revisited)",
+        "Bachelors of Fine Arts",
         "Beth and Ben: Your Place in the Workplace",
         "Big Naked Comedy Show",
         "Big Tobacco&apos;s Pinocchio",
@@ -430,6 +447,7 @@
         "Gameplay",
         "Good Boy",
         "Graham and Steen",
+        "Honkers",
         "Hope This Helps!",
         "INDY!",
         "Introductions",
@@ -444,6 +462,7 @@
         "Long Story Short",
         "Lorna Ní Shúilleabháin: Barefoot Before God",
         "Love&apos;s Labour&apos;s Lost",
+        "Lucy Best: Unbelievable",
         "Madam(e) Lou",
         "Manic",
         "Marc Burrows in the Ten Best Songs of All Time",
@@ -467,6 +486,7 @@
         "SAND",
         "Seann Walsh: This Is Torture",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
+        "Sexatron",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
@@ -486,6 +506,7 @@
         "The Lady Doth Protest",
         "The Landlady",
         "The Singer",
+        "The Spectacular Vermin Sisters: Taking Back What&apos;s Ratfully Ours",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Unsolvable Case of Keir Starmer",
         "Tom Houghton - New Stuff",
