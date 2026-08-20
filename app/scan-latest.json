@@ -2,43 +2,35 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T14:27:16.875Z",
-      "completedAt": "2026-08-20T14:27:16.875Z",
+      "id": "2026-08-20T15:25:40.893Z",
+      "completedAt": "2026-08-20T15:25:40.893Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 977,
-      "totalNotices": 2595,
-      "defaultVisible": 571,
+      "totalShows": 1015,
+      "totalNotices": 2666,
+      "defaultVisible": 579,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T14:22:30.652Z",
-      "windowEndedAt": "2026-08-20T14:27:16.875Z",
+      "windowStartedAt": "2026-08-19T15:21:31.261Z",
+      "windowEndedAt": "2026-08-20T15:25:40.893Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 322,
-      "newShows": 39,
-      "enteredRanking": 30,
+      "newReviews": 375,
+      "newShows": 76,
+      "enteredRanking": 37,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 82,
-          "delta": 12,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
           "previousReviews": 4,
-          "currentReviews": 4
-        },
-        {
-          "title": "Amelia Hamilton: Moral Support",
-          "previousScore": 77,
-          "currentScore": 85,
-          "delta": 8,
-          "previousReviews": 3,
           "currentReviews": 5
         },
         {
@@ -58,6 +50,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Burger and a Pint: Treats for the Soul",
+          "previousScore": 76,
+          "currentScore": 82,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "I Almost Died for This?! (A love story. Sort of.)",
           "previousScore": 77,
           "currentScore": 82,
@@ -66,20 +66,20 @@
           "currentReviews": 4
         },
         {
-          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
-          "previousScore": 91,
-          "currentScore": 87,
-          "delta": -4,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
-          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
-          "previousScore": 85,
-          "currentScore": 81,
-          "delta": -4,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "title": "Film Noir Frog",
+          "previousScore": 65,
+          "currentScore": 60,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "QFWFQ",
@@ -164,11 +164,6 @@
           "reviews": 2
         },
         {
-          "title": "The Tom Brace Magic Hour",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "TO BE FRANK",
           "score": 83,
           "reviews": 2
@@ -179,14 +174,29 @@
           "reviews": 2
         },
         {
-          "title": "Burger and a Pint: Treats for the Soul",
+          "title": "FLOP! The Best Songs From The Worst Musicals",
           "score": 82,
           "reviews": 3
         },
         {
-          "title": "FLOP! The Best Songs From The Worst Musicals",
-          "score": 82,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "The Singer",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "James Trickey: Split",
@@ -194,7 +204,7 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
+          "title": "Madam(e) Lou",
           "score": 76,
           "reviews": 2
         },
@@ -219,8 +229,18 @@
           "reviews": 2
         },
         {
+          "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
+          "score": 75,
+          "reviews": 2
+        },
+        {
           "title": "CROWD WORK",
           "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Camelton",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -236,6 +256,16 @@
         {
           "title": "Mandy: Prince of Darkness",
           "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Bread and Circuses",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -264,6 +294,11 @@
           "reviews": 2
         },
         {
+          "title": "The Pigeon Factory",
+          "score": 57,
+          "reviews": 2
+        },
+        {
           "title": "Ed Gaughan: The Emperor",
           "score": 56,
           "reviews": 2
@@ -277,6 +312,7 @@
       "newShowTitles": [
         "101 Impressions in One Hour",
         "12th Annual Haters&apos; Ball",
+        "1979: Persianality Disorder",
         "2 Truths, 1 Lie",
         "44 Minutes",
         "A Clown's Lullaby",
@@ -284,6 +320,7 @@
         "A Complete Idiot&apos;s Guide to New Zealand",
         "A Man Proposes to a Balloon, or Possibly Something Worse",
         "Absolutely! One-Liner Jokes!",
+        "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Boyle: To All The Boys I&apos;ve Loved Before",
         "Annie Wobbler (Revisited)",
@@ -293,6 +330,7 @@
         "Bróccán Tyzack-Carlin: Good News! It&apos;s Been Destroyed",
         "CADEL: Lungs on Legs",
         "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
+        "Collaborator",
         "Crash Course",
         "Cricket &#038; The Freebugs",
         "Dan James: Lucky",
@@ -309,16 +347,17 @@
         "Good Boy",
         "Graham and Steen",
         "Harry Stachini: Lobster",
-        "Here Comes Almost",
         "Hope This Helps!",
         "INDY!",
         "Introductions",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Kevin Quantum: Invisible Force",
+        "Les Keen: Dinosaur (How to Wipe Out the Human Race)",
         "Little Animals",
         "Madam(e) Lou",
         "Marc Burrows in the Ten Best Songs of All Time",
+        "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Nathan Cassidy: Ewwww!",
@@ -329,7 +368,9 @@
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
+        "Rattlepole! An Improv Shakespeare Show",
         "Reformer",
+        "SAND",
         "Sam Nicoresti: Baby Doomer",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Shakespeare&apos;s Big Brother",
@@ -339,19 +380,19 @@
         "Soft Spot",
         "Sokopop Quiz Night",
         "Space In Between",
+        "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Augur",
-        "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
         "The Jolly Fisherman",
         "The Powerpop Girls: A New Diva Religion",
         "The Real Housewives of the Zombie Apocalypse",
         "The Singer",
-        "The Spy Who Came in from the Park",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Vagina Monologues",
         "We Were Sisters",
         "When We Were Young",
+        "Whose Play Is It Anyway?",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "Woman Seeking Cuddles",
         "You Are What You Eat",
