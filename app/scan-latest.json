@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T18:22:01.834Z",
-      "completedAt": "2026-08-20T18:22:01.834Z",
+      "id": "2026-08-20T19:24:36.113Z",
+      "completedAt": "2026-08-20T19:24:36.113Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1034,
-      "totalNotices": 2783,
+      "totalShows": 1038,
+      "totalNotices": 2787,
       "defaultVisible": 600,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T18:16:33.962Z",
-      "windowEndedAt": "2026-08-20T18:22:01.834Z",
+      "windowStartedAt": "2026-08-19T19:17:51.337Z",
+      "windowEndedAt": "2026-08-20T19:24:36.113Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 493,
-      "newShows": 83,
+      "newReviews": 497,
+      "newShows": 88,
       "enteredRanking": 50,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 72,
-          "currentScore": 83,
-          "delta": 11,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
         {
           "title": "Father, Away She Goes",
           "previousScore": 64,
@@ -120,6 +112,14 @@
           "delta": -5,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Jess Fuchs: Feral",
+          "previousScore": 90,
+          "currentScore": 86,
+          "delta": -4,
+          "previousReviews": 6,
+          "currentReviews": 7
         }
       ],
       "newEntries": [
@@ -214,11 +214,6 @@
           "reviews": 2
         },
         {
-          "title": "War of the Worlds (On a Budget)",
-          "score": 77,
-          "reviews": 3
-        },
-        {
           "title": "After Party",
           "score": 76,
           "reviews": 2
@@ -270,6 +265,11 @@
         },
         {
           "title": "Uncorked",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "War of the Worlds (On a Budget)",
           "score": 76,
           "reviews": 2
         },
