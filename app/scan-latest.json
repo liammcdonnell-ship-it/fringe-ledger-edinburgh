@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T15:25:40.893Z",
-      "completedAt": "2026-08-20T15:25:40.893Z",
+      "id": "2026-08-20T16:21:57.012Z",
+      "completedAt": "2026-08-20T16:21:57.012Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1015,
-      "totalNotices": 2666,
-      "defaultVisible": 579,
+      "totalShows": 985,
+      "totalNotices": 2623,
+      "defaultVisible": 574,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T15:21:31.261Z",
-      "windowEndedAt": "2026-08-20T15:25:40.893Z",
+      "windowStartedAt": "2026-08-19T16:18:36.886Z",
+      "windowEndedAt": "2026-08-20T16:21:57.012Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 375,
-      "newShows": 76,
-      "enteredRanking": 37,
+      "newReviews": 342,
+      "newShows": 37,
+      "enteredRanking": 24,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "It's Always Sunny on Olympus",
           "previousScore": 70,
@@ -50,36 +42,28 @@
           "currentReviews": 3
         },
         {
-          "title": "Burger and a Pint: Treats for the Soul",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "I Almost Died for This?! (A love story. Sort of.)",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Film Noir Frog",
           "previousScore": 65,
           "currentScore": 60,
           "delta": -5,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
+          "previousScore": 91,
+          "currentScore": 87,
+          "delta": -4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Matt Forde: Project Holy Moly",
+          "previousScore": 85,
+          "currentScore": 81,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "QFWFQ",
@@ -106,33 +90,39 @@
           "currentReviews": 5
         },
         {
-          "title": "Jamie Wolf: Psycho",
+          "title": "An American (Not) in Paris",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Raj Poojara: Dice",
+          "previousScore": 76,
+          "currentScore": 72,
+          "delta": -4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
+          "previousScore": 57,
+          "currentScore": 53,
+          "delta": -4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Nate Kitch Replica",
           "previousScore": 72,
           "currentScore": 76,
           "delta": 4,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 72,
-          "currentScore": 68,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
-        {
-          "title": "Heart Beats Strong",
-          "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Rockpools",
-          "score": 89,
-          "reviews": 2
-        },
         {
           "title": "Smile, It Might Never Happen",
           "score": 89,
@@ -159,7 +149,7 @@
           "reviews": 2
         },
         {
-          "title": "The Frank Carson Story",
+          "title": "The Tom Brace Magic Hour",
           "score": 83,
           "reviews": 2
         },
@@ -169,34 +159,9 @@
           "reviews": 2
         },
         {
-          "title": "Will BF: Moon Team IIIV",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "FLOP! The Best Songs From The Worst Musicals",
           "score": 82,
           "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "The Singer",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
         },
         {
           "title": "James Trickey: Split",
@@ -234,32 +199,12 @@
           "reviews": 2
         },
         {
-          "title": "CROWD WORK",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Camelton",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Democrazy",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Love's Labour's Found",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Mandy: Prince of Darkness",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
@@ -297,20 +242,9 @@
           "title": "The Pigeon Factory",
           "score": 57,
           "reviews": 2
-        },
-        {
-          "title": "Ed Gaughan: The Emperor",
-          "score": 56,
-          "reviews": 2
-        },
-        {
-          "title": "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
-          "score": 53,
-          "reviews": 3
         }
       ],
       "newShowTitles": [
-        "101 Impressions in One Hour",
         "12th Annual Haters&apos; Ball",
         "1979: Persianality Disorder",
         "2 Truths, 1 Lie",
@@ -329,7 +263,6 @@
         "Brendan Scannell: The Abyss",
         "Bróccán Tyzack-Carlin: Good News! It&apos;s Been Destroyed",
         "CADEL: Lungs on Legs",
-        "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
         "Collaborator",
         "Crash Course",
         "Cricket &#038; The Freebugs",
@@ -339,7 +272,6 @@
         "Derek Demko&apos;s Last Day of Camp!",
         "Dragon Tales",
         "Everybody's Got a Bomb",
-        "Felicity Ward: I Wish I Could Come Out of My Shell",
         "Frisky&apos;s Remix Roulette",
         "Furniture Boys",
         "GIRLZ",
@@ -371,7 +303,6 @@
         "Rattlepole! An Improv Shakespeare Show",
         "Reformer",
         "SAND",
-        "Sam Nicoresti: Baby Doomer",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
@@ -385,13 +316,9 @@
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Augur",
         "The Jolly Fisherman",
-        "The Powerpop Girls: A New Diva Religion",
-        "The Real Housewives of the Zombie Apocalypse",
         "The Singer",
         "The Thinking Drinkers&apos; Great British Pub Ride",
-        "The Vagina Monologues",
         "We Were Sisters",
-        "When We Were Young",
         "Whose Play Is It Anyway?",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "Woman Seeking Cuddles",
