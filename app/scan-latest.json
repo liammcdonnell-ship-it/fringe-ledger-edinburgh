@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T03:36:37.204Z",
-      "completedAt": "2026-08-20T03:36:37.204Z",
+      "id": "2026-08-20T04:25:37.140Z",
+      "completedAt": "2026-08-20T04:25:37.140Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 952,
-      "totalNotices": 2495,
-      "defaultVisible": 551,
+      "totalShows": 960,
+      "totalNotices": 2508,
+      "defaultVisible": 552,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T03:36:13.238Z",
-      "windowEndedAt": "2026-08-20T03:36:37.204Z",
+      "windowStartedAt": "2026-08-19T04:25:32.164Z",
+      "windowEndedAt": "2026-08-20T04:25:37.140Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 359,
-      "newShows": 49,
-      "enteredRanking": 31,
+      "newReviews": 335,
+      "newShows": 32,
+      "enteredRanking": 32,
       "newOutlets": [],
       "movers": [
         {
@@ -54,7 +54,7 @@
           "previousScore": 58,
           "currentScore": 65,
           "delta": 7,
-          "previousReviews": 3,
+          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -140,6 +140,11 @@
         },
         {
           "title": "2ShoulderPads: Galaxy Train",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
