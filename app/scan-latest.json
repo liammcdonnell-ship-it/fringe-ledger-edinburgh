@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T12:22:01.840Z",
-      "completedAt": "2026-08-20T12:22:01.840Z",
+      "id": "2026-08-20T13:40:44.874Z",
+      "completedAt": "2026-08-20T13:40:44.874Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 979,
-      "totalNotices": 2585,
-      "defaultVisible": 569,
+      "totalShows": 973,
+      "totalNotices": 2568,
+      "defaultVisible": 563,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T12:19:18.141Z",
-      "windowEndedAt": "2026-08-20T12:22:01.840Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-19T13:36:51.424Z",
+      "windowEndedAt": "2026-08-20T13:40:44.874Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 339,
-      "newShows": 37,
-      "enteredRanking": 37,
+      "newReviews": 319,
+      "newShows": 49,
+      "enteredRanking": 32,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "Amelia Hamilton: Moral Support",
           "previousScore": 77,
@@ -90,17 +98,9 @@
           "currentReviews": 4
         },
         {
-          "title": "Katie Pritchard is Sir Elton Scone",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Robin Grainger: Lemonade",
-          "previousScore": 76,
-          "currentScore": 81,
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 67,
+          "currentScore": 72,
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
@@ -144,17 +144,17 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Fake",
           "score": 83,
           "reviews": 2
         },
         {
           "title": "Rhys James: Chop Logic",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Scaramouche Jones",
           "score": 83,
           "reviews": 2
         },
@@ -184,6 +184,11 @@
           "reviews": 3
         },
         {
+          "title": "The Singer",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Confessions Of A Mulatto Love Child",
           "score": 76,
           "reviews": 2
@@ -199,12 +204,12 @@
           "reviews": 2
         },
         {
-          "title": "Murder, She Didn't Write",
+          "title": "Mark Steel: What The F*** Is Going On?",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Paul Merton and Suki Webster's Improv Show",
+          "title": "Murder, She Didn't Write",
           "score": 76,
           "reviews": 2
         },
@@ -224,29 +229,9 @@
           "reviews": 2
         },
         {
-          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Courtney Büchner: One of the Girls",
-          "score": 73,
-          "reviews": 3
-        },
-        {
           "title": "CROWD WORK",
           "score": 73,
           "reviews": 2
-        },
-        {
-          "title": "Spooky Dookie: Cool New Planet!!",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "RobWords Live",
-          "score": 70,
-          "reviews": 3
         },
         {
           "title": "Democrazy",
@@ -264,11 +249,6 @@
           "reviews": 2
         },
         {
-          "title": "Chief Petty Officer",
-          "score": 66,
-          "reviews": 2
-        },
-        {
           "title": "Broke and Fabulous in the 21st Century",
           "score": 64,
           "reviews": 2
@@ -280,11 +260,6 @@
         },
         {
           "title": "Persona",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
         },
@@ -326,9 +301,7 @@
         "Annie Wobbler (Revisited)",
         "Big Naked Comedy Show",
         "Big Tobacco&apos;s Pinocchio",
-        "Boogie on the Bones",
         "Brendan Scannell: The Abyss",
-        "Brit Barron: CHURCH",
         "Bróccán Tyzack-Carlin: Good News! It&apos;s Been Destroyed",
         "CADEL: Lungs on Legs",
         "CROWD WORK",
@@ -345,7 +318,6 @@
         "Everybody's Got a Bomb",
         "Felicity Ward: I Wish I Could Come Out of My Shell",
         "Follow Me",
-        "Frank Skinner: Work in Progress",
         "GIRLZ",
         "Gameplay",
         "Grace Jarvis: Getting Dragged Backwards Through a Hedge",
@@ -362,7 +334,6 @@
         "Madam(e) Lou",
         "Marc Burrows in the Ten Best Songs of All Time",
         "Mates Rates - The Golden Age Begins",
-        "Megasquirt: Fully Loaded",
         "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Nathan Cassidy: Ewwww!",
@@ -375,9 +346,9 @@
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Reformer",
-        "RobWords Live",
         "Sam Nicoresti: Baby Doomer",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
+        "Shakespeare&apos;s Big Brother",
         "Shamaniac",
         "Snow",
         "Soft Spot",
@@ -397,8 +368,6 @@
         "The Spy Who Came in from the Park",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Vagina Monologues",
-        "Tom Cashman: NPC (Nearly Proficient Comedian)",
-        "Tom Towelling Teaches You to Knit",
         "We Were Sisters",
         "When We Were Young",
         "Woman Seeking Cuddles",
