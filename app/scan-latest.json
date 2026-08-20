@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T07:31:35.537Z",
-      "completedAt": "2026-08-20T07:31:35.537Z",
+      "id": "2026-08-20T08:24:22.753Z",
+      "completedAt": "2026-08-20T08:24:22.753Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 952,
-      "totalNotices": 2495,
-      "defaultVisible": 551,
+      "totalShows": 970,
+      "totalNotices": 2533,
+      "defaultVisible": 553,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T07:29:33.657Z",
-      "windowEndedAt": "2026-08-20T07:31:35.537Z",
+      "windowStartedAt": "2026-08-19T08:22:41.403Z",
+      "windowEndedAt": "2026-08-20T08:24:22.753Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 341,
-      "newShows": 43,
+      "newReviews": 364,
+      "newShows": 69,
       "enteredRanking": 31,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 70,
+          "currentScore": 82,
+          "delta": 12,
+          "previousReviews": 4,
+          "currentReviews": 4
+        },
         {
           "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "previousScore": 83,
@@ -32,6 +40,14 @@
           "delta": -11,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Lucas Jefcoate: If I'm Not Somebody, I'm Nobody",
@@ -50,28 +66,20 @@
           "currentReviews": 5
         },
         {
+          "title": "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
+          "previousScore": 70,
+          "currentScore": 77,
+          "delta": 7,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Struan Logan: Chaotic Good",
           "previousScore": 71,
           "currentScore": 64,
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 2
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 71,
-          "currentScore": 77,
-          "delta": 6,
-          "previousReviews": 7,
-          "currentReviews": 8
-        },
-        {
-          "title": "Grimm AF",
-          "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Big Stuff",
@@ -106,14 +114,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 70,
-          "currentScore": 75,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 5
-        },
-        {
           "title": "Amelia Hamilton: Moral Support",
           "previousScore": 77,
           "currentScore": 82,
@@ -134,17 +134,17 @@
           "reviews": 2
         },
         {
-          "title": "Gearóid Farrelly: No Pressure",
-          "score": 86,
-          "reviews": 2
-        },
-        {
           "title": "2ShoulderPads: Galaxy Train",
           "score": 83,
           "reviews": 2
         },
         {
           "title": "Dru Cripps: Juicy Bits",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Rhys James: Chop Logic",
           "score": 83,
           "reviews": 2
         },
@@ -162,11 +162,6 @@
           "title": "Burger and a Pint: Treats for the Soul",
           "score": 82,
           "reviews": 3
-        },
-        {
-          "title": "Gregor Fisher: An (Early) Evening With Gregor Fisher",
-          "score": 79,
-          "reviews": 2
         },
         {
           "title": "Confessions Of A Mulatto Love Child",
@@ -249,6 +244,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Chief Petty Officer",
           "score": 66,
           "reviews": 2
@@ -269,21 +269,23 @@
           "reviews": 2
         },
         {
-          "title": "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
           "title": "Ed Gaughan: The Emperor",
           "score": 56,
           "reviews": 2
+        },
+        {
+          "title": "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
+          "score": 53,
+          "reviews": 3
         }
       ],
       "newShowTitles": [
-        "1 Pill 2 Pill, Red Pill Blue Pill: A Matrix Parody Musical",
         "101 Impressions in One Hour",
+        "12th Annual Haters&apos; Ball",
+        "2 Truths, 1 Lie",
         "44 Minutes",
         "A Clown's Lullaby",
+        "A Man Proposes to a Balloon, or Possibly Something Worse",
         "A Traitors Pantomime",
         "Absolutely! One-Liner Jokes!",
         "Alfie Moore: Fair Cop - Live!",
@@ -294,6 +296,7 @@
         "Boogie on the Bones",
         "Brendan Scannell: The Abyss",
         "Brit Barron: CHURCH",
+        "Bróccán Tyzack-Carlin: Good News! It&apos;s Been Destroyed",
         "CADEL: Lungs on Legs",
         "CROWD WORK",
         "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
@@ -302,7 +305,10 @@
         "Collaborator",
         "Crash Course",
         "Cricket &#038; The Freebugs",
+        "Dan James: Lucky",
         "Darren Gaffney: The Full Gaffney",
+        "David O&apos;Doherty: At This Stage",
+        "Davro&apos;s Back! Bobby Davro",
         "Derek Demko&apos;s Last Day of Camp!",
         "Dinosaurs",
         "Doing Time with Lavinia",
@@ -346,6 +352,7 @@
         "Ryan Cullen: Cullen Me Softly",
         "SAND",
         "Sam Nicoresti: Baby Doomer",
+        "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Shamaniac",
         "Snow",
         "Soaked",
