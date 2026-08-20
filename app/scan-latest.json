@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T10:17:43.046Z",
-      "completedAt": "2026-08-20T10:17:43.046Z",
+      "id": "2026-08-20T11:17:34.427Z",
+      "completedAt": "2026-08-20T11:17:34.427Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 999,
-      "totalNotices": 2610,
-      "defaultVisible": 569,
+      "totalShows": 977,
+      "totalNotices": 2582,
+      "defaultVisible": 570,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T10:17:16.103Z",
-      "windowEndedAt": "2026-08-20T10:17:43.046Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-19T11:14:31.507Z",
+      "windowEndedAt": "2026-08-20T11:17:34.427Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 348,
-      "newShows": 56,
-      "enteredRanking": 33,
+      "newReviews": 346,
+      "newShows": 37,
+      "enteredRanking": 37,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "Amelia Hamilton: Moral Support",
           "previousScore": 77,
@@ -90,14 +82,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Sydnee Washington: My Black Barbie Story",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 70,
           "currentScore": 75,
@@ -120,6 +104,22 @@
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Robin Grainger: Lemonade",
+          "previousScore": 76,
+          "currentScore": 81,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "previousScore": 85,
+          "currentScore": 81,
+          "delta": -4,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -140,6 +140,11 @@
         },
         {
           "title": "Annie Boyle: To All The Boys I've Loved Before",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -190,6 +195,11 @@
         },
         {
           "title": "James Trickey: Split",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -274,7 +284,17 @@
           "reviews": 2
         },
         {
+          "title": "Tom Towelling Teaches You to Knit",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Fab Goualin: Mixed Messages",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Prophets",
           "score": 57,
           "reviews": 2
         },
@@ -351,6 +371,7 @@
         "Nathan Cassidy: Ewwww!",
         "Obie: The Fuck It List",
         "Of Mice And Men",
+        "Our Seventh String",
         "Owl at Home – Theatr Iolo",
         "Pervert Werewolf",
         "Pierre Novellie: Do the One About&#8230;",
@@ -358,7 +379,6 @@
         "Quentin Blake's Mrs Armitage on Wheels",
         "Reformer",
         "RobWords Live",
-        "SAND",
         "Sam Nicoresti: Baby Doomer",
         "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Shamaniac",
