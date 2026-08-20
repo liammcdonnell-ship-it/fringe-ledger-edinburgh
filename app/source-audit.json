@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-08-20T13:40:44.874Z",
+  "checked_at": "2026-08-20T14:27:16.875Z",
   "status": "complete",
   "summary": {
     "publications_listed": 102,
     "publications_attempted": 102,
     "checked": 102,
     "access_failed": 0,
-    "new_review_notices": 12
+    "new_review_notices": 38
   },
   "sources": [
     {
@@ -20,7 +20,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:36.693Z"
+      "checked_at": "2026-08-20T14:27:06.753Z"
     },
     {
       "publication": "Across the Arts",
@@ -33,7 +33,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.040Z"
+      "checked_at": "2026-08-20T14:27:04.035Z"
     },
     {
       "publication": "All Edinburgh Theatre",
@@ -46,7 +46,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.892Z"
+      "checked_at": "2026-08-20T14:27:06.095Z"
     },
     {
       "publication": "Arts Reviews Edinburgh",
@@ -59,7 +59,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.829Z"
+      "checked_at": "2026-08-20T14:27:05.863Z"
     },
     {
       "publication": "Beyond The Joke",
@@ -67,12 +67,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.737Z"
+      "checked_at": "2026-08-20T14:27:06.984Z"
     },
     {
       "publication": "Binge Fringe",
@@ -80,12 +80,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:33.827Z"
+      "checked_at": "2026-08-20T14:27:03.921Z"
     },
     {
       "publication": "Bookmarks and Stages by Lou",
@@ -98,7 +98,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.881Z"
+      "checked_at": "2026-08-20T14:27:07.007Z"
     },
     {
       "publication": "Boom Radio",
@@ -111,7 +111,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.009Z"
+      "checked_at": "2026-08-20T14:27:04.223Z"
     },
     {
       "publication": "Bouquets & Brickbats",
@@ -124,7 +124,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.519Z"
+      "checked_at": "2026-08-20T14:27:05.018Z"
     },
     {
       "publication": "Braw Theatre",
@@ -137,7 +137,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.768Z"
+      "checked_at": "2026-08-20T14:27:05.835Z"
     },
     {
       "publication": "Brig Newspaper",
@@ -150,20 +150,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.923Z"
+      "checked_at": "2026-08-20T14:27:07.011Z"
     },
     {
       "publication": "British Comedy Guide discovery feed",
       "checked_surface": "https://www.comedy.co.uk/fringe/2026/reviews/",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-20",
-      "candidate_count": 85,
+      "candidate_count": 84,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.796Z"
+      "checked_at": "2026-08-20T14:27:06.645Z"
     },
     {
       "publication": "British Theatre Guide",
@@ -176,7 +176,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:33.844Z"
+      "checked_at": "2026-08-20T14:27:03.954Z"
     },
     {
       "publication": "Broadway Baby",
@@ -184,25 +184,25 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:34.420Z"
+      "checked_at": "2026-08-20T14:27:04.704Z"
     },
     {
       "publication": "BroadwayWorld",
       "checked_surface": "https://www.broadwayworld.com/scotland/reviewsnew.cfm",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 34,
+      "candidate_count": 33,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.049Z"
+      "checked_at": "2026-08-20T14:27:06.608Z"
     },
     {
       "publication": "Broken Legs Blog",
@@ -215,7 +215,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.490Z"
+      "checked_at": "2026-08-20T14:27:06.763Z"
     },
     {
       "publication": "Bruce on the Fringe",
@@ -228,7 +228,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.405Z"
+      "checked_at": "2026-08-20T14:27:04.747Z"
     },
     {
       "publication": "Butterwort",
@@ -241,7 +241,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.937Z"
+      "checked_at": "2026-08-20T14:27:07.005Z"
     },
     {
       "publication": "Chortle",
@@ -249,12 +249,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-19",
       "candidate_count": 125,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 2,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.287Z"
+      "checked_at": "2026-08-20T14:27:04.243Z"
     },
     {
       "publication": "Corr Blimey",
@@ -267,7 +267,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:36.028Z"
+      "checked_at": "2026-08-20T14:27:06.451Z"
     },
     {
       "publication": "Counter Culture UK",
@@ -280,7 +280,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.751Z"
+      "checked_at": "2026-08-20T14:27:06.877Z"
     },
     {
       "publication": "Country & Town House",
@@ -293,7 +293,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:38.730Z"
+      "checked_at": "2026-08-20T14:27:08.781Z"
     },
     {
       "publication": "Culture Fix",
@@ -306,7 +306,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.752Z"
+      "checked_at": "2026-08-20T14:27:06.880Z"
     },
     {
       "publication": "DarkChat",
@@ -314,12 +314,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:38.334Z"
+      "checked_at": "2026-08-20T14:27:07.322Z"
     },
     {
       "publication": "Disrupt Reviews",
@@ -327,12 +327,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 24,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:33.831Z"
+      "checked_at": "2026-08-20T14:27:03.952Z"
     },
     {
       "publication": "EdFest Reviews",
@@ -345,7 +345,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:37.383Z"
+      "checked_at": "2026-08-20T14:27:07.897Z"
     },
     {
       "publication": "EdFringe Review",
@@ -358,7 +358,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.257Z"
+      "checked_at": "2026-08-20T14:27:05.206Z"
     },
     {
       "publication": "Edinburgh Evening News",
@@ -371,7 +371,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:35.601Z"
+      "checked_at": "2026-08-20T14:27:05.761Z"
     },
     {
       "publication": "Edinburgh Festivals",
@@ -384,7 +384,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.447Z"
+      "checked_at": "2026-08-20T14:27:06.704Z"
     },
     {
       "publication": "Edinburgh Music Review",
@@ -397,7 +397,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.846Z"
+      "checked_at": "2026-08-20T14:27:05.902Z"
     },
     {
       "publication": "Edinburgh Reviews",
@@ -410,7 +410,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.508Z"
+      "checked_at": "2026-08-20T14:27:06.764Z"
     },
     {
       "publication": "EdinburghGuide",
@@ -423,7 +423,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.003Z"
+      "checked_at": "2026-08-20T14:27:06.410Z"
     },
     {
       "publication": "Elemental Theatre",
@@ -436,7 +436,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.382Z"
+      "checked_at": "2026-08-20T14:27:06.672Z"
     },
     {
       "publication": "Entertainment Now",
@@ -444,12 +444,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:34.947Z"
+      "checked_at": "2026-08-20T14:27:05.632Z"
     },
     {
       "publication": "European Comedy",
@@ -462,7 +462,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.788Z"
+      "checked_at": "2026-08-20T14:27:05.842Z"
     },
     {
       "publication": "Everything Theatre",
@@ -475,7 +475,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.814Z"
+      "checked_at": "2026-08-20T14:27:06.920Z"
     },
     {
       "publication": "Fest Mag",
@@ -483,12 +483,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": "2026-08-20",
       "candidate_count": 386,
-      "valid_reviews_added": 3,
+      "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.180Z"
+      "checked_at": "2026-08-20T14:27:04.394Z"
     },
     {
       "publication": "FringeFan",
@@ -501,7 +501,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.703Z"
+      "checked_at": "2026-08-20T14:27:04.751Z"
     },
     {
       "publication": "FringeReview",
@@ -514,7 +514,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.319Z"
+      "checked_at": "2026-08-20T14:27:05.489Z"
     },
     {
       "publication": "From the North",
@@ -527,7 +527,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.308Z"
+      "checked_at": "2026-08-20T14:27:04.485Z"
     },
     {
       "publication": "Get the Chance",
@@ -540,7 +540,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:35.818Z"
+      "checked_at": "2026-08-20T14:27:05.459Z"
     },
     {
       "publication": "Gonzo Magazine",
@@ -553,7 +553,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.996Z"
+      "checked_at": "2026-08-20T14:27:07.089Z"
     },
     {
       "publication": "Hot Take Reviews",
@@ -566,20 +566,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.812Z"
+      "checked_at": "2026-08-20T14:27:06.926Z"
     },
     {
       "publication": "Instafestreview",
-      "checked_surface": "https://www.instagram.com/instafestreview/",
+      "checked_surface": "https://www.google.com/search?q=site%3Ainstagram.com%20Edinburgh%20Fringe%20review%202026",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 67,
+      "candidate_count": 1,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
-      "error": null,
-      "checked_at": "2026-08-20T13:40:37.681Z"
+      "error": "Direct access failed: HTTP 429",
+      "checked_at": "2026-08-20T14:27:07.565Z"
     },
     {
       "publication": "Kat Masterson",
@@ -592,7 +592,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:38.347Z"
+      "checked_at": "2026-08-20T14:27:08.090Z"
     },
     {
       "publication": "Lisa in the Theatre",
@@ -605,7 +605,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.993Z"
+      "checked_at": "2026-08-20T14:27:07.069Z"
     },
     {
       "publication": "London Born And Bred",
@@ -618,7 +618,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.878Z"
+      "checked_at": "2026-08-20T14:27:06.960Z"
     },
     {
       "publication": "London Theatre Doc",
@@ -631,7 +631,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.874Z"
+      "checked_at": "2026-08-20T14:27:06.935Z"
     },
     {
       "publication": "LondonTheatre1",
@@ -644,7 +644,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:37.023Z"
+      "checked_at": "2026-08-20T14:27:06.341Z"
     },
     {
       "publication": "Lothian Life",
@@ -657,7 +657,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.934Z"
+      "checked_at": "2026-08-20T14:27:07.055Z"
     },
     {
       "publication": "LouReviews",
@@ -670,7 +670,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:35.710Z"
+      "checked_at": "2026-08-20T14:27:06.253Z"
     },
     {
       "publication": "Midlothian View",
@@ -678,12 +678,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 4,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.912Z"
+      "checked_at": "2026-08-20T14:27:05.119Z"
     },
     {
       "publication": "Mix Up Theatre",
@@ -696,7 +696,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:34.222Z"
+      "checked_at": "2026-08-20T14:27:04.456Z"
     },
     {
       "publication": "Musical Theatre Review",
@@ -709,7 +709,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.863Z"
+      "checked_at": "2026-08-20T14:27:06.972Z"
     },
     {
       "publication": "Neurodiverse Review",
@@ -722,37 +722,11 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.869Z"
+      "checked_at": "2026-08-20T14:27:06.891Z"
     },
     {
       "publication": "North West End UK",
       "checked_surface": "https://www.google.com/search?q=site%3Anorthwestend.com%20Edinburgh%20Fringe%20reviews%202026",
-      "pages_or_results_inspected": 1,
-      "newest_review_date_seen": null,
-      "candidate_count": 1,
-      "valid_reviews_added": 0,
-      "duplicates": 0,
-      "ambiguous_matches": 0,
-      "status": "checked",
-      "error": null,
-      "checked_at": "2026-08-20T13:40:36.278Z"
-    },
-    {
-      "publication": "On the Mic",
-      "checked_surface": "https://www.google.com/search?q=site%3Aonthemic.co.uk%20Edinburgh%20Fringe%20reviews%202026",
-      "pages_or_results_inspected": 1,
-      "newest_review_date_seen": null,
-      "candidate_count": 1,
-      "valid_reviews_added": 0,
-      "duplicates": 0,
-      "ambiguous_matches": 0,
-      "status": "checked",
-      "error": null,
-      "checked_at": "2026-08-20T13:40:34.070Z"
-    },
-    {
-      "publication": "One4Review",
-      "checked_surface": "https://www.google.com/search?q=site%3Aone4review.co.uk%20Edinburgh%20Fringe%20reviews%202026",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
@@ -761,7 +735,33 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.375Z"
+      "checked_at": "2026-08-20T14:27:06.682Z"
+    },
+    {
+      "publication": "On the Mic",
+      "checked_surface": "https://www.google.com/search?q=site%3Aonthemic.co.uk%20Edinburgh%20Fringe%20reviews%202026",
+      "pages_or_results_inspected": 1,
+      "newest_review_date_seen": null,
+      "candidate_count": 1,
+      "valid_reviews_added": 1,
+      "duplicates": 0,
+      "ambiguous_matches": 0,
+      "status": "checked",
+      "error": null,
+      "checked_at": "2026-08-20T14:27:04.097Z"
+    },
+    {
+      "publication": "One4Review",
+      "checked_surface": "https://www.google.com/search?q=site%3Aone4review.co.uk%20Edinburgh%20Fringe%20reviews%202026",
+      "pages_or_results_inspected": 1,
+      "newest_review_date_seen": null,
+      "candidate_count": 1,
+      "valid_reviews_added": 4,
+      "duplicates": 0,
+      "ambiguous_matches": 0,
+      "status": "checked",
+      "error": null,
+      "checked_at": "2026-08-20T14:27:04.462Z"
     },
     {
       "publication": "Perth Happenings",
@@ -774,7 +774,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:44.867Z"
+      "checked_at": "2026-08-20T14:27:16.867Z"
     },
     {
       "publication": "Phoenix Remix",
@@ -787,20 +787,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.413Z"
+      "checked_at": "2026-08-20T14:27:05.004Z"
     },
     {
       "publication": "Reyt Good Magazine",
-      "checked_surface": "https://rgm.press/?s=edinburgh+fringe",
+      "checked_surface": "https://www.google.com/search?q=site%3Argm.press%20Edinburgh%20Fringe%20review%202026",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 0,
+      "candidate_count": 1,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
-      "error": null,
-      "checked_at": "2026-08-20T13:40:36.603Z"
+      "error": "Direct access failed: fetch failed",
+      "checked_at": "2026-08-20T14:27:14.253Z"
     },
     {
       "publication": "Rolandâ€™s Reviews",
@@ -813,7 +813,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:34.106Z"
+      "checked_at": "2026-08-20T14:27:04.014Z"
     },
     {
       "publication": "ScotsGay",
@@ -821,12 +821,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 1,
+      "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.935Z"
+      "checked_at": "2026-08-20T14:27:07.023Z"
     },
     {
       "publication": "Scottish Field",
@@ -839,7 +839,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:34.458Z"
+      "checked_at": "2026-08-20T14:27:04.781Z"
     },
     {
       "publication": "SNACK Magazine",
@@ -852,7 +852,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:37.452Z"
+      "checked_at": "2026-08-20T14:27:09.643Z"
     },
     {
       "publication": "Sounds & Stage",
@@ -865,7 +865,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.845Z"
+      "checked_at": "2026-08-20T14:27:05.903Z"
     },
     {
       "publication": "StageSideUK",
@@ -878,7 +878,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.663Z"
+      "checked_at": "2026-08-20T14:27:05.775Z"
     },
     {
       "publication": "STARBURST",
@@ -891,7 +891,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:35.444Z"
+      "checked_at": "2026-08-20T14:27:05.652Z"
     },
     {
       "publication": "The Arts Desk",
@@ -904,7 +904,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.677Z"
+      "checked_at": "2026-08-20T14:27:06.831Z"
     },
     {
       "publication": "The Comics Comic",
@@ -917,7 +917,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.691Z"
+      "checked_at": "2026-08-20T14:27:06.852Z"
     },
     {
       "publication": "The Flaneur",
@@ -930,7 +930,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.649Z"
+      "checked_at": "2026-08-20T14:27:05.723Z"
     },
     {
       "publication": "The Guardian",
@@ -938,12 +938,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:33.975Z"
+      "checked_at": "2026-08-20T14:27:04.318Z"
     },
     {
       "publication": "The Herald",
@@ -956,7 +956,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.327Z"
+      "checked_at": "2026-08-20T14:27:04.365Z"
     },
     {
       "publication": "The Independent",
@@ -969,7 +969,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:35.816Z"
+      "checked_at": "2026-08-20T14:27:06.795Z"
     },
     {
       "publication": "The List",
@@ -977,12 +977,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 3,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:34.844Z"
+      "checked_at": "2026-08-20T14:27:05.401Z"
     },
     {
       "publication": "The Mumble",
@@ -990,12 +990,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:37.337Z"
+      "checked_at": "2026-08-20T14:27:07.777Z"
     },
     {
       "publication": "The Quinntessential Review",
@@ -1003,12 +1003,12 @@
       "pages_or_results_inspected": 4,
       "newest_review_date_seen": "2026-08-20",
       "candidate_count": 161,
-      "valid_reviews_added": 5,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.186Z"
+      "checked_at": "2026-08-20T14:27:06.639Z"
     },
     {
       "publication": "The Real Chrisparkle",
@@ -1021,7 +1021,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.631Z"
+      "checked_at": "2026-08-20T14:27:06.819Z"
     },
     {
       "publication": "The Recs",
@@ -1034,7 +1034,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.575Z"
+      "checked_at": "2026-08-20T14:27:06.817Z"
     },
     {
       "publication": "The Reviews Hub",
@@ -1047,7 +1047,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:35.783Z"
+      "checked_at": "2026-08-20T14:27:05.684Z"
     },
     {
       "publication": "The Scoop",
@@ -1060,7 +1060,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:39.564Z"
+      "checked_at": "2026-08-20T14:27:14.470Z"
     },
     {
       "publication": "The Scotsman",
@@ -1073,7 +1073,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 403",
-      "checked_at": "2026-08-20T13:40:34.388Z"
+      "checked_at": "2026-08-20T14:27:04.622Z"
     },
     {
       "publication": "The Skinny",
@@ -1086,7 +1086,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:37.929Z"
+      "checked_at": "2026-08-20T14:27:07.525Z"
     },
     {
       "publication": "The Spy in the Stalls",
@@ -1099,7 +1099,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:36.448Z"
+      "checked_at": "2026-08-20T14:27:06.731Z"
     },
     {
       "publication": "The Stage",
@@ -1107,12 +1107,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 4,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.091Z"
+      "checked_at": "2026-08-20T14:27:04.940Z"
     },
     {
       "publication": "The Standard",
@@ -1125,7 +1125,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:36.006Z"
+      "checked_at": "2026-08-20T14:27:06.281Z"
     },
     {
       "publication": "The Student (Edinburgh)",
@@ -1133,12 +1133,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 3,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.505Z"
+      "checked_at": "2026-08-20T14:27:06.744Z"
     },
     {
       "publication": "The Telegraph",
@@ -1151,20 +1151,20 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.520Z"
+      "checked_at": "2026-08-20T14:27:05.757Z"
     },
     {
       "publication": "The Times",
       "checked_surface": "https://www.thetimes.com/search?source=nav-desktop&q=edinburgh%20fringe%20review",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 1,
+      "candidate_count": 0,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.468Z"
+      "checked_at": "2026-08-20T14:27:03.914Z"
     },
     {
       "publication": "The Wee Review",
@@ -1177,7 +1177,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": "Direct access failed: HTTP 404",
-      "checked_at": "2026-08-20T13:40:36.214Z"
+      "checked_at": "2026-08-20T14:27:06.399Z"
     },
     {
       "publication": "Theatre & Tonic",
@@ -1190,7 +1190,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.818Z"
+      "checked_at": "2026-08-20T14:27:06.959Z"
     },
     {
       "publication": "Theatre and Art Reviews",
@@ -1198,12 +1198,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.714Z"
+      "checked_at": "2026-08-20T14:27:05.797Z"
     },
     {
       "publication": "Theatre Muse UK",
@@ -1216,7 +1216,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.957Z"
+      "checked_at": "2026-08-20T14:27:06.793Z"
     },
     {
       "publication": "Theatre Scotland",
@@ -1229,7 +1229,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.729Z"
+      "checked_at": "2026-08-20T14:27:05.881Z"
     },
     {
       "publication": "Theatre Village",
@@ -1242,7 +1242,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.875Z"
+      "checked_at": "2026-08-20T14:27:05.954Z"
     },
     {
       "publication": "Theatre Weekly",
@@ -1250,25 +1250,25 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 1,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.573Z"
+      "checked_at": "2026-08-20T14:27:06.789Z"
     },
     {
       "publication": "ThreeWeeks",
-      "checked_surface": "https://threeweeksedinburgh.com/category/reviews/",
+      "checked_surface": "https://www.google.com/search?q=site%3Athreeweeksedinburgh.com%20Edinburgh%20Fringe%20review%202026",
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
-      "candidate_count": 0,
+      "candidate_count": 1,
       "valid_reviews_added": 0,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
-      "error": null,
-      "checked_at": "2026-08-20T13:40:37.199Z"
+      "error": "Direct access failed: HTTP 403",
+      "checked_at": "2026-08-20T14:27:07.468Z"
     },
     {
       "publication": "Time Out",
@@ -1276,12 +1276,12 @@
       "pages_or_results_inspected": 1,
       "newest_review_date_seen": null,
       "candidate_count": 46,
-      "valid_reviews_added": 0,
+      "valid_reviews_added": 1,
       "duplicates": 0,
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:34.851Z"
+      "checked_at": "2026-08-20T14:27:04.946Z"
     },
     {
       "publication": "UK Cabaret",
@@ -1294,7 +1294,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:38.708Z"
+      "checked_at": "2026-08-20T14:27:08.760Z"
     },
     {
       "publication": "West End Best Friend",
@@ -1307,7 +1307,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:36.981Z"
+      "checked_at": "2026-08-20T14:27:07.072Z"
     },
     {
       "publication": "What The Fringe",
@@ -1320,7 +1320,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:35.586Z"
+      "checked_at": "2026-08-20T14:27:05.720Z"
     },
     {
       "publication": "WhatsOnStage",
@@ -1333,7 +1333,7 @@
       "ambiguous_matches": 0,
       "status": "checked",
       "error": null,
-      "checked_at": "2026-08-20T13:40:38.196Z"
+      "checked_at": "2026-08-20T14:27:06.274Z"
     }
   ]
 }
