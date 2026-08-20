@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T21:17:43.329Z",
-      "completedAt": "2026-08-20T21:17:43.329Z",
+      "id": "2026-08-20T22:16:53.143Z",
+      "completedAt": "2026-08-20T22:16:53.143Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1009,
-      "totalNotices": 2749,
-      "defaultVisible": 594,
-      "duplicates": 0,
+      "totalShows": 1037,
+      "totalNotices": 2833,
+      "defaultVisible": 604,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T21:15:43.385Z",
-      "windowEndedAt": "2026-08-20T21:17:43.329Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-19T22:12:20.512Z",
+      "windowEndedAt": "2026-08-20T22:16:53.143Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 502,
-      "newShows": 56,
-      "enteredRanking": 43,
+      "newReviews": 587,
+      "newShows": 84,
+      "enteredRanking": 54,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
+          "previousScore": 70,
+          "currentScore": 78,
+          "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 4
+        },
         {
           "title": "Father, Away She Goes",
           "previousScore": 64,
@@ -42,6 +50,14 @@
           "currentReviews": 5
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "It's Always Sunny on Olympus",
           "previousScore": 70,
           "currentScore": 77,
@@ -50,12 +66,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
-          "previousScore": 70,
-          "currentScore": 77,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "The Pitch",
+          "previousScore": 78,
+          "currentScore": 84,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
+          "title": "MAJENIN - A Palestinian Love Story",
+          "previousScore": 72,
+          "currentScore": 78,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "RobWords Live",
@@ -90,36 +114,12 @@
           "currentReviews": 6
         },
         {
-          "title": "Werewolf",
-          "previousScore": 77,
-          "currentScore": 82,
+          "title": "Little Pink Dress",
+          "previousScore": 70,
+          "currentScore": 75,
           "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Those People",
-          "previousScore": 68,
-          "currentScore": 73,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Film Noir Frog",
-          "previousScore": 65,
-          "currentScore": 60,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Jess Fuchs: Feral",
-          "previousScore": 90,
-          "currentScore": 86,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -149,6 +149,11 @@
           "reviews": 3
         },
         {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 86,
+          "reviews": 2
+        },
+        {
           "title": "Annie Boyle: To All The Boys I've Loved Before",
           "score": 83,
           "reviews": 2
@@ -165,6 +170,11 @@
         },
         {
           "title": "Fake",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Lost in Translation",
           "score": 83,
           "reviews": 2
         },
@@ -194,6 +204,31 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "The Singer",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Murder, She Didn't Write",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "In the Black",
           "score": 76,
           "reviews": 2
@@ -214,12 +249,12 @@
           "reviews": 2
         },
         {
-          "title": "Murder, She Didn't Write",
+          "title": "Simon Evans: Shadow Play",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Simon Evans: Shadow Play",
+          "title": "Steffen Haanes: The Master",
           "score": 76,
           "reviews": 2
         },
@@ -230,11 +265,6 @@
         },
         {
           "title": "The Last Mad Man",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "This Little Thing of Ours",
           "score": 76,
           "reviews": 2
         },
@@ -269,6 +299,11 @@
           "reviews": 3
         },
         {
+          "title": "Mandy: Prince of Darkness",
+          "score": 72,
+          "reviews": 3
+        },
+        {
           "title": "Alice Keys: Rocket Fan",
           "score": 70,
           "reviews": 2
@@ -284,6 +319,21 @@
           "reviews": 2
         },
         {
+          "title": "Camelton",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Diary of a DL Trade",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Follow Me",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "How Not to Make it in America",
           "score": 70,
           "reviews": 2
@@ -294,12 +344,17 @@
           "reviews": 2
         },
         {
+          "title": "This Little Thing of Ours",
+          "score": 68,
+          "reviews": 3
+        },
+        {
           "title": "Jack Off The Beanstalk",
           "score": 67,
           "reviews": 2
         },
         {
-          "title": "Mandy: Prince of Darkness",
+          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
@@ -325,8 +380,8 @@
         },
         {
           "title": "Delphi: The Musical",
-          "score": 61,
-          "reviews": 2
+          "score": 60,
+          "reviews": 3
         },
         {
           "title": "Fab Goualin: Mixed Messages",
@@ -352,6 +407,7 @@
         "Absolutely! One-Liner Jokes!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
+        "Angelshark",
         "Annie Boyle: To All The Boys I&apos;ve Loved Before",
         "Annie Wobbler (Revisited)",
         "Beth and Ben: Your Place in the Workplace",
@@ -382,10 +438,12 @@
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Kevin Quantum: Invisible Force",
         "Les Keen: Dinosaur (How to Wipe Out the Human Race)",
+        "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Little Animals",
         "Long Story Short",
         "Lorna Ní Shúilleabháin: Barefoot Before God",
+        "Love&apos;s Labour&apos;s Lost",
         "Madam(e) Lou",
         "Manic",
         "Marc Burrows in the Ten Best Songs of All Time",
@@ -393,6 +451,7 @@
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Mike Rice: Cruel Little Man",
+        "Murder, She Didn't Write",
         "Nathan Cassidy: Ewwww!",
         "Not Another Quiz Night",
         "Of Mice And Men",
@@ -401,6 +460,7 @@
         "Paul Savage: Comic, Relieved",
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
+        "Play Dead",
         "Queer Diary",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Rattlepole! An Improv Shakespeare Show",
@@ -421,6 +481,7 @@
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Augur",
         "The Brush",
+        "The End of the World",
         "The Jolly Fisherman",
         "The Lady Doth Protest",
         "The Landlady",
