@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-20T17:20:27.079Z",
-      "completedAt": "2026-08-20T17:20:27.079Z",
+      "id": "2026-08-20T18:22:01.834Z",
+      "completedAt": "2026-08-20T18:22:01.834Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 995,
-      "totalNotices": 2680,
-      "defaultVisible": 583,
+      "totalShows": 1034,
+      "totalNotices": 2783,
+      "defaultVisible": 600,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-19T17:17:39.316Z",
-      "windowEndedAt": "2026-08-20T17:20:27.079Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-19T18:16:33.962Z",
+      "windowEndedAt": "2026-08-20T18:22:01.834Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 393,
-      "newShows": 43,
-      "enteredRanking": 33,
+      "newReviews": 493,
+      "newShows": 83,
+      "enteredRanking": 50,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "previousScore": 72,
+          "currentScore": 83,
+          "delta": 11,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "Father, Away She Goes",
           "previousScore": 64,
@@ -32,6 +40,14 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "It's Always Sunny on Olympus",
@@ -66,12 +82,28 @@
           "currentReviews": 3
         },
         {
+          "title": "The Real Kyle McCarren",
+          "previousScore": 85,
+          "currentScore": 90,
+          "delta": 5,
+          "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
           "title": "MUSE: The Shakespeare Mayhem Musical",
           "previousScore": 65,
           "currentScore": 70,
           "delta": 5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Werewolf",
+          "previousScore": 77,
+          "currentScore": 82,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Those People",
@@ -88,38 +120,6 @@
           "delta": -5,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Two Little Pigs",
-          "previousScore": 70,
-          "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Matt Forde: Project Holy Moly",
-          "previousScore": 85,
-          "currentScore": 81,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
-          "title": "Common Tongue",
-          "previousScore": 85,
-          "currentScore": 81,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Don Quixote (Is a Very Big Book)",
-          "previousScore": 74,
-          "currentScore": 78,
-          "delta": 4,
-          "previousReviews": 4,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -139,7 +139,32 @@
           "reviews": 2
         },
         {
+          "title": "When We Were Young",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "TO BE FRANK",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 86,
+          "reviews": 2
+        },
+        {
           "title": "Annie Boyle: To All The Boys I've Loved Before",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "atticwife",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Eryn Tett: Tasting Menu",
           "score": 83,
           "reviews": 2
         },
@@ -169,14 +194,39 @@
           "reviews": 2
         },
         {
-          "title": "TO BE FRANK",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "FLOP! The Best Songs From The Worst Musicals",
           "score": 82,
           "reviews": 3
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "The Singer",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "War of the Worlds (On a Budget)",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "In the Black",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "James Phelan: Showman",
@@ -214,12 +264,12 @@
           "reviews": 2
         },
         {
-          "title": "This Little Thing of Ours",
+          "title": "Tia Rey: Oot Ma Banger",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Tia Rey: Oot Ma Banger",
+          "title": "Uncorked",
           "score": 76,
           "reviews": 2
         },
@@ -239,12 +289,52 @@
           "reviews": 3
         },
         {
+          "title": "Alice Keys: Rocket Fan",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "B48Y Crash Lands on Earth!",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Cabbage the Clown: Cinemadrome",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Camelton",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "How Not to Make it in America",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Swan Song",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "This Little Thing of Ours",
+          "score": 68,
+          "reviews": 3
+        },
+        {
           "title": "Jack Off The Beanstalk",
           "score": 67,
           "reviews": 2
         },
         {
           "title": "Mandy: Prince of Darkness",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
@@ -264,9 +354,9 @@
           "reviews": 2
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "score": 64,
-          "reviews": 2
+          "title": "The Pigeon Factory",
+          "score": 63,
+          "reviews": 3
         },
         {
           "title": "Delphi: The Musical",
@@ -282,16 +372,12 @@
           "title": "Prophets",
           "score": 57,
           "reviews": 2
-        },
-        {
-          "title": "The Pigeon Factory",
-          "score": 57,
-          "reviews": 2
         }
       ],
       "newShowTitles": [
         "12th Annual Haters&apos; Ball",
         "1979: Persianality Disorder",
+        "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
         "2 Truths, 1 Lie",
         "44 Minutes",
         "A Clown's Lullaby",
@@ -314,6 +400,7 @@
         "Dan James: Lucky",
         "David O&apos;Doherty: At This Stage",
         "Davro&apos;s Back! Bobby Davro",
+        "Diva Las Vegas",
         "Dragon Tales",
         "Everybody's Got a Bomb",
         "Frisky&apos;s Remix Roulette",
@@ -330,6 +417,7 @@
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Kevin Quantum: Invisible Force",
         "Les Keen: Dinosaur (How to Wipe Out the Human Race)",
+        "Lil&apos; Miss Kate - Ward of the State",
         "Little Animals",
         "Long Story Short",
         "Lorna Ní Shúilleabháin: Barefoot Before God",
@@ -358,10 +446,12 @@
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
+        "Shrink Wrapped: A Psychologist Analyses Comedians Live",
         "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
         "Snow",
         "Soft Spot",
         "Space In Between",
+        "Stayin&apos; Alive",
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
@@ -374,6 +464,8 @@
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Unsolvable Case of Keir Starmer",
         "Tom Houghton - New Stuff",
+        "Transmission",
+        "Van Gogh & Me",
         "We Were Sisters",
         "Whose Play Is It Anyway?",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
