@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T12:22:29.155Z",
-      "completedAt": "2026-08-21T12:22:29.155Z",
+      "id": "2026-08-21T13:38:13.059Z",
+      "completedAt": "2026-08-21T13:38:13.059Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1056,
-      "totalNotices": 3017,
-      "defaultVisible": 627,
+      "totalShows": 1039,
+      "totalNotices": 2960,
+      "defaultVisible": 621,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T12:22:01.840Z",
-      "windowEndedAt": "2026-08-21T12:22:29.155Z",
+      "windowStartedAt": "2026-08-20T13:40:44.874Z",
+      "windowEndedAt": "2026-08-21T13:38:13.059Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 683,
-      "newShows": 77,
-      "enteredRanking": 61,
+      "newReviews": 671,
+      "newShows": 66,
+      "enteredRanking": 65,
       "newOutlets": [],
       "movers": [
         {
@@ -32,14 +32,6 @@
           "delta": 12,
           "previousReviews": 2,
           "currentReviews": 4
-        },
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "The Breakup Variety Hour",
@@ -90,14 +82,6 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
           "title": "Book of Shadows",
           "previousScore": 63,
           "currentScore": 70,
@@ -120,9 +104,30 @@
           "delta": 6,
           "previousReviews": 5,
           "currentReviews": 9
+        },
+        {
+          "title": "MAJENIN - A Palestinian Love Story",
+          "previousScore": 72,
+          "currentScore": 78,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "TO BE FRANK",
+          "previousScore": 83,
+          "currentScore": 89,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
+        {
+          "title": "Frisky's Remix Roulette",
+          "score": 92,
+          "reviews": 3
+        },
         {
           "title": "When We Were Young",
           "score": 92,
@@ -159,6 +164,11 @@
           "reviews": 2
         },
         {
+          "title": "Joseph Morpurgo: Highlander 70",
+          "score": 83,
+          "reviews": 9
+        },
+        {
           "title": "atticwife",
           "score": 83,
           "reviews": 2
@@ -179,6 +189,11 @@
           "reviews": 2
         },
         {
+          "title": "Furniture Boys",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Lost in Translation",
           "score": 83,
           "reviews": 2
@@ -194,19 +209,9 @@
           "reviews": 2
         },
         {
-          "title": "Scaramouche Jones",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Stayin' Alive",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
         },
         {
           "title": "A Highly Suspect Murder Mystery: Knives In",
@@ -224,8 +229,13 @@
           "reviews": 2
         },
         {
-          "title": "The Singer",
+          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
@@ -301,6 +311,16 @@
         {
           "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
           "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "score": 73,
+          "reviews": 4
+        },
+        {
+          "title": "Good Boy",
+          "score": 73,
           "reviews": 2
         },
         {
@@ -394,11 +414,6 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
           "score": 64,
           "reviews": 2
@@ -427,6 +442,11 @@
           "title": "Delphi: The Musical",
           "score": 60,
           "reviews": 3
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 53,
+          "reviews": 10
         }
       ],
       "newShowTitles": [
@@ -503,7 +523,6 @@
         "Seann Walsh: This Is Torture",
         "Sexatron",
         "Shakespeare x 5",
-        "Shakespeare&apos;s Big Brother",
         "Shamaniac",
         "Shaun Guff: Enuff Is Enuff",
         "She Burns",
@@ -527,7 +546,6 @@
         "The Jolly Fisherman",
         "The Lady Doth Protest",
         "The Landlady",
-        "The Singer",
         "The Spectacular Vermin Sisters: Taking Back What&apos;s Ratfully Ours",
         "The Trials of Magnus Coffinkey",
         "The Unsolvable Case of Keir Starmer",
