@@ -2,47 +2,55 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T09:25:54.304Z",
-      "completedAt": "2026-08-21T09:25:54.304Z",
+      "id": "2026-08-21T10:20:01.269Z",
+      "completedAt": "2026-08-21T10:20:01.269Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1036,
-      "totalNotices": 2916,
-      "defaultVisible": 611,
+      "totalShows": 1050,
+      "totalNotices": 2998,
+      "defaultVisible": 623,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T09:24:05.996Z",
-      "windowEndedAt": "2026-08-21T09:25:54.304Z",
+      "windowStartedAt": "2026-08-20T10:17:43.046Z",
+      "windowEndedAt": "2026-08-21T10:20:01.269Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 597,
-      "newShows": 45,
-      "enteredRanking": 45,
+      "newReviews": 669,
+      "newShows": 51,
+      "enteredRanking": 57,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
+          "title": "Father, Away She Goes",
+          "previousScore": 64,
+          "currentScore": 76,
+          "delta": 12,
+          "previousReviews": 2,
           "currentReviews": 4
         },
         {
-          "title": "Broke and Fabulous in the 21st Century",
-          "previousScore": 64,
-          "currentScore": 72,
-          "delta": 8,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "The Breakup Variety Hour",
+          "previousScore": 79,
+          "currentScore": 70,
+          "delta": -9,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "Father, Away She Goes",
+          "title": "Broke and Fabulous in the 21st Century",
           "previousScore": 64,
           "currentScore": 72,
           "delta": 8,
@@ -66,12 +74,12 @@
           "currentReviews": 3
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
+          "title": "The Second Best School Shooting",
           "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "currentScore": 75,
+          "delta": 7,
+          "previousReviews": 6,
+          "currentReviews": 8
         },
         {
           "title": "Dear Michelle Kwan",
@@ -79,14 +87,6 @@
           "currentScore": 75,
           "delta": -7,
           "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -98,20 +98,20 @@
           "currentReviews": 4
         },
         {
-          "title": "It's Always Sunny on Olympus",
-          "previousScore": 70,
-          "currentScore": 77,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Goodbye Dandelion",
           "previousScore": 77,
           "currentScore": 83,
           "delta": 6,
           "previousReviews": 7,
           "currentReviews": 10
+        },
+        {
+          "title": "Trans People Are Awful",
+          "previousScore": 81,
+          "currentScore": 87,
+          "delta": 6,
+          "previousReviews": 5,
+          "currentReviews": 9
         },
         {
           "title": "MAJENIN - A Palestinian Love Story",
@@ -129,6 +129,11 @@
           "reviews": 3
         },
         {
+          "title": "Kitty Daddy",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Queen of The Empire",
           "score": 89,
           "reviews": 2
@@ -140,11 +145,11 @@
         },
         {
           "title": "Ten Thousand Hours",
-          "score": 87,
-          "reviews": 4
+          "score": 86,
+          "reviews": 5
         },
         {
-          "title": "Brendan Scannell: The Abyss",
+          "title": "Ostrich",
           "score": 86,
           "reviews": 2
         },
@@ -159,7 +164,7 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Darryl J Carrington: Out of the Box",
           "score": 83,
           "reviews": 2
         },
@@ -170,6 +175,11 @@
         },
         {
           "title": "Lost in Translation",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Love's Labour's Lost",
           "score": 83,
           "reviews": 2
         },
@@ -189,13 +199,18 @@
           "reviews": 2
         },
         {
+          "title": "Elouise Eftos: Aphrodite",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Motorway",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
+          "title": "The Singer",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -205,6 +220,16 @@
         },
         {
           "title": "Angelshark",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Georgina Thomas: Hysterical Soprano",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "I Bought a Flip Phone",
           "score": 76,
           "reviews": 2
         },
@@ -235,6 +260,11 @@
         },
         {
           "title": "The Great Shakespeare Showdown",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Top Gunchained",
           "score": 76,
           "reviews": 2
         },
@@ -294,6 +324,16 @@
           "reviews": 2
         },
         {
+          "title": "Padlocked!",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sara Pascoe: For One Night Only",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Shhh! (A Wordless Comedy)",
           "score": 70,
           "reviews": 2
@@ -304,12 +344,27 @@
           "reviews": 2
         },
         {
+          "title": "Ted Hill Teaches You Science, Most of Which Is True",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Wherefore Art Thou, Woman-Hater?",
           "score": 70,
           "reviews": 2
         },
         {
+          "title": "Yvette Segan: Guy's Girl",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "James Phelan: Showman",
+          "score": 68,
+          "reviews": 3
+        },
+        {
+          "title": "The Tao of Lloyd",
           "score": 68,
           "reviews": 3
         },
@@ -330,6 +385,11 @@
         },
         {
           "title": "Natalie and I",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
         },
@@ -356,15 +416,15 @@
         "28.06.1980 (or How A Fake Version of Deep Purple Brought Rock Music to Mexico)",
         "44 Minutes",
         "A Clown's Lullaby",
-        "A Complete Idiot&apos;s Guide to New Zealand",
+        "Aaagony Aunts",
         "Absolutely! One-Liner Jokes!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Angelshark",
         "Annie Wobbler (Revisited)",
         "Bachelors of Fine Arts",
+        "Best of the Fest",
         "Beth and Ben: Your Place in the Workplace",
-        "Big Tobacco&apos;s Pinocchio",
         "Brendan Scannell: The Abyss",
         "CADEL: Lungs on Legs",
         "Collaborator",
@@ -378,12 +438,14 @@
         "Frisky&apos;s Remix Roulette",
         "Furniture Boys",
         "GIRLZ",
+        "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
+        "Gag Writer",
         "Gameplay",
         "Good Boy",
         "Honkers",
         "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
         "INDY!",
-        "Introductions",
+        "Isabelle Glinn On Ice",
         "Jack Off The Beanstalk",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
@@ -396,7 +458,6 @@
         "Lorna Ní Shúilleabháin: Barefoot Before God",
         "Love&apos;s Labour&apos;s Lost",
         "Lucy Best: Unbelievable",
-        "Madam(e) Lou",
         "Manic",
         "Michael Shafar: Inappropriate",
         "Michelle Shocked: Bootleg This!",
@@ -416,17 +477,21 @@
         "Queer Diary",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Rattlepole! An Improv Shakespeare Show",
+        "Rhino Conservation Erotic Novel",
         "SAND",
+        "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "Seann Walsh: This Is Torture",
         "Sexatron",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
         "Shaun Guff: Enuff Is Enuff",
+        "She Burns",
         "Shrink Wrapped: A Psychologist Analyses Comedians Live",
         "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
         "Sin-Eaters",
         "Sister Sophia Kicks the Habit",
+        "Slugageddon!",
         "Snow",
         "Soft Spot",
         "Space In Between",
