@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T07:35:05.867Z",
-      "completedAt": "2026-08-21T07:35:05.867Z",
+      "id": "2026-08-21T08:26:02.628Z",
+      "completedAt": "2026-08-21T08:26:02.628Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1022,
-      "totalNotices": 2841,
-      "defaultVisible": 604,
+      "totalShows": 1041,
+      "totalNotices": 2886,
+      "defaultVisible": 610,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T07:31:35.537Z",
-      "windowEndedAt": "2026-08-21T07:35:05.867Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-20T08:24:22.753Z",
+      "windowEndedAt": "2026-08-21T08:26:02.628Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 605,
-      "newShows": 70,
-      "enteredRanking": 55,
+      "newReviews": 612,
+      "newShows": 71,
+      "enteredRanking": 59,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
-          "previousScore": 70,
-          "currentScore": 78,
-          "delta": 8,
-          "previousReviews": 2,
-          "currentReviews": 4
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 77,
+          "currentScore": 67,
+          "delta": -10,
+          "previousReviews": 3,
+          "currentReviews": 3
         },
         {
           "title": "Father, Away She Goes",
@@ -55,6 +55,14 @@
           "currentScore": 75,
           "delta": -7,
           "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -112,14 +120,6 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "MUSE: The Shakespeare Mayhem Musical",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -149,9 +149,14 @@
           "reviews": 3
         },
         {
-          "title": "Ten Thousand Hours",
+          "title": "Brendan Scannell: The Abyss",
           "score": 86,
           "reviews": 2
+        },
+        {
+          "title": "Ten Thousand Hours",
+          "score": 84,
+          "reviews": 3
         },
         {
           "title": "Annie Boyle: To All The Boys I've Loved Before",
@@ -160,6 +165,11 @@
         },
         {
           "title": "atticwife",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Christian Dart: GUMSHOE!",
           "score": 83,
           "reviews": 2
         },
@@ -184,11 +194,6 @@
           "reviews": 2
         },
         {
-          "title": "Rhys James: Chop Logic",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Scaramouche Jones",
           "score": 83,
           "reviews": 2
@@ -204,13 +209,38 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "A Highly Suspect Murder Mystery: Knives In",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Badgers",
           "score": 79,
           "reviews": 2
         },
         {
           "title": "Motorway",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "The Singer",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Murder, She Didn't Write",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -230,11 +260,6 @@
         },
         {
           "title": "Madam(e) Lou",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Murder, She Didn't Write",
           "score": 76,
           "reviews": 2
         },
@@ -285,11 +310,6 @@
         },
         {
           "title": "Broke and Fabulous in the 21st Century",
-          "score": 72,
-          "reviews": 3
-        },
-        {
-          "title": "Mandy: Prince of Darkness",
           "score": 72,
           "reviews": 3
         },
@@ -354,9 +374,9 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
+          "title": "Mandy: Prince of Darkness",
+          "score": 66,
+          "reviews": 4
         },
         {
           "title": "Bread and Circuses",
@@ -379,6 +399,11 @@
           "reviews": 2
         },
         {
+          "title": "The Pigeon Factory",
+          "score": 63,
+          "reviews": 3
+        },
+        {
           "title": "Delphi: The Musical",
           "score": 60,
           "reviews": 3
@@ -392,15 +417,9 @@
           "title": "Prophets",
           "score": 57,
           "reviews": 2
-        },
-        {
-          "title": "The Pigeon Factory",
-          "score": 57,
-          "reviews": 2
         }
       ],
       "newShowTitles": [
-        "12th Annual Haters&apos; Ball",
         "1979: Persianality Disorder",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
         "2 Truths, 1 Lie",
@@ -409,7 +428,6 @@
         "A Clown's Lullaby",
         "A Companion",
         "A Complete Idiot&apos;s Guide to New Zealand",
-        "A Man Proposes to a Balloon, or Possibly Something Worse",
         "Absolutely! One-Liner Jokes!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
@@ -421,13 +439,9 @@
         "Big Naked Comedy Show",
         "Big Tobacco&apos;s Pinocchio",
         "Brendan Scannell: The Abyss",
-        "Bróccán Tyzack-Carlin: Good News! It&apos;s Been Destroyed",
         "CADEL: Lungs on Legs",
         "Collaborator",
         "Cricket &#038; The Freebugs",
-        "Dan James: Lucky",
-        "David O&apos;Doherty: At This Stage",
-        "Davro&apos;s Back! Bobby Davro",
         "Diva Las Vegas",
         "Dragon Tales",
         "Everybody's Got a Bomb",
@@ -439,6 +453,7 @@
         "Graham and Steen",
         "Honkers",
         "Hope This Helps!",
+        "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
         "INDY!",
         "Introductions",
         "Jack Off The Beanstalk",
@@ -475,11 +490,11 @@
         "Rattlepole! An Improv Shakespeare Show",
         "SAND",
         "Seann Walsh: This Is Torture",
-        "Selina Mosinski: Puss in Boots – A Working Class Fairy Tale",
         "Sexatron",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
+        "Shaun Guff: Enuff Is Enuff",
         "Shrink Wrapped: A Psychologist Analyses Comedians Live",
         "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
         "Snow",
@@ -489,6 +504,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
+        "Tasmin Sarkany: Now That&apos;s What I Call Bach!",
         "The Augur",
         "The Brush",
         "The End of the World",
@@ -500,6 +516,7 @@
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Trials of Magnus Coffinkey",
         "The Unsolvable Case of Keir Starmer",
+        "This Year I Am Going To Die",
         "Tom Houghton - New Stuff",
         "Transmission",
         "Van Gogh & Me",
