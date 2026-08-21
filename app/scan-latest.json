@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T15:23:24.281Z",
-      "completedAt": "2026-08-21T15:23:24.281Z",
+      "id": "2026-08-21T16:21:02.001Z",
+      "completedAt": "2026-08-21T16:21:02.001Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1046,
-      "totalNotices": 3050,
-      "defaultVisible": 636,
-      "duplicates": 0,
+      "totalShows": 1063,
+      "totalNotices": 3106,
+      "defaultVisible": 648,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T15:25:40.893Z",
-      "windowEndedAt": "2026-08-21T15:23:24.281Z",
+      "windowStartedAt": "2026-08-20T16:21:57.012Z",
+      "windowEndedAt": "2026-08-21T16:21:02.001Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 686,
-      "newShows": 31,
-      "enteredRanking": 61,
+      "newReviews": 750,
+      "newShows": 78,
+      "enteredRanking": 76,
       "newOutlets": [],
       "movers": [
         {
@@ -34,18 +34,26 @@
           "currentReviews": 5
         },
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
           "title": "The Breakup Variety Hour",
           "previousScore": 79,
           "currentScore": 70,
           "delta": -9,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "previousScore": 67,
+          "currentScore": 75,
+          "delta": 8,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
+          "title": "Georgia Polly-Taylor: Very Hot. Very Messy.",
+          "previousScore": 68,
+          "currentScore": 76,
+          "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -82,14 +90,6 @@
           "currentReviews": 13
         },
         {
-          "title": "The Second Best School Shooting",
-          "previousScore": 68,
-          "currentScore": 75,
-          "delta": 7,
-          "previousReviews": 6,
-          "currentReviews": 8
-        },
-        {
           "title": "Dear Michelle Kwan",
           "previousScore": 82,
           "currentScore": 75,
@@ -98,20 +98,20 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
           "title": "Book of Shadows",
           "previousScore": 63,
           "currentScore": 70,
           "delta": 7,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Amy Annette: Say What You Like About Me",
+          "previousScore": 70,
+          "currentScore": 63,
+          "delta": -7,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Goodbye Dandelion",
@@ -144,6 +144,11 @@
           "reviews": 2
         },
         {
+          "title": "The Horse of Jenin",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Ten Thousand Hours",
           "score": 86,
           "reviews": 5
@@ -169,6 +174,11 @@
           "reviews": 2
         },
         {
+          "title": "Bróccán Tyzack-Carlin: Good News! It's Been Destroyed",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Christian Dart: GUMSHOE!",
           "score": 83,
           "reviews": 2
@@ -184,7 +194,7 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Dreamgun Film Reads",
           "score": 83,
           "reviews": 2
         },
@@ -212,6 +222,21 @@
           "title": "Stayin' Alive",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "Transmission",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "The Singer",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "A Highly Suspect Murder Mystery: Knives In",
@@ -249,6 +274,11 @@
           "reviews": 2
         },
         {
+          "title": "House Fly",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "I Bought a Flip Phone",
           "score": 76,
           "reviews": 2
@@ -274,12 +304,22 @@
           "reviews": 2
         },
         {
+          "title": "Soaked",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Steffen Haanes: The Master",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "The Great Shakespeare Showdown",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "the Kobold Show!",
           "score": 76,
           "reviews": 2
         },
@@ -294,6 +334,11 @@
           "reviews": 2
         },
         {
+          "title": "Rob Kemp: Beatlesjuice",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "The Very Best of Tommy Cooper - Just Like That!",
           "score": 73,
           "reviews": 2
@@ -302,6 +347,11 @@
           "title": "Tony Cantwell: You Cry Weird",
           "score": 73,
           "reviews": 2
+        },
+        {
+          "title": "How Not to Make it in America",
+          "score": 72,
+          "reviews": 3
         },
         {
           "title": "Alice Keys: Rocket Fan",
@@ -319,6 +369,11 @@
           "reviews": 2
         },
         {
+          "title": "Camelton",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Diary of a DL Trade",
           "score": 70,
           "reviews": 2
@@ -330,11 +385,6 @@
         },
         {
           "title": "Follow Me",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "How Not to Make it in America",
           "score": 70,
           "reviews": 2
         },
@@ -364,6 +414,11 @@
           "reviews": 2
         },
         {
+          "title": "The Spy Who Came in from the Park",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Wherefore Art Thou, Woman-Hater?",
           "score": 70,
           "reviews": 2
@@ -375,6 +430,11 @@
         },
         {
           "title": "Candace Bryan: Don't Be Ridiculous, Everybody Wants This",
+          "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Olivia Xing: Baby of Colour",
           "score": 69,
           "reviews": 2
         },
@@ -394,6 +454,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
           "score": 64,
           "reviews": 2
@@ -406,6 +471,16 @@
         {
           "title": "Natalie and I",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "WENCH",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Jamie Kilstein: Can't Tie Knots",
+          "score": 62,
           "reviews": 2
         },
         {
@@ -438,6 +513,7 @@
         "Aaagony Aunts",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
+        "Angela Bra - Secret Diary of a Bingo Call Girl",
         "Angelshark",
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
@@ -452,6 +528,7 @@
         "Cricket &#038; The Freebugs",
         "Darryl J Carrington: Out of the Box",
         "Diva Las Vegas",
+        "Doktor Kaboom and the Wheel of Science!",
         "Dragon Tales",
         "Ed Night: We’ll Be Alright, Darling",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
@@ -493,6 +570,7 @@
         "Owl at Home – Theatr Iolo",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
         "Pierre Novellie: Do the One About&#8230;",
+        "Pierre Novellie: Do the One About...",
         "Pilate: The Lost Gospel",
         "Play Dead",
         "Possessive! The Musical!",
@@ -501,6 +579,7 @@
         "Rhino Conservation Erotic Novel",
         "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
+        "Sam Rhodes: Toy Cocoon",
         "Seann Walsh: This Is Torture",
         "Sexatron",
         "Shakespeare x 5",
@@ -515,6 +594,7 @@
         "Soft Spot",
         "Space In Between",
         "Stayin&apos; Alive",
+        "Stephen Catling: Clown Fish Out Of Water",
         "Stories From the Office of a Sex Dungeon",
         "Sweaty Clowns",
         "Taiwan Season: Birthday Party",
@@ -527,6 +607,7 @@
         "The Lady Doth Protest",
         "The Landlady",
         "The Spectacular Vermin Sisters: Taking Back What&apos;s Ratfully Ours",
+        "The Stand at W Edinburgh",
         "The Trials of Magnus Coffinkey",
         "The Unsolvable Case of Keir Starmer",
         "This Year I Am Going To Die",
