@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T05:23:10.979Z",
-      "completedAt": "2026-08-21T05:23:10.979Z",
+      "id": "2026-08-21T06:24:30.280Z",
+      "completedAt": "2026-08-21T06:24:30.280Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1017,
-      "totalNotices": 2835,
+      "totalShows": 1026,
+      "totalNotices": 2846,
       "defaultVisible": 606,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T05:21:21.316Z",
-      "windowEndedAt": "2026-08-21T05:23:10.979Z",
+      "windowStartedAt": "2026-08-20T06:23:22.380Z",
+      "windowEndedAt": "2026-08-21T06:24:30.280Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 589,
-      "newShows": 36,
+      "newReviews": 601,
+      "newShows": 73,
       "enteredRanking": 55,
       "newOutlets": [],
       "movers": [
@@ -55,14 +55,6 @@
           "currentScore": 75,
           "delta": -7,
           "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -120,6 +112,14 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "MUSE: The Shakespeare Mayhem Musical",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -160,11 +160,6 @@
         },
         {
           "title": "atticwife",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -215,6 +210,11 @@
         },
         {
           "title": "Motorway",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "The Singer",
           "score": 79,
           "reviews": 2
         },
@@ -314,6 +314,11 @@
           "reviews": 2
         },
         {
+          "title": "Camelton",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Diary of a DL Trade",
           "score": 70,
           "reviews": 2
@@ -370,11 +375,6 @@
         },
         {
           "title": "Persona",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
           "score": 64,
           "reviews": 2
         },
