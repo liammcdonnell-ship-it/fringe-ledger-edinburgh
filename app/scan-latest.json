@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T11:16:09.321Z",
-      "completedAt": "2026-08-21T11:16:09.321Z",
+      "id": "2026-08-21T12:22:29.155Z",
+      "completedAt": "2026-08-21T12:22:29.155Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1052,
-      "totalNotices": 3008,
-      "defaultVisible": 623,
+      "totalShows": 1056,
+      "totalNotices": 3017,
+      "defaultVisible": 627,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T11:17:34.427Z",
-      "windowEndedAt": "2026-08-21T11:16:09.321Z",
+      "windowStartedAt": "2026-08-20T12:22:01.840Z",
+      "windowEndedAt": "2026-08-21T12:22:29.155Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 680,
-      "newShows": 75,
-      "enteredRanking": 57,
+      "newReviews": 683,
+      "newShows": 77,
+      "enteredRanking": 61,
       "newOutlets": [],
       "movers": [
         {
@@ -32,6 +32,14 @@
           "delta": 12,
           "previousReviews": 2,
           "currentReviews": 4
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "The Breakup Variety Hour",
@@ -82,6 +90,14 @@
           "currentReviews": 5
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "Book of Shadows",
           "previousScore": 63,
           "currentScore": 70,
@@ -104,22 +120,6 @@
           "delta": 6,
           "previousReviews": 5,
           "currentReviews": 9
-        },
-        {
-          "title": "MAJENIN - A Palestinian Love Story",
-          "previousScore": 72,
-          "currentScore": 78,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "TO BE FRANK",
-          "previousScore": 83,
-          "currentScore": 89,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -204,6 +204,11 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "A Highly Suspect Murder Mystery: Knives In",
           "score": 79,
           "reviews": 2
@@ -250,6 +255,11 @@
         },
         {
           "title": "In the Black",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -381,6 +391,16 @@
         {
           "title": "Jack Off The Beanstalk",
           "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "BIRDS: Alex Hines and Sarah Stafford",
+          "score": 64,
           "reviews": 2
         },
         {
