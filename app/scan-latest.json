@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-21T13:38:13.059Z",
-      "completedAt": "2026-08-21T13:38:13.059Z",
+      "id": "2026-08-21T14:24:54.113Z",
+      "completedAt": "2026-08-21T14:24:54.113Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1039,
-      "totalNotices": 2960,
-      "defaultVisible": 621,
-      "duplicates": 0,
+      "totalShows": 1068,
+      "totalNotices": 3037,
+      "defaultVisible": 629,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-20T13:40:44.874Z",
-      "windowEndedAt": "2026-08-21T13:38:13.059Z",
+      "windowStartedAt": "2026-08-20T14:27:16.875Z",
+      "windowEndedAt": "2026-08-21T14:24:54.113Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 671,
-      "newShows": 66,
-      "enteredRanking": 65,
+      "newReviews": 710,
+      "newShows": 91,
+      "enteredRanking": 62,
       "newOutlets": [],
       "movers": [
         {
@@ -31,6 +31,14 @@
           "currentScore": 76,
           "delta": 12,
           "previousReviews": 2,
+          "currentReviews": 4
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
           "currentReviews": 4
         },
         {
@@ -112,22 +120,9 @@
           "delta": 6,
           "previousReviews": 3,
           "currentReviews": 5
-        },
-        {
-          "title": "TO BE FRANK",
-          "previousScore": 83,
-          "currentScore": 89,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
-        {
-          "title": "Frisky's Remix Roulette",
-          "score": 92,
-          "reviews": 3
-        },
         {
           "title": "When We Were Young",
           "score": 92,
@@ -164,11 +159,6 @@
           "reviews": 2
         },
         {
-          "title": "Joseph Morpurgo: Highlander 70",
-          "score": 83,
-          "reviews": 9
-        },
-        {
           "title": "atticwife",
           "score": 83,
           "reviews": 2
@@ -185,11 +175,6 @@
         },
         {
           "title": "Eryn Tett: Tasting Menu",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Furniture Boys",
           "score": 83,
           "reviews": 2
         },
@@ -214,7 +199,22 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "The Singer",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "A Highly Suspect Murder Mystery: Knives In",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Badgers",
           "score": 79,
           "reviews": 2
         },
@@ -229,19 +229,14 @@
           "reviews": 2
         },
         {
-          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
           "title": "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
           "score": 77,
           "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "Angelshark",
@@ -265,11 +260,6 @@
         },
         {
           "title": "In the Black",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -314,17 +304,12 @@
           "reviews": 2
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "score": 73,
-          "reviews": 4
-        },
-        {
-          "title": "Good Boy",
+          "title": "The Very Best of Tommy Cooper - Just Like That!",
           "score": 73,
           "reviews": 2
         },
         {
-          "title": "The Very Best of Tommy Cooper - Just Like That!",
+          "title": "Tony Cantwell: You Cry Weird",
           "score": 73,
           "reviews": 2
         },
@@ -414,6 +399,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
           "score": 64,
           "reviews": 2
@@ -442,11 +432,6 @@
           "title": "Delphi: The Musical",
           "score": 60,
           "reviews": 3
-        },
-        {
-          "title": "11½ Angry Men",
-          "score": 53,
-          "reviews": 10
         }
       ],
       "newShowTitles": [
@@ -457,14 +442,16 @@
         "44 Minutes",
         "A Clown's Lullaby",
         "Aaagony Aunts",
-        "Absolutely! One-Liner Jokes!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Angelshark",
         "Annie Wobbler (Revisited)",
+        "Ayoade Bamgboye: Swings And Roundabouts",
+        "BLISS",
         "Bachelors of Fine Arts",
         "Best of the Fest",
         "Beth and Ben: Your Place in the Workplace",
+        "Bliss",
         "Brendan Scannell: The Abyss",
         "CADEL: Lungs on Legs",
         "Collaborator",
@@ -473,23 +460,22 @@
         "Diva Las Vegas",
         "Dragon Tales",
         "Ed Night: We’ll Be Alright, Darling",
+        "Emmanuel Sonubi: What&apos;s Next? (WIP)",
         "Everybody's Got a Bomb",
         "Fantasy World Adventures Mega Park! The Musical",
         "Frank Sanazi: A Little Bit of History Re-Putin",
-        "Frisky&apos;s Remix Roulette",
-        "Furniture Boys",
         "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
         "Gameplay",
-        "Good Boy",
+        "Hannah Byczkowski: Killer",
+        "Heated Rivalry: The Unauthorized Musical Parody",
         "Honkers",
         "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
         "INDY!",
         "Isabelle Glinn On Ice",
         "Jack Off The Beanstalk",
         "Kanpur: 1857",
-        "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Kevin Quantum: Invisible Force",
         "Les Keen: Dinosaur (How to Wipe Out the Human Race)",
         "Likewise",
@@ -500,6 +486,7 @@
         "Love&apos;s Labour&apos;s Lost",
         "Lucy Best: Unbelievable",
         "Manic",
+        "Max Fulham&apos;s Monkey Business",
         "Michael Shafar: Inappropriate",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
@@ -508,7 +495,6 @@
         "Not Another Quiz Night",
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
-        "Paul Savage: Comic, Relieved",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
@@ -527,7 +513,6 @@
         "Shaun Guff: Enuff Is Enuff",
         "She Burns",
         "Shrink Wrapped: A Psychologist Analyses Comedians Live",
-        "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
         "Sin-Eaters",
         "Sister Sophia Kicks the Habit",
         "Slugageddon!",
@@ -553,7 +538,6 @@
         "Tom Houghton - New Stuff",
         "Transmission",
         "Van Gogh & Me",
-        "We Were Sisters",
         "Whose Play Is It Anyway?",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "You Are What You Eat",
