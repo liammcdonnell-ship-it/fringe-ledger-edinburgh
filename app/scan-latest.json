@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T07:23:12.684Z",
-      "completedAt": "2026-08-22T07:23:12.684Z",
+      "id": "2026-08-22T08:15:18.060Z",
+      "completedAt": "2026-08-22T08:15:18.060Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1083,
-      "totalNotices": 3249,
+      "totalShows": 1085,
+      "totalNotices": 3253,
       "defaultVisible": 665,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T07:35:05.867Z",
-      "windowEndedAt": "2026-08-22T07:23:12.684Z",
+      "windowStartedAt": "2026-08-21T08:26:02.628Z",
+      "windowEndedAt": "2026-08-22T08:15:18.060Z",
       "windowCoverageHours": 23.8,
       "scansInWindow": 23,
-      "newReviews": 624,
-      "newShows": 61,
-      "enteredRanking": 62,
+      "newReviews": 583,
+      "newShows": 44,
+      "enteredRanking": 58,
       "newOutlets": [],
       "movers": [
         {
@@ -98,6 +98,14 @@
           "currentReviews": 5
         },
         {
+          "title": "Mandy: Prince of Darkness",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "The Understudy",
           "previousScore": 74,
           "currentScore": 68,
@@ -112,14 +120,6 @@
           "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Furniture Boys",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -139,11 +139,6 @@
           "reviews": 3
         },
         {
-          "title": "Brendan Scannell: The Abyss",
-          "score": 86,
-          "reviews": 2
-        },
-        {
           "title": "Ostrich",
           "score": 86,
           "reviews": 2
@@ -159,17 +154,17 @@
           "reviews": 2
         },
         {
-          "title": "Christian Dart: GUMSHOE!",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "CVNT",
           "score": 83,
           "reviews": 2
         },
         {
           "title": "Darryl J Carrington: Out of the Box",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -224,11 +219,6 @@
           "reviews": 3
         },
         {
-          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
-          "score": 82,
-          "reviews": 3
-        },
-        {
           "title": "CSI: Crime Scene Improvisation",
           "score": 79,
           "reviews": 2
@@ -236,11 +226,6 @@
         {
           "title": "Elouise Eftos: Aphrodite",
           "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
           "reviews": 2
         },
         {
@@ -285,11 +270,6 @@
         },
         {
           "title": "the Kobold Show!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "The Singer",
           "score": 76,
           "reviews": 2
         },
@@ -476,12 +456,12 @@
         "Hannah Byczkowski: Killer",
         "Heated Rivalry: The Unauthorized Musical Parody",
         "Help!! My Baby&apos;s Not Goth",
-        "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
         "I Am A Snail",
         "INDY!",
         "Ignacio Lopez: Nada (secret show)",
         "Isabelle Glinn On Ice",
         "It Happened on a Tuesday",
+        "Jill’s Tupperware Party",
         "John Kearns: Tilting at Windmills",
         "Kanpur: 1857",
         "Kate Dehnert",
@@ -493,7 +473,6 @@
         "Midsummer!",
         "Mr Boy: The Beauty Contest for Boys",
         "Mr Chonkers: Work in Chonkers",
-        "Murder, She Didn't Write",
         "Nocturnal Is The New Sexy",
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
@@ -506,13 +485,13 @@
         "Rachel Kaly: Between Us (A Crowd Work Show)",
         "RapGPT: Macshane",
         "Rhino Conservation Erotic Novel",
+        "Rob Copland: ONE (more please)",
         "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "Sam Rhodes: Toy Cocoon",
         "Seledka",
         "Serena Smart: Little Miss Sunshine",
         "Shamaniac",
-        "Shaun Guff: Enuff Is Enuff",
         "She Burns",
         "Sin-Eaters",
         "Sister Sophia Kicks the Habit",
@@ -526,7 +505,6 @@
         "Sweaty Clowns",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
-        "Tasmin Sarkany: Now That&apos;s What I Call Bach!",
         "The 40-Year-Old Ballerino",
         "The Adventures of Jasper Cromwell Jones",
         "The Jolly Fisherman",
@@ -536,7 +514,6 @@
         "The Sumo Show HIRAKUZA",
         "The Séance Starter Kit™",
         "The Wedding Date",
-        "This Year I Am Going To Die",
         "Well-Balanced Dads",
         "When You Are a Tick",
         "You and Me (and Whoever Comes Next)"
