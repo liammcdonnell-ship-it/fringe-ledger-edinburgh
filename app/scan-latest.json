@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T22:10:37.420Z",
-      "completedAt": "2026-08-22T22:10:37.420Z",
+      "id": "2026-08-22T23:09:40.338Z",
+      "completedAt": "2026-08-22T23:09:40.338Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1118,
-      "totalNotices": 3404,
+      "totalShows": 1114,
+      "totalNotices": 3400,
       "defaultVisible": 694,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T22:12:28.415Z",
-      "windowEndedAt": "2026-08-22T22:10:37.420Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-21T23:13:30.691Z",
+      "windowEndedAt": "2026-08-22T23:09:40.338Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 23,
       "newReviews": 294,
-      "newShows": 26,
+      "newShows": 34,
       "enteredRanking": 30,
       "newOutlets": [],
       "movers": [
@@ -48,14 +48,6 @@
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 67,
-          "currentScore": 73,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 5
         },
         {
           "title": "The Great Shakespeare Showdown",
@@ -98,14 +90,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 74,
-          "currentScore": 70,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
           "title": "Common Tongue",
           "previousScore": 86,
           "currentScore": 90,
@@ -120,6 +104,22 @@
           "delta": 4,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "The Tao of Lloyd",
+          "previousScore": 68,
+          "currentScore": 72,
+          "delta": 4,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Heist: How to Steal a Masterpiece",
+          "previousScore": 84,
+          "currentScore": 88,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -244,6 +244,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Pigeon Syndrome",
           "score": 64,
           "reviews": 2
@@ -266,11 +271,6 @@
         {
           "title": "Emmeline Downie: Gail",
           "score": 60,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 51,
           "reviews": 2
         }
       ],
