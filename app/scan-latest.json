@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T19:14:00.462Z",
-      "completedAt": "2026-08-22T19:14:00.462Z",
+      "id": "2026-08-22T20:10:59.080Z",
+      "completedAt": "2026-08-22T20:10:59.080Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1120,
-      "totalNotices": 3404,
+      "totalShows": 1123,
+      "totalNotices": 3409,
       "defaultVisible": 694,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T19:19:51.026Z",
-      "windowEndedAt": "2026-08-22T19:14:00.462Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-21T20:13:06.772Z",
+      "windowEndedAt": "2026-08-22T20:10:59.080Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 305,
+      "newReviews": 304,
       "newShows": 43,
-      "enteredRanking": 31,
+      "enteredRanking": 32,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
           "previousScore": 64,
@@ -58,6 +66,14 @@
           "currentReviews": 3
         },
         {
+          "title": "The Pigeon Factory",
+          "previousScore": 63,
+          "currentScore": 57,
+          "delta": -6,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Alex Kitson: Now Look Here",
           "previousScore": 72,
           "currentScore": 77,
@@ -71,14 +87,6 @@
           "currentScore": 82,
           "delta": 5,
           "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 69,
-          "currentScore": 74,
-          "delta": 5,
-          "previousReviews": 8,
           "currentReviews": 6
         },
         {
@@ -106,20 +114,12 @@
           "currentReviews": 6
         },
         {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Tao of Lloyd",
-          "previousScore": 68,
-          "currentScore": 72,
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 67,
+          "currentScore": 71,
           "delta": 4,
           "previousReviews": 3,
-          "currentReviews": 4
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -149,11 +149,6 @@
           "reviews": 2
         },
         {
-          "title": "The Mr Thing Show",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Tweedy's Massive Solo Show",
           "score": 83,
           "reviews": 2
@@ -161,6 +156,16 @@
         {
           "title": "Twonkey's Soft December Night in Tallahassee",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -322,7 +327,6 @@
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Ramsey Smith: Keep the Receipt",
-        "RapGPT: Macshane",
         "Rob Copland: ONE (more please)",
         "SAND",
         "Seledka",
