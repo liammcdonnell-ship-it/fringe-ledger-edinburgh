@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T11:11:33.648Z",
-      "completedAt": "2026-08-22T11:11:33.648Z",
+      "id": "2026-08-22T12:14:20.223Z",
+      "completedAt": "2026-08-22T12:14:20.223Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1094,
-      "totalNotices": 3321,
-      "defaultVisible": 677,
+      "totalShows": 1120,
+      "totalNotices": 3361,
+      "defaultVisible": 683,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T11:16:09.321Z",
-      "windowEndedAt": "2026-08-22T11:11:33.648Z",
+      "windowStartedAt": "2026-08-21T12:22:29.155Z",
+      "windowEndedAt": "2026-08-22T12:14:20.223Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 516,
-      "newShows": 42,
-      "enteredRanking": 54,
+      "newReviews": 547,
+      "newShows": 64,
+      "enteredRanking": 56,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "Making Love with David Magidoff",
           "previousScore": 83,
@@ -106,20 +114,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Furniture Boys",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
+          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
+          "previousScore": 76,
+          "currentScore": 82,
+          "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Common Tongue",
-          "previousScore": 81,
-          "currentScore": 86,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 7
         }
       ],
       "newEntries": [
@@ -204,9 +204,9 @@
           "reviews": 3
         },
         {
-          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
-          "score": 82,
-          "reviews": 3
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "CSI: Crime Scene Improvisation",
@@ -215,8 +215,18 @@
         },
         {
           "title": "This Is How I Got Arrested...",
-          "score": 77,
-          "reviews": 3
+          "score": 78,
+          "reviews": 4
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "House Fly",
@@ -240,11 +250,6 @@
         },
         {
           "title": "the Kobold Show!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Top Gunchained",
           "score": 76,
           "reviews": 2
         },
@@ -280,6 +285,11 @@
         },
         {
           "title": "Excel Comedy and Mathem-antics",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "It Happened on a Tuesday",
           "score": 70,
           "reviews": 2
         },
@@ -320,16 +330,16 @@
         },
         {
           "title": "Tom Towelling Teaches You to Knit",
-          "score": 67,
-          "reviews": 3
-        },
-        {
-          "title": "BIRDS: Alex Hines and Sarah Stafford",
-          "score": 64,
+          "score": 69,
           "reviews": 2
         },
         {
           "title": "Buddha vs Jesus",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
           "score": 64,
           "reviews": 2
         },
@@ -402,6 +412,8 @@
         "A Cat in a Box",
         "A Clown's Lullaby",
         "After Arthur",
+        "Always, Sometimes, Maybe",
+        "Among the Pigeons",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Angela Bra - Secret Diary of a Bingo Call Girl",
         "Annie Wobbler (Revisited)",
@@ -414,6 +426,7 @@
         "CADEL: Lungs on Legs",
         "Chloe Jacobs: Twilight: Breaking Down",
         "Collaborator",
+        "Craig Speirs: Problem Child",
         "Cricket &#038; The Freebugs",
         "Crying At My Podiatrist",
         "Daniel Kitson: Thrum",
@@ -441,6 +454,7 @@
         "John Kearns: Tilting at Windmills",
         "Kanpur: 1857",
         "Kate Dehnert",
+        "Kevin Quantum: Invisible Force",
         "Laughing Matters",
         "Little Animals",
         "Mark Dean Quinn: Tries To Walk Towards A Flip Chart",
