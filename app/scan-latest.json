@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T18:14:25.729Z",
-      "completedAt": "2026-08-22T18:14:25.729Z",
+      "id": "2026-08-22T19:14:00.462Z",
+      "completedAt": "2026-08-22T19:14:00.462Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1121,
-      "totalNotices": 3400,
-      "defaultVisible": 693,
+      "totalShows": 1120,
+      "totalNotices": 3404,
+      "defaultVisible": 694,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T18:20:37.557Z",
-      "windowEndedAt": "2026-08-22T18:14:25.729Z",
+      "windowStartedAt": "2026-08-21T19:19:51.026Z",
+      "windowEndedAt": "2026-08-22T19:14:00.462Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 312,
-      "newShows": 28,
-      "enteredRanking": 28,
+      "newReviews": 305,
+      "newShows": 43,
+      "enteredRanking": 31,
       "newOutlets": [],
       "movers": [
         {
@@ -32,14 +32,6 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "NewsRevue",
@@ -79,6 +71,14 @@
           "currentScore": 82,
           "delta": 5,
           "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 69,
+          "currentScore": 74,
+          "delta": 5,
+          "previousReviews": 8,
           "currentReviews": 6
         },
         {
@@ -194,6 +194,11 @@
           "reviews": 2
         },
         {
+          "title": "Japanese Grandma Funeral",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Richard Stott: Streets Won't Forget",
           "score": 73,
           "reviews": 2
@@ -234,7 +239,17 @@
           "reviews": 2
         },
         {
+          "title": "We Were Sisters",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Fempaths: Transistor Radio Hour",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
@@ -273,12 +288,12 @@
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annabelle James: Annabalism",
         "Annie Wobbler (Revisited)",
-        "Baby Wants Candy",
         "CADEL: Lungs on Legs",
+        "Charlie Vero-Martin: Poltergeist (WIP)",
         "Collaborator",
         "Craig Speirs: Problem Child",
         "Cricket &#038; The Freebugs",
-        "Crying At My Podiatrist",
+        "David Correos: Noise Zealand",
         "David Tsonos: Club Comedian",
         "Everybody's Got a Bomb",
         "Fatiha El-Ghorri: Cockney Stacking Doll",
@@ -292,7 +307,6 @@
         "Improvised Couples Therapy",
         "Jill’s Tupperware Party",
         "Kanpur: 1857",
-        "Kate Dehnert",
         "Kevin Quantum: Invisible Force",
         "Lance Mao: The Pig with the Dragon Tattoo",
         "Laughing Horse Pick of the Fringe",
@@ -323,7 +337,6 @@
         "The Skarsgård Effect",
         "The Sumo Show HIRAKUZA",
         "WEBBER!",
-        "When You Are a Tick",
         "You and Me (and Whoever Comes Next)"
       ]
     }
