@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T21:12:01.465Z",
-      "completedAt": "2026-08-22T21:12:01.465Z",
+      "id": "2026-08-22T22:10:37.420Z",
+      "completedAt": "2026-08-22T22:10:37.420Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1106,
-      "totalNotices": 3387,
-      "defaultVisible": 693,
+      "totalShows": 1118,
+      "totalNotices": 3404,
+      "defaultVisible": 694,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T21:15:18.319Z",
-      "windowEndedAt": "2026-08-22T21:12:01.465Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-21T22:12:28.415Z",
+      "windowEndedAt": "2026-08-22T22:10:37.420Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 296,
-      "newShows": 27,
-      "enteredRanking": 29,
+      "newReviews": 294,
+      "newShows": 26,
+      "enteredRanking": 30,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "NewsRevue",
           "previousScore": 70,
           "currentScore": 77,
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 67,
+          "currentScore": 73,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 5
         },
         {
           "title": "The Great Shakespeare Showdown",
@@ -66,14 +82,6 @@
           "currentReviews": 9
         },
         {
-          "title": "Sarah Roberts: Scary Movie 7",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
           "title": "Christopher Hall: Pizazz",
           "previousScore": 68,
           "currentScore": 73,
@@ -90,6 +98,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 74,
+          "currentScore": 70,
+          "delta": -4,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
           "title": "Common Tongue",
           "previousScore": 86,
           "currentScore": 90,
@@ -104,22 +120,6 @@
           "delta": 4,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "The Tao of Lloyd",
-          "previousScore": 68,
-          "currentScore": 72,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Heist: How to Steal a Masterpiece",
-          "previousScore": 84,
-          "currentScore": 88,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -154,9 +154,9 @@
           "reviews": 2
         },
         {
-          "title": "Twonkey's Soft December Night in Tallahassee",
-          "score": 83,
-          "reviews": 2
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Daniel Kitson: Thrum",
@@ -266,6 +266,11 @@
         {
           "title": "Emmeline Downie: Gail",
           "score": 60,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
