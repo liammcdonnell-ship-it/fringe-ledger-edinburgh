@@ -2,36 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T12:14:20.223Z",
-      "completedAt": "2026-08-22T12:14:20.223Z",
+      "id": "2026-08-22T13:25:35.145Z",
+      "completedAt": "2026-08-22T13:25:35.145Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1120,
-      "totalNotices": 3361,
-      "defaultVisible": 683,
+      "totalShows": 1104,
+      "totalNotices": 3352,
+      "defaultVisible": 686,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T12:22:29.155Z",
-      "windowEndedAt": "2026-08-22T12:14:20.223Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-21T13:38:13.059Z",
+      "windowEndedAt": "2026-08-22T13:25:35.145Z",
+      "windowCoverageHours": 23.8,
       "scansInWindow": 23,
-      "newReviews": 547,
-      "newShows": 64,
-      "enteredRanking": 56,
+      "newReviews": 563,
+      "newShows": 65,
+      "enteredRanking": 65,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
+          "title": "Common Tongue",
+          "previousScore": 81,
+          "currentScore": 90,
           "delta": 9,
           "previousReviews": 5,
-          "currentReviews": 4
+          "currentReviews": 6
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Making Love with David Magidoff",
@@ -56,6 +64,30 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "BIRDS: Alex Hines and Sarah Stafford",
+          "previousScore": 64,
+          "currentScore": 72,
+          "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 76,
+          "currentScore": 68,
+          "delta": -8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "NewsRevue",
@@ -88,41 +120,14 @@
           "delta": 6,
           "previousReviews": 4,
           "currentReviews": 6
-        },
-        {
-          "title": "The Understudy",
-          "previousScore": 74,
-          "currentScore": 68,
-          "delta": -6,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Claire Robin: NUN SLUT",
-          "previousScore": 87,
-          "currentScore": 81,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Great Shakespeare Showdown",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tom Cashman: NPC (Nearly Proficient Comedian)",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Crybabies: The Scaring",
+          "score": 88,
+          "reviews": 10
+        },
         {
           "title": "Heist: How to Steal a Masterpiece",
           "score": 88,
@@ -142,6 +147,11 @@
           "title": "Gutter",
           "score": 85,
           "reviews": 2
+        },
+        {
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "score": 84,
+          "reviews": 9
         },
         {
           "title": "A Highly Suspect Murder Mystery: ABBAsolute Murder",
@@ -199,14 +209,19 @@
           "reviews": 4
         },
         {
+          "title": "Max Fulham's Monkey Business",
+          "score": 82,
+          "reviews": 4
+        },
+        {
           "title": "How to Poop in an Outhouse at -58°C",
           "score": 82,
           "reviews": 3
         },
         {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
+          "title": "The Singer",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "CSI: Crime Scene Improvisation",
@@ -217,16 +232,6 @@
           "title": "This Is How I Got Arrested...",
           "score": 78,
           "reviews": 4
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
         },
         {
           "title": "House Fly",
@@ -244,13 +249,33 @@
           "reviews": 2
         },
         {
+          "title": "Rob Copland: ONE (more please)",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Soaked",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "The Ghost of White Hart Lane",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "the Kobold Show!",
           "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Hannah Byczkowski: Killer",
+          "score": 74,
+          "reviews": 7
+        },
+        {
+          "title": "Big Naked Comedy Show",
+          "score": 73,
           "reviews": 2
         },
         {
@@ -275,6 +300,11 @@
         },
         {
           "title": "Dirty Dancer",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Eight",
           "score": 70,
           "reviews": 2
         },
@@ -314,11 +344,6 @@
           "reviews": 2
         },
         {
-          "title": "Candace Bryan: Don't Be Ridiculous, Everybody Wants This",
-          "score": 69,
-          "reviews": 2
-        },
-        {
           "title": "Mrs Gary Breath",
           "score": 69,
           "reviews": 2
@@ -334,12 +359,22 @@
           "reviews": 2
         },
         {
-          "title": "Buddha vs Jesus",
-          "score": 64,
+          "title": "Candace Bryan: Don't Be Ridiculous, Everybody Wants This",
+          "score": 67,
+          "reviews": 3
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
-          "title": "INDY!",
+          "title": "Bliss",
+          "score": 66,
+          "reviews": 17
+        },
+        {
+          "title": "Buddha vs Jesus",
           "score": 64,
           "reviews": 2
         },
@@ -364,6 +399,11 @@
           "reviews": 3
         },
         {
+          "title": "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
+          "score": 63,
+          "reviews": 2
+        },
+        {
           "title": "Jamie Kilstein: Can't Tie Knots",
           "score": 62,
           "reviews": 2
@@ -386,6 +426,11 @@
         {
           "title": "Matthew Gallagher: Last Minute",
           "score": 61,
+          "reviews": 2
+        },
+        {
+          "title": "Emmeline Downie: Gail",
+          "score": 60,
           "reviews": 2
         },
         {
@@ -439,6 +484,7 @@
         "Everybody's Got a Bomb",
         "Fabled: The Improvised Fantasy Adventure",
         "Fatiha El-Ghorri: Cockney Stacking Doll",
+        "GIRLZ",
         "Gameplay",
         "Gutter",
         "Hannah Byczkowski: Killer",
@@ -473,6 +519,7 @@
         "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "Rachel Kaly: Between Us (A Crowd Work Show)",
+        "Ramsey Smith: Keep the Receipt",
         "RapGPT: Macshane",
         "Rob Copland: ONE (more please)",
         "SAND",
