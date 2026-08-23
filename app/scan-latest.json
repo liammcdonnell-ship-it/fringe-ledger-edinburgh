@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T18:12:43.194Z",
-      "completedAt": "2026-08-23T18:12:43.194Z",
+      "id": "2026-08-23T19:16:12.910Z",
+      "completedAt": "2026-08-23T19:16:12.910Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1133,
-      "totalNotices": 3543,
-      "defaultVisible": 718,
+      "totalShows": 1135,
+      "totalNotices": 3554,
+      "defaultVisible": 720,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T18:14:25.729Z",
-      "windowEndedAt": "2026-08-23T18:12:43.194Z",
+      "windowStartedAt": "2026-08-22T19:14:00.462Z",
+      "windowEndedAt": "2026-08-23T19:16:12.910Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 322,
-      "newShows": 12,
-      "enteredRanking": 30,
+      "newReviews": 329,
+      "newShows": 15,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
         {
@@ -50,12 +50,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Parking Spot: The Musical!",
+          "previousScore": 58,
+          "currentScore": 64,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Matthew Gallagher: Last Minute",
           "previousScore": 61,
           "currentScore": 56,
           "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "MUSE: The Shakespeare Mayhem Musical",
+          "previousScore": 69,
+          "currentScore": 73,
+          "delta": 4,
+          "previousReviews": 7,
+          "currentReviews": 9
         },
         {
           "title": "Maya Ricote: Ay Am!",
@@ -104,22 +120,6 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Pierre Novellie: Do the One About...",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tweedy's Massive Solo Show",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -134,24 +134,24 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "John Kearns: Tilting at Windmills",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Monks",
           "score": 83,
           "reviews": 2
         },
         {
+          "title": "John Kearns: Tilting at Windmills",
+          "score": 82,
+          "reviews": 3
+        },
+        {
           "title": "Megasquirt: Fully Loaded",
           "score": 82,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Felicity Ward: I Wish I Could Come Out of My Shell",
@@ -179,11 +179,6 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Play Dead",
           "score": 76,
           "reviews": 2
@@ -200,11 +195,6 @@
         },
         {
           "title": "Charlie Vero-Martin: Poltergeist (WIP)",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Japanese Grandma Funeral",
           "score": 73,
           "reviews": 2
         },
@@ -230,11 +220,6 @@
         },
         {
           "title": "Tasmin Sarkany: Now That's What I Call Bach!",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "We Were Sisters",
           "score": 70,
           "reviews": 2
         },
@@ -285,7 +270,6 @@
         "Broken Planet Show",
         "CADEL: Lungs on Legs",
         "CHUCK",
-        "Charlie Vero-Martin: Poltergeist (WIP)",
         "Cogito, Ergo... Something?",
         "Collaborator",
         "Connor Burns: FLOW",
@@ -293,7 +277,6 @@
         "Cricket &#038; The Freebugs",
         "Daniel Downie: Alba",
         "Dave Reubens - Magic Survival Guide",
-        "David Correos: Noise Zealand",
         "Dragon Tales",
         "EXIT",
         "Ele Mackenzie: Bringing It All Back Home",
