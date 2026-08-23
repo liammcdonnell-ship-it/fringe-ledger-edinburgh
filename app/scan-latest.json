@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T16:13:34.914Z",
-      "completedAt": "2026-08-23T16:13:34.914Z",
+      "id": "2026-08-23T17:14:00.688Z",
+      "completedAt": "2026-08-23T17:14:00.688Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 1131,
-      "totalNotices": 3534,
-      "defaultVisible": 718,
+      "totalNotices": 3535,
+      "defaultVisible": 717,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T16:11:10.636Z",
-      "windowEndedAt": "2026-08-23T16:13:34.914Z",
+      "windowStartedAt": "2026-08-22T17:12:51.811Z",
+      "windowEndedAt": "2026-08-23T17:14:00.688Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 348,
+      "newReviews": 334,
       "newShows": 29,
-      "enteredRanking": 30,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "Mel Hudson: Richard Ashcroft Revived My Libido",
           "previousScore": 76,
@@ -40,6 +32,14 @@
           "delta": -8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Shhh! (A Wordless Comedy)",
@@ -64,14 +64,6 @@
           "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
-          "previousReviews": 11,
-          "currentReviews": 9
         },
         {
           "title": "Maya Ricote: Ay Am!",
@@ -120,6 +112,14 @@
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Jason Byrne: 30 Years Byrning",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -179,11 +179,6 @@
           "reviews": 2
         },
         {
-          "title": "Top Gunchained",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Woman Seeking Cuddles",
           "score": 75,
           "reviews": 3
@@ -234,11 +229,6 @@
           "reviews": 2
         },
         {
-          "title": "Fempaths: Transistor Radio Hour",
-          "score": 67,
-          "reviews": 2
-        },
-        {
           "title": "Princess Sparkles",
           "score": 64,
           "reviews": 2
@@ -250,11 +240,6 @@
         },
         {
           "title": "The Real Housewives of the Zombie Apocalypse",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
