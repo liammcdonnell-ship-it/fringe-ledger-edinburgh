@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T02:18:55.764Z",
-      "completedAt": "2026-08-23T02:18:55.764Z",
+      "id": "2026-08-23T03:39:39.432Z",
+      "completedAt": "2026-08-23T03:39:39.432Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1113,
-      "totalNotices": 3398,
-      "defaultVisible": 695,
+      "totalShows": 1108,
+      "totalNotices": 3390,
+      "defaultVisible": 693,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T02:08:49.835Z",
-      "windowEndedAt": "2026-08-23T02:18:55.764Z",
-      "windowCoverageHours": 24.2,
+      "windowStartedAt": "2026-08-22T03:31:53.476Z",
+      "windowEndedAt": "2026-08-23T03:39:39.432Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 297,
-      "newShows": 30,
-      "enteredRanking": 29,
+      "newReviews": 285,
+      "newShows": 16,
+      "enteredRanking": 28,
       "newOutlets": [],
       "movers": [
         {
@@ -32,14 +32,6 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "NewsRevue",
@@ -117,6 +109,14 @@
           "title": "Heist: How to Steal a Masterpiece",
           "previousScore": 84,
           "currentScore": 88,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Will BF: Moon Team IIIV",
+          "previousScore": 83,
+          "currentScore": 87,
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
@@ -235,11 +235,6 @@
         },
         {
           "title": "Fempaths: Transistor Radio Hour",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
           "score": 67,
           "reviews": 2
         },
