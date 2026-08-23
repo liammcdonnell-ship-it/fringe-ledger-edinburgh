@@ -2,36 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T13:26:13.744Z",
-      "completedAt": "2026-08-23T13:26:13.744Z",
+      "id": "2026-08-23T14:14:53.416Z",
+      "completedAt": "2026-08-23T14:14:53.416Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1133,
-      "totalNotices": 3478,
+      "totalShows": 1140,
+      "totalNotices": 3487,
       "defaultVisible": 704,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T13:25:35.145Z",
-      "windowEndedAt": "2026-08-23T13:26:13.744Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-22T14:11:08.124Z",
+      "windowEndedAt": "2026-08-23T14:14:53.416Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 289,
-      "newShows": 29,
-      "enteredRanking": 19,
+      "newReviews": 290,
+      "newShows": 37,
+      "enteredRanking": 22,
       "newOutlets": [],
       "movers": [
         {
           "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousScore": 76,
+          "currentScore": 68,
+          "delta": -8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Shhh! (A Wordless Comedy)",
@@ -50,14 +58,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Christopher Hall: Pizazz",
-          "previousScore": 68,
-          "currentScore": 73,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Matthew Gallagher: Last Minute",
           "previousScore": 61,
           "currentScore": 56,
@@ -71,14 +71,6 @@
           "currentScore": 78,
           "delta": -4,
           "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "previousScore": 74,
-          "currentScore": 70,
-          "delta": -4,
-          "previousReviews": 5,
           "currentReviews": 5
         },
         {
@@ -120,6 +112,14 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Will BF: Moon Team IIIV",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -139,8 +139,18 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "Marc Jennings: If & When",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
@@ -199,6 +209,16 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "The Powerpop Girls: A New Diva Religion",
           "score": 64,
           "reviews": 2
@@ -211,11 +231,6 @@
         {
           "title": "Best. Dad. NEVER.",
           "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 51,
           "reviews": 2
         }
       ],
@@ -247,7 +262,6 @@
         "Gameplay",
         "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
         "Ian TC: Ian-Somnia",
-        "Improvised Couples Therapy",
         "Kanpur: 1857",
         "Kevin Quantum: Invisible Force",
         "Lance Mao: The Pig with the Dragon Tattoo",
