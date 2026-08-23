@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T11:12:57.332Z",
-      "completedAt": "2026-08-23T11:12:57.332Z",
+      "id": "2026-08-23T12:16:05.368Z",
+      "completedAt": "2026-08-23T12:16:05.368Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1118,
-      "totalNotices": 3453,
-      "defaultVisible": 698,
+      "totalShows": 1133,
+      "totalNotices": 3478,
+      "defaultVisible": 703,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T11:11:33.648Z",
-      "windowEndedAt": "2026-08-23T11:12:57.332Z",
+      "windowStartedAt": "2026-08-22T12:14:20.223Z",
+      "windowEndedAt": "2026-08-23T12:16:05.368Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 316,
-      "newShows": 24,
-      "enteredRanking": 21,
+      "newReviews": 301,
+      "newShows": 13,
+      "enteredRanking": 25,
       "newOutlets": [],
       "movers": [
         {
           "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
@@ -40,6 +40,14 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Shhh! (A Wordless Comedy)",
@@ -66,12 +74,12 @@
           "currentReviews": 4
         },
         {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 9,
-          "currentReviews": 12
+          "title": "Matthew Gallagher: Last Minute",
+          "previousScore": 61,
+          "currentScore": 56,
+          "delta": -5,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Common Tongue",
@@ -79,14 +87,6 @@
           "currentScore": 90,
           "delta": 4,
           "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 67,
-          "currentScore": 71,
-          "delta": 4,
-          "previousReviews": 3,
           "currentReviews": 6
         },
         {
@@ -134,6 +134,11 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Harry Stachini: Lobster",
           "score": 83,
           "reviews": 2
@@ -154,6 +159,11 @@
           "reviews": 2
         },
         {
+          "title": "Top Gunchained",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Woman Seeking Cuddles",
           "score": 75,
           "reviews": 3
@@ -165,6 +175,11 @@
         },
         {
           "title": "Big Naked Comedy Show",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Charlie Vero-Martin: Poltergeist (WIP)",
           "score": 73,
           "reviews": 2
         },
@@ -184,12 +199,12 @@
           "reviews": 2
         },
         {
-          "title": "I Think I Hate Actors",
+          "title": "HOW TO FRINGE: a chat show with thom tuck",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "It Happened on a Tuesday",
+          "title": "I Think I Hate Actors",
           "score": 70,
           "reviews": 2
         },
@@ -227,6 +242,11 @@
           "title": "Emmeline Downie: Gail",
           "score": 60,
           "reviews": 2
+        },
+        {
+          "title": "Best. Dad. NEVER.",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -235,15 +255,15 @@
         "A Clown's Lullaby",
         "A STAN IS BORN! - Encore",
         "Always, Sometimes, Maybe",
-        "Among the Pigeons",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annabelle James: Annabalism",
         "Annie Wobbler (Revisited)",
         "Broken Planet Show",
         "CADEL: Lungs on Legs",
         "Charlie Vero-Martin: Poltergeist (WIP)",
+        "Cogito, Ergo... Something?",
         "Collaborator",
-        "Craig Speirs: Problem Child",
+        "Connor Burns: FLOW",
         "Cricket &#038; The Freebugs",
         "Daniel Downie: Alba",
         "David Correos: Noise Zealand",
@@ -274,6 +294,7 @@
         "Quentin Blake's Mrs Armitage on Wheels",
         "Rachel Creeger: \"Queen of the Jews!\"",
         "Ramsey Smith: Keep the Receipt",
+        "Rob Moriarty: Sick in the Head",
         "SAND",
         "Shamaniac",
         "Snow",
