@@ -2,34 +2,50 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T10:14:09.774Z",
-      "completedAt": "2026-08-23T10:14:09.774Z",
+      "id": "2026-08-23T11:12:57.332Z",
+      "completedAt": "2026-08-23T11:12:57.332Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1148,
-      "totalNotices": 3478,
-      "defaultVisible": 703,
+      "totalShows": 1118,
+      "totalNotices": 3453,
+      "defaultVisible": 698,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T10:10:55.816Z",
-      "windowEndedAt": "2026-08-23T10:14:09.774Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-22T11:11:33.648Z",
+      "windowEndedAt": "2026-08-23T11:12:57.332Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 337,
-      "newShows": 49,
-      "enteredRanking": 34,
+      "newReviews": 316,
+      "newShows": 24,
+      "enteredRanking": 21,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "BIRDS: Alex Hines and Sarah Stafford",
           "previousScore": 64,
           "currentScore": 72,
           "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Shhh! (A Wordless Comedy)",
+          "previousScore": 70,
+          "currentScore": 77,
+          "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -42,28 +58,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Parking Spot: The Musical!",
-          "previousScore": 64,
-          "currentScore": 58,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Christopher Hall: Pizazz",
           "previousScore": 68,
           "currentScore": 73,
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Jeromaia Detto: Giuseppe's Love Quest",
-          "previousScore": 74,
-          "currentScore": 69,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 3
         },
         {
           "title": "UNDERGROUND MONK SHOW",
@@ -82,11 +82,11 @@
           "currentReviews": 6
         },
         {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 72,
-          "currentScore": 76,
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 67,
+          "currentScore": 71,
           "delta": 4,
-          "previousReviews": 5,
+          "previousReviews": 3,
           "currentReviews": 6
         },
         {
@@ -106,17 +106,17 @@
           "currentReviews": 5
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 4
-        },
-        {
           "title": "The Tao of Lloyd",
           "previousScore": 68,
           "currentScore": 72,
+          "delta": 4,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Buddha Wears Prada",
+          "previousScore": 58,
+          "currentScore": 62,
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
@@ -129,22 +129,7 @@
           "reviews": 2
         },
         {
-          "title": "Crying At My Podiatrist",
-          "score": 86,
-          "reviews": 2
-        },
-        {
-          "title": "A Highly Suspect Murder Mystery: ABBAsolute Murder",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Diary of a Mad Man",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Fabled: The Improvised Fantasy Adventure",
           "score": 83,
           "reviews": 2
         },
@@ -154,28 +139,8 @@
           "reviews": 2
         },
         {
-          "title": "Tweedy's Massive Solo Show",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Marc Jennings: If & When",
           "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
           "reviews": 2
         },
         {
@@ -185,11 +150,6 @@
         },
         {
           "title": "Rob Copland: ONE (more please)",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Top Gunchained",
           "score": 76,
           "reviews": 2
         },
@@ -205,11 +165,6 @@
         },
         {
           "title": "Big Naked Comedy Show",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Bilal Zafar: Rubicon",
           "score": 73,
           "reviews": 2
         },
@@ -239,16 +194,6 @@
           "reviews": 2
         },
         {
-          "title": "Sweaty Clowns",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Extraordinary Life of a Rat Racer",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "The Skarsgård Effect",
           "score": 70,
           "reviews": 2
@@ -264,28 +209,18 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "INDY!",
+          "title": "The Powerpop Girls: A New Diva Religion",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "The Powerpop Girls: A New Diva Religion",
+          "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
         },
         {
           "title": "Hypnotist Matt Hale: Funbelievable! 90s Rewind",
           "score": 63,
-          "reviews": 2
-        },
-        {
-          "title": "Burce Tutku Tuncali: Perfectly Imperfeckt!",
-          "score": 61,
           "reviews": 2
         },
         {
@@ -296,7 +231,6 @@
       ],
       "newShowTitles": [
         "1 Big Oops",
-        "199 Jokes Before Lunchtime: Danny Matinee!",
         "44 Minutes",
         "A Clown's Lullaby",
         "A STAN IS BORN! - Encore",
@@ -317,11 +251,11 @@
         "EXIT",
         "Ele Mackenzie: Bringing It All Back Home",
         "Everybody's Got a Bomb",
+        "FOC IT UP! with Kemah Bob",
         "GIRLZ",
         "Gail Porter: Portergeist",
         "Gameplay",
         "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
-        "Having a Baby - The Sh!t They Don&apos;t Tell You in Books",
         "Ian TC: Ian-Somnia",
         "Improvised Couples Therapy",
         "Kanpur: 1857",
@@ -333,7 +267,6 @@
         "Meet Mayor Max",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
-        "No Ducks Left To Give",
         "Of Mice And Men",
         "Owl at Home – Theatr Iolo",
         "Pilate: The Lost Gospel",
@@ -342,7 +275,6 @@
         "Rachel Creeger: \"Queen of the Jews!\"",
         "Ramsey Smith: Keep the Receipt",
         "SAND",
-        "ShakeItUp: The Improvised Shakespeare Show",
         "Shamaniac",
         "Snow",
         "Soft Spot",
@@ -353,7 +285,6 @@
         "The Jolly Fisherman",
         "The Sumo Show HIRAKUZA",
         "The Tamer Tamed or, The Woman&apos;s Prize",
-        "WEBBER!",
         "What Are You Doing After The Orgy?",
         "You and Me (and Whoever Comes Next)",
         "¡Ay! Papi: Jilberto Soto"
