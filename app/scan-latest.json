@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-22T23:09:40.338Z",
-      "completedAt": "2026-08-22T23:09:40.338Z",
+      "id": "2026-08-23T00:32:44.806Z",
+      "completedAt": "2026-08-23T00:32:44.806Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1114,
-      "totalNotices": 3400,
+      "totalShows": 1111,
+      "totalNotices": 3395,
       "defaultVisible": 694,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-21T23:13:30.691Z",
-      "windowEndedAt": "2026-08-22T23:09:40.338Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-22T00:29:42.681Z",
+      "windowEndedAt": "2026-08-23T00:32:44.806Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
       "newReviews": 294,
-      "newShows": 34,
-      "enteredRanking": 30,
+      "newShows": 29,
+      "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
         {
@@ -32,14 +32,6 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
         },
         {
           "title": "NewsRevue",
@@ -106,6 +98,14 @@
           "currentReviews": 6
         },
         {
+          "title": "An American (Not) in Paris",
+          "previousScore": 84,
+          "currentScore": 80,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "The Tao of Lloyd",
           "previousScore": 68,
           "currentScore": 72,
@@ -152,11 +152,6 @@
           "title": "Tweedy's Massive Solo Show",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
         },
         {
           "title": "Daniel Kitson: Thrum",
@@ -244,11 +239,6 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
           "title": "Pigeon Syndrome",
           "score": 64,
           "reviews": 2
@@ -271,6 +261,11 @@
         {
           "title": "Emmeline Downie: Gail",
           "score": 60,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
