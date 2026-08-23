@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T05:21:10.543Z",
-      "completedAt": "2026-08-23T05:21:10.543Z",
+      "id": "2026-08-23T06:21:02.790Z",
+      "completedAt": "2026-08-23T06:21:02.790Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1113,
-      "totalNotices": 3396,
+      "totalShows": 1108,
+      "totalNotices": 3389,
       "defaultVisible": 693,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T05:17:21.898Z",
-      "windowEndedAt": "2026-08-23T05:21:10.543Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-22T06:19:20.082Z",
+      "windowEndedAt": "2026-08-23T06:21:02.790Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 288,
-      "newShows": 29,
-      "enteredRanking": 28,
+      "newReviews": 277,
+      "newShows": 13,
+      "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
         {
@@ -32,6 +32,14 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 68,
+          "currentScore": 76,
+          "delta": 8,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "NewsRevue",
@@ -112,14 +120,6 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Will BF: Moon Team IIIV",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -135,6 +135,11 @@
         },
         {
           "title": "A Highly Suspect Murder Mystery: ABBAsolute Murder",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
