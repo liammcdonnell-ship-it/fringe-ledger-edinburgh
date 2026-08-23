@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T08:17:33.945Z",
-      "completedAt": "2026-08-23T08:17:33.945Z",
+      "id": "2026-08-23T09:17:23.595Z",
+      "completedAt": "2026-08-23T09:17:23.595Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1116,
-      "totalNotices": 3418,
-      "defaultVisible": 695,
+      "totalShows": 1118,
+      "totalNotices": 3432,
+      "defaultVisible": 696,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T08:15:18.060Z",
-      "windowEndedAt": "2026-08-23T08:17:33.945Z",
+      "windowStartedAt": "2026-08-22T09:16:57.335Z",
+      "windowEndedAt": "2026-08-23T09:17:23.595Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 327,
-      "newShows": 31,
-      "enteredRanking": 30,
+      "newReviews": 341,
+      "newShows": 33,
+      "enteredRanking": 31,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "NewsRevue",
           "previousScore": 70,
           "currentScore": 77,
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Madeleine Brettingham: Legend",
+          "previousScore": 78,
+          "currentScore": 84,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "The Great Shakespeare Showdown",
@@ -66,10 +82,10 @@
           "currentReviews": 3
         },
         {
-          "title": "Parking Spot: The Musical!",
-          "previousScore": 58,
-          "currentScore": 64,
-          "delta": 6,
+          "title": "The Pigeon Factory",
+          "previousScore": 63,
+          "currentScore": 57,
+          "delta": -6,
           "previousReviews": 3,
           "currentReviews": 2
         },
@@ -82,28 +98,12 @@
           "currentReviews": 9
         },
         {
-          "title": "Madeleine Brettingham: Legend",
-          "previousScore": 78,
-          "currentScore": 83,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 8
-        },
-        {
           "title": "Christopher Hall: Pizazz",
           "previousScore": 68,
           "currentScore": 73,
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 82,
-          "currentScore": 77,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 3
         },
         {
           "title": "Jeromaia Detto: Giuseppe's Love Quest",
@@ -159,11 +159,6 @@
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
           "title": "Daniel Kitson: Thrum",
           "score": 76,
           "reviews": 2
@@ -204,6 +199,11 @@
           "reviews": 2
         },
         {
+          "title": "Woman Seeking Cuddles",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "The Ghost of White Hart Lane",
           "score": 72,
           "reviews": 3
@@ -215,6 +215,11 @@
         },
         {
           "title": "Eight",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "I Think I Hate Actors",
           "score": 70,
           "reviews": 2
         },
@@ -279,6 +284,7 @@
         "199 Jokes Before Lunchtime: Danny Matinee!",
         "44 Minutes",
         "A Clown's Lullaby",
+        "A STAN IS BORN! - Encore",
         "Always, Sometimes, Maybe",
         "Among the Pigeons",
         "An Audience with Virginia Woolf: Writing One's Mind",
@@ -310,6 +316,7 @@
         "Laughing Horse Pick of the Fringe",
         "Laughing Matters",
         "Little Animals",
+        "Love (5 Ways)",
         "Meet Mayor Max",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
@@ -332,7 +339,9 @@
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "The Jolly Fisherman",
         "The Sumo Show HIRAKUZA",
+        "The Tamer Tamed or, The Woman&apos;s Prize",
         "WEBBER!",
+        "What Are You Doing After The Orgy?",
         "You and Me (and Whoever Comes Next)"
       ]
     }
