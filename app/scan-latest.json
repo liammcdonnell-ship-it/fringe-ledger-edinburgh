@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T15:13:07.963Z",
-      "completedAt": "2026-08-23T15:13:07.963Z",
+      "id": "2026-08-23T16:13:34.914Z",
+      "completedAt": "2026-08-23T16:13:34.914Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1152,
-      "totalNotices": 3547,
-      "defaultVisible": 715,
+      "totalShows": 1131,
+      "totalNotices": 3534,
+      "defaultVisible": 718,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T15:11:22.674Z",
-      "windowEndedAt": "2026-08-23T15:13:07.963Z",
+      "windowStartedAt": "2026-08-22T16:11:10.636Z",
+      "windowEndedAt": "2026-08-23T16:13:34.914Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 345,
-      "newShows": 49,
-      "enteredRanking": 32,
+      "newReviews": 348,
+      "newShows": 29,
+      "enteredRanking": 30,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Mel Hudson: Richard Ashcroft Revived My Libido",
           "previousScore": 76,
@@ -32,14 +40,6 @@
           "delta": -8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Scaramouche Jones",
-          "previousScore": 82,
-          "currentScore": 89,
-          "delta": 7,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Shhh! (A Wordless Comedy)",
@@ -56,14 +56,6 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "The Tao of Lloyd",
-          "previousScore": 68,
-          "currentScore": 73,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 5
         },
         {
           "title": "Matthew Gallagher: Last Minute",
@@ -90,6 +82,14 @@
           "currentReviews": 6
         },
         {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 77,
+          "currentScore": 81,
+          "delta": 4,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
           "title": "A Gay Masseur's Guide to Happy Endings",
           "previousScore": 82,
           "currentScore": 78,
@@ -106,20 +106,20 @@
           "currentReviews": 5
         },
         {
+          "title": "Scaramouche Jones",
+          "previousScore": 85,
+          "currentScore": 89,
+          "delta": 4,
+          "previousReviews": 4,
+          "currentReviews": 4
+        },
+        {
           "title": "The Buddha Wears Prada",
           "previousScore": 58,
           "currentScore": 62,
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Jason Byrne: 30 Years Byrning",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -129,33 +129,18 @@
           "reviews": 2
         },
         {
-          "title": "The Thinking Drinkers' Great British Pub Ride",
-          "score": 89,
-          "reviews": 2
-        },
-        {
           "title": "Diary of a Mad Man",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Harry Stachini: Lobster",
+          "title": "John Kearns: Tilting at Windmills",
           "score": 83,
           "reviews": 2
         },
         {
           "title": "Monks",
           "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
           "reviews": 2
         },
         {
@@ -189,7 +174,7 @@
           "reviews": 2
         },
         {
-          "title": "Daniel Kitson: Thrum",
+          "title": "Play Dead",
           "score": 76,
           "reviews": 2
         },
@@ -202,11 +187,6 @@
           "title": "Woman Seeking Cuddles",
           "score": 75,
           "reviews": 3
-        },
-        {
-          "title": "2 Truths, 1 Lie",
-          "score": 73,
-          "reviews": 2
         },
         {
           "title": "Book Club",
@@ -244,6 +224,11 @@
           "reviews": 2
         },
         {
+          "title": "Tasmin Sarkany: Now That's What I Call Bach!",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "We Were Sisters",
           "score": 70,
           "reviews": 2
@@ -251,16 +236,6 @@
         {
           "title": "Fempaths: Transistor Radio Hour",
           "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "INDY!",
-          "score": 64,
           "reviews": 2
         },
         {
@@ -274,6 +249,16 @@
           "reviews": 2
         },
         {
+          "title": "The Real Housewives of the Zombie Apocalypse",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
@@ -281,6 +266,11 @@
         {
           "title": "Best. Dad. NEVER.",
           "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Secrets Secrets Shhh!",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -291,10 +281,10 @@
         "A STAN IS BORN! - Encore",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
-        "Annabelle James: Annabalism",
         "Annie Wobbler (Revisited)",
         "Broken Planet Show",
         "CADEL: Lungs on Legs",
+        "CHUCK",
         "Charlie Vero-Martin: Poltergeist (WIP)",
         "Cogito, Ergo... Something?",
         "Collaborator",
@@ -312,10 +302,10 @@
         "GIRLZ",
         "Gail Porter: Portergeist",
         "Gameplay",
-        "Ian TC: Ian-Somnia",
         "Jamie Leonard: Blink of an Eye",
         "Kanpur: 1857",
         "Kevin Quantum: Invisible Force",
+        "Knight&apos;s Dream",
         "Little Animals",
         "Love (5 Ways)",
         "Meet Mayor Max",
