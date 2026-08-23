@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T00:32:44.806Z",
-      "completedAt": "2026-08-23T00:32:44.806Z",
+      "id": "2026-08-23T02:18:55.764Z",
+      "completedAt": "2026-08-23T02:18:55.764Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1111,
-      "totalNotices": 3395,
-      "defaultVisible": 694,
+      "totalShows": 1113,
+      "totalNotices": 3398,
+      "defaultVisible": 695,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T00:29:42.681Z",
-      "windowEndedAt": "2026-08-23T00:32:44.806Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-22T02:08:49.835Z",
+      "windowEndedAt": "2026-08-23T02:18:55.764Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 23,
-      "newReviews": 294,
-      "newShows": 29,
+      "newReviews": 297,
+      "newShows": 30,
       "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
@@ -32,6 +32,14 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "NewsRevue",
@@ -96,14 +104,6 @@
           "delta": 4,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "An American (Not) in Paris",
-          "previousScore": 84,
-          "currentScore": 80,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "The Tao of Lloyd",
@@ -239,6 +239,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Pigeon Syndrome",
           "score": 64,
           "reviews": 2
@@ -261,11 +266,6 @@
         {
           "title": "Emmeline Downie: Gail",
           "score": 60,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 51,
           "reviews": 2
         }
       ],
