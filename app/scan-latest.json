@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T21:12:41.736Z",
-      "completedAt": "2026-08-23T21:12:41.736Z",
+      "id": "2026-08-23T22:11:50.436Z",
+      "completedAt": "2026-08-23T22:11:50.436Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1140,
-      "totalNotices": 3560,
-      "defaultVisible": 719,
+      "totalShows": 1135,
+      "totalNotices": 3508,
+      "defaultVisible": 715,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T21:12:01.465Z",
-      "windowEndedAt": "2026-08-23T21:12:41.736Z",
+      "windowStartedAt": "2026-08-22T22:10:37.420Z",
+      "windowEndedAt": "2026-08-23T22:11:50.436Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 341,
-      "newShows": 34,
+      "newReviews": 325,
+      "newShows": 17,
       "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "Mel Hudson: Richard Ashcroft Revived My Libido",
           "previousScore": 76,
@@ -50,18 +42,18 @@
           "currentReviews": 3
         },
         {
-          "title": "Lou Wall: Where Are All The Tall Grandmas?",
-          "previousScore": 87,
-          "currentScore": 81,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
           "title": "Craig Hill: You're Not Even Safe Up the Back!",
           "previousScore": 86,
           "currentScore": 80,
           "delta": -6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Matthew Gallagher: Last Minute",
+          "previousScore": 61,
+          "currentScore": 56,
+          "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -71,6 +63,14 @@
           "currentScore": 80,
           "delta": 4,
           "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 70,
+          "currentScore": 74,
+          "delta": 4,
+          "previousReviews": 7,
           "currentReviews": 6
         },
         {
@@ -130,6 +130,11 @@
         },
         {
           "title": "Diary of a Mad Man",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -216,11 +221,6 @@
         {
           "title": "Tasmin Sarkany: Now That's What I Call Bach!",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
           "reviews": 2
         },
         {
