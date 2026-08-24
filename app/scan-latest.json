@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T16:22:09.586Z",
-      "completedAt": "2026-08-24T16:22:09.586Z",
+      "id": "2026-08-24T17:22:22.377Z",
+      "completedAt": "2026-08-24T17:22:22.377Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1178,
-      "totalNotices": 3769,
+      "totalShows": 1186,
+      "totalNotices": 3798,
       "defaultVisible": 742,
       "duplicates": 3,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T16:13:34.914Z",
-      "windowEndedAt": "2026-08-24T16:22:09.586Z",
+      "windowStartedAt": "2026-08-23T17:14:00.688Z",
+      "windowEndedAt": "2026-08-24T17:22:22.377Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 24213,
-      "newShows": 47,
-      "enteredRanking": 26,
+      "newReviews": 27718,
+      "newShows": 55,
+      "enteredRanking": 28,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Good Girl",
+          "previousScore": 74,
+          "currentScore": 83,
+          "delta": 9,
+          "previousReviews": 4,
+          "currentReviews": 7
+        },
+        {
+          "title": "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
+          "previousScore": 72,
+          "currentScore": 80,
+          "delta": 8,
+          "previousReviews": 3,
+          "currentReviews": 6
+        },
         {
           "title": "Parking Spot: The Musical!",
           "previousScore": 58,
@@ -34,19 +50,11 @@
           "currentReviews": 4
         },
         {
-          "title": "Good Girl",
-          "previousScore": 74,
-          "currentScore": 81,
+          "title": "Fempaths: Transistor Radio Hour",
+          "previousScore": 67,
+          "currentScore": 74,
           "delta": 7,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
+          "previousReviews": 2,
           "currentReviews": 4
         },
         {
@@ -82,6 +90,14 @@
           "currentReviews": 4
         },
         {
+          "title": "Cruising",
+          "previousScore": 58,
+          "currentScore": 64,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "NON HUMAN ANIMAL",
           "previousScore": 75,
           "currentScore": 70,
@@ -104,22 +120,6 @@
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Marc Jennings: If & When",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Katie Norris: Mother Succubus",
-          "previousScore": 79,
-          "currentScore": 74,
-          "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -184,11 +184,6 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Mohan: A Partition Story",
           "score": 76,
           "reviews": 2
@@ -204,6 +199,11 @@
           "reviews": 2
         },
         {
+          "title": "August McEachern: Be My Friend",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Clary",
           "score": 70,
           "reviews": 2
@@ -212,6 +212,16 @@
           "title": "INDY!",
           "score": 70,
           "reviews": 2
+        },
+        {
+          "title": "This Year I Am Going To Die",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Lorna Ní Shúilleabháin: Barefoot Before God",
+          "score": 68,
+          "reviews": 3
         },
         {
           "title": "Spin Cycle",
@@ -229,7 +239,7 @@
           "reviews": 2
         },
         {
-          "title": "Lorna Ní Shúilleabháin: Barefoot Before God",
+          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
@@ -279,6 +289,7 @@
         "1979: Persianality Disorder",
         "199 Jokes Before Lunchtime: Danny Matinee!",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
+        "2 Slut Drops and a Chicken Burger",
         "2 Truths, 1 Lie",
         "2 White Guys Rapping: Macshane and Delby",
         "2 Wongs and a White",
@@ -301,6 +312,7 @@
         "A Different Kind of Heartbreak",
         "A Foot is Not an Appropriate Prize for the Tombola",
         "A Gay Masseur&apos;s Guide to Happy Endings",
+        "A Head Full of Bees",
         "A Highly Suspect Murder Mystery: ABBAsolute Murder",
         "A Highly Suspect Murder Mystery: Knives In",
         "A Man Proposes to a Balloon, or Possibly Something Worse",
@@ -689,6 +701,7 @@
         "Here Comes Almost",
         "High Heels from the Big Boot",
         "Hill and Jones Comedy Catastrophe",
+        "Hoani Hoani Hoani Must Be Funny in a Rich Man&apos;s World",
         "Hole!",
         "Holmes/Shah",
         "Homecumming",
@@ -845,6 +858,7 @@
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
         "Maia Tassalini: I Was 22 and Stunning",
         "Making Love with David Magidoff",
+        "Mama G: The Magic Bookmark",
         "Mandy: Prince of Darkness",
         "Manic",
         "Marc Burrows in the Ten Best Songs of All Time",
@@ -1147,6 +1161,7 @@
         "The Brush",
         "The Cambridge Footlights Tour Show 2026",
         "The Candidates",
+        "The Cheesecake Burlesque Revue",
         "The Crimes of Pete",
         "The Cut of Her Jib",
         "The Devil Wears Primark",
@@ -1160,6 +1175,7 @@
         "The Ghost of White Hart Lane",
         "The Great Shakespeare Showdown",
         "The Greatest Magic Show",
+        "The Guilty Feminist",
         "The Heterosexuals",
         "The Horse of Jenin",
         "The Hypochondriac",
@@ -1234,6 +1250,7 @@
         "Thunderstruck",
         "Tia Kofi Presents: The Final FronTia Live",
         "Tim Biglowe: Plonka",
+        "Tim Kenneth Kicks the Bucket",
         "Time Travel Postman",
         "Toast",
         "Tom Ballard: Be Funny Challenge (Impossible)",
