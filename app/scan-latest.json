@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T11:19:45.419Z",
-      "completedAt": "2026-08-24T11:19:45.419Z",
+      "id": "2026-08-24T12:22:00.892Z",
+      "completedAt": "2026-08-24T12:22:00.892Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1179,
-      "totalNotices": 3681,
-      "defaultVisible": 732,
+      "totalShows": 1145,
+      "totalNotices": 3646,
+      "defaultVisible": 731,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T11:12:57.332Z",
-      "windowEndedAt": "2026-08-24T11:19:45.419Z",
+      "windowStartedAt": "2026-08-23T12:16:05.368Z",
+      "windowEndedAt": "2026-08-24T12:22:00.892Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 7155,
-      "newShows": 61,
-      "enteredRanking": 35,
+      "newReviews": 10503,
+      "newShows": 12,
+      "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "Parking Spot: The Musical!",
           "previousScore": 58,
@@ -90,14 +82,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 61,
-          "currentScore": 56,
-          "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Garry Starr: Classic Penguins",
           "previousScore": 91,
           "currentScore": 87,
@@ -120,6 +104,22 @@
           "delta": 4,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Charlene Kaye: Diversity Shredder",
+          "previousScore": 82,
+          "currentScore": 78,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Making Love with David Magidoff",
+          "previousScore": 74,
+          "currentScore": 78,
+          "delta": 4,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -159,28 +159,8 @@
           "reviews": 3
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Felicity Ward: I Wish I Could Come Out of My Shell",
           "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
           "reviews": 2
         },
         {
@@ -229,17 +209,12 @@
           "reviews": 2
         },
         {
-          "title": "Charlie Vero-Martin: Poltergeist (WIP)",
-          "score": 73,
-          "reviews": 2
-        },
-        {
           "title": "Bachelors of Fine Arts",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "HOW TO FRINGE: a chat show with thom tuck",
+          "title": "INDY!",
           "score": 70,
           "reviews": 2
         },
@@ -254,19 +229,9 @@
           "reviews": 2
         },
         {
-          "title": "INDY!",
-          "score": 68,
-          "reviews": 3
-        },
-        {
           "title": "The Real Housewives of the Zombie Apocalypse",
           "score": 67,
           "reviews": 3
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
         },
         {
           "title": "Here Comes Almost",
@@ -279,13 +244,13 @@
           "reviews": 2
         },
         {
-          "title": "Time Travel Postman",
+          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "Best. Dad. NEVER.",
-          "score": 57,
+          "title": "Time Travel Postman",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -295,6 +260,11 @@
         },
         {
           "title": "Secrets Secrets Shhh!",
+          "score": 51,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
           "score": 51,
           "reviews": 2
         }
@@ -1001,6 +971,7 @@
         "Rachel Creeger: \"Queen of the Jews!\"",
         "Rachel Fairburn: Vexy Beasts",
         "Rachel Kaly: Between Us (A Crowd Work Show)",
+        "Raj Poojara",
         "Raj Poojara: Dice",
         "Ramsey Smith: Keep the Receipt",
         "RapGPT: Macshane",
