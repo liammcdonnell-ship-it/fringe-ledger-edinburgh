@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T12:22:00.892Z",
-      "completedAt": "2026-08-24T12:22:00.892Z",
+      "id": "2026-08-24T13:43:18.759Z",
+      "completedAt": "2026-08-24T13:43:18.759Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1145,
-      "totalNotices": 3646,
-      "defaultVisible": 731,
+      "totalShows": 1135,
+      "totalNotices": 3616,
+      "defaultVisible": 727,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T12:16:05.368Z",
-      "windowEndedAt": "2026-08-24T12:22:00.892Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-23T13:26:13.744Z",
+      "windowEndedAt": "2026-08-24T13:43:18.759Z",
+      "windowCoverageHours": 24.3,
       "scansInWindow": 23,
-      "newReviews": 10503,
-      "newShows": 12,
+      "newReviews": 13885,
+      "newShows": 2,
       "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Bog Witch",
+          "previousScore": 83,
+          "currentScore": 69,
+          "delta": -14,
+          "previousReviews": 20,
+          "currentReviews": 2
+        },
         {
           "title": "Parking Spot: The Musical!",
           "previousScore": 58,
@@ -56,14 +64,6 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "Kate Dehnert: Echo",
-          "previousScore": 85,
-          "currentScore": 80,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "The Last Mad Man",
@@ -106,18 +106,18 @@
           "currentReviews": 6
         },
         {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 70,
+          "currentScore": 74,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
           "title": "Charlene Kaye: Diversity Shredder",
           "previousScore": 82,
           "currentScore": 78,
           "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Making Love with David Magidoff",
-          "previousScore": 74,
-          "currentScore": 78,
-          "delta": 4,
           "previousReviews": 4,
           "currentReviews": 5
         }
@@ -144,11 +144,6 @@
           "reviews": 2
         },
         {
-          "title": "Monks",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "John Kearns: Tilting at Windmills",
           "score": 82,
           "reviews": 3
@@ -156,6 +151,11 @@
         {
           "title": "Megasquirt: Fully Loaded",
           "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Monks",
+          "score": 80,
           "reviews": 3
         },
         {
@@ -180,6 +180,11 @@
         },
         {
           "title": "Jody Kamali: This is My Dad",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -260,11 +265,6 @@
         },
         {
           "title": "Secrets Secrets Shhh!",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
           "score": 51,
           "reviews": 2
         }
@@ -401,6 +401,7 @@
         "Austentatious: An Improvised Jane Austen Novel",
         "Autism Mama",
         "Awaiting Evaluation",
+        "Ayoade Bamgboye: Swings And Roundabouts",
         "BASIC BALD B*TCH",
         "BATSU!",
         "BATSU! Presents: GANBA!!",
@@ -442,6 +443,7 @@
         "Boy in a Box",
         "Brassed Off",
         "Bread and Circuses",
+        "Brendan Scannell: The Abyss",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -467,6 +469,7 @@
         "CSI: Crime Scene Improvisation",
         "CVNT",
         "Cabbage the Clown: Cinemadrome",
+        "Camelton",
         "Candace Bryan: Don&apos;t Be Ridiculous, Everybody Wants This",
         "Carl Carzana THE Comedian Creative Genius",
         "Carl Donnelly: Extra Show!",
@@ -486,6 +489,7 @@
         "Chloe Jacobs: Twilight: Breaking Down",
         "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
         "Chris Forbes: Father Christmas",
+        "Chris Grace: 88%",
         "Chris Martin Lied To Us",
         "Christian Dart: GUMSHOE!",
         "Christopher Hall: Pizazz",
@@ -525,6 +529,7 @@
         "Dan Tiernan: Quartz and All",
         "Dane Buckley: Darling",
         "Daniel Downie: Alba",
+        "Daniel Foxx: How Lovely.",
         "Daniel Kitson: Thrum",
         "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Darren Gaffney: The Full Gaffney",
@@ -596,6 +601,7 @@
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
         "Escape Room: The Musical",
+        "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
         "Everybody's Got a Bomb",
@@ -661,6 +667,7 @@
         "Graham and Steen",
         "Grandma&apos;s Shop",
         "Gregor Fisher: An (Early) Evening With Gregor Fisher",
+        "Grimm AF",
         "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
         "Gutter",
         "Guy Branum: Be Fruitful",
@@ -668,6 +675,7 @@
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
         "HOW TO FRINGE: a chat show with thom tuck",
+        "HR The Musical",
         "Hadid",
         "Half-Orphan",
         "Hamlet: The Musical",
@@ -763,6 +771,7 @@
         "Jess Robinson: Elton Reimagined",
         "Jill&apos;s Tupperware Party",
         "Jimmy Rees: In Reel Life",
+        "Jitters",
         "Jody Kamali: This is My Dad",
         "Joe Sib: Aggie - A Comedy About Moms",
         "John Achkar: His country is collapsing. He&apos;s having a baby. So obviously, this is the right year for a Lebanese comedian you&apos;ve never heard of to try English stand-up for the first time.",
@@ -775,9 +784,11 @@
         "Jordan Brookes: The Part of You That&apos;s Always Screaming",
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
+        "Juliette Burton: Villain Era",
         "Just Blokes",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
+        "KEVIN!!!!!",
         "Kanpur: 1857",
         "Kate Dehnert: Echo",
         "Kate Dolan",
@@ -813,6 +824,7 @@
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
         "Linus Karp Was Hit With An Umbrella",
+        "Lions",
         "Lisa! The Mona Lisa Musical",
         "Little Animals",
         "Little Pink Dress",
@@ -834,6 +846,7 @@
         "MATES: The Improvised 90s Sitcom",
         "MC Hammersmith: Ice Ice Nepo Baby",
         "MIND ER3CTION",
+        "MUSE: The Shakespeare Mayhem Musical",
         "Madam(e) Lou",
         "Madame Chandelier&apos;s Grand Theft Opera",
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
@@ -888,6 +901,7 @@
         "My Date with Pierce Brosnan",
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
         "My Life Is a Sonnet",
+        "NON HUMAN ANIMAL",
         "Natalie and I",
         "Nate Kitch Replica",
         "Nathan Cassidy: Ewwww!",
@@ -912,7 +926,9 @@
         "Of Mice And Men",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
+        "Olivia Raine Atwood: Oops",
         "Olivia Xing: Baby of Colour",
+        "Omar Badawy: Guided Detour",
         "One Man Poe: The Business Man and The Case of M. Valdemar",
         "Only Bones - Daniel Nodder",
         "Operation Blank",
@@ -980,6 +996,7 @@
         "Refashioned: From Childhood Dream to Stylish Nightmare",
         "Reformer",
         "Reginald D Hunter: Something Wicked That Other Way Comes",
+        "Remember, Remember!",
         "Reparations",
         "Rhino Conservation Erotic Novel",
         "Rhys James: Chop Logic",
@@ -1013,6 +1030,7 @@
         "Sam Rhodes: Toy Cocoon",
         "Sam Serrano: Mars",
         "Samantha Day: I&apos;ve Started So I&apos;ll Finish",
+        "Sammy J: Hero Complex",
         "Sapphire McIntosh - Squeaky Bum Time",
         "Sara Pascoe: For One Night Only",
         "Sarah Bradley: How to Write a Romcom",
@@ -1120,6 +1138,7 @@
         "The Augur",
         "The Bear",
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
+        "The Bob Ross Effect",
         "The Body I Left in Susquehanna National Forest",
         "The Breakup Variety Hour",
         "The Brush",
@@ -1173,6 +1192,7 @@
         "The Problem",
         "The Proposal",
         "The Real Housewives of the Zombie Apocalypse",
+        "The Real Kyle McCarren",
         "The RemAIns of the Butler",
         "The Reunion",
         "The Shocking Truth About Flat Earth",
@@ -1193,6 +1213,7 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
+        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Vagina Monologues",
@@ -1217,7 +1238,9 @@
         "Tom Houghton - New Stuff",
         "Tom Little in His Comfort Zone",
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
+        "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+        "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
