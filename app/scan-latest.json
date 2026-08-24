@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T10:28:27.585Z",
-      "completedAt": "2026-08-24T10:28:27.585Z",
+      "id": "2026-08-24T11:19:45.419Z",
+      "completedAt": "2026-08-24T11:19:45.419Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1175,
-      "totalNotices": 3674,
+      "totalShows": 1179,
+      "totalNotices": 3681,
       "defaultVisible": 732,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T10:14:09.774Z",
-      "windowEndedAt": "2026-08-24T10:28:27.585Z",
-      "windowCoverageHours": 24.2,
+      "windowStartedAt": "2026-08-23T11:12:57.332Z",
+      "windowEndedAt": "2026-08-24T11:19:45.419Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 3793,
-      "newShows": 27,
-      "enteredRanking": 29,
+      "newReviews": 7155,
+      "newShows": 61,
+      "enteredRanking": 35,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Parking Spot: The Musical!",
           "previousScore": 58,
@@ -38,22 +46,6 @@
           "previousScore": 76,
           "currentScore": 68,
           "delta": -8,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Shhh! (A Wordless Comedy)",
-          "previousScore": 70,
-          "currentScore": 77,
-          "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -72,14 +64,6 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 76,
-          "currentScore": 81,
-          "delta": 5,
-          "previousReviews": 6,
-          "currentReviews": 5
         },
         {
           "title": "Kate Dehnert: Echo",
@@ -114,12 +98,28 @@
           "currentReviews": 3
         },
         {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 76,
-          "currentScore": 72,
+          "title": "Garry Starr: Classic Penguins",
+          "previousScore": 91,
+          "currentScore": 87,
           "delta": -4,
-          "previousReviews": 12,
-          "currentReviews": 9
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sami Abu Wardeh Hates You",
+          "previousScore": 78,
+          "currentScore": 82,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Maya Ricote: Ay Am!",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -139,6 +139,11 @@
           "reviews": 2
         },
         {
+          "title": "Mayflies",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Monks",
           "score": 83,
           "reviews": 2
@@ -154,8 +159,28 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Felicity Ward: I Wish I Could Come Out of My Shell",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -229,9 +254,19 @@
           "reviews": 2
         },
         {
+          "title": "INDY!",
+          "score": 68,
+          "reviews": 3
+        },
+        {
           "title": "The Real Housewives of the Zombie Apocalypse",
           "score": 67,
           "reviews": 3
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
         },
         {
           "title": "Here Comes Almost",
@@ -240,11 +275,6 @@
         },
         {
           "title": "Princess Sparkles",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
@@ -321,6 +351,7 @@
         "A Murder Mystery Musical - The Detective&apos;s Demise",
         "A Play on Words",
         "A STAN IS BORN! - Encore",
+        "A Seance Spectacular with the Mystical Medium Wolf Sisters from the Great White North",
         "A Simply Beastly Murder",
         "A Traitors Pantomime",
         "A&E",
@@ -587,6 +618,7 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
+        "Emmeline Downie",
         "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
@@ -647,6 +679,7 @@
         "Giraffe",
         "Girlfriends",
         "Giro Baby",
+        "Glob",
         "Glow Job",
         "Golden Beryl: Special Oblivion",
         "Good Boy",
@@ -777,6 +810,7 @@
         "Justina Seselskaite: Settled",
         "Kanpur: 1857",
         "Kate Dehnert: Echo",
+        "Kate Dolan",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Norris: Mother Succubus",
@@ -1033,6 +1067,7 @@
         "Shakespeare&apos;s Big Brother",
         "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
+        "Shane Daniel Byrne: Baby This Time",
         "Shaun Guff: Enuff Is Enuff",
         "She Burns",
         "She/They",
