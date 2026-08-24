@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T02:17:08.014Z",
-      "completedAt": "2026-08-24T02:17:08.014Z",
+      "id": "2026-08-24T03:43:53.640Z",
+      "completedAt": "2026-08-24T03:43:53.640Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1139,
+      "totalShows": 1137,
       "totalNotices": 3558,
-      "defaultVisible": 720,
+      "defaultVisible": 723,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T02:18:55.764Z",
-      "windowEndedAt": "2026-08-24T02:17:08.014Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-23T03:39:39.432Z",
+      "windowEndedAt": "2026-08-24T03:43:53.640Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 394,
-      "newShows": 26,
-      "enteredRanking": 26,
+      "newReviews": 396,
+      "newShows": 29,
+      "enteredRanking": 30,
       "newOutlets": [],
       "movers": [
         {
@@ -42,19 +42,19 @@
           "currentReviews": 3
         },
         {
-          "title": "You Talkin' to Us?",
-          "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Craig Hill: You're Not Even Safe Up the Back!",
           "previousScore": 86,
           "currentScore": 80,
           "delta": -6,
           "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "You Talkin' to Us?",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
+          "previousReviews": 4,
           "currentReviews": 3
         },
         {
@@ -219,6 +219,21 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Princess Sparkles",
           "score": 64,
           "reviews": 2
@@ -230,6 +245,11 @@
         },
         {
           "title": "The Real Housewives of the Zombie Apocalypse",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
