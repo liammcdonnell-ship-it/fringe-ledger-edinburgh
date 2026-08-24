@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T03:43:53.640Z",
-      "completedAt": "2026-08-24T03:43:53.640Z",
+      "id": "2026-08-24T04:35:19.524Z",
+      "completedAt": "2026-08-24T04:35:19.524Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1137,
-      "totalNotices": 3558,
-      "defaultVisible": 723,
+      "totalShows": 1133,
+      "totalNotices": 3549,
+      "defaultVisible": 719,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T03:39:39.432Z",
-      "windowEndedAt": "2026-08-24T03:43:53.640Z",
+      "windowStartedAt": "2026-08-23T04:27:24.548Z",
+      "windowEndedAt": "2026-08-24T04:35:19.524Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 396,
-      "newShows": 29,
-      "enteredRanking": 30,
+      "newReviews": 402,
+      "newShows": 30,
+      "enteredRanking": 26,
       "newOutlets": [],
       "movers": [
         {
@@ -47,14 +47,6 @@
           "currentScore": 80,
           "delta": -6,
           "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
           "currentReviews": 3
         },
         {
@@ -115,6 +107,14 @@
         },
         {
           "title": "Pierre Novellie: Do the One About...",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Tweedy's Massive Solo Show",
           "previousScore": 83,
           "currentScore": 87,
           "delta": 4,
@@ -219,21 +219,6 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "INDY!",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Princess Sparkles",
           "score": 64,
           "reviews": 2
@@ -265,11 +250,6 @@
         },
         {
           "title": "Secrets Secrets Shhh!",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
           "score": 51,
           "reviews": 2
         }
