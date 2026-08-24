@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T13:43:18.759Z",
-      "completedAt": "2026-08-24T13:43:18.759Z",
+      "id": "2026-08-24T14:33:13.542Z",
+      "completedAt": "2026-08-24T14:33:13.542Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1135,
-      "totalNotices": 3616,
-      "defaultVisible": 727,
+      "totalShows": 1146,
+      "totalNotices": 3654,
+      "defaultVisible": 729,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T13:26:13.744Z",
-      "windowEndedAt": "2026-08-24T13:43:18.759Z",
+      "windowStartedAt": "2026-08-23T14:14:53.416Z",
+      "windowEndedAt": "2026-08-24T14:33:13.542Z",
       "windowCoverageHours": 24.3,
       "scansInWindow": 23,
-      "newReviews": 13885,
-      "newShows": 2,
-      "enteredRanking": 29,
+      "newReviews": 17298,
+      "newShows": 6,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Bog Witch",
-          "previousScore": 83,
-          "currentScore": 69,
-          "delta": -14,
-          "previousReviews": 20,
-          "currentReviews": 2
-        },
         {
           "title": "Parking Spot: The Musical!",
           "previousScore": 58,
@@ -50,12 +42,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "Asian, But Wrong",
           "previousScore": 70,
           "currentScore": 63,
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 64,
+          "currentScore": 70,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 2
         },
         {
           "title": "NON HUMAN ANIMAL",
@@ -106,14 +114,6 @@
           "currentReviews": 6
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "previousScore": 70,
-          "currentScore": 74,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
           "title": "Charlene Kaye: Diversity Shredder",
           "previousScore": 82,
           "currentScore": 78,
@@ -126,6 +126,11 @@
         {
           "title": "Abandoman: Afterglow",
           "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
           "reviews": 2
         },
         {
@@ -184,11 +189,6 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Mohan: A Partition Story",
           "score": 76,
           "reviews": 2
@@ -219,11 +219,6 @@
           "reviews": 2
         },
         {
-          "title": "INDY!",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Nosejob",
           "score": 70,
           "reviews": 2
@@ -245,11 +240,6 @@
         },
         {
           "title": "Princess Sparkles",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Séance Starter Kit™",
           "score": 64,
           "reviews": 2
         },
