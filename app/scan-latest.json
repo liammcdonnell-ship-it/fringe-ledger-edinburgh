@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T22:14:44.784Z",
-      "completedAt": "2026-08-24T22:14:44.784Z",
+      "id": "2026-08-24T23:14:11.257Z",
+      "completedAt": "2026-08-24T23:14:11.257Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1186,
-      "totalNotices": 3821,
-      "defaultVisible": 748,
-      "duplicates": 28,
+      "totalShows": 1164,
+      "totalNotices": 3793,
+      "defaultVisible": 745,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T22:11:50.436Z",
-      "windowEndedAt": "2026-08-24T22:14:44.784Z",
+      "windowStartedAt": "2026-08-23T23:12:13.193Z",
+      "windowEndedAt": "2026-08-24T23:14:11.257Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 45381,
-      "newShows": 51,
-      "enteredRanking": 35,
+      "newReviews": 48852,
+      "newShows": 17,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 64,
+          "currentScore": 76,
+          "delta": 12,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
         {
           "title": "Good Girl",
           "previousScore": 74,
@@ -64,14 +72,6 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 77,
-          "currentScore": 83,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 5
         },
         {
           "title": "Raj Poojara: Dice",
@@ -129,6 +129,16 @@
           "reviews": 2
         },
         {
+          "title": "Diary of a Mad Man",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Hope This Helps!",
           "score": 83,
           "reviews": 2
@@ -154,21 +164,6 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Hasan Al-Habib: Stuck in the Middle (East) With You",
-          "score": 79,
-          "reviews": 8
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "Do You Wanna Go?",
           "score": 79,
           "reviews": 2
@@ -179,27 +174,12 @@
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Boy in a Box",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "Jody Kamali: This is My Dad",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -222,11 +202,6 @@
           "title": "August McEachern: Be My Friend",
           "score": 73,
           "reviews": 2
-        },
-        {
-          "title": "Sam Morrison: DUCK",
-          "score": 72,
-          "reviews": 4
         },
         {
           "title": "Clary",
@@ -254,11 +229,6 @@
           "reviews": 3
         },
         {
-          "title": "Ayo Adenekan: Homeland Insecurity",
-          "score": 65,
-          "reviews": 9
-        },
-        {
           "title": "1979: Persianality Disorder",
           "score": 64,
           "reviews": 2
@@ -284,19 +254,9 @@
           "reviews": 2
         },
         {
-          "title": "BASIC BALD B*TCH",
-          "score": 58,
-          "reviews": 3
-        },
-        {
           "title": "Rip Her to Shreds",
           "score": 57,
           "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 48,
-          "reviews": 3
         }
       ],
       "newShowTitles": [
