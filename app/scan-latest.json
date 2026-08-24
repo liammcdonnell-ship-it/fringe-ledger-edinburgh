@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T20:17:44.269Z",
-      "completedAt": "2026-08-24T20:17:44.269Z",
+      "id": "2026-08-24T21:18:59.909Z",
+      "completedAt": "2026-08-24T21:18:59.909Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1162,
+      "totalShows": 1165,
       "totalNotices": 3779,
-      "defaultVisible": 743,
-      "duplicates": 1,
+      "defaultVisible": 742,
+      "duplicates": 3,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T20:11:32.169Z",
-      "windowEndedAt": "2026-08-24T20:17:44.269Z",
+      "windowStartedAt": "2026-08-23T21:12:41.736Z",
+      "windowEndedAt": "2026-08-24T21:18:59.909Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 38272,
-      "newShows": 37,
-      "enteredRanking": 25,
+      "newReviews": 41800,
+      "newShows": 25,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
         {
@@ -50,6 +50,14 @@
           "currentReviews": 4
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "Fempaths: Transistor Radio Hour",
           "previousScore": 67,
           "currentScore": 74,
@@ -64,6 +72,14 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 77,
+          "currentScore": 83,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 5
         },
         {
           "title": "Raj Poojara: Dice",
@@ -98,28 +114,12 @@
           "currentReviews": 4
         },
         {
-          "title": "NON HUMAN ANIMAL",
-          "previousScore": 75,
-          "currentScore": 70,
-          "delta": -5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
           "title": "Fiona Allen: White Lies",
           "previousScore": 72,
           "currentScore": 67,
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "The Last Mad Man",
-          "previousScore": 75,
-          "currentScore": 80,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -156,6 +156,11 @@
         {
           "title": "Wally Baram: My Snake's Quinceañera",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
@@ -199,7 +204,7 @@
           "reviews": 2
         },
         {
-          "title": "The Meeples: XXX",
+          "title": "MATES: The Improvised 90s Sitcom",
           "score": 70,
           "reviews": 2
         },
@@ -220,6 +225,11 @@
         },
         {
           "title": "Celya AB: We Must Stop Meeting Like This",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Hamlet: Prince of Sweden",
           "score": 64,
           "reviews": 2
         },
