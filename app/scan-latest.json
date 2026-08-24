@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-23T23:12:13.193Z",
-      "completedAt": "2026-08-23T23:12:13.193Z",
+      "id": "2026-08-24T00:29:38.367Z",
+      "completedAt": "2026-08-24T00:29:38.367Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1147,
-      "totalNotices": 3567,
-      "defaultVisible": 723,
+      "totalShows": 1134,
+      "totalNotices": 3549,
+      "defaultVisible": 718,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-22T23:09:40.338Z",
-      "windowEndedAt": "2026-08-23T23:12:13.193Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-23T00:32:44.806Z",
+      "windowEndedAt": "2026-08-24T00:29:38.367Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 388,
-      "newShows": 33,
-      "enteredRanking": 29,
+      "newReviews": 386,
+      "newShows": 23,
+      "enteredRanking": 25,
       "newOutlets": [],
       "movers": [
         {
@@ -32,14 +32,6 @@
           "delta": -8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "Shhh! (A Wordless Comedy)",
@@ -98,6 +90,14 @@
           "currentReviews": 4
         },
         {
+          "title": "An American (Not) in Paris",
+          "previousScore": 80,
+          "currentScore": 84,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "The Buddha Wears Prada",
           "previousScore": 58,
           "currentScore": 62,
@@ -126,6 +126,11 @@
         {
           "title": "Abandoman: Afterglow",
           "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Diary of a Mad Man",
+          "score": 83,
           "reviews": 2
         },
         {
@@ -214,21 +219,6 @@
           "reviews": 2
         },
         {
-          "title": "The Devil Wears Primark",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Extra Dry",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Just Blokes",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Princess Sparkles",
           "score": 64,
           "reviews": 2
@@ -244,11 +234,6 @@
           "reviews": 2
         },
         {
-          "title": "The Séance Starter Kit™",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
@@ -260,11 +245,6 @@
         },
         {
           "title": "Secrets Secrets Shhh!",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
           "score": 51,
           "reviews": 2
         }
