@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T03:38:59.668Z",
-      "completedAt": "2026-08-25T03:38:59.668Z",
+      "id": "2026-08-25T04:28:26.865Z",
+      "completedAt": "2026-08-25T04:28:26.865Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1164,
-      "totalNotices": 3793,
-      "defaultVisible": 744,
-      "duplicates": 2,
+      "totalShows": 1178,
+      "totalNotices": 3812,
+      "defaultVisible": 746,
+      "duplicates": 13,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T03:43:53.640Z",
-      "windowEndedAt": "2026-08-25T03:38:59.668Z",
+      "windowStartedAt": "2026-08-24T04:35:19.524Z",
+      "windowEndedAt": "2026-08-25T04:28:26.865Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 59518,
-      "newShows": 27,
-      "enteredRanking": 24,
+      "newReviews": 63093,
+      "newShows": 45,
+      "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 64,
-          "currentScore": 76,
-          "delta": 12,
-          "previousReviews": 2,
-          "currentReviews": 2
+          "title": "SLAY",
+          "previousScore": 72,
+          "currentScore": 82,
+          "delta": 10,
+          "previousReviews": 3,
+          "currentReviews": 3
         },
         {
           "title": "Good Girl",
@@ -82,26 +82,10 @@
           "currentReviews": 5
         },
         {
-          "title": "SLAY",
-          "previousScore": 72,
-          "currentScore": 78,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Whatever Happened To That Guy?",
           "previousScore": 72,
           "currentScore": 78,
           "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
         },
@@ -114,12 +98,28 @@
           "currentReviews": 4
         },
         {
-          "title": "INDY!",
-          "previousScore": 64,
-          "currentScore": 70,
+          "title": "You Talkin' to Us?",
+          "previousScore": 66,
+          "currentScore": 72,
           "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 2
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "NON HUMAN ANIMAL",
+          "previousScore": 75,
+          "currentScore": 70,
+          "delta": -5,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Fiona Allen: White Lies",
+          "previousScore": 72,
+          "currentScore": 67,
+          "delta": -5,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -152,6 +152,11 @@
           "title": "Steve Richards Presents Rock and Roll Politics",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Do You Wanna Go?",
@@ -199,6 +204,11 @@
           "reviews": 2
         },
         {
+          "title": "INDY!",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "MATES: The Improvised 90s Sitcom",
           "score": 70,
           "reviews": 2
@@ -212,6 +222,16 @@
           "title": "Lorna Ní Shúilleabháin: Barefoot Before God",
           "score": 68,
           "reviews": 3
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
+          "score": 67,
+          "reviews": 2
         },
         {
           "title": "1979: Persianality Disorder",
@@ -241,6 +261,11 @@
         {
           "title": "Rip Her to Shreds",
           "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
