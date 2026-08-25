@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T21:17:41.919Z",
-      "completedAt": "2026-08-25T21:17:41.919Z",
+      "id": "2026-08-25T22:13:49.942Z",
+      "completedAt": "2026-08-25T22:13:49.942Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 1181,
-      "totalNotices": 3890,
-      "defaultVisible": 753,
+      "totalNotices": 3892,
+      "defaultVisible": 754,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T21:18:59.909Z",
-      "windowEndedAt": "2026-08-25T21:17:41.919Z",
+      "windowStartedAt": "2026-08-24T22:14:44.784Z",
+      "windowEndedAt": "2026-08-25T22:13:49.942Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 82901,
-      "newShows": 16,
-      "enteredRanking": 13,
+      "newReviews": 82974,
+      "newShows": -5,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 82,
@@ -64,6 +56,14 @@
           "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "UNDERGROUND MONK SHOW",
+          "previousScore": 72,
+          "currentScore": 77,
+          "delta": 5,
+          "previousReviews": 10,
+          "currentReviews": 13
         },
         {
           "title": "Heart Beats Strong",
@@ -124,24 +124,19 @@
       ],
       "newEntries": [
         {
+          "title": "Tweedy's Massive Solo Show",
+          "score": 85,
+          "reviews": 4
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Guys Sing Dolls",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Noted",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Don Quixote (Is a Very Big Book)",
-          "score": 81,
-          "reviews": 8
-        },
-        {
-          "title": "Georgia Polly-Taylor: Very Hot. Very Messy.",
-          "score": 80,
-          "reviews": 4
         },
         {
           "title": "Roger O'Sullivan: Divil May Cry",
@@ -152,11 +147,6 @@
           "title": "The Last Funny Woman",
           "score": 73,
           "reviews": 2
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "score": 72,
-          "reviews": 3
         },
         {
           "title": "Fantasy World Adventures Mega Park! The Musical",
@@ -1046,7 +1036,6 @@
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
-        "Splash Test Dummies Circus",
         "Spooky Dookie: Cool New Planet!!",
         "Spraywatch: A Beautiful Rescue",
         "Stand Up If You&apos;re Here Tonight",
