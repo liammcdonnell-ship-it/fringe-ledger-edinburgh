@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T16:24:02.675Z",
-      "completedAt": "2026-08-25T16:24:02.675Z",
+      "id": "2026-08-25T17:23:15.337Z",
+      "completedAt": "2026-08-25T17:23:15.337Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1191,
-      "totalNotices": 3903,
-      "defaultVisible": 754,
-      "duplicates": 9,
+      "totalShows": 1183,
+      "totalNotices": 3893,
+      "defaultVisible": 753,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T16:22:09.586Z",
-      "windowEndedAt": "2026-08-25T16:24:02.675Z",
+      "windowStartedAt": "2026-08-24T17:22:22.377Z",
+      "windowEndedAt": "2026-08-25T17:23:15.337Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 82267,
-      "newShows": 13,
+      "newReviews": 82408,
+      "newShows": -3,
       "enteredRanking": 15,
       "newOutlets": [],
       "movers": [
@@ -34,25 +34,9 @@
           "currentReviews": 5
         },
         {
-          "title": "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
-          "previousScore": 74,
-          "currentScore": 80,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
           "currentScore": 74,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Cruising",
-          "previousScore": 58,
-          "currentScore": 64,
           "delta": 6,
           "previousReviews": 3,
           "currentReviews": 4
@@ -74,27 +58,11 @@
           "currentReviews": 3
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 78,
-          "currentScore": 83,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
           "title": "Heart Beats Strong",
           "previousScore": 93,
           "currentScore": 88,
           "delta": -5,
           "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Fempaths: Transistor Radio Hour",
-          "previousScore": 70,
-          "currentScore": 75,
-          "delta": 5,
-          "previousReviews": 3,
           "currentReviews": 5
         },
         {
@@ -120,6 +88,38 @@
           "delta": -4,
           "previousReviews": 6,
           "currentReviews": 7
+        },
+        {
+          "title": "MC Hammersmith: Ice Ice Nepo Baby",
+          "previousScore": 86,
+          "currentScore": 82,
+          "delta": -4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "James Phelan: Showman",
+          "previousScore": 72,
+          "currentScore": 76,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Andrew Frost: Just Let Me Have This",
+          "previousScore": 84,
+          "currentScore": 80,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Georgia Polly-Taylor: Very Hot. Very Messy.",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -139,13 +139,13 @@
           "reviews": 2
         },
         {
-          "title": "Roger O'Sullivan: Divil May Cry",
-          "score": 76,
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
-          "title": "August McEachern: Be My Friend",
-          "score": 73,
+          "title": "Roger O'Sullivan: Divil May Cry",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -160,11 +160,6 @@
         },
         {
           "title": "MATES: The Improvised 90s Sitcom",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "This Year I Am Going To Die",
           "score": 70,
           "reviews": 2
         },
@@ -190,6 +185,11 @@
         },
         {
           "title": "Big Dog",
+          "score": 61,
+          "reviews": 2
+        },
+        {
+          "title": "The Man Who Said Too Much",
           "score": 61,
           "reviews": 2
         },
@@ -387,6 +387,7 @@
         "Brit Barron: CHURCH",
         "Britain&apos;s Got Nonsense",
         "Broadguess",
+        "Brodie and Co.",
         "Broke and Fabulous in the 21st Century",
         "Broken Planet Show",
         "Bryn Woz: SMUT",
@@ -513,6 +514,7 @@
         "Don&apos;t Know? Have A Go!",
         "Doris, Dolly and the Dressing Room Divas",
         "Doughboys",
+        "Dragon",
         "Dragon Tales",
         "Dreamgun Film Reads",
         "Dru Cripps: Juicy Bits",
