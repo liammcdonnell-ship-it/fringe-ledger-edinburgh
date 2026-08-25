@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T05:23:51.204Z",
-      "completedAt": "2026-08-25T05:23:51.204Z",
+      "id": "2026-08-25T06:23:21.234Z",
+      "completedAt": "2026-08-25T06:23:21.234Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1166,
+      "totalShows": 1167,
       "totalNotices": 3796,
-      "defaultVisible": 744,
-      "duplicates": 2,
+      "defaultVisible": 745,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T05:30:01.611Z",
-      "windowEndedAt": "2026-08-25T05:23:51.204Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-24T06:32:24.165Z",
+      "windowEndedAt": "2026-08-25T06:23:21.234Z",
+      "windowCoverageHours": 23.8,
       "scansInWindow": 23,
-      "newReviews": 66637,
+      "newReviews": 70197,
       "newShows": 32,
-      "enteredRanking": 26,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
         {
@@ -48,6 +48,14 @@
           "delta": 8,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 68,
+          "currentScore": 76,
+          "delta": 8,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "Fempaths: Transistor Radio Hour",
@@ -112,14 +120,6 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "The Last Mad Man",
-          "previousScore": 75,
-          "currentScore": 80,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -180,6 +180,11 @@
         },
         {
           "title": "ShakeItUp: The Improvised Shakespeare Show",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "The Séance Starter Kit™",
           "score": 76,
           "reviews": 2
         },
