@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T11:18:34.654Z",
-      "completedAt": "2026-08-25T11:18:34.654Z",
+      "id": "2026-08-25T12:22:48.175Z",
+      "completedAt": "2026-08-25T12:22:48.175Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1176,
+      "totalShows": 1175,
       "totalNotices": 3851,
-      "defaultVisible": 749,
+      "defaultVisible": 751,
       "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T11:19:45.419Z",
-      "windowEndedAt": "2026-08-25T11:18:34.654Z",
+      "windowStartedAt": "2026-08-24T12:22:00.892Z",
+      "windowEndedAt": "2026-08-25T12:22:48.175Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 81261,
-      "newShows": -3,
-      "enteredRanking": 22,
+      "newReviews": 81500,
+      "newShows": 30,
+      "enteredRanking": 20,
       "newOutlets": [],
       "movers": [
         {
@@ -98,14 +98,6 @@
           "currentReviews": 6
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 78,
-          "currentScore": 83,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
           "title": "Fiona Allen: White Lies",
           "previousScore": 72,
           "currentScore": 67,
@@ -120,16 +112,19 @@
           "delta": -5,
           "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "Tasmin Sarkany: Now That's What I Call Bach!",
+          "previousScore": 70,
+          "currentScore": 75,
+          "delta": 5,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
           "title": "Crapp's River",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -156,6 +151,11 @@
         {
           "title": "Wally Baram: My Snake's Quinceañera",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Seymour Mace Is Covered In Stickers!",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -204,11 +204,6 @@
           "reviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
-          "score": 66,
-          "reviews": 4
-        },
-        {
           "title": "The Brush",
           "score": 66,
           "reviews": 2
@@ -226,11 +221,6 @@
         {
           "title": "Your Choice Amanda Royce",
           "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 51,
           "reviews": 2
         }
       ],
@@ -840,7 +830,6 @@
         "Manic",
         "Marc Burrows in the Ten Best Songs of All Time",
         "Marc Jennings: If & When",
-        "Margaret Thatcher Queen of Hollywood",
         "Marina di Marzo: Love in the Time of Fifth Grade",
         "Mario Adrion: Live a Little",
         "Mark Dean Quinn: Tries To Walk Towards A Flip Chart",
@@ -974,7 +963,6 @@
         "Rachel Creeger: \"Queen of the Jews!\"",
         "Rachel Fairburn: Vexy Beasts",
         "Rachel Kaly: Between Us (A Crowd Work Show)",
-        "Raj Poojara",
         "Raj Poojara: Dice",
         "Ramsey Smith: Keep the Receipt",
         "RapGPT: Macshane",
