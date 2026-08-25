@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T08:28:14.542Z",
-      "completedAt": "2026-08-25T08:28:14.542Z",
+      "id": "2026-08-25T09:24:53.734Z",
+      "completedAt": "2026-08-25T09:24:53.734Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1170,
-      "totalNotices": 3827,
-      "defaultVisible": 747,
-      "duplicates": 1,
+      "totalShows": 1183,
+      "totalNotices": 3851,
+      "defaultVisible": 750,
+      "duplicates": 13,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T08:34:09.093Z",
-      "windowEndedAt": "2026-08-25T08:28:14.542Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-24T09:38:16.748Z",
+      "windowEndedAt": "2026-08-25T09:24:53.734Z",
+      "windowCoverageHours": 23.8,
       "scansInWindow": 23,
-      "newReviews": 77259,
-      "newShows": 31,
-      "enteredRanking": 23,
+      "newReviews": 80814,
+      "newShows": 10,
+      "enteredRanking": 22,
       "newOutlets": [],
       "movers": [
         {
@@ -32,6 +32,14 @@
           "delta": 9,
           "previousReviews": 4,
           "currentReviews": 7
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
@@ -64,22 +72,6 @@
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 4
-        },
-        {
-          "title": "Asian, But Wrong",
-          "previousScore": 70,
-          "currentScore": 63,
-          "delta": -7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 77,
-          "currentScore": 83,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 6
         },
         {
           "title": "Raj Poojara: Dice",
@@ -120,6 +112,14 @@
           "delta": 6,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Will BF: Moon Team IIIV",
+          "previousScore": 87,
+          "currentScore": 92,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -154,7 +154,17 @@
           "reviews": 2
         },
         {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
           "title": "Boy in a Box",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -184,11 +194,6 @@
           "reviews": 2
         },
         {
-          "title": "INDY!",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "MATES: The Improvised 90s Sitcom",
           "score": 70,
           "reviews": 2
@@ -209,11 +214,6 @@
           "reviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
-          "score": 66,
-          "reviews": 4
-        },
-        {
           "title": "The Brush",
           "score": 66,
           "reviews": 2
@@ -232,11 +232,6 @@
           "title": "Your Choice Amanda Royce",
           "score": 64,
           "reviews": 2
-        },
-        {
-          "title": "When You Are a Tick",
-          "score": 48,
-          "reviews": 3
         }
       ],
       "newShowTitles": [
@@ -1139,6 +1134,7 @@
         "The Adventures of Jasper Cromwell Jones",
         "The Augur",
         "The Bear",
+        "The Best Comedy Magic Show You&apos;ll See in the Next 45 Minutes (Probably) at the Free Fringe 2026",
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
         "The Bob Ross Effect",
         "The Body I Left in Susquehanna National Forest",
