@@ -2,98 +2,58 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T14:35:08.500Z",
-      "completedAt": "2026-08-25T14:35:08.500Z",
+      "id": "2026-08-25T15:34:07.490Z",
+      "completedAt": "2026-08-25T15:34:07.490Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 1180,
-      "totalNotices": 3865,
-      "defaultVisible": 751,
-      "duplicates": 7,
+      "totalNotices": 3887,
+      "defaultVisible": 754,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T14:33:13.542Z",
-      "windowEndedAt": "2026-08-25T14:35:08.500Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-24T15:29:45.299Z",
+      "windowEndedAt": "2026-08-25T15:34:07.490Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 81946,
-      "newShows": 34,
-      "enteredRanking": 24,
+      "newReviews": 82066,
+      "newShows": -1,
+      "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Hole!",
-          "previousScore": 85,
-          "currentScore": 70,
-          "delta": -15,
-          "previousReviews": 12,
-          "currentReviews": 2
-        },
-        {
           "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
-          "previousScore": 72,
-          "currentScore": 80,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 6
-        },
-        {
-          "title": "Fempaths: Transistor Radio Hour",
-          "previousScore": 67,
-          "currentScore": 75,
-          "delta": 8,
-          "previousReviews": 2,
-          "currentReviews": 5
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Raj Poojara: Dice",
           "previousScore": 74,
-          "currentScore": 68,
-          "delta": -6,
+          "currentScore": 65,
+          "delta": -9,
           "previousReviews": 4,
           "currentReviews": 5
         },
         {
-          "title": "SLAY",
-          "previousScore": 72,
-          "currentScore": 78,
+          "title": "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
+          "previousScore": 74,
+          "currentScore": 80,
           "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Whatever Happened To That Guy?",
-          "previousScore": 72,
-          "currentScore": 78,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
           "currentScore": 74,
           "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Parking Spot: The Musical!",
+          "previousScore": 72,
+          "currentScore": 66,
+          "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
         },
@@ -120,11 +80,51 @@
           "delta": 5,
           "previousReviews": 5,
           "currentReviews": 7
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 78,
+          "currentScore": 83,
+          "delta": 5,
+          "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
+          "title": "Heart Beats Strong",
+          "previousScore": 93,
+          "currentScore": 88,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Fempaths: Transistor Radio Hour",
+          "previousScore": 70,
+          "currentScore": 75,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "Tasmin Sarkany: Now That's What I Call Bach!",
+          "previousScore": 70,
+          "currentScore": 75,
+          "delta": 5,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Katie Norris: Mother Succubus",
+          "previousScore": 79,
+          "currentScore": 74,
+          "delta": -5,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Crapp's River",
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -139,27 +139,12 @@
           "reviews": 2
         },
         {
-          "title": "Steve Richards Presents Rock and Roll Politics",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Do You Wanna Go?",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Wally Baram: My Snake's Quinceañera",
-          "score": 79,
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
           "title": "Roger O'Sullivan: Divil May Cry",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "ShakeItUp: The Improvised Shakespeare Show",
           "score": 76,
           "reviews": 2
         },
@@ -171,11 +156,6 @@
         {
           "title": "The Last Funny Woman",
           "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "Clary",
-          "score": 70,
           "reviews": 2
         },
         {
@@ -194,19 +174,9 @@
           "reviews": 2
         },
         {
-          "title": "Lorna Ní Shúilleabháin: Barefoot Before God",
-          "score": 68,
-          "reviews": 3
-        },
-        {
           "title": "TITCLOWN: daddy's little girl",
           "score": 68,
           "reviews": 3
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "score": 66,
-          "reviews": 4
         },
         {
           "title": "The Brush",
@@ -215,11 +185,6 @@
         },
         {
           "title": "1979: Persianality Disorder",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Celya AB: We Must Stop Meeting Like This",
           "score": 64,
           "reviews": 2
         },
@@ -234,13 +199,13 @@
           "reviews": 2
         },
         {
-          "title": "Mates Rates - The Golden Age Begins",
-          "score": 60,
+          "title": "Big Dog",
+          "score": 61,
           "reviews": 2
         },
         {
-          "title": "When You Are a Tick",
-          "score": 51,
+          "title": "Mates Rates - The Golden Age Begins",
+          "score": 60,
           "reviews": 2
         }
       ],
@@ -947,6 +912,7 @@
         "Parkies",
         "Parking Spot: The Musical!",
         "Patrick Monahan: I&apos;m Not A Terrorist - I&apos;m Freddie Mercury",
+        "Paul Black: Cash Cow",
         "Paul Currie: REMOVE YOUR SKIN PLEASE",
         "Paul McDaniel: Harder Better Faster Paul-er",
         "Paul Merton and Suki Webster&apos;s Improv Show",
