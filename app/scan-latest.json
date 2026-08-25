@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T12:22:48.175Z",
-      "completedAt": "2026-08-25T12:22:48.175Z",
+      "id": "2026-08-25T13:39:46.900Z",
+      "completedAt": "2026-08-25T13:39:46.900Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1175,
-      "totalNotices": 3851,
-      "defaultVisible": 751,
-      "duplicates": 2,
+      "totalShows": 1178,
+      "totalNotices": 3866,
+      "defaultVisible": 753,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T12:22:00.892Z",
-      "windowEndedAt": "2026-08-25T12:22:48.175Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-24T13:43:18.759Z",
+      "windowEndedAt": "2026-08-25T13:39:46.900Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 81500,
-      "newShows": 30,
-      "enteredRanking": 20,
+      "newReviews": 81742,
+      "newShows": 43,
+      "enteredRanking": 27,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Bog Witch",
+          "previousScore": 69,
+          "currentScore": 83,
+          "delta": 14,
+          "previousReviews": 2,
+          "currentReviews": 20
+        },
         {
           "title": "Good Girl",
           "previousScore": 74,
@@ -47,6 +55,14 @@
           "currentScore": 75,
           "delta": 8,
           "previousReviews": 2,
+          "currentReviews": 5
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -90,36 +106,20 @@
           "currentReviews": 4
         },
         {
+          "title": "Stayin' Alive",
+          "previousScore": 83,
+          "currentScore": 77,
+          "delta": -6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Will BF: Moon Team IIIV",
           "previousScore": 87,
           "currentScore": 92,
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 6
-        },
-        {
-          "title": "Fiona Allen: White Lies",
-          "previousScore": 72,
-          "currentScore": 67,
-          "delta": -5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Heart Beats Strong",
-          "previousScore": 93,
-          "currentScore": 88,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Tasmin Sarkany: Now That's What I Call Bach!",
-          "previousScore": 70,
-          "currentScore": 75,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -144,6 +144,16 @@
           "reviews": 2
         },
         {
+          "title": "Dru Cripps: Juicy Bits",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Couplet: Folk Marry Kill",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "Do You Wanna Go?",
           "score": 79,
           "reviews": 2
@@ -154,7 +164,12 @@
           "reviews": 2
         },
         {
-          "title": "Seymour Mace Is Covered In Stickers!",
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Roger O'Sullivan: Divil May Cry",
           "score": 76,
           "reviews": 2
         },
@@ -162,6 +177,11 @@
           "title": "ShakeItUp: The Improvised Shakespeare Show",
           "score": 76,
           "reviews": 2
+        },
+        {
+          "title": "Already Here",
+          "score": 74,
+          "reviews": 6
         },
         {
           "title": "August McEachern: Be My Friend",
@@ -219,8 +239,23 @@
           "reviews": 2
         },
         {
+          "title": "Jellyfish",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Your Choice Amanda Royce",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Mates Rates - The Golden Age Begins",
+          "score": 60,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -604,6 +639,7 @@
         "Frisky&apos;s Remix Roulette",
         "Friz Frizzle: A Certain Appeal",
         "Furniture Boys",
+        "GANNET",
         "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
@@ -796,6 +832,7 @@
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
+        "Lindsey Santoro: It Was Like That When I Got Here",
         "Linus Karp Was Hit With An Umbrella",
         "Lions",
         "Lisa! The Mona Lisa Musical",
@@ -1201,7 +1238,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Vagina Monologues",
@@ -1218,6 +1254,7 @@
         "This Year I Am Going To Die",
         "Thunderstruck",
         "Tia Kofi Presents: The Final FronTia Live",
+        "Tilly Fletcher: Television",
         "Tim Biglowe: Plonka",
         "Tim Kenneth Kicks the Bucket",
         "Time Travel Postman",
@@ -1281,6 +1318,7 @@
         "Yvette Segan: Guy&apos;s Girl",
         "Zachary Ruane: Comedy",
         "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser",
+        "Zoe Brownstone: How To Be Happy All The Time",
         "atticwife",
         "boobytrapped",
         "hame. teeth. CLUB.",
