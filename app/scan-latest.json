@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T19:23:09.321Z",
-      "completedAt": "2026-08-25T19:23:09.321Z",
+      "id": "2026-08-25T20:15:44.894Z",
+      "completedAt": "2026-08-25T20:15:44.894Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1182,
-      "totalNotices": 3892,
-      "defaultVisible": 753,
-      "duplicates": 2,
+      "totalShows": 1184,
+      "totalNotices": 3895,
+      "defaultVisible": 754,
+      "duplicates": 5,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T19:23:22.644Z",
-      "windowEndedAt": "2026-08-25T19:23:09.321Z",
+      "windowStartedAt": "2026-08-24T20:17:44.269Z",
+      "windowEndedAt": "2026-08-25T20:15:44.894Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 82643,
-      "newShows": -17,
-      "enteredRanking": 13,
+      "newReviews": 82797,
+      "newShows": 22,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
@@ -112,22 +120,9 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "CVNT",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
         {
           "title": "Guys Sing Dolls",
           "score": 83,
@@ -147,11 +142,6 @@
           "title": "The Last Funny Woman",
           "score": 73,
           "reviews": 2
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "score": 72,
-          "reviews": 3
         },
         {
           "title": "Fantasy World Adventures Mega Park! The Musical",
