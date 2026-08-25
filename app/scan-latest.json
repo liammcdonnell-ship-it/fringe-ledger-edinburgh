@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T04:28:26.865Z",
-      "completedAt": "2026-08-25T04:28:26.865Z",
+      "id": "2026-08-25T05:23:51.204Z",
+      "completedAt": "2026-08-25T05:23:51.204Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1178,
-      "totalNotices": 3812,
-      "defaultVisible": 746,
-      "duplicates": 13,
+      "totalShows": 1166,
+      "totalNotices": 3796,
+      "defaultVisible": 744,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T04:35:19.524Z",
-      "windowEndedAt": "2026-08-25T04:28:26.865Z",
+      "windowStartedAt": "2026-08-24T05:30:01.611Z",
+      "windowEndedAt": "2026-08-25T05:23:51.204Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 23,
-      "newReviews": 63093,
-      "newShows": 45,
-      "enteredRanking": 29,
+      "newReviews": 66637,
+      "newShows": 32,
+      "enteredRanking": 26,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "SLAY",
-          "previousScore": 72,
-          "currentScore": 82,
-          "delta": 10,
-          "previousReviews": 3,
-          "currentReviews": 3
-        },
         {
           "title": "Good Girl",
           "previousScore": 74,
@@ -82,6 +74,14 @@
           "currentReviews": 5
         },
         {
+          "title": "SLAY",
+          "previousScore": 72,
+          "currentScore": 78,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "Whatever Happened To That Guy?",
           "previousScore": 72,
           "currentScore": 78,
@@ -98,14 +98,6 @@
           "currentReviews": 4
         },
         {
-          "title": "You Talkin' to Us?",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
           "title": "NON HUMAN ANIMAL",
           "previousScore": 75,
           "currentScore": 70,
@@ -120,6 +112,14 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "The Last Mad Man",
+          "previousScore": 75,
+          "currentScore": 80,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -152,11 +152,6 @@
           "title": "Steve Richards Presents Rock and Roll Politics",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
         },
         {
           "title": "Do You Wanna Go?",
@@ -222,16 +217,6 @@
           "title": "Lorna Ní Shúilleabháin: Barefoot Before God",
           "score": 68,
           "reviews": 3
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
-          "score": 67,
-          "reviews": 2
         },
         {
           "title": "1979: Persianality Disorder",
@@ -958,6 +943,7 @@
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
         "Owl at Home – Theatr Iolo",
+        "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
         "Paper Cuts (and other small tragedies)",
