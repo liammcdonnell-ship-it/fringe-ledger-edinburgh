@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-24T23:14:11.257Z",
-      "completedAt": "2026-08-24T23:14:11.257Z",
+      "id": "2026-08-25T00:29:12.446Z",
+      "completedAt": "2026-08-25T00:29:12.446Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1164,
-      "totalNotices": 3793,
-      "defaultVisible": 745,
-      "duplicates": 1,
+      "totalShows": 1176,
+      "totalNotices": 3810,
+      "defaultVisible": 746,
+      "duplicates": 14,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-23T23:12:13.193Z",
-      "windowEndedAt": "2026-08-24T23:14:11.257Z",
+      "windowStartedAt": "2026-08-24T00:29:38.367Z",
+      "windowEndedAt": "2026-08-25T00:29:12.446Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 48852,
-      "newShows": 17,
-      "enteredRanking": 27,
+      "newReviews": 52432,
+      "newShows": 42,
+      "enteredRanking": 29,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 64,
-          "currentScore": 76,
-          "delta": 12,
-          "previousReviews": 2,
-          "currentReviews": 2
-        },
         {
           "title": "Good Girl",
           "previousScore": 74,
@@ -120,21 +112,19 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "The Last Mad Man",
+          "previousScore": 75,
+          "currentScore": 80,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
           "title": "Crapp's River",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Diary of a Mad Man",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -162,6 +152,11 @@
           "title": "Steve Richards Presents Rock and Roll Politics",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Do You Wanna Go?",
@@ -229,6 +224,16 @@
           "reviews": 3
         },
         {
+          "title": "The Séance Starter Kit™",
+          "score": 68,
+          "reviews": 3
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "1979: Persianality Disorder",
           "score": 64,
           "reviews": 2
@@ -256,6 +261,11 @@
         {
           "title": "Rip Her to Shreds",
           "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
