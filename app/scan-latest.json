@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T10:21:00.330Z",
-      "completedAt": "2026-08-25T10:21:00.330Z",
+      "id": "2026-08-25T11:18:34.654Z",
+      "completedAt": "2026-08-25T11:18:34.654Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1177,
-      "totalNotices": 3842,
-      "defaultVisible": 748,
-      "duplicates": 3,
+      "totalShows": 1176,
+      "totalNotices": 3851,
+      "defaultVisible": 749,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T10:28:27.585Z",
-      "windowEndedAt": "2026-08-25T10:21:00.330Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-08-24T11:19:45.419Z",
+      "windowEndedAt": "2026-08-25T11:18:34.654Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 81030,
-      "newShows": 2,
+      "newReviews": 81261,
+      "newShows": -3,
       "enteredRanking": 22,
       "newOutlets": [],
       "movers": [
@@ -48,14 +48,6 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 5
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 76,
-          "currentScore": 68,
-          "delta": -8,
-          "previousReviews": 2,
-          "currentReviews": 3
         },
         {
           "title": "Raj Poojara: Dice",
@@ -120,6 +112,14 @@
           "delta": -5,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Heart Beats Strong",
+          "previousScore": 93,
+          "currentScore": 88,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -135,11 +135,6 @@
         },
         {
           "title": "Guys Sing Dolls",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Mayflies",
           "score": 83,
           "reviews": 2
         },
@@ -174,6 +169,11 @@
           "reviews": 2
         },
         {
+          "title": "The Last Funny Woman",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Clary",
           "score": 70,
           "reviews": 2
@@ -204,6 +204,11 @@
           "reviews": 3
         },
         {
+          "title": "The Séance Starter Kit™",
+          "score": 66,
+          "reviews": 4
+        },
+        {
           "title": "The Brush",
           "score": 66,
           "reviews": 2
@@ -219,19 +224,14 @@
           "reviews": 2
         },
         {
-          "title": "The Thermos Museum",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Your Choice Amanda Royce",
           "score": 64,
           "reviews": 2
         },
         {
           "title": "When You Are a Tick",
-          "score": 48,
-          "reviews": 3
+          "score": 51,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -520,6 +520,7 @@
         "David Tsonos: Club Comedian",
         "Davina Bentley: Dancing While Old",
         "Davro&apos;s Back! Bobby Davro",
+        "Dear Lihua",
         "Dear Michelle Kwan",
         "Delphi: The Musical",
         "Deluge",
@@ -570,7 +571,6 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
-        "Emmeline Downie",
         "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
@@ -774,7 +774,6 @@
         "Justina Seselskaite: Settled",
         "KEVIN!!!!!",
         "Kanpur: 1857",
-        "Kate Dolan",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Norris: Mother Succubus",
@@ -1265,6 +1264,7 @@
         "Waiting for Wonka",
         "Wally Baram: My Snake&apos;s Quinceañera",
         "War of the Worlds (On a Budget)",
+        "We Are All Florida Man",
         "We Have a Dream",
         "We Were Sisters",
         "Well-Balanced Dads",
