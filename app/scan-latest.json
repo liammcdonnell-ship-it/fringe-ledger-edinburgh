@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T10:24:23.505Z",
-      "completedAt": "2026-08-26T10:24:23.505Z",
+      "id": "2026-08-26T11:20:14.038Z",
+      "completedAt": "2026-08-26T11:20:14.038Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1209,
-      "totalNotices": 3982,
-      "defaultVisible": 764,
-      "duplicates": 14,
+      "totalShows": 1214,
+      "totalNotices": 3987,
+      "defaultVisible": 765,
+      "duplicates": 8,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T10:21:00.330Z",
-      "windowEndedAt": "2026-08-26T10:24:23.505Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-25T11:18:34.654Z",
+      "windowEndedAt": "2026-08-26T11:20:14.038Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 84070,
-      "newShows": 32,
-      "enteredRanking": 19,
+      "newReviews": 84190,
+      "newShows": 38,
+      "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
@@ -34,28 +42,12 @@
           "currentReviews": 3
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "James Phelan: Showman",
           "previousScore": 72,
           "currentScore": 79,
           "delta": 7,
           "previousReviews": 5,
           "currentReviews": 7
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
         },
         {
           "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
@@ -114,6 +106,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Matthew Gallagher: Last Minute",
+          "previousScore": 56,
+          "currentScore": 61,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Gareth Mutch Means Well",
           "previousScore": 66,
           "currentScore": 70,
@@ -124,9 +124,9 @@
       ],
       "newEntries": [
         {
-          "title": "Fake",
-          "score": 85,
-          "reviews": 5
+          "title": "The Faustus Project",
+          "score": 83,
+          "reviews": 2
         },
         {
           "title": "The Leeds Tealights",
@@ -134,22 +134,7 @@
           "reviews": 2
         },
         {
-          "title": "Guy Branum: Be Fruitful",
-          "score": 81,
-          "reviews": 7
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
           "title": "Betsy and Patty Find Out",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Burning Down the Horse",
           "score": 76,
           "reviews": 2
         },
@@ -169,9 +154,9 @@
           "reviews": 2
         },
         {
-          "title": "The Last Funny Woman",
-          "score": 73,
-          "reviews": 2
+          "title": "Gagula: The Panto with Teeth!",
+          "score": 70,
+          "reviews": 4
         },
         {
           "title": "¡Ay! Papi: Jilberto Soto",
@@ -186,6 +171,11 @@
         {
           "title": "Pimm's Without the Cucumber",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -421,6 +411,7 @@
         "Burger and a Pint: Treats for the Soul",
         "Burke&apos;n&apos;Hare: Let the Bodies Hit the Floor",
         "Burning Down the Horse",
+        "Bush! The Musical",
         "CABAPOCALYPSARET",
         "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
@@ -564,6 +555,7 @@
         "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
+        "Enrico Touché: Hot Knees",
         "Eric Lampaert: Zero Minus One",
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
@@ -833,6 +825,7 @@
         "Madame Chandelier&apos;s Grand Theft Opera",
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
         "Maia Tassalini: I Was 22 and Stunning",
+        "Maisie Adam Presents: Comedy at the Fringe",
         "Making Love with David Magidoff",
         "Mama G: The Magic Bookmark",
         "Mandy: Prince of Darkness",
@@ -868,6 +861,7 @@
         "Millicent Sarre is Too Tired to Smash (Patriarchy)",
         "Mina Liccione: Arabized",
         "Mind The Gap Year",
+        "Miss Thing",
         "Mistakes Were Made: Shiver Me Timbers!",
         "Mitch Benn: Asking Elvis",
         "Moment of Connection with a Smile",
@@ -990,6 +984,7 @@
         "Remember, Remember!",
         "Reparations",
         "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
+        "Rev Awdry: The Thomas the Tank Engine Man",
         "Rhino Conservation Erotic Novel",
         "Rhys James: Chop Logic",
         "Rich Hall: Chin Music",
@@ -1145,6 +1140,7 @@
         "The Cambridge Footlights Tour Show 2026",
         "The Candidates",
         "The Cheesecake Burlesque Revue",
+        "The Colour of Water",
         "The Crimes of Pete",
         "The Cut of Her Jib",
         "The Devil Wears Primark",
@@ -1263,6 +1259,7 @@
         "Under the Influence",
         "Van Gogh & Me",
         "Viggo Venn: Only One",
+        "Vittorio Angelone: you can&apos;t Say Nothing any more",
         "WEBBER!",
         "WENCH",
         "Waiting for Wonka",
