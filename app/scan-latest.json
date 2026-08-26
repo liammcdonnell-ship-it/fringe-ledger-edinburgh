@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T16:09:35.161Z",
-      "completedAt": "2026-08-26T16:09:35.161Z",
+      "id": "2026-08-26T18:34:43.377Z",
+      "completedAt": "2026-08-26T18:34:43.377Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1214,
-      "totalNotices": 3999,
-      "defaultVisible": 771,
-      "duplicates": 2,
+      "totalShows": 1238,
+      "totalNotices": 4025,
+      "defaultVisible": 770,
+      "duplicates": 31,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T16:24:02.675Z",
-      "windowEndedAt": "2026-08-26T16:09:35.161Z",
-      "windowCoverageHours": 23.8,
-      "scansInWindow": 22,
-      "newReviews": 80979,
-      "newShows": 23,
-      "enteredRanking": 18,
+      "windowStartedAt": "2026-08-25T18:21:39.849Z",
+      "windowEndedAt": "2026-08-26T18:34:43.377Z",
+      "windowCoverageHours": 24.2,
+      "scansInWindow": 21,
+      "newReviews": 77452,
+      "newShows": 54,
+      "enteredRanking": 20,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
@@ -40,14 +32,6 @@
           "delta": 8,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
         },
         {
           "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
@@ -74,6 +58,14 @@
           "currentReviews": 2
         },
         {
+          "title": "Ed Gaughan: The Emperor",
+          "previousScore": 56,
+          "currentScore": 62,
+          "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "1979: Persianality Disorder",
           "previousScore": 64,
           "currentScore": 58,
@@ -82,12 +74,28 @@
           "currentReviews": 3
         },
         {
+          "title": "Book of Shadows",
+          "previousScore": 70,
+          "currentScore": 75,
+          "delta": 5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "Motorway",
           "previousScore": 79,
           "currentScore": 84,
           "delta": 5,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Rory Marshall: Thank You for the Opportunity",
+          "previousScore": 68,
+          "currentScore": 72,
+          "delta": 4,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
           "title": "Aarian Mehrabani: How's Your Head?",
@@ -112,14 +120,6 @@
           "delta": -4,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "BASIC BALD B*TCH",
-          "previousScore": 58,
-          "currentScore": 62,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -144,8 +144,13 @@
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -160,11 +165,6 @@
         },
         {
           "title": "Doing Time with Lavinia",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -189,7 +189,17 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Bush! The Musical",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Enrico Touché: Hot Knees",
           "score": 64,
           "reviews": 2
         },
@@ -204,8 +214,8 @@
           "reviews": 2
         },
         {
-          "title": "Thermos Museum Books",
-          "score": 64,
+          "title": "Extra Dry",
+          "score": 57,
           "reviews": 2
         },
         {
@@ -349,6 +359,7 @@
         "Apparently Ugly: A Stepsister Story",
         "Armageddon Outta Here",
         "Asian, But Wrong",
+        "Auditory Awakenings With Mr Tingles In The House Of ASMR",
         "August McEachern: Be My Friend",
         "Austentatious: An Improvised Jane Austen Novel",
         "Autism Mama",
@@ -399,6 +410,7 @@
         "Brassed Off",
         "Bread and Circuses",
         "Brendan Scannell: The Abyss",
+        "Brew Hill",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -714,6 +726,7 @@
         "In A Bad Way",
         "In Butter (WIP)",
         "In Memory of Me",
+        "In Perfect Harmony",
         "In the Black",
         "Introductions",
         "Irene Woo: Golden Child",
@@ -765,6 +778,7 @@
         "Julian Clary: Fully Dilated",
         "Juliette Burton: Villain Era",
         "Just Blokes",
+        "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
         "KEVIN!!!!!",
@@ -816,6 +830,7 @@
         "Lost in Translation",
         "Lou Wall: Where Are All The Tall Grandmas?",
         "Love (5 Ways)",
+        "Love Did a Number on Me",
         "Love&apos;s Labour&apos;s Found",
         "Love&apos;s Labour&apos;s Lost",
         "Lt Love Dr&apos;s Boot Camp for Lonely People Like You",
@@ -848,6 +863,7 @@
         "Mark Thomas: 40 in Stand-Up Years",
         "Mates Rates - The Golden Age Begins",
         "Matt Forde: Project Holy Moly",
+        "Matt Winning: Solastalgia",
         "Max Fulham&apos;s Monkey Business",
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
@@ -895,6 +911,7 @@
         "Nathan Cassidy: Ewwww!",
         "Nathan Cassidy: From the Ashes",
         "Nathaniel Jones: 2 BY 2",
+        "Naughty Boy",
         "Nerine Skinner: Decisions Decisions WIP",
         "Nesting",
         "Never Let Go: An Unauthorised Retelling of James Cameron&apos;s Titanic",
@@ -1070,6 +1087,7 @@
         "Simon Amstell: I Love It Here",
         "Simon Evans: Shadow Play",
         "Simon Munnery",
+        "Sims Holland: Learning to Human",
         "Sin-Eaters",
         "Sister Sophia Kicks the Habit",
         "Sitting (In Silence)",
@@ -1165,6 +1183,7 @@
         "The Guilty Feminist",
         "The Heterosexuals",
         "The Horse of Jenin",
+        "The House of Pitman",
         "The Hypochondriac",
         "The Italians in England",
         "The Joker and The Thief",
@@ -1219,6 +1238,7 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
+        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Vagina Monologues",
