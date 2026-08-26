@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T12:24:36.861Z",
-      "completedAt": "2026-08-26T12:24:36.861Z",
+      "id": "2026-08-26T13:45:19.417Z",
+      "completedAt": "2026-08-26T13:45:19.417Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1214,
-      "totalNotices": 3994,
+      "totalShows": 1203,
+      "totalNotices": 3981,
       "defaultVisible": 766,
-      "duplicates": 9,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T12:22:48.175Z",
-      "windowEndedAt": "2026-08-26T12:24:36.861Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-25T13:39:46.900Z",
+      "windowEndedAt": "2026-08-26T13:45:19.417Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 84315,
-      "newShows": 39,
-      "enteredRanking": 17,
+      "newReviews": 84417,
+      "newShows": 25,
+      "enteredRanking": 13,
       "newOutlets": [],
       "movers": [
         {
@@ -74,14 +74,6 @@
           "currentReviews": 2
         },
         {
-          "title": "Stayin' Alive",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Homunculus",
           "previousScore": 57,
           "currentScore": 63,
@@ -120,9 +112,22 @@
           "delta": -4,
           "previousReviews": 5,
           "currentReviews": 7
+        },
+        {
+          "title": "Aarian Mehrabani: How's Your Head?",
+          "previousScore": 72,
+          "currentScore": 76,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
+        {
+          "title": "not for glory",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "The Faustus Project",
           "score": 83,
@@ -132,11 +137,6 @@
           "title": "The Leeds Tealights",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
         },
         {
           "title": "Betsy and Patty Find Out",
@@ -149,12 +149,12 @@
           "reviews": 2
         },
         {
-          "title": "Roger O'Sullivan: Divil May Cry",
-          "score": 76,
+          "title": "¡Ay! Papi: Jilberto Soto",
+          "score": 70,
           "reviews": 2
         },
         {
-          "title": "¡Ay! Papi: Jilberto Soto",
+          "title": "\"Be Good!\" with Paulette",
           "score": 70,
           "reviews": 2
         },
@@ -164,18 +164,8 @@
           "reviews": 2
         },
         {
-          "title": "Lindsey Santoro: It Was Like That When I Got Here",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Pimm's Without the Cucumber",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
           "reviews": 2
         },
         {
@@ -189,18 +179,8 @@
           "reviews": 2
         },
         {
-          "title": "Jellyfish",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Big Dog",
           "score": 61,
-          "reviews": 2
-        },
-        {
-          "title": "Mates Rates - The Golden Age Begins",
-          "score": 60,
           "reviews": 2
         },
         {
