@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T18:34:43.377Z",
-      "completedAt": "2026-08-26T18:34:43.377Z",
+      "id": "2026-08-26T21:24:28.107Z",
+      "completedAt": "2026-08-26T21:24:28.107Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1238,
-      "totalNotices": 4025,
-      "defaultVisible": 770,
-      "duplicates": 31,
+      "totalShows": 1252,
+      "totalNotices": 4055,
+      "defaultVisible": 775,
+      "duplicates": 12,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T18:21:39.849Z",
-      "windowEndedAt": "2026-08-26T18:34:43.377Z",
-      "windowCoverageHours": 24.2,
-      "scansInWindow": 21,
-      "newReviews": 77452,
-      "newShows": 54,
-      "enteredRanking": 20,
+      "windowStartedAt": "2026-08-25T21:17:41.919Z",
+      "windowEndedAt": "2026-08-26T21:24:28.107Z",
+      "windowCoverageHours": 24.1,
+      "scansInWindow": 19,
+      "newReviews": 70240,
+      "newShows": 71,
+      "enteredRanking": 23,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 65,
+          "currentScore": 74,
+          "delta": 9,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
@@ -90,14 +98,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Rory Marshall: Thank You for the Opportunity",
-          "previousScore": 68,
-          "currentScore": 72,
-          "delta": 4,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
           "title": "Aarian Mehrabani: How's Your Head?",
           "previousScore": 72,
           "currentScore": 76,
@@ -149,6 +149,16 @@
           "reviews": 3
         },
         {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "CSI: Crime Scene Improvisation",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "After Party",
           "score": 76,
           "reviews": 2
@@ -165,6 +175,11 @@
         },
         {
           "title": "Doing Time with Lavinia",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -411,6 +426,7 @@
         "Bread and Circuses",
         "Brendan Scannell: The Abyss",
         "Brew Hill",
+        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -535,6 +551,7 @@
         "Dinner With the Wolves",
         "Dinosaurs",
         "Dirty Dancer",
+        "Disenchanted! The Hit Musical",
         "Diva Las Vegas",
         "Do You Wanna Go?",
         "Dogberry and Verges Are Scared",
@@ -1120,6 +1137,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
@@ -1314,6 +1332,7 @@
         "Woman Seeking Cuddles",
         "Wrap Party",
         "YUCK Circus: Naughties",
+        "Yes Person",
         "You Are What You Eat",
         "You Straights Are F**ked Up!",
         "You Talkin&apos; to Us?",
