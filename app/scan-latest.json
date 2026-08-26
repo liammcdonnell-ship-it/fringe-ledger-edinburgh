@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T11:20:14.038Z",
-      "completedAt": "2026-08-26T11:20:14.038Z",
+      "id": "2026-08-26T12:24:36.861Z",
+      "completedAt": "2026-08-26T12:24:36.861Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 1214,
-      "totalNotices": 3987,
-      "defaultVisible": 765,
-      "duplicates": 8,
+      "totalNotices": 3994,
+      "defaultVisible": 766,
+      "duplicates": 9,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T11:18:34.654Z",
-      "windowEndedAt": "2026-08-26T11:20:14.038Z",
+      "windowStartedAt": "2026-08-25T12:22:48.175Z",
+      "windowEndedAt": "2026-08-26T12:24:36.861Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 84190,
-      "newShows": 38,
+      "newReviews": 84315,
+      "newShows": 39,
       "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
@@ -48,6 +40,14 @@
           "delta": 7,
           "previousReviews": 5,
           "currentReviews": 7
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
@@ -106,20 +106,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 56,
-          "currentScore": 61,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "Gareth Mutch Means Well",
           "previousScore": 66,
           "currentScore": 70,
           "delta": 4,
           "previousReviews": 7,
           "currentReviews": 8
+        },
+        {
+          "title": "MC Hammersmith: Ice Ice Nepo Baby",
+          "previousScore": 86,
+          "currentScore": 82,
+          "delta": -4,
+          "previousReviews": 5,
+          "currentReviews": 7
         }
       ],
       "newEntries": [
@@ -134,6 +134,11 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "Betsy and Patty Find Out",
           "score": 76,
           "reviews": 2
@@ -144,19 +149,9 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Roger O'Sullivan: Divil May Cry",
           "score": 76,
           "reviews": 2
-        },
-        {
-          "title": "Gagula: The Panto with Teeth!",
-          "score": 70,
-          "reviews": 4
         },
         {
           "title": "¡Ay! Papi: Jilberto Soto",
@@ -165,6 +160,11 @@
         },
         {
           "title": "Big Tobacco's Pinocchio",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Lindsey Santoro: It Was Like That When I Got Here",
           "score": 70,
           "reviews": 2
         },
@@ -478,6 +478,7 @@
         "Cult",
         "DADDY ISSUES",
         "DESPERATE WEE GAY BOY",
+        "DOOMSCROLL TILL I DIE",
         "Daisy Pulls It Off",
         "Dan James: Lucky",
         "Dan Lees and Tom Curzon: The Sonic Joy Orchestra",
