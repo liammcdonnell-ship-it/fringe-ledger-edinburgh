@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T00:31:42.909Z",
-      "completedAt": "2026-08-26T00:31:42.909Z",
+      "id": "2026-08-26T02:18:33.144Z",
+      "completedAt": "2026-08-26T02:18:33.144Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1186,
-      "totalNotices": 3897,
-      "defaultVisible": 754,
-      "duplicates": 4,
+      "totalShows": 1203,
+      "totalNotices": 3916,
+      "defaultVisible": 755,
+      "duplicates": 19,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T00:29:12.446Z",
-      "windowEndedAt": "2026-08-26T00:31:42.909Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-25T02:12:27.902Z",
+      "windowEndedAt": "2026-08-26T02:18:33.144Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 83181,
-      "newShows": 10,
-      "enteredRanking": 10,
+      "newReviews": 83287,
+      "newShows": 8,
+      "enteredRanking": 9,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
@@ -47,6 +39,14 @@
           "currentScore": 77,
           "delta": -6,
           "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Buddha Wears Prada",
+          "previousScore": 62,
+          "currentScore": 68,
+          "delta": 6,
+          "previousReviews": 4,
           "currentReviews": 3
         },
         {
@@ -74,22 +74,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 56,
-          "currentScore": 61,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 73,
-          "delta": -4,
-          "previousReviews": 11,
-          "currentReviews": 13
-        },
-        {
           "title": "Gareth Mutch Means Well",
           "previousScore": 66,
           "currentScore": 70,
@@ -106,28 +90,39 @@
           "currentReviews": 7
         },
         {
-          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
-          "previousScore": 86,
-          "currentScore": 90,
-          "delta": 4,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
           "title": "MC Hammersmith: Ice Ice Nepo Baby",
           "previousScore": 86,
           "currentScore": 82,
           "delta": -4,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "James Phelan: Showman",
+          "previousScore": 72,
+          "currentScore": 76,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 82,
+          "currentScore": 78,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "CVNT",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
         {
           "title": "Guys Sing Dolls",
           "score": 83,
@@ -207,7 +202,6 @@
         "2ShoulderPads: Galaxy Train",
         "3 Labours: A Hercules Panto",
         "4 Aussies, For Aussies",
-        "44 Minutes",
         "5 Comedians Do Comedy and Karaoke",
         "5 Lesbians Eating A Quiche",
         "5 Mistakes That Changed History",
@@ -268,7 +262,6 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
-        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -417,7 +410,6 @@
         "Coco The Time-Travelling Tart",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
-        "Collaborator",
         "Comedy Club 4 Kids",
         "Common Tongue",
         "Confessions Of A Mulatto Love Child",
@@ -497,7 +489,6 @@
         "Dungeons and Shakespeare",
         "Dystopia 26: The Rock Opera",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
-        "EXIT",
         "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
         "Ed Night: We&apos;ll Be Alright, Darling",
@@ -600,6 +591,7 @@
         "HOW TO FRINGE: a chat show with thom tuck",
         "HR The Musical",
         "Hadid",
+        "Hajar, Like Badger",
         "Half-Orphan",
         "Hamlet: Prince of Sweden",
         "Hamlet: The Musical",
@@ -747,7 +739,6 @@
         "Leviathan X Asmodeus",
         "Lianna Holston: Haha, Oh God 2.0",
         "Liberace and Liza - A Tribute",
-        "Liberace and Liza – A Tribute",
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
@@ -807,7 +798,6 @@
         "Michael McPheat is BRUTAL!",
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
-        "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
@@ -870,7 +860,6 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
-        "Owl at Home – Theatr Iolo",
         "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
@@ -955,7 +944,6 @@
         "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
         "Ruby Carr: Bite Me",
         "Ryan Cullen: Cullen Me Softly",
-        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "SLAYERS by Corinne Salisbury",
@@ -1162,7 +1150,6 @@
         "The Vagina Monologues",
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
-        "The Very Best of Tommy Cooper – Just Like That!",
         "The Wedding Date",
         "The Wolf of Poyais",
         "The Woman in the Mirror",
