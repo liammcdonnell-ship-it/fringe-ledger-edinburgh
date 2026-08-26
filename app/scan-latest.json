@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-25T23:16:28.789Z",
-      "completedAt": "2026-08-25T23:16:28.789Z",
+      "id": "2026-08-26T00:31:42.909Z",
+      "completedAt": "2026-08-26T00:31:42.909Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1182,
-      "totalNotices": 3892,
+      "totalShows": 1186,
+      "totalNotices": 3897,
       "defaultVisible": 754,
-      "duplicates": 1,
+      "duplicates": 4,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-24T23:14:11.257Z",
-      "windowEndedAt": "2026-08-25T23:16:28.789Z",
+      "windowStartedAt": "2026-08-25T00:29:12.446Z",
+      "windowEndedAt": "2026-08-26T00:31:42.909Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 83098,
-      "newShows": 18,
-      "enteredRanking": 9,
+      "newReviews": 83181,
+      "newShows": 10,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
@@ -66,6 +74,22 @@
           "currentReviews": 3
         },
         {
+          "title": "Matthew Gallagher: Last Minute",
+          "previousScore": 56,
+          "currentScore": 61,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 73,
+          "delta": -4,
+          "previousReviews": 11,
+          "currentReviews": 13
+        },
+        {
           "title": "Gareth Mutch Means Well",
           "previousScore": 66,
           "currentScore": 70,
@@ -82,47 +106,28 @@
           "currentReviews": 7
         },
         {
+          "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
+          "previousScore": 86,
+          "currentScore": 90,
+          "delta": 4,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
           "title": "MC Hammersmith: Ice Ice Nepo Baby",
           "previousScore": 86,
           "currentScore": 82,
           "delta": -4,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "James Phelan: Showman",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Megasquirt: Fully Loaded",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "CVNT",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Sydnee Washington: My Black Barbie Story",
-          "previousScore": 78,
-          "currentScore": 82,
-          "delta": 4,
-          "previousReviews": 4,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "Guys Sing Dolls",
           "score": 83,
