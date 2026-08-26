@@ -2,29 +2,61 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T08:29:04.193Z",
-      "completedAt": "2026-08-26T08:29:04.193Z",
+      "id": "2026-08-26T09:30:41.859Z",
+      "completedAt": "2026-08-26T09:30:41.859Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1185,
-      "totalNotices": 3901,
-      "defaultVisible": 755,
-      "duplicates": 1,
+      "totalShows": 1212,
+      "totalNotices": 3974,
+      "defaultVisible": 762,
+      "duplicates": 16,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T08:28:14.542Z",
-      "windowEndedAt": "2026-08-26T08:29:04.193Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-08-25T09:24:53.734Z",
+      "windowEndedAt": "2026-08-26T09:30:41.859Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 23,
-      "newReviews": 83829,
-      "newShows": 15,
-      "enteredRanking": 8,
+      "newReviews": 83942,
+      "newShows": 29,
+      "enteredRanking": 13,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Jennifer Jane: Happy Tea",
+          "previousScore": 64,
+          "currentScore": 72,
+          "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "James Phelan: Showman",
+          "previousScore": 72,
+          "currentScore": 79,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 7
+        },
+        {
+          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
+          "previousScore": 48,
+          "currentScore": 55,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
         {
           "title": "Stayin' Alive",
           "previousScore": 83,
@@ -50,17 +82,9 @@
           "currentReviews": 3
         },
         {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 69,
-          "currentScore": 74,
-          "delta": 5,
-          "previousReviews": 8,
-          "currentReviews": 6
-        },
-        {
-          "title": "Tasmin Sarkany: Now That's What I Call Bach!",
-          "previousScore": 70,
-          "currentScore": 75,
+          "title": "Motorway",
+          "previousScore": 79,
+          "currentScore": 84,
           "delta": 5,
           "previousReviews": 2,
           "currentReviews": 3
@@ -87,39 +111,15 @@
           "currentScore": 82,
           "delta": -4,
           "previousReviews": 5,
-          "currentReviews": 6
+          "currentReviews": 7
         },
         {
-          "title": "James Phelan: Showman",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Megasquirt: Fully Loaded",
+          "title": "Adam Riches: The Captain",
           "previousScore": 82,
           "currentScore": 78,
           "delta": -4,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Absolute Bus Stops of Northern Europe and Beyond",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "CVNT",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -129,8 +129,13 @@
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
+          "title": "Betsy and Patty Find Out",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Cogito, Ergo... Something?",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -144,12 +149,32 @@
           "reviews": 2
         },
         {
-          "title": "Jellyfish",
+          "title": "¡Ay! Papi: Jilberto Soto",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Big Tobacco's Pinocchio",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Pimm's Without the Cucumber",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Girlbosses and Billionaires",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "Thermos Museum Books",
+          "title": "I Am A Snail",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Jellyfish",
           "score": 64,
           "reviews": 2
         },
@@ -180,11 +205,13 @@
         "100 Million Fish in the Aquarium",
         "100% Badgers with Matt Hobs",
         "101 Impressions in One Hour",
+        "101 Rules for a Better World (by Comedians)",
         "10A: The Fitting Room",
         "116 Grams: A Play to Lose Weight",
         "123movies.com",
         "12th Annual Haters&apos; Ball",
         "150% Masala Comedy Showcase",
+        "1518: The Dancing Plague",
         "18+ Magic - The Magic Show Your Mum Shouldn&apos;t See",
         "1979 Persianality Disorder",
         "1979: Persianality Disorder",
@@ -563,6 +590,7 @@
         "Georgia Polly-Taylor: Very Hot. Very Messy.",
         "Georgina Thomas: Hysterical Soprano",
         "Gerry Carroll: Young",
+        "Get Your Geek On: A Nerdy Comedy Showcase",
         "Giraffe",
         "Girlbosses and Billionaires",
         "Girlfriends",
@@ -612,6 +640,7 @@
         "Helicops 1: Find Your Wings!",
         "Help!! My Baby&apos;s Not Goth",
         "Hendrik Quast: Spill Your Guts",
+        "Henry VIII and His Groom",
         "Here Comes Almost",
         "High Heels from the Big Boot",
         "Hill and Jones Comedy Catastrophe",
@@ -810,6 +839,7 @@
         "Mistakes Were Made: Shiver Me Timbers!",
         "Mitch Benn: Asking Elvis",
         "Moment of Connection with a Smile",
+        "Momme Domme",
         "Monks",
         "Mortal Sin",
         "Most of My Moms Are Gay",
@@ -819,8 +849,10 @@
         "Mr Boy: The Beauty Contest for Boys",
         "Mr Chonkers: Work in Chonkers",
         "Mrs Gary Breath",
+        "Mummy&apos;s Dead, Long Live Mummy!",
         "Murder, She Didn&apos;t Write",
         "Murder, She Didn't Write",
+        "My Beautiful Brain!",
         "My Date with Pierce Brosnan",
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
         "My Life Is a Sonnet",
@@ -832,6 +864,7 @@
         "Nathaniel Jones: 2 BY 2",
         "Nerine Skinner: Decisions Decisions WIP",
         "Nesting",
+        "Never Let Go: An Unauthorised Retelling of James Cameron&apos;s Titanic",
         "New York City Dreams",
         "NewsRevue",
         "Nina&apos;s C*nti Cabaret",
@@ -1088,6 +1121,7 @@
         "The End of the World",
         "The Event",
         "The Extraordinary Life of a Rat Racer",
+        "The Faustus Project",
         "The Frank Carson Story",
         "The Gay Divorce",
         "The Ghost of White Hart Lane",
