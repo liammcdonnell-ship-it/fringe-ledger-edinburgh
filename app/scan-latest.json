@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T06:26:04.299Z",
-      "completedAt": "2026-08-26T06:26:04.299Z",
+      "id": "2026-08-26T07:38:13.095Z",
+      "completedAt": "2026-08-26T07:38:13.095Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1197,
-      "totalNotices": 3909,
-      "defaultVisible": 755,
-      "duplicates": 12,
+      "totalShows": 1222,
+      "totalNotices": 3944,
+      "defaultVisible": 756,
+      "duplicates": 32,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T06:23:21.234Z",
-      "windowEndedAt": "2026-08-26T06:26:04.299Z",
+      "windowStartedAt": "2026-08-25T07:35:52.322Z",
+      "windowEndedAt": "2026-08-26T07:38:13.095Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 83684,
-      "newShows": 30,
+      "newReviews": 83775,
+      "newShows": 35,
       "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
@@ -46,6 +54,14 @@
           "previousScore": 57,
           "currentScore": 63,
           "delta": 6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "1979: Persianality Disorder",
+          "previousScore": 64,
+          "currentScore": 58,
+          "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -104,22 +120,6 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "CVNT",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Play Dead",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -129,9 +129,14 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "Roger O'Sullivan: Divil May Cry",
@@ -152,11 +157,6 @@
           "title": "TITCLOWN: daddy's little girl",
           "score": 68,
           "reviews": 3
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
         },
         {
           "title": "The Brush",
@@ -201,6 +201,7 @@
         "12th Annual Haters&apos; Ball",
         "150% Masala Comedy Showcase",
         "18+ Magic - The Magic Show Your Mum Shouldn&apos;t See",
+        "1979 Persianality Disorder",
         "1979: Persianality Disorder",
         "199 Jokes Before Lunchtime: Danny Matinee!",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
@@ -212,6 +213,7 @@
         "2ShoulderPads: Galaxy Train",
         "3 Labours: A Hercules Panto",
         "4 Aussies, For Aussies",
+        "44 Minutes",
         "5 Comedians Do Comedy and Karaoke",
         "5 Lesbians Eating A Quiche",
         "5 Mistakes That Changed History",
@@ -248,7 +250,6 @@
         "Absolute Bus Stops of Northern Europe and Beyond",
         "Absolutely! One-Liner Jokes!",
         "Adam Bromley: Hyperconnected",
-        "Adam Flood: Life and Death of the Party",
         "Adam Larter: Who Remembers the 90s?",
         "Adam Riches: The Captain",
         "Adam Riches: The Critic&apos;s Way",
@@ -272,6 +273,7 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -378,6 +380,7 @@
         "Burke&apos;n&apos;Hare: Let the Bodies Hit the Floor",
         "Burning Down the Horse",
         "CABAPOCALYPSARET",
+        "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CHUCK",
         "CROWD WORK",
@@ -419,6 +422,7 @@
         "Coco The Time-Travelling Tart",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
+        "Collaborator",
         "Comedy Club 4 Kids",
         "Common Tongue",
         "Confessions Of A Mulatto Love Child",
@@ -498,6 +502,7 @@
         "Dungeons and Shakespeare",
         "Dystopia 26: The Rock Opera",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
+        "EXIT",
         "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
         "Ed Night: We&apos;ll Be Alright, Darling",
@@ -549,7 +554,6 @@
         "Francisco de Nata",
         "Frank Sanazi: A Little Bit of History Re-Putin",
         "Frank Skinner: Work in Progress",
-        "Frankie McNair: Huge Ass Mindset",
         "Frankie Thompson: Horrible Things",
         "Frenchy: The Instigator",
         "Freya Parker: An Hour Of Decay!",
@@ -597,6 +601,7 @@
         "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
+        "HAM",
         "HOW TO FRINGE: a chat show with thom tuck",
         "HR The Musical",
         "Hadid",
@@ -706,7 +711,6 @@
         "Jody Kamali: This is My Dad",
         "Joe Sib: Aggie - A Comedy About Moms",
         "John Achkar: His country is collapsing. He&apos;s having a baby. So obviously, this is the right year for a Lebanese comedian you&apos;ve never heard of to try English stand-up for the first time.",
-        "John Kearns: Tilting at Windmills",
         "John Robertson&apos;s The Dark Room",
         "John Robertson: Excitable Boy!",
         "John-Luke Roberts: What I Talk About When I Run About, Talking",
@@ -750,6 +754,7 @@
         "Leviathan X Asmodeus",
         "Lianna Holston: Haha, Oh God 2.0",
         "Liberace and Liza - A Tribute",
+        "Liberace and Liza – A Tribute",
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
@@ -873,6 +878,7 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
+        "Owl at Home – Theatr Iolo",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
         "Paper Cuts (and other small tragedies)",
@@ -895,6 +901,7 @@
         "Phil Nichol: The Naked Racist",
         "Phuckets and Rainbows",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
+        "Pierre Novellie: Do the One About&#8230;",
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
@@ -956,6 +963,7 @@
         "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
         "Ruby Carr: Bite Me",
         "Ryan Cullen: Cullen Me Softly",
+        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "SLAYERS by Corinne Salisbury",
@@ -1162,6 +1170,7 @@
         "The Vagina Monologues",
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
+        "The Very Best of Tommy Cooper – Just Like That!",
         "The Wedding Date",
         "The Wolf of Poyais",
         "The Woman in the Mirror",
