@@ -2,50 +2,50 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T03:44:11.599Z",
-      "completedAt": "2026-08-26T03:44:11.599Z",
+      "id": "2026-08-26T04:29:22.501Z",
+      "completedAt": "2026-08-26T04:29:22.501Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1196,
-      "totalNotices": 3909,
-      "defaultVisible": 755,
-      "duplicates": 3,
+      "totalShows": 1189,
+      "totalNotices": 3899,
+      "defaultVisible": 753,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T03:38:59.668Z",
-      "windowEndedAt": "2026-08-26T03:44:11.599Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-25T04:28:26.865Z",
+      "windowEndedAt": "2026-08-26T04:29:22.501Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 83401,
-      "newShows": 32,
+      "newReviews": 83476,
+      "newShows": 11,
       "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 76,
-          "currentScore": 66,
-          "delta": -10,
-          "previousReviews": 2,
-          "currentReviews": 4
-        },
-        {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
           "currentScore": 74,
           "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "You Talkin' to Us?",
+          "previousScore": 72,
+          "currentScore": 66,
+          "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
         },
@@ -72,14 +72,6 @@
           "delta": -5,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 75,
-          "currentScore": 70,
-          "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 4
         },
         {
           "title": "Tasmin Sarkany: Now That's What I Call Bach!",
@@ -120,12 +112,30 @@
           "delta": 4,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 82,
+          "currentScore": 78,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Guys Sing Dolls",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
@@ -149,22 +159,12 @@
           "reviews": 3
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
           "title": "The Brush",
           "score": 66,
           "reviews": 2
         },
         {
           "title": "Jellyfish",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
         },
@@ -378,7 +378,6 @@
         "Burke&apos;n&apos;Hare: Let the Bodies Hit the Floor",
         "Burning Down the Horse",
         "CABAPOCALYPSARET",
-        "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CHUCK",
         "CROWD WORK",
@@ -810,6 +809,7 @@
         "Michael McPheat is BRUTAL!",
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
+        "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
@@ -830,6 +830,7 @@
         "Mr Chonkers: Work in Chonkers",
         "Mrs Gary Breath",
         "Murder, She Didn&apos;t Write",
+        "Murder, She Didn't Write",
         "My Date with Pierce Brosnan",
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
         "My Life Is a Sonnet",
