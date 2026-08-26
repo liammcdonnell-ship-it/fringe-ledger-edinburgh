@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T05:23:04.635Z",
-      "completedAt": "2026-08-26T05:23:04.635Z",
+      "id": "2026-08-26T06:26:04.299Z",
+      "completedAt": "2026-08-26T06:26:04.299Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1181,
-      "totalNotices": 3892,
-      "defaultVisible": 754,
-      "duplicates": 3,
+      "totalShows": 1197,
+      "totalNotices": 3909,
+      "defaultVisible": 755,
+      "duplicates": 12,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T05:23:51.204Z",
-      "windowEndedAt": "2026-08-26T05:23:04.635Z",
+      "windowStartedAt": "2026-08-25T06:23:21.234Z",
+      "windowEndedAt": "2026-08-26T06:26:04.299Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 83573,
-      "newShows": 15,
-      "enteredRanking": 10,
+      "newReviews": 83684,
+      "newShows": 30,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "An Unbiased Afternoon with Allaster McKallaster",
           "previousScore": 68,
@@ -120,6 +112,14 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Play Dead",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -127,6 +127,11 @@
           "title": "Guys Sing Dolls",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Roger O'Sullivan: Divil May Cry",
@@ -149,17 +154,17 @@
           "reviews": 3
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "The Brush",
           "score": 66,
           "reviews": 2
         },
         {
           "title": "Jellyfish",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
         },
