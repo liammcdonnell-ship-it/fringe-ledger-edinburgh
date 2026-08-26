@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T07:38:13.095Z",
-      "completedAt": "2026-08-26T07:38:13.095Z",
+      "id": "2026-08-26T08:29:04.193Z",
+      "completedAt": "2026-08-26T08:29:04.193Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1222,
-      "totalNotices": 3944,
-      "defaultVisible": 756,
-      "duplicates": 32,
+      "totalShows": 1185,
+      "totalNotices": 3901,
+      "defaultVisible": 755,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T07:35:52.322Z",
-      "windowEndedAt": "2026-08-26T07:38:13.095Z",
+      "windowStartedAt": "2026-08-25T08:28:14.542Z",
+      "windowEndedAt": "2026-08-26T08:29:04.193Z",
       "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 83775,
-      "newShows": 35,
-      "enteredRanking": 11,
+      "newReviews": 83829,
+      "newShows": 15,
+      "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "An Unbiased Afternoon with Allaster McKallaster",
-          "previousScore": 68,
-          "currentScore": 74,
-          "delta": 6,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
         {
           "title": "Stayin' Alive",
           "previousScore": 83,
@@ -66,12 +50,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Heart Beats Strong",
-          "previousScore": 93,
-          "currentScore": 88,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 69,
+          "currentScore": 74,
+          "delta": 5,
+          "previousReviews": 8,
+          "currentReviews": 6
         },
         {
           "title": "Tasmin Sarkany: Now That's What I Call Bach!",
@@ -120,6 +104,22 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Absolute Bus Stops of Northern Europe and Beyond",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "CVNT",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -129,13 +129,8 @@
           "reviews": 2
         },
         {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
@@ -149,22 +144,12 @@
           "reviews": 2
         },
         {
-          "title": "Fantasy World Adventures Mega Park! The Musical",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "TITCLOWN: daddy's little girl",
-          "score": 68,
-          "reviews": 3
-        },
-        {
-          "title": "The Brush",
-          "score": 66,
-          "reviews": 2
-        },
-        {
           "title": "Jellyfish",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Thermos Museum Books",
           "score": 64,
           "reviews": 2
         },
@@ -1174,6 +1159,7 @@
         "The Wedding Date",
         "The Wolf of Poyais",
         "The Woman in the Mirror",
+        "Thermos Museum Books",
         "They&apos;re Just Small Town (Northern) Lads",
         "Third Party",
         "This Is How I Got Arrested...",
