@@ -2,34 +2,58 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T13:45:19.417Z",
-      "completedAt": "2026-08-26T13:45:19.417Z",
+      "id": "2026-08-26T14:35:13.899Z",
+      "completedAt": "2026-08-26T14:35:13.899Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1203,
-      "totalNotices": 3981,
-      "defaultVisible": 766,
-      "duplicates": 2,
+      "totalShows": 1214,
+      "totalNotices": 3997,
+      "defaultVisible": 769,
+      "duplicates": 4,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T13:39:46.900Z",
-      "windowEndedAt": "2026-08-26T13:45:19.417Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-08-25T14:35:08.500Z",
+      "windowEndedAt": "2026-08-26T14:35:13.899Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 23,
-      "newReviews": 84417,
-      "newShows": 25,
-      "enteredRanking": 13,
+      "newReviews": 84545,
+      "newShows": 34,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Hole!",
+          "previousScore": 70,
+          "currentScore": 85,
+          "delta": 15,
+          "previousReviews": 2,
+          "currentReviews": 12
+        },
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 74,
+          "currentScore": 65,
+          "delta": -9,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
           "currentScore": 72,
           "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 76,
+          "currentScore": 68,
+          "delta": -8,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -40,14 +64,6 @@
           "delta": 7,
           "previousReviews": 5,
           "currentReviews": 7
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
         },
         {
           "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
@@ -98,31 +114,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Gareth Mutch Means Well",
-          "previousScore": 66,
-          "currentScore": 70,
-          "delta": 4,
-          "previousReviews": 7,
-          "currentReviews": 8
-        },
-        {
           "title": "MC Hammersmith: Ice Ice Nepo Baby",
           "previousScore": 86,
           "currentScore": 82,
           "delta": -4,
           "previousReviews": 5,
           "currentReviews": 7
-        },
-        {
-          "title": "Aarian Mehrabani: How's Your Head?",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
         }
       ],
       "newEntries": [
+        {
+          "title": "A Highly Suspect Murder Mystery: ABBAsolute Murder",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "not for glory",
           "score": 83,
@@ -139,12 +144,22 @@
           "reviews": 2
         },
         {
+          "title": "Well-Balanced Dads",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Betsy and Patty Find Out",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "Cogito, Ergo... Something?",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Doing Time with Lavinia",
           "score": 76,
           "reviews": 2
         },
@@ -164,8 +179,18 @@
           "reviews": 2
         },
         {
+          "title": "HOW TO FRINGE: a chat show with thom tuck",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Pimm's Without the Cucumber",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Bush! The Musical",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -436,6 +461,7 @@
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
         "Collaborator",
+        "Come As You Are",
         "Comedy Club 4 Kids",
         "Common Tongue",
         "Confessions Of A Mulatto Love Child",
@@ -1253,6 +1279,7 @@
         "Werewolf",
         "What Are You Doing After The Orgy?",
         "What Happens in the Dark",
+        "What&apos;s Rotting in the Office Fridge?",
         "Whatever Happened To That Guy?",
         "When We Were Young",
         "When You Are a Tick",
