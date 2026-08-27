@@ -2,67 +2,43 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-27T02:20:06.969Z",
-      "completedAt": "2026-08-27T02:20:06.969Z",
+      "id": "2026-08-27T13:14:32.072Z",
+      "completedAt": "2026-08-27T13:14:32.072Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1223,
-      "totalNotices": 4021,
-      "defaultVisible": 771,
-      "duplicates": 1,
+      "totalShows": 1228,
+      "totalNotices": 4064,
+      "defaultVisible": 775,
+      "duplicates": 6,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-26T02:18:33.144Z",
-      "windowEndedAt": "2026-08-27T02:20:06.969Z",
-      "windowCoverageHours": 24,
-      "scansInWindow": 16,
-      "newReviews": 59321,
-      "newShows": 20,
-      "enteredRanking": 18,
+      "windowStartedAt": "2026-08-26T13:45:19.417Z",
+      "windowEndedAt": "2026-08-27T13:14:32.072Z",
+      "windowCoverageHours": 23.5,
+      "scansInWindow": 6,
+      "newReviews": 22594,
+      "newShows": 25,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Jennifer Jane: Happy Tea",
-          "previousScore": 64,
-          "currentScore": 72,
-          "delta": 8,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
-          "previousScore": 48,
-          "currentScore": 55,
-          "delta": 7,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Nosejob",
-          "previousScore": 70,
-          "currentScore": 77,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Lorna Rose Treen: Now That's What I Call Characters",
-          "previousScore": 83,
-          "currentScore": 76,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
           "delta": -7,
-          "previousReviews": 2,
-          "currentReviews": 2
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
-          "title": "The Buddha Wears Prada",
-          "previousScore": 68,
-          "currentScore": 62,
+          "title": "House Fly",
+          "previousScore": 76,
+          "currentScore": 70,
           "delta": -6,
-          "previousReviews": 3,
+          "previousReviews": 2,
           "currentReviews": 4
         },
         {
@@ -74,12 +50,20 @@
           "currentReviews": 3
         },
         {
-          "title": "1979: Persianality Disorder",
-          "previousScore": 64,
-          "currentScore": 58,
-          "delta": -6,
+          "title": "Jack Ansett: Looks Like A Bit Of Me!",
+          "previousScore": 54,
+          "currentScore": 60,
+          "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Carys Should be the UK's Next Eurovision Entry",
+          "previousScore": 72,
+          "currentScore": 67,
+          "delta": -5,
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "Book of Shadows",
@@ -90,71 +74,62 @@
           "currentReviews": 5
         },
         {
-          "title": "Motorway",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
-          "title": "Aarian Mehrabani: How's Your Head?",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
+          "title": "Austentatious: An Improvised Jane Austen Novel",
+          "previousScore": 83,
+          "currentScore": 80,
+          "delta": -3,
           "previousReviews": 5,
           "currentReviews": 6
         },
         {
-          "title": "Adam Riches: The Captain",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
-          "previousReviews": 3,
+          "title": "John Achkar: His country is collapsing. He's having a baby. So obviously, this is the right year for a Lebanese comedian you've never heard of to try English stand-up for the first time.",
+          "previousScore": 75,
+          "currentScore": 72,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Elouise Eftos: Aphrodite",
+          "previousScore": 76,
+          "currentScore": 73,
+          "delta": -3,
+          "previousReviews": 4,
           "currentReviews": 5
         },
         {
-          "title": "Lucas Jefcoate: If I'm Not Somebody, I'm Nobody",
-          "previousScore": 70,
+          "title": "The Gay Divorce",
+          "previousScore": 63,
           "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Richard Stott: Streets Won't Forget",
+          "previousScore": 73,
+          "currentScore": 70,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "not for glory",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "The Faustus Project",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "The Leeds Tealights",
-          "score": 83,
-          "reviews": 2
-        },
         {
           "title": "Well-Balanced Dads",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Betsy and Patty Find Out",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Cogito, Ergo... Something?",
+          "title": "Alan Jay: Hell Hath No Humour Like a Gayboy Scorned",
           "score": 76,
           "reviews": 2
         },
@@ -164,23 +139,23 @@
           "reviews": 2
         },
         {
-          "title": "¡Ay! Papi: Jilberto Soto",
+          "title": "Friendliest",
+          "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Shakespeare x 5",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "\"Be Good!\" with Paulette",
-          "score": 70,
-          "reviews": 2
+          "title": "Enrico Touché: Hot Knees",
+          "score": 67,
+          "reviews": 3
         },
         {
-          "title": "Big Tobacco's Pinocchio",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Pimm's Without the Cucumber",
-          "score": 70,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -189,27 +164,12 @@
           "reviews": 2
         },
         {
-          "title": "Enrico Touché: Hot Knees",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Girlbosses and Billionaires",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "I Am A Snail",
-          "score": 64,
+          "title": "Annabelle James: Annabalism",
+          "score": 61,
           "reviews": 2
         },
         {
           "title": "Extra Dry",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "The Cambridge Footlights Tour Show 2026",
           "score": 57,
           "reviews": 2
         }
@@ -238,7 +198,6 @@
         "150% Masala Comedy Showcase",
         "1518: The Dancing Plague",
         "18+ Magic - The Magic Show Your Mum Shouldn&apos;t See",
-        "1979 Persianality Disorder",
         "1979: Persianality Disorder",
         "199 Jokes Before Lunchtime: Danny Matinee!",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
@@ -288,12 +247,12 @@
         "Absolutely! One-Liner Jokes!",
         "Adam Bromley: Hyperconnected",
         "Adam Larter: Who Remembers the 90s?",
-        "Adam Riches: The Captain",
         "Adam Riches: The Critic&apos;s Way",
         "Adele Cliff&apos;s Topical Early Late Show With Adele Cliff",
         "Aditya Mayya Pretends to Be Sad",
         "Adults Only Magic Show",
         "After Arthur",
+        "After Careful Consideration",
         "Ahir Shah: Golden",
         "Aidan Greene: Stuttermilk Pancakes",
         "Aidan Jones: Chopin&apos;s Nocturne",
@@ -416,13 +375,13 @@
         "Buddha vs Jesus",
         "Bumpo",
         "Burce Tutku Tuncali: Perfectly Imperfeckt!",
-        "Burger and a Pint: Treats for the Soul",
         "Burke&apos;n&apos;Hare: Let the Bodies Hit the Floor",
         "Burning Down the Horse",
         "Bush! The Musical",
         "CABAPOCALYPSARET",
         "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
+        "CAKE: A Crime of Love",
         "CHUCK",
         "CROWD WORK",
         "CRUSH",
@@ -546,14 +505,12 @@
         "Dungeons and Shakespeare",
         "Dystopia 26: The Rock Opera",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
-        "EXIT",
         "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
         "Ed Night: We&apos;ll Be Alright, Darling",
         "Edith Alibec: The Void",
         "Eight",
         "Ele McKenzie: Bringing It All Back Home",
-        "Eleanor Morton: The Mermaid",
         "Elizabeth I: Regina Vagina",
         "Elouise Eftos: Aphrodite",
         "Elvis in Chaos",
@@ -596,6 +553,7 @@
         "Fly, You Fools!",
         "Follow Me",
         "Fool&apos;s Gold",
+        "Fragments",
         "Francisco de Nata",
         "Frank Sanazi: A Little Bit of History Re-Putin",
         "Frank Skinner: Work in Progress",
@@ -648,7 +606,6 @@
         "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
-        "HAM",
         "HOW TO FRINGE: a chat show with thom tuck",
         "HR The Musical",
         "Hadid",
@@ -773,6 +730,7 @@
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
         "KEVIN!!!!!",
+        "Kanan Gill: Not This Again",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
@@ -781,7 +739,9 @@
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Keeping Secrets",
         "Kevin Quantum: Invisible Force",
+        "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
+        "Killian Sundermann: Killian Dollar Baby",
         "Kim Blythe: Puzzle",
         "Kitty Daddy",
         "Knight&apos;s Dream",
@@ -859,7 +819,6 @@
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
         "Maxx Eddy: Bi Meets World",
-        "Meet Mayor Max",
         "Megasquirt: Fully Loaded",
         "Mel Hudson: Richard Ashcroft Revived My Libido",
         "Michael Brunström: William Tell vs the Algorithm",
@@ -985,6 +944,7 @@
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
+        "Rachel Baker Presents: Gwen - This is Not a Pyramid Scheme",
         "Rachel Creeger: \"Queen of the Jews!\"",
         "Rachel Fairburn: Vexy Beasts",
         "Rachel Kaly: Between Us (A Crowd Work Show)",
@@ -1096,6 +1056,7 @@
         "Sokopop Quiz Night",
         "Solo from the Pit",
         "Solve-Along-A-Murder-She-Wrote",
+        "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
         "Space In Between",
         "Spare Room",
@@ -1224,7 +1185,6 @@
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
         "The Tao of Lloyd",
-        "The Thermos Museum",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Toe Poke",
         "The Tom Brace Magic Hour",
