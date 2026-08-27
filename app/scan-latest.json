@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-26T21:24:28.107Z",
-      "completedAt": "2026-08-26T21:24:28.107Z",
+      "id": "2026-08-27T02:20:06.969Z",
+      "completedAt": "2026-08-27T02:20:06.969Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1252,
-      "totalNotices": 4055,
-      "defaultVisible": 775,
-      "duplicates": 12,
+      "totalShows": 1223,
+      "totalNotices": 4021,
+      "defaultVisible": 771,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-25T21:17:41.919Z",
-      "windowEndedAt": "2026-08-26T21:24:28.107Z",
-      "windowCoverageHours": 24.1,
-      "scansInWindow": 19,
-      "newReviews": 70240,
-      "newShows": 71,
-      "enteredRanking": 23,
+      "windowStartedAt": "2026-08-26T02:18:33.144Z",
+      "windowEndedAt": "2026-08-27T02:20:06.969Z",
+      "windowCoverageHours": 24,
+      "scansInWindow": 16,
+      "newReviews": 59321,
+      "newShows": 20,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 65,
-          "currentScore": 74,
-          "delta": 9,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "Jennifer Jane: Happy Tea",
           "previousScore": 64,
@@ -64,6 +56,14 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 2
+        },
+        {
+          "title": "The Buddha Wears Prada",
+          "previousScore": 68,
+          "currentScore": 62,
+          "delta": -6,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Ed Gaughan: The Emperor",
@@ -124,6 +124,11 @@
       ],
       "newEntries": [
         {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "not for glory",
           "score": 83,
           "reviews": 2
@@ -144,26 +149,6 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "CSI: Crime Scene Improvisation",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Betsy and Patty Find Out",
           "score": 76,
           "reviews": 2
@@ -175,11 +160,6 @@
         },
         {
           "title": "Doing Time with Lavinia",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Dolan: Trout",
           "score": 76,
           "reviews": 2
         },
@@ -201,11 +181,6 @@
         {
           "title": "Pimm's Without the Cucumber",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
           "reviews": 2
         },
         {
@@ -677,7 +652,6 @@
         "HOW TO FRINGE: a chat show with thom tuck",
         "HR The Musical",
         "Hadid",
-        "Hajar, Like Badger",
         "Half-Orphan",
         "Hamlet: Prince of Sweden",
         "Hamlet: The Musical",
