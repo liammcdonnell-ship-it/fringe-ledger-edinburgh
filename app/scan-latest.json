@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-27T23:19:35.964Z",
-      "completedAt": "2026-08-27T23:19:35.964Z",
+      "id": "2026-08-28T07:15:54.206Z",
+      "completedAt": "2026-08-28T07:15:54.206Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1238,
-      "totalNotices": 4107,
+      "totalShows": 1250,
+      "totalNotices": 4121,
       "defaultVisible": 781,
-      "duplicates": 8,
+      "duplicates": 11,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-26T21:24:28.107Z",
-      "windowEndedAt": "2026-08-27T23:19:35.964Z",
-      "windowCoverageHours": 25.9,
+      "windowStartedAt": "2026-08-27T02:20:06.969Z",
+      "windowEndedAt": "2026-08-28T07:15:54.206Z",
+      "windowCoverageHours": 28.9,
       "scansInWindow": 3,
-      "newReviews": 11413,
-      "newShows": -14,
-      "enteredRanking": 9,
+      "newReviews": 11531,
+      "newShows": 27,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 74,
-          "currentScore": 65,
-          "delta": -9,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "Jack Ansett: Looks Like A Bit Of Me!",
           "previousScore": 54,
@@ -66,6 +58,14 @@
           "currentReviews": 5
         },
         {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Endometriosis: The Musical",
           "previousScore": 86,
           "currentScore": 83,
@@ -90,14 +90,6 @@
           "currentReviews": 6
         },
         {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 83,
-          "currentScore": 80,
-          "delta": -3,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
           "title": "Richard Stott: Streets Won't Forget",
           "previousScore": 73,
           "currentScore": 70,
@@ -120,6 +112,14 @@
           "delta": 3,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Garry Starr: Classic Penguins",
+          "previousScore": 87,
+          "currentScore": 89,
+          "delta": 2,
+          "previousReviews": 8,
+          "currentReviews": 9
         }
       ],
       "newEntries": [
@@ -127,6 +127,11 @@
           "title": "The Kaye Hole Hosted by Reuben Kaye",
           "score": 89,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Alan Jay: Hell Hath No Humour Like a Gayboy Scorned",
@@ -151,6 +156,11 @@
         {
           "title": "Auditory Awakenings With Mr Tingles In The House Of ASMR",
           "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -262,7 +272,9 @@
         "Ali Brice: This Is The Way We Brush Our Teeth",
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
+        "Aliens",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -311,6 +323,7 @@
         "BASIC BALD B*TCH",
         "BATSU!",
         "BATSU! Presents: GANBA!!",
+        "BLISS",
         "Baba",
         "Baby Brain",
         "Baby Everything",
@@ -519,6 +532,7 @@
         "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
+        "Everybody's Got a Bomb",
         "Excel Comedy and Mathem-antics",
         "Explosive Science Show!",
         "Extra Dry",
@@ -807,6 +821,7 @@
         "Michael McPheat is BRUTAL!",
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
+        "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
         "Milkdrunk",
@@ -1026,11 +1041,13 @@
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
         "Soft Lock",
+        "Soft Spot",
         "Sokopop Quiz Night",
         "Solo from the Pit",
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
+        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1060,6 +1077,7 @@
         "TITCLOWN: daddy&apos;s little girl",
         "TO BE FRANK",
         "Taiwan Season: Birthday Party",
+        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
@@ -1235,6 +1253,7 @@
         "You Are What You Eat",
         "You Straights Are F**ked Up!",
         "You Talkin&apos; to Us?",
+        "You and Me (and Whoever Comes Next)",
         "Your Choice Amanda Royce",
         "Yvette Segan: Guy&apos;s Girl",
         "Zachary Ruane: Comedy",
