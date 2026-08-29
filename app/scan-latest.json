@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-29T20:17:15.690Z",
-      "completedAt": "2026-08-29T20:17:15.690Z",
+      "id": "2026-08-29T22:53:38.673Z",
+      "completedAt": "2026-08-29T22:53:38.673Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1278,
-      "totalNotices": 4282,
-      "defaultVisible": 806,
-      "duplicates": 3,
+      "totalShows": 1291,
+      "totalNotices": 4295,
+      "defaultVisible": 807,
+      "duplicates": 24,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-28T19:42:29.217Z",
-      "windowEndedAt": "2026-08-29T20:17:15.690Z",
-      "windowCoverageHours": 24.6,
-      "scansInWindow": 5,
-      "newReviews": 19768,
-      "newShows": 31,
+      "windowEndedAt": "2026-08-29T22:53:38.673Z",
+      "windowCoverageHours": 27.2,
+      "scansInWindow": 6,
+      "newReviews": 23755,
+      "newShows": 44,
       "enteredRanking": 21,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Fantasy World Adventures Mega Park! The Musical",
           "previousScore": 70,
@@ -32,14 +40,6 @@
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "Sapphire McIntosh: Squeaky Bum Time",
@@ -82,6 +82,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
           "title": "Maia Tassalini: I Was 22 and Stunning",
           "previousScore": 67,
           "currentScore": 70,
@@ -98,36 +106,23 @@
           "currentReviews": 8
         },
         {
+          "title": "Marty Gleeson: Dog Ear",
+          "previousScore": 71,
+          "currentScore": 74,
+          "delta": 3,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
           "title": "Girlfriends",
           "previousScore": 81,
           "currentScore": 78,
           "delta": -3,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "A Simply Beastly Murder",
-          "previousScore": 76,
-          "currentScore": 73,
-          "delta": -3,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Cruising",
-          "previousScore": 64,
-          "currentScore": 67,
-          "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
         {
           "title": "Dear Lihua",
           "score": 83,
@@ -151,6 +146,11 @@
         {
           "title": "Badgers",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
