@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-29T02:33:20.613Z",
-      "completedAt": "2026-08-29T02:33:20.613Z",
+      "id": "2026-08-29T09:30:19.527Z",
+      "completedAt": "2026-08-29T09:30:19.527Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1281,
-      "totalNotices": 4224,
-      "defaultVisible": 792,
-      "duplicates": 36,
+      "totalShows": 1274,
+      "totalNotices": 4220,
+      "defaultVisible": 789,
+      "duplicates": 8,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-27T23:19:35.964Z",
-      "windowEndedAt": "2026-08-29T02:33:20.613Z",
-      "windowCoverageHours": 27.2,
+      "windowStartedAt": "2026-08-28T07:15:54.206Z",
+      "windowEndedAt": "2026-08-29T09:30:19.527Z",
+      "windowCoverageHours": 26.2,
       "scansInWindow": 3,
-      "newReviews": 11726,
-      "newShows": 43,
-      "enteredRanking": 11,
+      "newReviews": 11759,
+      "newShows": 24,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
         {
@@ -50,12 +50,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
+          "title": "Fantasy World Adventures Mega Park! The Musical",
+          "previousScore": 70,
+          "currentScore": 77,
           "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Closure Cabaret",
@@ -64,6 +64,14 @@
           "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Flamenc Oh!!",
@@ -90,39 +98,36 @@
           "currentReviews": 3
         },
         {
+          "title": "An Evening with Dame Granny Smith",
+          "previousScore": 76,
+          "currentScore": 72,
+          "delta": -4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Annabelle James: Annabalism",
+          "previousScore": 61,
+          "currentScore": 65,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Alex Kitson: Now Look Here",
           "previousScore": 78,
           "currentScore": 81,
           "delta": 3,
           "previousReviews": 10,
           "currentReviews": 12
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
-        },
-        {
-          "title": "Maia Tassalini: I Was 22 and Stunning",
-          "previousScore": 67,
-          "currentScore": 70,
-          "delta": 3,
-          "previousReviews": 9,
-          "currentReviews": 9
-        },
-        {
-          "title": "Amnesia",
-          "previousScore": 76,
-          "currentScore": 79,
-          "delta": 3,
-          "previousReviews": 6,
-          "currentReviews": 7
         }
       ],
       "newEntries": [
+        {
+          "title": "Kate Dolan: Trout",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "Paul Black: Cash Cow",
           "score": 83,
@@ -139,8 +144,23 @@
           "reviews": 2
         },
         {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "God Complex",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -149,8 +169,23 @@
           "reviews": 2
         },
         {
+          "title": "Not Another Quiz Night",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "The House of Pitman",
-          "score": 73,
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Deckhand",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -169,8 +204,8 @@
           "reviews": 2
         },
         {
-          "title": "Gameplay",
-          "score": 64,
+          "title": "9/11 Birds and the Bees",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -273,7 +308,6 @@
         "Ali Brice: This Is The Way We Brush Our Teeth",
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
-        "Aliens",
         "Already Here",
         "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
@@ -370,9 +404,7 @@
         "Boy in a Box",
         "Brassed Off",
         "Bread and Circuses",
-        "Brendan Scannell: The Abyss",
         "Brew Hill",
-        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -394,6 +426,7 @@
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CAKE: A Crime of Love",
         "CHUCK",
+        "CODE",
         "CROWD WORK",
         "CRUSH",
         "CSI: Crime Scene Improvisation",
@@ -492,6 +525,7 @@
         "Derek Demko&apos;s Last Day of Camp!",
         "Detective Heartbreak",
         "Devin Gray: Golden Retriever Energy",
+        "Diana: The Untold and Untrue Story",
         "Diary of a DL Trade",
         "Diary of a Mad Man",
         "Did You Charge Your Phone for the End of the World?",
@@ -513,12 +547,14 @@
         "Doris, Dolly and the Dressing Room Divas",
         "Doughboys",
         "Dragon",
+        "Dragon Tales",
         "Dreamgun Film Reads",
         "Dru Cripps: Juicy Bits",
         "Dune! The Musical",
         "Dungeons and Shakespeare",
         "Dystopia 26: The Rock Opera",
         "EIGHT: The One (Wo)Man Drag King Musical Parody",
+        "EXIT",
         "East Infection",
         "Eat Pray Cult",
         "Ed Gaughan: The Emperor",
@@ -585,7 +621,6 @@
         "Gag Writer",
         "Gagula: The Panto with Teeth!",
         "Gail Porter: Portergeist",
-        "Gameplay",
         "Gareth Gwynn: Cyril",
         "Garrett Millerick: We Tried it Your Way",
         "Garry Starr: Classic Penguins",
@@ -675,11 +710,13 @@
         "I&apos;m Mom",
         "I&apos;m Still Not That Girl",
         "Ian TC: Ian-Somnia",
+        "If I can’t Dance I’m Not Coming",
         "If We Really Were Witches",
         "If You Let Me Speak",
         "Ify Nwadiwe&apos;s Big Facts",
         "Ignacio Lopez: Nada (secret show)",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
+        "Il canto dell'assiolo",
         "Imogen Andrews: The Unlikeable Worms",
         "Improbotics Presents: Artificial Reality",
         "Impromptunes - The Completely Improvised Musical",
@@ -741,13 +778,13 @@
         "Julian Clary: Fully Dilated",
         "Juliette Burton: Villain Era",
         "Just Blokes",
+        "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
         "Kanan Gill: Not This Again",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
-        "Katie Norris: Mother Succubus",
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Keeping Secrets",
@@ -1114,6 +1151,7 @@
         "Tasmin Sarkany: Now That&apos;s What I Call Bach!",
         "Ted Hill Teaches You Science, Most of Which Is True",
         "Ted Hill: PowerPoindexter",
+        "Teen Spirit",
         "Temi Wilkey: Lover Girl",
         "Ten Thousand Hours",
         "Texas Annie: The Legend of the Moan Ranger",
@@ -1138,6 +1176,7 @@
         "The Crimes of Pete",
         "The Cut of Her Jib",
         "The Devil Wears Primark",
+        "The Double G Comedy Rodeo",
         "The Duo: A Three-Person Magic Show",
         "The Durham Revue: Raiders of the Lost Laughs",
         "The End of the World",
@@ -1156,6 +1195,7 @@
         "The Hypochondriac",
         "The Italians in England",
         "The Joker and The Thief",
+        "The Jolly Fisherman",
         "The Kaye Hole Hosted by Reuben Kaye",
         "The Lady Doth Protest",
         "The Landlady",
@@ -1209,6 +1249,7 @@
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Vagina Monologues",
+        "The Vampire Run",
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
         "The Very Best of Tommy Cooper – Just Like That!",
@@ -1282,6 +1323,7 @@
         "Woman Seeking Cuddles",
         "Wrap Party",
         "YUCK Circus: Naughties",
+        "Yes Person",
         "You Are What You Eat",
         "You Straights Are F**ked Up!",
         "You Talkin&apos; to Us?",
