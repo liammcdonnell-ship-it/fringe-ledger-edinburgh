@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-30T00:51:34.454Z",
-      "completedAt": "2026-08-30T00:51:34.454Z",
+      "id": "2026-08-30T06:01:15.762Z",
+      "completedAt": "2026-08-30T06:01:15.762Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1260,
-      "totalNotices": 4254,
-      "defaultVisible": 802,
-      "duplicates": 3,
+      "totalShows": 1296,
+      "totalNotices": 4303,
+      "defaultVisible": 807,
+      "duplicates": 39,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-29T02:33:20.613Z",
-      "windowEndedAt": "2026-08-30T00:51:34.454Z",
-      "windowCoverageHours": 22.3,
-      "scansInWindow": 6,
-      "newReviews": 23743,
-      "newShows": -21,
-      "enteredRanking": 13,
+      "windowEndedAt": "2026-08-30T06:01:15.762Z",
+      "windowCoverageHours": 27.5,
+      "scansInWindow": 7,
+      "newReviews": 27776,
+      "newShows": 15,
+      "enteredRanking": 16,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Doughboys",
-          "previousScore": 82,
-          "currentScore": 74,
-          "delta": -8,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
         {
           "title": "Fantasy World Adventures Mega Park! The Musical",
           "previousScore": 70,
@@ -50,12 +42,12 @@
           "currentReviews": 5
         },
         {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 77,
-          "currentScore": 81,
-          "delta": 4,
-          "previousReviews": 8,
-          "currentReviews": 7
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 74,
+          "currentScore": 70,
+          "delta": -4,
+          "previousReviews": 6,
+          "currentReviews": 5
         },
         {
           "title": "Sapphire McIntosh: Squeaky Bum Time",
@@ -90,14 +82,6 @@
           "currentReviews": 3
         },
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "Heated Rivalry: The Musical Parody",
           "previousScore": 77,
           "currentScore": 80,
@@ -120,16 +104,32 @@
           "delta": -3,
           "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "Cruising",
+          "previousScore": 64,
+          "currentScore": 67,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "I Bought a Flip Phone",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Dear Lihua",
-          "score": 83,
-          "reviews": 2
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Dear Lihua",
           "score": 83,
           "reviews": 2
         },
@@ -139,8 +139,18 @@
           "reviews": 2
         },
         {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Rob Duncan: Printer of the Year",
           "score": 77,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -156,6 +166,11 @@
         {
           "title": "Aditya Mayya Pretends to Be Sad",
           "score": 73,
+          "reviews": 2
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -759,6 +774,7 @@
         "Justina Seselskaite: Settled",
         "KEVIN!!!!!",
         "Kanan Gill: Not This Again",
+        "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
@@ -796,6 +812,7 @@
         "Lilla Multipass: Woman(33)",
         "Lindsey Santoro: It Was Like That When I Got Here",
         "Linus Karp Was Hit With An Umbrella",
+        "Lions",
         "Lisa! The Mona Lisa Musical",
         "Little Animals",
         "Little Pink Dress",
@@ -1073,6 +1090,7 @@
         "Smashing Shakespeare: Brave Macbeth",
         "Smile, It Might Never Happen",
         "Smile: The Charlie Chaplin Story",
+        "Snow",
         "Soaked",
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
