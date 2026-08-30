@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-30T11:09:35.681Z",
-      "completedAt": "2026-08-30T11:09:35.681Z",
+      "id": "2026-08-30T15:34:46.123Z",
+      "completedAt": "2026-08-30T15:34:46.123Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1298,
-      "totalNotices": 4326,
-      "defaultVisible": 808,
-      "duplicates": 1,
+      "totalShows": 1290,
+      "totalNotices": 4334,
+      "defaultVisible": 811,
+      "duplicates": 3,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-29T09:30:19.527Z",
-      "windowEndedAt": "2026-08-30T11:09:35.681Z",
-      "windowCoverageHours": 25.7,
+      "windowStartedAt": "2026-08-29T14:45:47.648Z",
+      "windowEndedAt": "2026-08-30T15:34:46.123Z",
+      "windowCoverageHours": 24.8,
       "scansInWindow": 7,
-      "newReviews": 27872,
-      "newShows": 24,
-      "enteredRanking": 21,
+      "newReviews": 27943,
+      "newShows": 37,
+      "enteredRanking": 12,
       "newOutlets": [],
       "movers": [
         {
@@ -34,10 +34,34 @@
           "currentReviews": 4
         },
         {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 74,
+          "currentScore": 68,
+          "delta": -6,
+          "previousReviews": 6,
+          "currentReviews": 4
+        },
+        {
           "title": "Explosive Science Show!",
           "previousScore": 83,
           "currentScore": 77,
           "delta": -6,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Hudson Hughes: At Your Service",
+          "previousScore": 82,
+          "currentScore": 87,
+          "delta": 5,
+          "previousReviews": 4,
+          "currentReviews": 6
+        },
+        {
+          "title": "Harry Stachini: Lobster",
+          "previousScore": 83,
+          "currentScore": 78,
+          "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -50,6 +74,14 @@
           "currentReviews": 6
         },
         {
+          "title": "How to Poop in an Outhouse at -58°C",
+          "previousScore": 82,
+          "currentScore": 78,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "Adults Only Magic Show",
           "previousScore": 82,
           "currentScore": 78,
@@ -58,18 +90,10 @@
           "currentReviews": 4
         },
         {
-          "title": "Sapphire McIntosh: Squeaky Bum Time",
-          "previousScore": 68,
-          "currentScore": 64,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Cogito, Ergo... Something?",
+          "title": "The Singer",
           "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -82,12 +106,12 @@
           "currentReviews": 8
         },
         {
-          "title": "Jack Brookmyre: Impressionable",
-          "previousScore": 73,
-          "currentScore": 76,
+          "title": "Garrett Millerick: We Tried it Your Way",
+          "previousScore": 70,
+          "currentScore": 73,
           "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 7,
+          "currentReviews": 8
         },
         {
           "title": "Rockpools",
@@ -96,67 +120,23 @@
           "delta": 3,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Spooky Dookie: Cool New Planet!!",
-          "previousScore": 73,
-          "currentScore": 70,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Finlay Christie: Champagne Casanova",
-          "previousScore": 78,
-          "currentScore": 76,
-          "delta": -2,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
-          "title": "Spraywatch: A Beautiful Rescue",
-          "previousScore": 79,
-          "currentScore": 81,
-          "delta": 2,
-          "previousReviews": 9,
-          "currentReviews": 10
         }
       ],
       "newEntries": [
         {
-          "title": "John Robertson's The Dark Room",
-          "score": 91,
-          "reviews": 4
-        },
-        {
-          "title": "See You Tomorrow",
-          "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
+          "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
+          "score": 82,
           "reviews": 3
         },
         {
-          "title": "Joseph Morpurgo: Highlander 70",
-          "score": 83,
-          "reviews": 9
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
-          "title": "Dear Lihua",
-          "score": 83,
+          "title": "Badgers",
+          "score": 79,
           "reviews": 2
-        },
-        {
-          "title": "John Kearns: Tilting at Windmills",
-          "score": 82,
-          "reviews": 4
-        },
-        {
-          "title": "Jess Carrivick: For Your Consideration",
-          "score": 81,
-          "reviews": 4
         },
         {
           "title": "Rob Duncan: Printer of the Year",
@@ -169,34 +149,9 @@
           "reviews": 2
         },
         {
-          "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Simon Evans: Shadow Play",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "War of the Worlds (On a Budget)",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Aditya Mayya Pretends to Be Sad",
+          "title": "Ethan & Gigi Present: THE MOVEMENT",
           "score": 73,
           "reviews": 2
-        },
-        {
-          "title": "Will & Noah: Dinner Dinner Chicken Winner",
-          "score": 72,
-          "reviews": 6
-        },
-        {
-          "title": "ShakeItUp: The Improvised Shakespeare Show",
-          "score": 72,
-          "reviews": 3
         },
         {
           "title": "My Beautiful Brain!",
@@ -204,17 +159,17 @@
           "reviews": 2
         },
         {
-          "title": "Lindsey Santoro: It Was Like That When I Got Here",
-          "score": 64,
+          "title": "Matt Klein: Boyoyoyoyoing",
+          "score": 69,
           "reviews": 2
         },
         {
-          "title": "Michael McPheat is BRUTAL!",
-          "score": 64,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
-          "title": "Ruby Carr: Bite Me",
+          "title": "Gameplay",
           "score": 64,
           "reviews": 2
         },
@@ -224,9 +179,9 @@
           "reviews": 2
         },
         {
-          "title": "123movies.com",
-          "score": 63,
-          "reviews": 3
+          "title": "Miss Thing",
+          "score": 57,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -919,6 +874,7 @@
         "Most of My Moms Are Gay",
         "Mothman: A Romance Musical",
         "Motorway",
+        "Moving On: A New Musical",
         "Mr Boy: The Beauty Contest for Boys",
         "Mr Chonkers: Work in Chonkers",
         "Mrs Gary Breath",
@@ -1345,6 +1301,7 @@
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "Will BF: Moon Team IIIV",
         "Will Sebag-Montefiore: Game of Phones",
+        "Wisard",
         "Woman Seeking Cuddles",
         "Wrap Party",
         "YUCK Circus: Naughties",
