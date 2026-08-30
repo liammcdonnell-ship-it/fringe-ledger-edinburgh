@@ -2,52 +2,60 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-30T06:01:15.762Z",
-      "completedAt": "2026-08-30T06:01:15.762Z",
+      "id": "2026-08-30T11:09:35.681Z",
+      "completedAt": "2026-08-30T11:09:35.681Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1296,
-      "totalNotices": 4303,
-      "defaultVisible": 807,
-      "duplicates": 39,
+      "totalShows": 1298,
+      "totalNotices": 4326,
+      "defaultVisible": 808,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-29T02:33:20.613Z",
-      "windowEndedAt": "2026-08-30T06:01:15.762Z",
-      "windowCoverageHours": 27.5,
+      "windowStartedAt": "2026-08-29T09:30:19.527Z",
+      "windowEndedAt": "2026-08-30T11:09:35.681Z",
+      "windowCoverageHours": 25.7,
       "scansInWindow": 7,
-      "newReviews": 27776,
-      "newShows": 15,
-      "enteredRanking": 16,
+      "newReviews": 27872,
+      "newShows": 24,
+      "enteredRanking": 21,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fantasy World Adventures Mega Park! The Musical",
-          "previousScore": 70,
+          "title": "Introductions",
+          "previousScore": 77,
+          "currentScore": 70,
+          "delta": -7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Explosive Science Show!",
+          "previousScore": 83,
           "currentScore": 77,
-          "delta": 7,
+          "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "title": "Courtney Büchner: One of the Girls",
+          "previousScore": 72,
+          "currentScore": 76,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "previousScore": 74,
-          "currentScore": 70,
+          "title": "Adults Only Magic Show",
+          "previousScore": 82,
+          "currentScore": 78,
           "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Sapphire McIntosh: Squeaky Bum Time",
@@ -58,36 +66,12 @@
           "currentReviews": 4
         },
         {
-          "title": "An Evening with Dame Granny Smith",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Cogito, Ergo... Something?",
           "previousScore": 76,
           "currentScore": 72,
           "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Annabelle James: Annabalism",
-          "previousScore": 61,
-          "currentScore": 65,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Heated Rivalry: The Musical Parody",
-          "previousScore": 77,
-          "currentScore": 80,
-          "delta": 3,
-          "previousReviews": 7,
-          "currentReviews": 8
         },
         {
           "title": "Marty Gleeson: Dog Ear",
@@ -98,35 +82,66 @@
           "currentReviews": 8
         },
         {
-          "title": "A Simply Beastly Murder",
-          "previousScore": 76,
-          "currentScore": 73,
-          "delta": -3,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Cruising",
-          "previousScore": 64,
-          "currentScore": 67,
+          "title": "Jack Brookmyre: Impressionable",
+          "previousScore": 73,
+          "currentScore": 76,
           "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
-          "title": "I Bought a Flip Phone",
-          "previousScore": 77,
-          "currentScore": 74,
+          "title": "Rockpools",
+          "previousScore": 89,
+          "currentScore": 92,
+          "delta": 3,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Spooky Dookie: Cool New Planet!!",
+          "previousScore": 73,
+          "currentScore": 70,
           "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Finlay Christie: Champagne Casanova",
+          "previousScore": 78,
+          "currentScore": 76,
+          "delta": -2,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
+          "title": "Spraywatch: A Beautiful Rescue",
+          "previousScore": 79,
+          "currentScore": 81,
+          "delta": 2,
+          "previousReviews": 9,
+          "currentReviews": 10
         }
       ],
       "newEntries": [
         {
+          "title": "John Robertson's The Dark Room",
+          "score": 91,
+          "reviews": 4
+        },
+        {
+          "title": "See You Tomorrow",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Bigfoot Ripped My Dog In Half I Saw It",
           "score": 87,
           "reviews": 3
+        },
+        {
+          "title": "Joseph Morpurgo: Highlander 70",
+          "score": 83,
+          "reviews": 9
         },
         {
           "title": "Dear Lihua",
@@ -134,14 +149,14 @@
           "reviews": 2
         },
         {
-          "title": "Kate Dolan: Trout",
-          "score": 83,
-          "reviews": 2
+          "title": "John Kearns: Tilting at Windmills",
+          "score": 82,
+          "reviews": 4
         },
         {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 81,
+          "reviews": 4
         },
         {
           "title": "Rob Duncan: Printer of the Year",
@@ -149,17 +164,22 @@
           "reviews": 2
         },
         {
-          "title": "After Party",
+          "title": "Isle of No'Man",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "God Complex",
+          "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Not Another Quiz Night",
+          "title": "Simon Evans: Shadow Play",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "War of the Worlds (On a Budget)",
           "score": 76,
           "reviews": 2
         },
@@ -169,23 +189,18 @@
           "reviews": 2
         },
         {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
+          "title": "Will & Noah: Dinner Dinner Chicken Winner",
+          "score": 72,
+          "reviews": 6
         },
         {
-          "title": "Deckhand",
-          "score": 70,
-          "reviews": 2
+          "title": "ShakeItUp: The Improvised Shakespeare Show",
+          "score": 72,
+          "reviews": 3
         },
         {
           "title": "My Beautiful Brain!",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "9/11 Birds and the Bees",
-          "score": 67,
           "reviews": 2
         },
         {
@@ -202,6 +217,16 @@
           "title": "Ruby Carr: Bite Me",
           "score": 64,
           "reviews": 2
+        },
+        {
+          "title": "Star Wars: The Next Generation",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "123movies.com",
+          "score": 63,
+          "reviews": 3
         }
       ],
       "newShowTitles": [
@@ -218,6 +243,7 @@
         "1 Pill 2 Pill, Red Pill Blue Pill: A Matrix Parody Musical",
         "1 in 2 Men Think They Could Land A Plane - Could You?",
         "100 Million Fish in the Aquarium",
+        "100% Badgers 2: Badgers vs Hedgehogs with Matt Hobs",
         "100% Badgers with Matt Hobs",
         "101 Impressions in One Hour",
         "101 Rules for a Better World (by Comedians)",
@@ -311,6 +337,7 @@
         "An A to Z Guide to Dating",
         "An American (Not) in Paris",
         "An Asexual Show About Cunnilingus by Eliott Simpson",
+        "An Audience with Charles Manson",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "An Evening with Dame Granny Smith",
         "An Evening with Gerald Lloyd-Davies",
@@ -424,6 +451,7 @@
         "CSI: Crime Scene Improvisation",
         "CVNT",
         "Cabbage the Clown: Cinemadrome",
+        "Caitriona Dowden: Sesh Head",
         "Camelton",
         "Candace Bryan: Don&apos;t Be Ridiculous, Everybody Wants This",
         "Carl Carzana THE Comedian Creative Genius",
@@ -577,6 +605,7 @@
         "Excel Comedy and Mathem-antics",
         "Explosive Science Show!",
         "Extra Dry",
+        "Extraordinary Alien",
         "FLOP! The Best Songs From The Worst Musicals",
         "FOC IT UP! with Kemah Bob",
         "FUCCBOIS: LIVE IN CONCERT",
@@ -701,7 +730,6 @@
         "I&apos;m Mom",
         "I&apos;m Still Not That Girl",
         "Ian TC: Ian-Somnia",
-        "If I can’t Dance I’m Not Coming",
         "If We Really Were Witches",
         "If You Let Me Speak",
         "Ify Nwadiwe&apos;s Big Facts",
@@ -736,6 +764,7 @@
         "Jacob Hatton: Ruins",
         "Jacuzzi by Twilight",
         "Jake Baker: The Gentle Men&apos;s Club",
+        "James Barr: Sorry I Hurt Your Son (Said My Ex to My Mum)",
         "James Campbell&apos;s Comedy 4 Kids",
         "James Phelan: Showman",
         "James Trickey: Split",
@@ -767,6 +796,7 @@
         "Jordan Brookes: The Part of You That&apos;s Always Screaming",
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
+        "Julie Belliveau: Enlightened?",
         "Juliette Burton: Villain Era",
         "Just Blokes",
         "Just William",
@@ -836,6 +866,7 @@
         "MATES: The Improvised 90s Sitcom",
         "MC Hammersmith: Ice Ice Nepo Baby",
         "MIND ER3CTION",
+        "MISTRANSLATED",
         "MUSE: The Shakespeare Mayhem Musical",
         "Madam(e) Lou",
         "Madame Chandelier&apos;s Grand Theft Opera",
@@ -957,6 +988,7 @@
         "Pernille Haaland: Nordic Operations",
         "Persona",
         "Pervert Werewolf",
+        "Pews at Ten",
         "Phil Cooper: Deckchair",
         "Phil Ellis: Bath Mat",
         "Phil Nichol: Aren&apos;t We Lucky",
@@ -1130,7 +1162,9 @@
         "Sydnee Washington: My Black Barbie Story",
         "TITCLOWN: daddy&apos;s little girl",
         "TO BE FRANK",
+        "Tabletop Role-Playing Game: The Musical",
         "Taiwan Season: Birthday Party",
+        "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
         "Tamsyn Kelly: Rat's Ass",
@@ -1283,6 +1317,7 @@
         "Uncorked",
         "Under the Influence",
         "Van Gogh & Me",
+        "Very Cheap",
         "Viggo Venn: Only One",
         "Vittorio Angelone: you can&apos;t Say Nothing any more",
         "WEBBER!",
@@ -1293,6 +1328,7 @@
         "We Are All Florida Man",
         "We Have a Dream",
         "We Were Sisters",
+        "We&apos;ve Got Time",
         "Well-Balanced Dads",
         "Werewolf",
         "What Are You Doing After The Orgy?",
