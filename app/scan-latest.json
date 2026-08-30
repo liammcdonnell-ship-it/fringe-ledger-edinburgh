@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-30T15:34:46.123Z",
-      "completedAt": "2026-08-30T15:34:46.123Z",
+      "id": "2026-08-30T18:54:32.923Z",
+      "completedAt": "2026-08-30T18:54:32.923Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1290,
-      "totalNotices": 4334,
-      "defaultVisible": 811,
-      "duplicates": 3,
+      "totalShows": 1298,
+      "totalNotices": 4358,
+      "defaultVisible": 812,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-29T14:45:47.648Z",
-      "windowEndedAt": "2026-08-30T15:34:46.123Z",
-      "windowCoverageHours": 24.8,
+      "windowStartedAt": "2026-08-29T17:59:10.895Z",
+      "windowEndedAt": "2026-08-30T18:54:32.923Z",
+      "windowCoverageHours": 24.9,
       "scansInWindow": 7,
-      "newReviews": 27943,
-      "newShows": 37,
-      "enteredRanking": 12,
+      "newReviews": 27962,
+      "newShows": 10,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Eryn Tett: Tasting Menu",
+          "previousScore": 83,
+          "currentScore": 74,
+          "delta": -9,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
         {
           "title": "Introductions",
           "previousScore": 77,
@@ -34,11 +42,11 @@
           "currentReviews": 4
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "previousScore": 74,
-          "currentScore": 68,
-          "delta": -6,
-          "previousReviews": 6,
+          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
+          "previousScore": 67,
+          "currentScore": 73,
+          "delta": 6,
+          "previousReviews": 4,
           "currentReviews": 4
         },
         {
@@ -90,14 +98,6 @@
           "currentReviews": 4
         },
         {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Marty Gleeson: Dog Ear",
           "previousScore": 71,
           "currentScore": 74,
@@ -114,34 +114,24 @@
           "currentReviews": 8
         },
         {
-          "title": "Rockpools",
-          "previousScore": 89,
-          "currentScore": 92,
+          "title": "Stephen Catling: Clown Fish Out Of Water",
+          "previousScore": 55,
+          "currentScore": 58,
           "delta": 3,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousReviews": 3,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
+          "title": "Hater",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
           "score": 82,
           "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Rob Duncan: Printer of the Year",
-          "score": 77,
-          "reviews": 2
         },
         {
           "title": "Isle of No'Man",
@@ -159,13 +149,13 @@
           "reviews": 2
         },
         {
-          "title": "Matt Klein: Boyoyoyoyoing",
-          "score": 69,
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Matt Klein: Boyoyoyoyoing",
+          "score": 69,
           "reviews": 2
         },
         {
@@ -339,6 +329,7 @@
         "Baby Everything",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Baby Wants Candy",
+        "Babyface",
         "Bachelors of Fine Arts",
         "Bad Boy",
         "Bad Clowns and Good Friends",
@@ -634,6 +625,7 @@
         "HOW TO FRINGE: a chat show with thom tuck",
         "HR The Musical",
         "Hadid",
+        "Hajar, Like Badger",
         "Half-Orphan",
         "Hamlet: Prince of Sweden",
         "Hamlet: The Musical",
@@ -757,7 +749,6 @@
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
-        "KEVIN!!!!!",
         "Kanan Gill: Not This Again",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
@@ -765,7 +756,6 @@
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Keeping Secrets",
-        "Kevin Quantum: Invisible Force",
         "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
         "Killian Sundermann: Killian Dollar Baby",
@@ -971,6 +961,7 @@
         "Queen of The Empire",
         "Queer Diary",
         "Quentin Blake's Mrs Armitage on Wheels",
+        "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
@@ -1052,7 +1043,6 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
-        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shaun Guff: Enuff Is Enuff",
@@ -1089,7 +1079,6 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
-        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1254,7 +1243,6 @@
         "Tom Houghton - New Stuff",
         "Tom Little in His Comfort Zone",
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
-        "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
         "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
