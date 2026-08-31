@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-30T21:44:42.137Z",
-      "completedAt": "2026-08-30T21:44:42.137Z",
+      "id": "2026-08-31T00:00:16.115Z",
+      "completedAt": "2026-08-31T00:00:16.115Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1299,
-      "totalNotices": 4382,
-      "defaultVisible": 811,
-      "duplicates": 8,
+      "totalShows": 1306,
+      "totalNotices": 4396,
+      "defaultVisible": 814,
+      "duplicates": 11,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-29T22:53:38.673Z",
-      "windowEndedAt": "2026-08-30T21:44:42.137Z",
-      "windowCoverageHours": 22.9,
+      "windowStartedAt": "2026-08-30T00:51:34.454Z",
+      "windowEndedAt": "2026-08-31T00:00:16.115Z",
+      "windowCoverageHours": 23.1,
       "scansInWindow": 6,
-      "newReviews": 24081,
-      "newShows": 8,
-      "enteredRanking": 10,
+      "newReviews": 24208,
+      "newShows": 46,
+      "enteredRanking": 15,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,20 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
+          "title": "Doughboys",
+          "previousScore": 74,
           "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "delta": 8,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Introductions",
@@ -74,6 +82,14 @@
           "currentReviews": 3
         },
         {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "previousScore": 81,
+          "currentScore": 77,
+          "delta": -4,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
           "title": "Hudson Hughes: At Your Service",
           "previousScore": 82,
           "currentScore": 86,
@@ -104,25 +120,14 @@
           "delta": -4,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "Adults Only Magic Show",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
         {
           "title": "Jack Rooke: Good Grief",
           "score": 83,
@@ -134,17 +139,27 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "10A: The Fitting Room",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "Isle of No'Man",
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Ruby Wax: Absolutely Famous",
+          "title": "Isle of No'Man",
           "score": 76,
           "reviews": 2
         },
@@ -159,8 +174,18 @@
           "reviews": 2
         },
         {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Matt Klein: Boyoyoyoyoing",
           "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -536,7 +561,6 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
-        "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
         "Enrico Touché: Hot Knees",
