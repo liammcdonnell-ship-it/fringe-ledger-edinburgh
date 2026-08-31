@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-31T09:00:03.813Z",
-      "completedAt": "2026-08-31T09:00:03.813Z",
+      "id": "2026-08-31T16:38:47.039Z",
+      "completedAt": "2026-08-31T16:38:47.039Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1279,
-      "totalNotices": 4394,
-      "defaultVisible": 814,
-      "duplicates": 3,
+      "totalShows": 1291,
+      "totalNotices": 4454,
+      "defaultVisible": 821,
+      "duplicates": 18,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-30T11:09:35.681Z",
-      "windowEndedAt": "2026-08-31T09:00:03.813Z",
-      "windowCoverageHours": 21.8,
+      "windowStartedAt": "2026-08-30T15:34:46.123Z",
+      "windowEndedAt": "2026-08-31T16:38:47.039Z",
+      "windowCoverageHours": 25.1,
       "scansInWindow": 6,
-      "newReviews": 24374,
-      "newShows": -19,
-      "enteredRanking": 13,
+      "newReviews": 24560,
+      "newShows": 1,
+      "enteredRanking": 15,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,28 @@
           "currentReviews": 3
         },
         {
-          "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
-          "previousScore": 76,
-          "currentScore": 82,
+          "title": "The Pigeon Factory",
+          "previousScore": 63,
+          "currentScore": 70,
+          "delta": 7,
+          "previousReviews": 3,
+          "currentReviews": 5
+        },
+        {
+          "title": "Andrew Doherty: Reviewers Welcome... TO DIE!",
+          "previousScore": 78,
+          "currentScore": 71,
+          "delta": -7,
+          "previousReviews": 9,
+          "currentReviews": 2
+        },
+        {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 68,
+          "currentScore": 74,
           "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "Irene Woo: Golden Child",
@@ -50,28 +66,12 @@
           "currentReviews": 5
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Pigeon Factory",
-          "previousScore": 63,
-          "currentScore": 68,
+          "title": "Kristen Schaal: The Legend of Crystal Shell",
+          "previousScore": 77,
+          "currentScore": 82,
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Harry Stachini: Lobster",
-          "previousScore": 83,
-          "currentScore": 78,
-          "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 3
         },
         {
           "title": "The Mr Thing Show",
@@ -82,12 +82,20 @@
           "currentReviews": 5
         },
         {
-          "title": "How to Poop in an Outhouse at -58°C",
+          "title": "Kate Dolan: Trout",
           "previousScore": 82,
           "currentScore": 78,
           "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Twonkey's Soft December Night in Tallahassee",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Vittorio Angelone: you can't Say Nothing any more",
@@ -98,12 +106,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Garrett Millerick: We Tried it Your Way",
-          "previousScore": 70,
-          "currentScore": 73,
-          "delta": 3,
-          "previousReviews": 7,
-          "currentReviews": 8
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "Rhys James: Chop Logic",
@@ -112,21 +120,18 @@
           "delta": 3,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "BIRDS: Alex Hines and Sarah Stafford",
-          "previousScore": 78,
-          "currentScore": 81,
-          "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 6
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "title": "Mark Simmons: Jokes At Noon",
           "score": 89,
           "reviews": 2
+        },
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
           "title": "DOOMSCROLL TILL I DIE",
@@ -134,12 +139,12 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Dystopia 26: The Rock Opera",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Dystopia 26: The Rock Opera",
+          "title": "Hater",
           "score": 83,
           "reviews": 2
         },
@@ -164,8 +169,8 @@
           "reviews": 2
         },
         {
-          "title": "Ethan & Gigi Present: THE MOVEMENT",
-          "score": 73,
+          "title": "She/They",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -179,13 +184,18 @@
           "reviews": 2
         },
         {
-          "title": "Matt Klein: Boyoyoyoyoing",
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Caitriona Dowden: Sesh Head",
           "score": 69,
           "reviews": 2
         },
         {
-          "title": "Miss Thing",
-          "score": 57,
+          "title": "The Plot",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -284,6 +294,7 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -401,6 +412,7 @@
         "CAKE: A Crime of Love",
         "CHUCK",
         "CIRCLE",
+        "CODE",
         "CROWD WORK",
         "CRUSH",
         "CSI: Crime Scene Improvisation",
@@ -545,6 +557,7 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
+        "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
         "Enrico Touché: Hot Knees",
@@ -690,6 +703,7 @@
         "Ify Nwadiwe&apos;s Big Facts",
         "Ignacio Lopez: Nada (secret show)",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
+        "Il canto dell'assiolo",
         "Imogen Andrews: The Unlikeable Worms",
         "Improbotics Presents: Artificial Reality",
         "Impromptunes - The Completely Improvised Musical",
@@ -765,6 +779,7 @@
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Keeping Secrets",
+        "Kevin Quantum: Invisible Force",
         "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
         "Killian Sundermann: Killian Dollar Baby",
@@ -795,6 +810,7 @@
         "Lilla Multipass: Woman(33)",
         "Lindsey Santoro: It Was Like That When I Got Here",
         "Linus Karp Was Hit With An Umbrella",
+        "Lions",
         "Lisa! The Mona Lisa Musical",
         "Little Animals",
         "Little Pink Dress",
@@ -1131,6 +1147,7 @@
         "The 39 Steps",
         "The 40-Year-Old Ballerino",
         "The Adventures of Jasper Cromwell Jones",
+        "The Alternative Black Cabaret Showcase",
         "The Augur",
         "The Bear",
         "The Best Comedy Magic Show You&apos;ll See in the Next 45 Minutes (Probably) at the Free Fringe 2026",
