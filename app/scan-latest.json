@@ -2,60 +2,52 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-08-31T16:38:47.039Z",
-      "completedAt": "2026-08-31T16:38:47.039Z",
+      "id": "2026-08-31T21:43:28.368Z",
+      "completedAt": "2026-08-31T21:43:28.368Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1291,
-      "totalNotices": 4454,
-      "defaultVisible": 821,
-      "duplicates": 18,
+      "totalShows": 1288,
+      "totalNotices": 4450,
+      "defaultVisible": 826,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-30T15:34:46.123Z",
-      "windowEndedAt": "2026-08-31T16:38:47.039Z",
-      "windowCoverageHours": 25.1,
-      "scansInWindow": 6,
-      "newReviews": 24560,
-      "newShows": 1,
-      "enteredRanking": 15,
+      "windowStartedAt": "2026-08-30T21:44:42.137Z",
+      "windowEndedAt": "2026-08-31T21:43:28.368Z",
+      "windowCoverageHours": 24,
+      "scansInWindow": 5,
+      "newReviews": 20617,
+      "newShows": -11,
+      "enteredRanking": 20,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Eryn Tett: Tasting Menu",
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Kate Dolan: Trout",
           "previousScore": 83,
-          "currentScore": 74,
-          "delta": -9,
+          "currentScore": 77,
+          "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "The Pigeon Factory",
-          "previousScore": 63,
-          "currentScore": 70,
-          "delta": 7,
-          "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "Andrew Doherty: Reviewers Welcome... TO DIE!",
-          "previousScore": 78,
-          "currentScore": 71,
-          "delta": -7,
-          "previousReviews": 9,
+          "title": "Dee Allum: Raumdeuter",
+          "previousScore": 75,
+          "currentScore": 69,
+          "delta": -6,
+          "previousReviews": 10,
           "currentReviews": 2
-        },
-        {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
-          "previousScore": 68,
-          "currentScore": 74,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 6
         },
         {
           "title": "Irene Woo: Golden Child",
@@ -74,20 +66,20 @@
           "currentReviews": 4
         },
         {
+          "title": "Adam Flood: Life and Death of the Party",
+          "previousScore": 75,
+          "currentScore": 71,
+          "delta": -4,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
           "title": "The Mr Thing Show",
           "previousScore": 87,
           "currentScore": 91,
           "delta": 4,
           "previousReviews": 3,
           "currentReviews": 5
-        },
-        {
-          "title": "Kate Dolan: Trout",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Twonkey's Soft December Night in Tallahassee",
@@ -114,6 +106,14 @@
           "currentReviews": 2
         },
         {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
           "title": "Rhys James: Chop Logic",
           "previousScore": 80,
           "currentScore": 83,
@@ -129,12 +129,17 @@
           "reviews": 2
         },
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
+          "title": "Alan Bissett: The Red Hourglass",
+          "score": 83,
+          "reviews": 2
         },
         {
           "title": "DOOMSCROLL TILL I DIE",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -149,22 +154,17 @@
           "reviews": 2
         },
         {
-          "title": "Jack Rooke: Good Grief",
-          "score": 83,
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         },
         {
-          "title": "10A: The Fitting Room",
-          "score": 79,
+          "title": "Tabletop Role-Playing Game: The Musical",
+          "score": 78,
           "reviews": 2
         },
         {
           "title": "Kiell Smith-Bynoe's Kool Story Bro",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Ruby Wax: Absolutely Famous",
           "score": 76,
           "reviews": 2
         },
@@ -174,7 +174,17 @@
           "reviews": 2
         },
         {
-          "title": "Rizal Van Geyzel: Arrested",
+          "title": "Take Care",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "¡Ay! Papi: Jilberto Soto",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Eve and Adam",
           "score": 70,
           "reviews": 2
         },
@@ -189,13 +199,28 @@
           "reviews": 2
         },
         {
+          "title": "Verity Sharpe: Landlord's Wet Dream",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Caitriona Dowden: Sesh Head",
           "score": 69,
           "reviews": 2
         },
         {
+          "title": "The Heterosexuals",
+          "score": 68,
+          "reviews": 3
+        },
+        {
           "title": "The Plot",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Lysistrata",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -443,6 +468,7 @@
         "Chris Grace: 88%",
         "Chris Martin Lied To Us",
         "Christian Dart: GUMSHOE!",
+        "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
         "Circus The Show",
@@ -460,6 +486,7 @@
         "Common Tongue",
         "Confessions Of A Mulatto Love Child",
         "Connor Burns: FLOW",
+        "Cordelia Graham: Faint Heart Never F*cked A Pig",
         "Count Binface: Face of the Establishment",
         "Couplet: Folk Marry Kill",
         "Courtney Büchner: One of the Girls",
@@ -519,7 +546,6 @@
         "Dinner With the Wolves",
         "Dinosaurs",
         "Dirty Dancer",
-        "Disenchanted! The Hit Musical",
         "Diva Las Vegas",
         "Do Better: A Dramagedy",
         "Do You Wanna Go?",
@@ -773,6 +799,7 @@
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
         "KEVIN!!!!!",
+        "Kafka for Beginners",
         "Kanan Gill: Not This Again",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
@@ -862,7 +889,6 @@
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
         "Maxx Eddy: Bi Meets World",
-        "Meet Mayor Max",
         "Megasquirt: Fully Loaded",
         "Mel Hudson: Richard Ashcroft Revived My Libido",
         "Michael Brunström: William Tell vs the Algorithm",
@@ -893,7 +919,6 @@
         "Mrs Gary Breath",
         "Mummy&apos;s Dead, Long Live Mummy!",
         "Murder, She Didn&apos;t Write",
-        "Murder, She Didn't Write",
         "My Beautiful Brain!",
         "My Date with Pierce Brosnan",
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
@@ -923,7 +948,6 @@
         "Obie: The Fuck It List",
         "Octopus",
         "Oil & Whiskey",
-        "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
         "Olivia Raine Atwood: Oops",
@@ -1154,6 +1178,7 @@
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
         "The Bob Ross Effect",
         "The Body I Left in Susquehanna National Forest",
+        "The Boline Inn",
         "The Breakup Variety Hour",
         "The Brush",
         "The Cambridge Footlights Tour Show 2026",
