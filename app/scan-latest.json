@@ -2,44 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-01T00:53:45.978Z",
-      "completedAt": "2026-09-01T00:53:45.978Z",
+      "id": "2026-09-01T05:50:53.838Z",
+      "completedAt": "2026-09-01T05:50:53.838Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1316,
-      "totalNotices": 4517,
+      "totalShows": 1304,
+      "totalNotices": 4505,
       "defaultVisible": 831,
-      "duplicates": 22,
+      "duplicates": 9,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-31T00:00:16.115Z",
-      "windowEndedAt": "2026-09-01T00:53:45.978Z",
-      "windowCoverageHours": 24.9,
+      "windowStartedAt": "2026-08-31T02:57:02.083Z",
+      "windowEndedAt": "2026-09-01T05:50:53.838Z",
+      "windowCoverageHours": 26.9,
       "scansInWindow": 5,
-      "newReviews": 20784,
-      "newShows": 10,
-      "enteredRanking": 22,
+      "newReviews": 20940,
+      "newShows": 38,
+      "enteredRanking": 24,
       "newOutlets": [],
       "movers": [
         {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Kate Dolan: Trout",
-          "previousScore": 83,
-          "currentScore": 77,
-          "delta": -6,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Irene Woo: Golden Child",
@@ -56,6 +48,14 @@
           "delta": 5,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Kate Dolan: Trout",
+          "previousScore": 82,
+          "currentScore": 77,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 3
         },
         {
           "title": "Adam Flood: Life and Death of the Party",
@@ -91,19 +91,27 @@
         },
         {
           "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Rip Her to Shreds",
+          "previousScore": 53,
+          "currentScore": 57,
+          "delta": 4,
           "previousReviews": 3,
           "currentReviews": 2
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
           "title": "Hannah Byczkowski: Killer",
@@ -112,14 +120,6 @@
           "delta": 3,
           "previousReviews": 8,
           "currentReviews": 9
-        },
-        {
-          "title": "The Joker and The Thief",
-          "previousScore": 78,
-          "currentScore": 81,
-          "delta": 3,
-          "previousReviews": 6,
-          "currentReviews": 7
         }
       ],
       "newEntries": [
@@ -127,6 +127,11 @@
           "title": "Mark Simmons: Jokes At Noon",
           "score": 89,
           "reviews": 2
+        },
+        {
+          "title": "The Bob Ross Effect",
+          "score": 84,
+          "reviews": 12
         },
         {
           "title": "Alan Bissett: The Red Hourglass",
@@ -144,9 +149,14 @@
           "reviews": 2
         },
         {
-          "title": "Hater",
+          "title": "Little Animals",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Tabletop Role-Playing Game: The Musical",
@@ -209,6 +219,11 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Did You Charge Your Phone for the End of the World?",
           "score": 64,
           "reviews": 2
@@ -220,11 +235,6 @@
         },
         {
           "title": "The Plot",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
         },
@@ -367,6 +377,7 @@
         "Anna Thomas: How to Juggle a Ferret",
         "Annabelle James: Annabalism",
         "Annie Boyle: To All The Boys I&apos;ve Loved Before",
+        "Annie Wobbler (Revisited)",
         "Anti-Fascist Pasta Night",
         "Anyone For Tennis?",
         "Aoife Dunne: Good Grief",
@@ -610,6 +621,7 @@
         "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
+        "Everybody's Got a Bomb",
         "Excel Comedy and Mathem-antics",
         "Explosive Science Show!",
         "Extra Dry",
@@ -907,6 +919,7 @@
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
         "Maxx Eddy: Bi Meets World",
+        "Meet Mayor Max",
         "Megasquirt: Fully Loaded",
         "Mel Hudson: Richard Ashcroft Revived My Libido",
         "Michael Brunström: William Tell vs the Algorithm",
@@ -937,6 +950,7 @@
         "Mrs Gary Breath",
         "Mummy&apos;s Dead, Long Live Mummy!",
         "Murder, She Didn&apos;t Write",
+        "Murder, She Didn't Write",
         "My Beautiful Brain!",
         "My Date with Pierce Brosnan",
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
