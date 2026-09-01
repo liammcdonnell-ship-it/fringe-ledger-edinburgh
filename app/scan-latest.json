@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-01T15:18:43.717Z",
-      "completedAt": "2026-09-01T15:18:43.717Z",
+      "id": "2026-09-01T18:58:47.242Z",
+      "completedAt": "2026-09-01T18:58:47.242Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1346,
-      "totalNotices": 4708,
-      "defaultVisible": 864,
-      "duplicates": 42,
+      "totalShows": 1325,
+      "totalNotices": 4717,
+      "defaultVisible": 862,
+      "duplicates": 3,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-08-31T16:38:47.039Z",
-      "windowEndedAt": "2026-09-01T15:18:43.717Z",
-      "windowCoverageHours": 22.7,
-      "scansInWindow": 5,
-      "newReviews": 21337,
-      "newShows": 55,
-      "enteredRanking": 43,
+      "windowEndedAt": "2026-09-01T18:58:47.242Z",
+      "windowCoverageHours": 26.3,
+      "scansInWindow": 6,
+      "newReviews": 25739,
+      "newShows": 34,
+      "enteredRanking": 44,
       "newOutlets": [],
       "movers": [
         {
@@ -32,6 +32,14 @@
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 10
+        },
+        {
+          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
+          "previousScore": 55,
+          "currentScore": 62,
+          "delta": 7,
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "Smile: The Charlie Chaplin Story",
@@ -58,14 +66,6 @@
           "currentReviews": 4
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 70,
-          "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 7
-        },
-        {
           "title": "Jordan Brookes: The Part of You That's Always Screaming",
           "previousScore": 76,
           "currentScore": 80,
@@ -79,14 +79,6 @@
           "currentScore": 72,
           "delta": 4,
           "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
-          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
-          "previousScore": 55,
-          "currentScore": 59,
-          "delta": 4,
-          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -120,11 +112,24 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Alan Jay: Hell Hath No Humour Like a Gayboy Scorned",
+          "previousScore": 76,
+          "currentScore": 72,
+          "delta": -4,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
           "title": "1 Hour of Insane Magic",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
           "score": 89,
           "reviews": 2
         },
@@ -140,11 +145,6 @@
         },
         {
           "title": "Alan Bissett: The Red Hourglass",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Little Animals",
           "score": 83,
           "reviews": 2
         },
@@ -172,11 +172,6 @@
           "title": "You and Me (and Whoever Comes Next)",
           "score": 82,
           "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
         },
         {
           "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
@@ -249,6 +244,11 @@
           "reviews": 2
         },
         {
+          "title": "Lizzy Hoo - Says Hoo?",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Nothing Personal",
           "score": 70,
           "reviews": 2
@@ -299,7 +299,7 @@
           "reviews": 2
         },
         {
-          "title": "Graduatric",
+          "title": "Gameplay",
           "score": 64,
           "reviews": 2
         },
@@ -325,6 +325,11 @@
         },
         {
           "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
+          "score": 58,
+          "reviews": 3
+        },
+        {
+          "title": "Graduatric",
           "score": 58,
           "reviews": 3
         },
@@ -979,6 +984,7 @@
         "Linus Karp Was Hit With An Umbrella",
         "Lisa! The Mona Lisa Musical",
         "Little Pink Dress",
+        "Lizzy Hoo - Says Hoo?",
         "Lizzy Sunshine",
         "Long Story Short",
         "Lorna Ní Shúilleabháin: Barefoot Before God",
@@ -1507,6 +1513,7 @@
         "You&apos;re Not My Mum!",
         "Your Choice Amanda Royce",
         "Yvette Segan: Guy&apos;s Girl",
+        "Zachary Ruane",
         "Zachary Ruane: Comedy",
         "Zara Gladman is... Aileen: Cameron&apos;s Gap Year Fundraiser",
         "Zoe Brownstone: How To Be Happy All The Time",
