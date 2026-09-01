@@ -2,41 +2,69 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-01T05:50:53.838Z",
-      "completedAt": "2026-09-01T05:50:53.838Z",
+      "id": "2026-09-01T10:37:38.356Z",
+      "completedAt": "2026-09-01T10:37:38.356Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
-      "sourcesChecked": 102,
-      "accessFailed": 0,
-      "totalShows": 1304,
-      "totalNotices": 4505,
-      "defaultVisible": 831,
-      "duplicates": 9,
+      "sourcesChecked": 83,
+      "accessFailed": 19,
+      "totalShows": 1296,
+      "totalNotices": 4560,
+      "defaultVisible": 841,
+      "duplicates": 1,
       "ambiguous": 0,
-      "accessFailures": [],
+      "accessFailures": [
+        "Arts Reviews Edinburgh",
+        "Braw Theatre",
+        "Broadway Baby",
+        "Edinburgh Evening News",
+        "Edinburgh Music Review",
+        "European Comedy",
+        "FringeReview",
+        "From the North",
+        "Lothian Life",
+        "Rolandâ€™s Reviews",
+        "Scottish Field",
+        "Sounds & Stage",
+        "StageSideUK",
+        "STARBURST",
+        "The Flaneur",
+        "The Independent",
+        "The Scotsman",
+        "The Standard",
+        "What The Fringe"
+      ],
       "windowHours": 24,
-      "windowStartedAt": "2026-08-31T02:57:02.083Z",
-      "windowEndedAt": "2026-09-01T05:50:53.838Z",
-      "windowCoverageHours": 26.9,
+      "windowStartedAt": "2026-08-31T09:00:03.813Z",
+      "windowEndedAt": "2026-09-01T10:37:38.356Z",
+      "windowCoverageHours": 25.6,
       "scansInWindow": 5,
-      "newReviews": 20940,
-      "newShows": 38,
-      "enteredRanking": 24,
+      "newReviews": 21079,
+      "newShows": 17,
+      "enteredRanking": 28,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 72,
+          "currentScore": 65,
           "delta": -7,
-          "previousReviews": 4,
+          "previousReviews": 3,
           "currentReviews": 5
         },
         {
-          "title": "Irene Woo: Golden Child",
-          "previousScore": 74,
-          "currentScore": 69,
+          "title": "The Problem",
+          "previousScore": 68,
+          "currentScore": 74,
+          "delta": 6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
           "delta": -5,
           "previousReviews": 4,
           "currentReviews": 5
@@ -51,26 +79,18 @@
         },
         {
           "title": "Kate Dolan: Trout",
-          "previousScore": 82,
-          "currentScore": 77,
+          "previousScore": 83,
+          "currentScore": 78,
           "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 3
+          "previousReviews": 2,
+          "currentReviews": 4
         },
         {
-          "title": "Adam Flood: Life and Death of the Party",
-          "previousScore": 75,
-          "currentScore": 71,
-          "delta": -4,
-          "previousReviews": 7,
-          "currentReviews": 8
-        },
-        {
-          "title": "The Mr Thing Show",
-          "previousScore": 87,
-          "currentScore": 91,
+          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
+          "previousScore": 55,
+          "currentScore": 59,
           "delta": 4,
-          "previousReviews": 3,
+          "previousReviews": 4,
           "currentReviews": 5
         },
         {
@@ -82,36 +102,12 @@
           "currentReviews": 3
         },
         {
-          "title": "Vittorio Angelone: you can't Say Nothing any more",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Rip Her to Shreds",
-          "previousScore": 53,
-          "currentScore": 57,
-          "delta": 4,
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
         },
         {
           "title": "Hannah Byczkowski: Killer",
@@ -120,6 +116,30 @@
           "delta": 3,
           "previousReviews": 8,
           "currentReviews": 9
+        },
+        {
+          "title": "Charlene Kaye: Diversity Shredder",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 7
+        },
+        {
+          "title": "The Joker and The Thief",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Roger O'Sullivan: Divil May Cry",
+          "previousScore": 78,
+          "currentScore": 75,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
@@ -129,9 +149,9 @@
           "reviews": 2
         },
         {
-          "title": "The Bob Ross Effect",
-          "score": 84,
-          "reviews": 12
+          "title": "Max Fulham: Memory Foam",
+          "score": 86,
+          "reviews": 7
         },
         {
           "title": "Alan Bissett: The Red Hourglass",
@@ -139,24 +159,19 @@
           "reviews": 2
         },
         {
-          "title": "DOOMSCROLL TILL I DIE",
+          "title": "Mummy's Dead, Long Live Mummy!",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Dystopia 26: The Rock Opera",
+          "title": "Oil & Whiskey",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Little Animals",
+          "title": "You and Me (and Whoever Comes Next)",
           "score": 83,
           "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
         },
         {
           "title": "Tabletop Role-Playing Game: The Musical",
@@ -169,17 +184,12 @@
           "reviews": 2
         },
         {
-          "title": "Kiell Smith-Bynoe's Kool Story Bro",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Paul McDaniel: Harder Better Faster Paul-er",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Ruby Wax: Absolutely Famous",
+          "title": "Seymour Mace Is Covered In Stickers!",
           "score": 76,
           "reviews": 2
         },
@@ -194,17 +204,27 @@
           "reviews": 2
         },
         {
+          "title": "The Manchester Revue",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Wild Wild Christian",
+          "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "The Cut of Her Jib",
+          "score": 72,
+          "reviews": 3
+        },
+        {
           "title": "Doomsday Jockeys",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Eve and Adam",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Sexatron",
           "score": 70,
           "reviews": 2
         },
@@ -219,9 +239,14 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Derek Demko's Last Day of Camp!",
+          "score": 69,
           "reviews": 2
+        },
+        {
+          "title": "Parking Spot: The Musical!",
+          "score": 66,
+          "reviews": 4
         },
         {
           "title": "Did You Charge Your Phone for the End of the World?",
@@ -229,7 +254,17 @@
           "reviews": 2
         },
         {
-          "title": "Gameplay",
+          "title": "Graduatric",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Hanna Shammas Takes It To Heart",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Sam Serrano: Mars",
           "score": 64,
           "reviews": 2
         },
@@ -237,6 +272,11 @@
           "title": "The Plot",
           "score": 64,
           "reviews": 2
+        },
+        {
+          "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
+          "score": 58,
+          "reviews": 3
         },
         {
           "title": "Lysistrata",
@@ -252,6 +292,7 @@
         "0 Ambition - A Jew Running the Numbers",
         "0 BC: Before Crisis",
         "0 Hair - Bald Man Sings Rhianna",
+        "0% Shame, 100% Irish!",
         "1 Big Aussie Showcase",
         "1 Big Oops",
         "1 Hour of Insane Magic",
@@ -276,6 +317,7 @@
         "2 Truths, 1 Lie",
         "2 White Guys Rapping: Macshane and Delby",
         "2 Wongs and a White",
+        "2050: A Manifesto",
         "28.06.1980 (or How A Fake Version of Deep Purple Brought Rock Music to Mexico)",
         "2ShoulderPads: Galaxy Train",
         "3 Labours: A Hercules Panto",
@@ -304,7 +346,6 @@
         "A Play on Words",
         "A Queen&apos;s Way",
         "A STAN IS BORN! - Encore",
-        "A Seance Spectacular with the Mystical Medium Wolf Sisters from the Great White North",
         "A Simply Beastly Murder",
         "A Traitors Pantomime",
         "A&E",
@@ -354,6 +395,7 @@
         "An Asexual Show About Cunnilingus by Eliott Simpson",
         "An Audience with Charles Manson",
         "An Audience with Virginia Woolf: Writing One's Mind",
+        "An Englishman, an Irishman and a Scotsman",
         "An Evening with Dame Granny Smith",
         "An Evening with Gerald Lloyd-Davies",
         "An Idiot&apos;s Guide to Murder",
@@ -436,7 +478,9 @@
         "Boy in a Box",
         "Brassed Off",
         "Bread and Circuses",
+        "Brennan Reece: Live",
         "Brew Hill",
+        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -735,6 +779,7 @@
         "Honkers",
         "Hope This Helps!",
         "Hot Singles in Your Area Play D&D",
+        "How My Hormonal Imbalances Killed My Friends",
         "How Not to Make it in America",
         "How To Feel Feelings",
         "How to Poop in an Outhouse at -58°C",
@@ -771,6 +816,7 @@
         "In the Black",
         "Introductions",
         "Irene Woo: Golden Child",
+        "Irish Comedy Headliners",
         "Ironing Board Man",
         "Is This Your First Crime?",
         "Isabelle Glinn On Ice",
@@ -1007,6 +1053,7 @@
         "Patrick Monahan: I&apos;m Not A Terrorist - I&apos;m Freddie Mercury",
         "Paul Black: Cash Cow",
         "Paul Currie: REMOVE YOUR SKIN PLEASE",
+        "Paul Dennis: Title Explained In Blurb - The Musical. Well... sort of.",
         "Paul McDaniel: Harder Better Faster Paul-er",
         "Paul Merton and Suki Webster&apos;s Improv Show",
         "Paul Savage: Comic, Relieved",
@@ -1274,6 +1321,7 @@
         "The Pod",
         "The Poetical Life of Philomena McGuinness",
         "The Political Party with Matt Forde",
+        "The Postcode Lottery",
         "The Powerpop Girls: A New Diva Religion",
         "The Problem",
         "The Proposal",
@@ -1281,6 +1329,7 @@
         "The Real Kyle McCarren",
         "The RemAIns of the Butler",
         "The Reunion",
+        "The Shit Table",
         "The Shocking Truth About Flat Earth",
         "The Skarsgård Effect",
         "The Spectacular Vermin Sisters: Taking Back What&apos;s Ratfully Ours",
@@ -1301,6 +1350,7 @@
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
+        "The Upwards Journey of a Champagne Bubble",
         "The Vagina Monologues",
         "The Vampire Run",
         "The Van Gogh Shogh",
@@ -1365,6 +1415,7 @@
         "What Are You Doing After The Orgy?",
         "What Happens in the Dark",
         "What&apos;s Rotting in the Office Fridge?",
+        "What&apos;s the Craic, God?",
         "Whatever Happened To That Guy?",
         "When We Were Young",
         "When You Are a Tick",
