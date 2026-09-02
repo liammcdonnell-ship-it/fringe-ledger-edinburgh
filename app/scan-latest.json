@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-01T23:40:07.988Z",
-      "completedAt": "2026-09-01T23:40:07.988Z",
+      "id": "2026-09-02T01:37:04.207Z",
+      "completedAt": "2026-09-02T01:37:04.207Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1324,
-      "totalNotices": 4683,
-      "defaultVisible": 857,
-      "duplicates": 19,
+      "totalShows": 1311,
+      "totalNotices": 4700,
+      "defaultVisible": 859,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-09-01T00:53:45.978Z",
-      "windowEndedAt": "2026-09-01T23:40:07.988Z",
-      "windowCoverageHours": 22.8,
-      "scansInWindow": 6,
-      "newReviews": 26187,
-      "newShows": 8,
-      "enteredRanking": 35,
+      "windowEndedAt": "2026-09-02T01:37:04.207Z",
+      "windowCoverageHours": 24.7,
+      "scansInWindow": 7,
+      "newReviews": 30604,
+      "newShows": -5,
+      "enteredRanking": 34,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Doughboys",
-          "previousScore": 82,
-          "currentScore": 74,
-          "delta": -8,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
         {
           "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
           "previousScore": 55,
@@ -42,18 +34,18 @@
           "currentReviews": 6
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 72,
-          "currentScore": 65,
-          "delta": -7,
-          "previousReviews": 3,
-          "currentReviews": 5
-        },
-        {
           "title": "Smile: The Charlie Chaplin Story",
           "previousScore": 92,
           "currentScore": 85,
           "delta": -7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 72,
+          "currentScore": 66,
+          "delta": -6,
           "previousReviews": 3,
           "currentReviews": 4
         },
@@ -71,14 +63,6 @@
           "currentScore": 82,
           "delta": 5,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
           "currentReviews": 4
         },
         {
@@ -114,12 +98,28 @@
           "currentReviews": 3
         },
         {
-          "title": "The Singer",
+          "title": "Alan Jay: Hell Hath No Humour Like a Gayboy Scorned",
           "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
+          "currentScore": 72,
+          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "God Complex",
+          "previousScore": 76,
+          "currentScore": 72,
+          "delta": -4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Amnesia",
+          "previousScore": 79,
+          "currentScore": 76,
+          "delta": -3,
+          "previousReviews": 7,
+          "currentReviews": 9
         }
       ],
       "newEntries": [
@@ -144,6 +144,11 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Moving On: A New Musical",
           "score": 83,
           "reviews": 2
@@ -159,12 +164,12 @@
           "reviews": 2
         },
         {
-          "title": "Otuz Bir",
-          "score": 82,
-          "reviews": 3
+          "title": "You and Me (and Whoever Comes Next)",
+          "score": 83,
+          "reviews": 2
         },
         {
-          "title": "You and Me (and Whoever Comes Next)",
+          "title": "Otuz Bir",
           "score": 82,
           "reviews": 3
         },
@@ -176,11 +181,6 @@
         {
           "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
           "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
           "reviews": 2
         },
         {
@@ -211,11 +211,6 @@
         {
           "title": "Wild Wild Christian",
           "score": 75,
-          "reviews": 2
-        },
-        {
-          "title": "August McEachern: Be My Friend",
-          "score": 73,
           "reviews": 2
         },
         {
