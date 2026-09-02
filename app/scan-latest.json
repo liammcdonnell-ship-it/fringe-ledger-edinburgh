@@ -2,44 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-02T11:49:25.652Z",
-      "completedAt": "2026-09-02T11:49:25.652Z",
+      "id": "2026-09-02T15:27:21.911Z",
+      "completedAt": "2026-09-02T15:27:21.911Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1344,
-      "totalNotices": 4752,
-      "defaultVisible": 862,
-      "duplicates": 1,
+      "totalShows": 1324,
+      "totalNotices": 4738,
+      "defaultVisible": 864,
+      "duplicates": 5,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-01T10:37:38.356Z",
-      "windowEndedAt": "2026-09-02T11:49:25.652Z",
-      "windowCoverageHours": 25.2,
+      "windowStartedAt": "2026-09-01T15:18:43.717Z",
+      "windowEndedAt": "2026-09-02T15:27:21.911Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 31004,
-      "newShows": 48,
-      "enteredRanking": 31,
+      "newReviews": 30979,
+      "newShows": -22,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Smile: The Charlie Chaplin Story",
-          "previousScore": 92,
-          "currentScore": 85,
-          "delta": -7,
-          "previousReviews": 3,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "After Careful Consideration",
-          "previousScore": 64,
-          "currentScore": 57,
-          "delta": -7,
-          "previousReviews": 2,
-          "currentReviews": 2
+          "title": "Max Olesker: Making the Cut",
+          "previousScore": 82,
+          "currentScore": 76,
+          "delta": -6,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Graduatric",
@@ -48,46 +48,6 @@
           "delta": -6,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Circus The Show",
-          "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Jordan Brookes: The Part of You That's Always Screaming",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Problem",
-          "previousScore": 74,
-          "currentScore": 70,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
-        {
-          "title": "Padlocked!",
-          "previousScore": 70,
-          "currentScore": 74,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 4
         },
         {
           "title": "Stayin' Alive",
@@ -106,25 +66,65 @@
           "currentReviews": 3
         },
         {
-          "title": "Dear Lihua",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
-          "title": "My Life Is a Sonnet",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
+          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
+          "previousScore": 59,
+          "currentScore": 62,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "...Earnest?",
+          "previousScore": 80,
+          "currentScore": 83,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "This Is How I Got Arrested...",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Hard to Swallow: Reuben Kaye",
+          "previousScore": 88,
+          "currentScore": 85,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Ruby Carr: Bite Me",
+          "previousScore": 63,
+          "currentScore": 66,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "1 Hour of Insane Magic",
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
           "score": 89,
           "reviews": 2
         },
@@ -134,68 +134,18 @@
           "reviews": 2
         },
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Fruit Flies",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Hater",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Moving On: A New Musical",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Otuz Bir",
-          "score": 82,
-          "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "@Jenna",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Delusions and Grandeur",
+          "title": "We've Got Time",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Olaf Falafel's Stupidest Super Stupid Show: This Time It's Stupider!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Van Gogh & Me",
-          "score": 76,
+          "title": "In Memory of Me",
+          "score": 73,
           "reviews": 2
         },
         {
@@ -209,67 +159,17 @@
           "reviews": 2
         },
         {
-          "title": "Nothing Personal",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Shane Daniel Byrne: Baby This Time",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Hadid",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Chris Martin Lied to Us",
-          "score": 65,
-          "reviews": 2
-        },
-        {
-          "title": "Brew Hill",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Mina Liccione: Arabized",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Teen Spirit",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "I Think I'm Turning Japanese (I Really Think So, Not!)",
-          "score": 61,
+          "title": "Thermos Museum Books",
+          "score": 64,
           "reviews": 2
         },
         {
-          "title": "What's the Craic, God?",
-          "score": 61,
-          "reviews": 2
-        },
-        {
-          "title": "A Queen's Way",
+          "title": "An Audience with Charles Manson",
           "score": 57,
           "reviews": 2
         },
@@ -537,7 +437,6 @@
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
-        "Circa: Wolf",
         "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
@@ -945,6 +844,7 @@
         "MIND ER3CTION",
         "MISTRANSLATED",
         "MUSE: The Shakespeare Mayhem Musical",
+        "Mad Ron Presents Identity Theft - The Gameshow",
         "Madam(e) Lou",
         "Madame Chandelier&apos;s Grand Theft Opera",
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
@@ -1361,7 +1261,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
@@ -1385,6 +1284,7 @@
         "Tilly Fletcher: Television",
         "Tim Biglowe: Plonka",
         "Tim Kenneth Kicks the Bucket",
+        "Tim Key: Loganberry",
         "Time Travel Postman",
         "Toast",
         "Tom Ballard: Be Funny Challenge (Impossible)",
