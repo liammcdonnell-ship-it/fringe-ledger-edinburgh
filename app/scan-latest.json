@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-02T19:03:09.764Z",
-      "completedAt": "2026-09-02T19:03:09.764Z",
+      "id": "2026-09-02T21:39:18.721Z",
+      "completedAt": "2026-09-02T21:39:18.721Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1330,
-      "totalNotices": 4786,
-      "defaultVisible": 872,
-      "duplicates": 4,
+      "totalShows": 1356,
+      "totalNotices": 4824,
+      "defaultVisible": 877,
+      "duplicates": 36,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-01T18:58:47.242Z",
-      "windowEndedAt": "2026-09-02T19:03:09.764Z",
+      "windowStartedAt": "2026-09-01T21:30:35.682Z",
+      "windowEndedAt": "2026-09-02T21:39:18.721Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 31087,
-      "newShows": 5,
-      "enteredRanking": 10,
+      "newReviews": 31207,
+      "newShows": 47,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "After Careful Consideration",
           "previousScore": 64,
@@ -58,12 +66,20 @@
           "currentReviews": 3
         },
         {
-          "title": "God Complex",
+          "title": "The Singer",
           "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
           "title": "This Is How I Got Arrested...",
@@ -104,22 +120,6 @@
           "delta": 2,
           "previousReviews": 13,
           "currentReviews": 14
-        },
-        {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 79,
-          "currentScore": 77,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "The Pitch",
-          "previousScore": 85,
-          "currentScore": 87,
-          "delta": 2,
-          "previousReviews": 8,
-          "currentReviews": 9
         }
       ],
       "newEntries": [
@@ -129,13 +129,43 @@
           "reviews": 2
         },
         {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "@Jenna",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Rachel Creeger: \"Queen of the Jews!\"",
           "score": 76,
           "reviews": 2
         },
         {
           "title": "We've Got Time",
           "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Brennan Reece: Live",
+          "score": 73,
           "reviews": 2
         },
         {
@@ -149,13 +179,23 @@
           "reviews": 2
         },
         {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Kanan Gill: Not This Again",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "Millicent Sarre is Too Tired to Smash (Patriarchy)",
-          "score": 64,
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -400,6 +440,7 @@
         "CAKE: A Crime of Love",
         "CHUCK",
         "CIRCLE",
+        "CODE",
         "CROWD WORK",
         "CRUSH",
         "CSI: Crime Scene Improvisation",
@@ -632,6 +673,7 @@
         "Grandma&apos;s Shop",
         "Gregor Fisher: An (Early) Evening With Gregor Fisher",
         "Grimm AF",
+        "Growing Up with Nits and Fleas",
         "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
         "Gutter",
         "Guy Branum: Be Fruitful",
@@ -1127,6 +1169,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
