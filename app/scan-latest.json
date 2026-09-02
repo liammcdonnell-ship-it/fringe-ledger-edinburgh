@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-02T21:39:18.721Z",
-      "completedAt": "2026-09-02T21:39:18.721Z",
+      "id": "2026-09-02T23:40:12.944Z",
+      "completedAt": "2026-09-02T23:40:12.944Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1356,
-      "totalNotices": 4824,
-      "defaultVisible": 877,
-      "duplicates": 36,
+      "totalShows": 1342,
+      "totalNotices": 4806,
+      "defaultVisible": 873,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-01T21:30:35.682Z",
-      "windowEndedAt": "2026-09-02T21:39:18.721Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-09-01T23:40:07.988Z",
+      "windowEndedAt": "2026-09-02T23:40:12.944Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 7,
-      "newReviews": 31207,
-      "newShows": 47,
-      "enteredRanking": 18,
+      "newReviews": 31263,
+      "newShows": 18,
+      "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Doughboys",
+          "previousScore": 74,
+          "currentScore": 82,
+          "delta": 8,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
         {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 82,
@@ -50,6 +58,14 @@
           "currentReviews": 5
         },
         {
+          "title": "Japanese Grandma Funeral",
+          "previousScore": 75,
+          "currentScore": 80,
+          "delta": 5,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "Stayin' Alive",
           "previousScore": 78,
           "currentScore": 74,
@@ -66,10 +82,10 @@
           "currentReviews": 3
         },
         {
-          "title": "The Singer",
+          "title": "God Complex",
           "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
+          "currentScore": 72,
+          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -104,49 +120,18 @@
           "delta": -3,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "ShakeItUp: The Improvised Shakespeare Show",
-          "previousScore": 72,
-          "currentScore": 75,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 3
-        },
-        {
-          "title": "Stamptown",
-          "previousScore": 78,
-          "currentScore": 80,
-          "delta": 2,
-          "previousReviews": 13,
-          "currentReviews": 14
         }
       ],
       "newEntries": [
         {
-          "title": "Zachary Ruane: Comedy",
-          "score": 89,
-          "reviews": 2
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "score": 77,
+          "reviews": 10
         },
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
+          "title": "Finlay Christie: Champagne Casanova",
+          "score": 76,
+          "reviews": 13
         },
         {
           "title": "@Jenna",
@@ -154,14 +139,24 @@
           "reviews": 2
         },
         {
-          "title": "Rachel Creeger: \"Queen of the Jews!\"",
+          "title": "We've Got Time",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "We've Got Time",
-          "score": 76,
-          "reviews": 2
+          "title": "Eryn Tett: Tasting Menu",
+          "score": 74,
+          "reviews": 3
+        },
+        {
+          "title": "MAN!FEST: The Drag Boyband Musical",
+          "score": 73,
+          "reviews": 12
+        },
+        {
+          "title": "Flamenc Oh!!",
+          "score": 73,
+          "reviews": 8
         },
         {
           "title": "Brennan Reece: Live",
@@ -179,7 +174,12 @@
           "reviews": 2
         },
         {
-          "title": "Border Bodies",
+          "title": "Clary",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Doomsday Jockeys",
           "score": 70,
           "reviews": 2
         },
@@ -189,13 +189,8 @@
           "reviews": 2
         },
         {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Did You Charge Your Phone for the End of the World?",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -256,6 +251,7 @@
         "5 Comedians Do Comedy and Karaoke",
         "5 Lesbians Eating A Quiche",
         "5 Mistakes That Changed History",
+        "58 To Go",
         "9/11 Birds and the Bees",
         "90s Magic Throwback with Chris Fleming",
         "@Jenna",
@@ -1117,7 +1113,6 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
-        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shaun Guff: Enuff Is Enuff",
