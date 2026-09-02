@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-02T06:33:43.159Z",
-      "completedAt": "2026-09-02T06:33:43.159Z",
+      "id": "2026-09-02T11:49:25.652Z",
+      "completedAt": "2026-09-02T11:49:25.652Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1338,
-      "totalNotices": 4738,
-      "defaultVisible": 863,
-      "duplicates": 37,
+      "totalShows": 1344,
+      "totalNotices": 4752,
+      "defaultVisible": 862,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-01T05:50:53.838Z",
-      "windowEndedAt": "2026-09-02T06:33:43.159Z",
-      "windowCoverageHours": 24.7,
+      "windowStartedAt": "2026-09-01T10:37:38.356Z",
+      "windowEndedAt": "2026-09-02T11:49:25.652Z",
+      "windowCoverageHours": 25.2,
       "scansInWindow": 7,
-      "newReviews": 30873,
-      "newShows": 34,
-      "enteredRanking": 38,
+      "newReviews": 31004,
+      "newShows": 48,
+      "enteredRanking": 31,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Selina Mosinski: Puss in Boots - A Working Class Fairy Tale",
-          "previousScore": 55,
-          "currentScore": 62,
-          "delta": 7,
-          "previousReviews": 4,
-          "currentReviews": 6
-        },
         {
           "title": "Smile: The Charlie Chaplin Story",
           "previousScore": 92,
@@ -50,12 +34,20 @@
           "currentReviews": 4
         },
         {
-          "title": "Whatever Happened To That Guy?",
-          "previousScore": 78,
-          "currentScore": 83,
-          "delta": 5,
-          "previousReviews": 4,
-          "currentReviews": 6
+          "title": "After Careful Consideration",
+          "previousScore": 64,
+          "currentScore": 57,
+          "delta": -7,
+          "previousReviews": 2,
+          "currentReviews": 2
+        },
+        {
+          "title": "Graduatric",
+          "previousScore": 64,
+          "currentScore": 58,
+          "delta": -6,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Circus The Show",
@@ -66,12 +58,12 @@
           "currentReviews": 4
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 70,
-          "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 7
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Jordan Brookes: The Part of You That's Always Screaming",
@@ -83,19 +75,35 @@
         },
         {
           "title": "The Problem",
-          "previousScore": 68,
-          "currentScore": 72,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 5
+          "previousScore": 74,
+          "currentScore": 70,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "title": "Padlocked!",
           "previousScore": 70,
-          "currentScore": 66,
+          "currentScore": 74,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 4
+        },
+        {
+          "title": "Stayin' Alive",
+          "previousScore": 78,
+          "currentScore": 74,
           "delta": -4,
           "previousReviews": 4,
           "currentReviews": 4
+        },
+        {
+          "title": "Casey Filips: What a Character",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Dear Lihua",
@@ -110,14 +118,6 @@
           "previousScore": 83,
           "currentScore": 87,
           "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Alan Jay: Hell Hath No Humour Like a Gayboy Scorned",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
         }
@@ -149,17 +149,12 @@
           "reviews": 2
         },
         {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Moving On: A New Musical",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Mummy's Dead, Long Live Mummy!",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Oil & Whiskey",
           "score": 83,
           "reviews": 2
         },
@@ -169,8 +164,8 @@
           "reviews": 3
         },
         {
-          "title": "You and Me (and Whoever Comes Next)",
-          "score": 82,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
           "reviews": 3
         },
         {
@@ -184,6 +179,11 @@
           "reviews": 2
         },
         {
+          "title": "@Jenna",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Delusions and Grandeur",
           "score": 76,
           "reviews": 2
@@ -194,27 +194,12 @@
           "reviews": 2
         },
         {
-          "title": "Seymour Mace Is Covered In Stickers!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "The Manchester Revue",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Van Gogh & Me",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Wild Wild Christian",
-          "score": 75,
-          "reviews": 2
-        },
-        {
-          "title": "Homecumming",
+          "title": "2050: A Manifesto",
           "score": 70,
           "reviews": 2
         },
@@ -239,16 +224,6 @@
           "reviews": 2
         },
         {
-          "title": "Derek Demko's Last Day of Camp!",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Sam Serrano: Mars",
-          "score": 67,
-          "reviews": 3
-        },
-        {
           "title": "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
           "score": 67,
           "reviews": 2
@@ -259,9 +234,9 @@
           "reviews": 2
         },
         {
-          "title": "Support Group",
-          "score": 65,
-          "reviews": 3
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
         },
         {
           "title": "Chris Martin Lied to Us",
@@ -274,17 +249,12 @@
           "reviews": 2
         },
         {
-          "title": "Hanna Shammas Takes It To Heart",
-          "score": 64,
-          "reviews": 2
-        },
-        {
           "title": "Mina Liccione: Arabized",
           "score": 64,
           "reviews": 2
         },
         {
-          "title": "Thermos Museum Books",
+          "title": "Teen Spirit",
           "score": 64,
           "reviews": 2
         },
@@ -299,18 +269,13 @@
           "reviews": 2
         },
         {
-          "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
-          "score": 58,
-          "reviews": 3
-        },
-        {
-          "title": "Graduatric",
-          "score": 58,
-          "reviews": 3
-        },
-        {
           "title": "A Queen's Way",
           "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Knight's Dream",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -485,6 +450,7 @@
         "Ben Hart: The Labyrinth",
         "Ben&apos;s Book Club",
         "Benjamin Quirk: Twink Death",
+        "Best in Class",
         "Best of the Fest",
         "Best. Dad. NEVER.",
         "Beth and Ben: Your Place in the Workplace",
@@ -496,6 +462,7 @@
         "Big Tobacco&apos;s Pinocchio",
         "Bilal Zafar: Rubicon",
         "Billy Kirkwood: Mayhem",
+        "Biscuit Barrel: The 69-Sketch Show",
         "Bite Me Comedy",
         "Blackjack! (and other ways to get lucky) in Your Parents&apos; Basement",
         "Blip Barp: An Alien Love Story",
@@ -1193,6 +1160,7 @@
         "Sarah Roberts: Scary Movie 7",
         "Sasha Nezlobin: I&apos;m Fine",
         "Sasha Nezlobin: I'm Fine",
+        "Sashi Perera - Pear Tree",
         "Scout Boxall: God&apos;s Favourite",
         "Sean Morley: Backchannel",
         "Seann Walsh: This Is Torture",
@@ -1225,6 +1193,7 @@
         "Shrink Wrapped: A Psychologist Analyses Comedians Live",
         "Siblings: Dreamweavers",
         "Silky in &apos;No, YOU&apos;RE Poster Syndrome&apos;",
+        "Silly Goose!",
         "Simon Amstell: I Love It Here",
         "Simon Evans: Shadow Play",
         "Simon Munnery",
@@ -1353,6 +1322,7 @@
         "The Man Who Said Too Much",
         "The Manchester Revue",
         "The Meeples: XXX",
+        "The Most Toast",
         "The Mr Thing Show",
         "The New Year",
         "The Only Man Who Won&apos;t F*ck Me",
@@ -1432,6 +1402,7 @@
         "Tori Morancay: Le French c&apos;est Freak",
         "Trans People Are Awful",
         "Transmission",
+        "Trial by Jury",
         "Turn This Sh*t Off",
         "Turn the Screw, Tickety-Boo",
         "Tweedy&apos;s Massive Solo Show",
