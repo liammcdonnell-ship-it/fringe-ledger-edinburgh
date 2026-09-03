@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-02T23:40:12.944Z",
-      "completedAt": "2026-09-02T23:40:12.944Z",
+      "id": "2026-09-03T01:39:44.010Z",
+      "completedAt": "2026-09-03T01:39:44.010Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1342,
-      "totalNotices": 4806,
-      "defaultVisible": 873,
-      "duplicates": 7,
+      "totalShows": 1349,
+      "totalNotices": 4818,
+      "defaultVisible": 876,
+      "duplicates": 20,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-01T23:40:07.988Z",
-      "windowEndedAt": "2026-09-02T23:40:12.944Z",
+      "windowStartedAt": "2026-09-02T01:37:04.207Z",
+      "windowEndedAt": "2026-09-03T01:39:44.010Z",
       "windowCoverageHours": 24,
       "scansInWindow": 7,
-      "newReviews": 31263,
-      "newShows": 18,
-      "enteredRanking": 17,
+      "newReviews": 31366,
+      "newShows": 38,
+      "enteredRanking": 19,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Doughboys",
-          "previousScore": 74,
-          "currentScore": 82,
-          "delta": 8,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "After Careful Consideration",
           "previousScore": 64,
@@ -66,6 +50,14 @@
           "currentReviews": 4
         },
         {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "Stayin' Alive",
           "previousScore": 78,
           "currentScore": 74,
@@ -82,28 +74,20 @@
           "currentReviews": 3
         },
         {
-          "title": "God Complex",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
           "title": "This Is How I Got Arrested...",
           "previousScore": 78,
           "currentScore": 81,
           "delta": 3,
           "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "Sad Bride",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Ruby Carr: Bite Me",
@@ -120,18 +104,54 @@
           "delta": -3,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "ShakeItUp: The Improvised Shakespeare Show",
+          "previousScore": 72,
+          "currentScore": 75,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 3
+        },
+        {
+          "title": "Stamptown",
+          "previousScore": 78,
+          "currentScore": 80,
+          "delta": 2,
+          "previousReviews": 13,
+          "currentReviews": 14
         }
       ],
       "newEntries": [
         {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "score": 77,
-          "reviews": 10
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
-          "title": "Finlay Christie: Champagne Casanova",
-          "score": 76,
-          "reviews": 13
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Monks",
+          "score": 78,
+          "reviews": 6
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
         },
         {
           "title": "@Jenna",
@@ -144,19 +164,14 @@
           "reviews": 2
         },
         {
-          "title": "Eryn Tett: Tasting Menu",
+          "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
           "score": 74,
-          "reviews": 3
+          "reviews": 5
         },
         {
-          "title": "MAN!FEST: The Drag Boyband Musical",
+          "title": "August McEachern: Be My Friend",
           "score": 73,
-          "reviews": 12
-        },
-        {
-          "title": "Flamenc Oh!!",
-          "score": 73,
-          "reviews": 8
+          "reviews": 2
         },
         {
           "title": "Brennan Reece: Live",
@@ -174,12 +189,7 @@
           "reviews": 2
         },
         {
-          "title": "Clary",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Doomsday Jockeys",
+          "title": "Border Bodies",
           "score": 70,
           "reviews": 2
         },
@@ -189,8 +199,8 @@
           "reviews": 2
         },
         {
-          "title": "Did You Charge Your Phone for the End of the World?",
-          "score": 64,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
