@@ -2,34 +2,50 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-03T15:21:25.764Z",
-      "completedAt": "2026-09-03T15:21:25.764Z",
+      "id": "2026-09-03T18:58:46.015Z",
+      "completedAt": "2026-09-03T18:58:46.015Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1345,
-      "totalNotices": 4871,
-      "defaultVisible": 879,
-      "duplicates": 1,
+      "totalShows": 1325,
+      "totalNotices": 4852,
+      "defaultVisible": 880,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-02T15:27:21.911Z",
-      "windowEndedAt": "2026-09-03T15:21:25.764Z",
+      "windowStartedAt": "2026-09-02T19:03:09.764Z",
+      "windowEndedAt": "2026-09-03T18:58:46.015Z",
       "windowCoverageHours": 23.9,
       "scansInWindow": 7,
-      "newReviews": 31627,
-      "newShows": 21,
-      "enteredRanking": 19,
+      "newReviews": 31675,
+      "newShows": -5,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "My Beautiful Brain!",
           "previousScore": 70,
           "currentScore": 77,
           "delta": 7,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "After Careful Consideration",
+          "previousScore": 57,
+          "currentScore": 63,
+          "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -74,6 +90,22 @@
           "currentReviews": 3
         },
         {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
           "title": "Temi Wilkey: Lover Girl",
           "previousScore": 71,
           "currentScore": 74,
@@ -82,64 +114,17 @@
           "currentReviews": 10
         },
         {
-          "title": "Steak Out",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 8,
-          "currentReviews": 9
-        },
-        {
           "title": "Paddy Young: Will Sir Be Laughing Alone?",
           "previousScore": 81,
           "currentScore": 78,
           "delta": -3,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "Robin Grainger: Lemonade",
-          "previousScore": 81,
-          "currentScore": 78,
-          "delta": -3,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Hard to Swallow: Reuben Kaye",
-          "previousScore": 85,
-          "currentScore": 88,
-          "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Emmeline Downie: Gail",
-          "previousScore": 60,
-          "currentScore": 63,
-          "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Colin Cloud: Hoax",
-          "score": 84,
-          "reviews": 8
-        },
-        {
-          "title": "Christian Dart: GUMSHOE!",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Little Animals",
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -149,34 +134,19 @@
           "reviews": 2
         },
         {
-          "title": "Heated Rivalry: The Musical Parody",
-          "score": 82,
-          "reviews": 9
-        },
-        {
-          "title": "Dan Tiernan: Quartz And All",
-          "score": 79,
-          "reviews": 8
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Broke and Fabulous in the 21st Century",
-          "score": 76,
-          "reviews": 6
-        },
-        {
           "title": "David Correos: Noise Zealand",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Making Love with David Magidoff",
-          "score": 74,
-          "reviews": 7
+          "title": "The Pleasance Comedy Reserve",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "You Are What You Eat",
+          "score": 76,
+          "reviews": 2
         },
         {
           "title": "Brennan Reece: Live",
@@ -184,22 +154,7 @@
           "reviews": 2
         },
         {
-          "title": "Excel Comedy and Mathem-antics",
-          "score": 72,
-          "reviews": 3
-        },
-        {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Jamie Leonard: Blink of an Eye",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Kanan Gill: Not This Again",
           "score": 70,
           "reviews": 2
         },
@@ -209,13 +164,18 @@
           "reviews": 2
         },
         {
-          "title": "Derek Demko's Last Day of Camp!",
-          "score": 69,
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
           "reviews": 2
         },
         {
           "title": "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
           "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Thermos Museum Books",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -301,6 +261,7 @@
         "Adam Riches: The Critic&apos;s Way",
         "Adele Cliff&apos;s Topical Early Late Show With Adele Cliff",
         "Aditya Mayya Pretends to Be Sad",
+        "Adrian Minkowicz: Latin America",
         "Adults Only Magic Show",
         "After Arthur",
         "After Careful Consideration",
@@ -1039,7 +1000,6 @@
         "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
         "Queen of The Empire",
         "Queer Diary",
-        "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
@@ -1086,7 +1046,6 @@
         "Ruby Carr: Bite Me",
         "Ruby Wax: Absolutely Famous",
         "Ryan Cullen: Cullen Me Softly",
-        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "STAY",
