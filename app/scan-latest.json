@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-03T01:39:44.010Z",
-      "completedAt": "2026-09-03T01:39:44.010Z",
+      "id": "2026-09-03T06:37:39.267Z",
+      "completedAt": "2026-09-03T06:37:39.267Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1349,
-      "totalNotices": 4818,
-      "defaultVisible": 876,
-      "duplicates": 20,
+      "totalShows": 1345,
+      "totalNotices": 4816,
+      "defaultVisible": 877,
+      "duplicates": 9,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-02T01:37:04.207Z",
-      "windowEndedAt": "2026-09-03T01:39:44.010Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-02T06:33:43.159Z",
+      "windowEndedAt": "2026-09-03T06:37:39.267Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 31366,
-      "newShows": 38,
-      "enteredRanking": 19,
+      "newReviews": 31397,
+      "newShows": 7,
+      "enteredRanking": 16,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
         {
           "title": "After Careful Consideration",
           "previousScore": 64,
@@ -50,14 +58,6 @@
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
           "title": "Stayin' Alive",
           "previousScore": 78,
           "currentScore": 74,
@@ -74,20 +74,28 @@
           "currentReviews": 3
         },
         {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
           "title": "This Is How I Got Arrested...",
           "previousScore": 78,
           "currentScore": 81,
           "delta": 3,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "Sad Bride",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "Ruby Carr: Bite Me",
@@ -112,45 +120,17 @@
           "delta": 3,
           "previousReviews": 3,
           "currentReviews": 3
-        },
-        {
-          "title": "Stamptown",
-          "previousScore": 78,
-          "currentScore": 80,
-          "delta": 2,
-          "previousReviews": 13,
-          "currentReviews": 14
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
+          "title": "Bucksomly Betrothals",
+          "score": 92,
           "reviews": 3
         },
         {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Monks",
-          "score": 78,
-          "reviews": 6
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
           "reviews": 2
         },
         {
@@ -164,14 +144,9 @@
           "reviews": 2
         },
         {
-          "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
-          "score": 74,
-          "reviews": 5
-        },
-        {
-          "title": "August McEachern: Be My Friend",
-          "score": 73,
-          "reviews": 2
+          "title": "A Highly Suspect Murder Mystery: Knives In",
+          "score": 75,
+          "reviews": 4
         },
         {
           "title": "Brennan Reece: Live",
@@ -194,13 +169,18 @@
           "reviews": 2
         },
         {
+          "title": "Cabbage the Clown: Cinemadrome",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Kanan Gill: Not This Again",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -210,6 +190,11 @@
         },
         {
           "title": "An Audience with Charles Manson",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Britain's Got Nonsense",
           "score": 57,
           "reviews": 2
         },
@@ -442,6 +427,7 @@
         "Burning Down the Horse",
         "Bush! The Musical",
         "CABAPOCALYPSARET",
+        "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CAKE: A Crime of Love",
         "CHUCK",
@@ -480,6 +466,7 @@
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
+        "Circa: Wolf",
         "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
@@ -687,7 +674,6 @@
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
         "HOW TO FRINGE: a chat show with thom tuck",
-        "HR The Musical",
         "Hadid",
         "Hajar, Like Badger",
         "Half-Orphan",
@@ -1023,7 +1009,6 @@
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
-        "Pilate: The Lost Gospel",
         "Pimm&apos;s Without the Cucumber",
         "Pirates: You Wouldn&apos;t Steal A Boat",
         "Plano",
@@ -1149,7 +1134,6 @@
         "Smashing Shakespeare: Brave Macbeth",
         "Smile, It Might Never Happen",
         "Smile: The Charlie Chaplin Story",
-        "Snow",
         "Soaked",
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
@@ -1160,7 +1144,6 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
-        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1340,7 +1323,6 @@
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
         "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-        "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
