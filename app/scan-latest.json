@@ -2,60 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-03T11:49:55.151Z",
-      "completedAt": "2026-09-03T11:49:55.151Z",
+      "id": "2026-09-03T15:21:25.764Z",
+      "completedAt": "2026-09-03T15:21:25.764Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1349,
-      "totalNotices": 4834,
-      "defaultVisible": 876,
-      "duplicates": 17,
+      "totalShows": 1345,
+      "totalNotices": 4871,
+      "defaultVisible": 879,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-02T11:49:25.652Z",
-      "windowEndedAt": "2026-09-03T11:49:55.151Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-02T15:27:21.911Z",
+      "windowEndedAt": "2026-09-03T15:21:25.764Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 7,
-      "newReviews": 31512,
-      "newShows": 5,
-      "enteredRanking": 16,
+      "newReviews": 31627,
+      "newShows": 21,
+      "enteredRanking": 19,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 76,
-          "currentScore": 68,
-          "delta": -8,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Max Olesker: Making the Cut",
-          "previousScore": 82,
-          "currentScore": 76,
-          "delta": -6,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "After Careful Consideration",
-          "previousScore": 57,
-          "currentScore": 63,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Séance Starter Kit™",
+          "title": "My Beautiful Brain!",
           "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "currentScore": 77,
+          "delta": 7,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Japanese Grandma Funeral",
@@ -66,6 +42,14 @@
           "currentReviews": 4
         },
         {
+          "title": "Mother, Maiden and Crone",
+          "previousScore": 91,
+          "currentScore": 87,
+          "delta": -4,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
           "title": "Freddie Meredith: Need A Light?",
           "previousScore": 77,
           "currentScore": 73,
@@ -74,36 +58,36 @@
           "currentReviews": 8
         },
         {
-          "title": "An American (Not) in Paris",
-          "previousScore": 84,
-          "currentScore": 80,
-          "delta": -4,
-          "previousReviews": 4,
+          "title": "Kate Dolan: Trout",
+          "previousScore": 77,
+          "currentScore": 81,
+          "delta": 4,
+          "previousReviews": 3,
           "currentReviews": 5
         },
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
+          "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
+          "previousScore": 79,
+          "currentScore": 75,
           "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 75,
-          "currentScore": 72,
-          "delta": -3,
-          "previousReviews": 16,
-          "currentReviews": 14
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 80,
-          "currentScore": 83,
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 71,
+          "currentScore": 74,
           "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "Steak Out",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 8,
+          "currentReviews": 9
         },
         {
           "title": "Paddy Young: Will Sir Be Laughing Alone?",
@@ -114,29 +98,75 @@
           "currentReviews": 6
         },
         {
-          "title": "DADDY ISSUES",
-          "previousScore": 63,
-          "currentScore": 60,
+          "title": "Robin Grainger: Lemonade",
+          "previousScore": 81,
+          "currentScore": 78,
           "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Hard to Swallow: Reuben Kaye",
+          "previousScore": 85,
+          "currentScore": 88,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Emmeline Downie: Gail",
+          "previousScore": 60,
+          "currentScore": 63,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "John-Luke Roberts: What I Talk About When I Run About, Talking",
-          "score": 83,
-          "reviews": 11
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
-          "title": "The Joker and The Thief",
-          "score": 83,
+          "title": "Colin Cloud: Hoax",
+          "score": 84,
           "reviews": 8
         },
         {
-          "title": "Sofie Hagen - I Think Some of This Is My Fault",
+          "title": "Christian Dart: GUMSHOE!",
           "score": 83,
-          "reviews": 7
+          "reviews": 2
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Police Cops: The Original",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Heated Rivalry: The Musical Parody",
+          "score": 82,
+          "reviews": 9
+        },
+        {
+          "title": "Dan Tiernan: Quartz And All",
+          "score": 79,
+          "reviews": 8
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Broke and Fabulous in the 21st Century",
+          "score": 76,
+          "reviews": 6
         },
         {
           "title": "David Correos: Noise Zealand",
@@ -144,9 +174,9 @@
           "reviews": 2
         },
         {
-          "title": "We've Got Time",
-          "score": 76,
-          "reviews": 2
+          "title": "Making Love with David Magidoff",
+          "score": 74,
+          "reviews": 7
         },
         {
           "title": "Brennan Reece: Live",
@@ -154,12 +184,7 @@
           "reviews": 2
         },
         {
-          "title": "In Memory of Me",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "God Complex",
+          "title": "Excel Comedy and Mathem-antics",
           "score": 72,
           "reviews": 3
         },
@@ -179,28 +204,18 @@
           "reviews": 2
         },
         {
-          "title": "Leo Hincks: Emotional Cowboy",
+          "title": "Shatter Resistant",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Derek Demko's Last Day of Camp!",
+          "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
           "score": 67,
-          "reviews": 8
-        },
-        {
-          "title": "Hanna Shammas Takes It To Heart",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Jamie Kilstein: Can't Tie Knots",
-          "score": 62,
-          "reviews": 2
-        },
-        {
-          "title": "Jack Ansett: Looks Like A Bit Of Me!",
-          "score": 60,
-          "reviews": 4
-        },
-        {
-          "title": "An Audience with Charles Manson",
-          "score": 57,
           "reviews": 2
         }
       ],
@@ -875,7 +890,6 @@
         "MIND ER3CTION",
         "MISTRANSLATED",
         "MUSE: The Shakespeare Mayhem Musical",
-        "Mad Ron Presents Identity Theft - The Gameshow",
         "Madam(e) Lou",
         "Madame Chandelier&apos;s Grand Theft Opera",
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
