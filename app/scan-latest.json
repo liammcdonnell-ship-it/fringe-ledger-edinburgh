@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T21:08:02.929Z",
-      "completedAt": "2026-09-04T21:08:02.929Z",
+      "id": "2026-09-04T23:30:24.279Z",
+      "completedAt": "2026-09-04T23:30:24.279Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1322,
-      "totalNotices": 4882,
-      "defaultVisible": 879,
-      "duplicates": 2,
+      "totalShows": 1326,
+      "totalNotices": 4886,
+      "defaultVisible": 880,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T21:30:30.284Z",
-      "windowEndedAt": "2026-09-04T21:08:02.929Z",
-      "windowCoverageHours": 23.6,
+      "windowStartedAt": "2026-09-03T23:38:10.676Z",
+      "windowEndedAt": "2026-09-04T23:30:24.279Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 7,
-      "newReviews": 32091,
-      "newShows": -39,
-      "enteredRanking": 3,
+      "newReviews": 32203,
+      "newShows": -17,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Hanna Shammas Takes It To Heart",
           "previousScore": 64,
@@ -40,6 +48,22 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
+          "title": "Steak Out",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 8,
+          "currentReviews": 9
         },
         {
           "title": "Gyles Brandreth: Up Memory Lane!",
@@ -74,28 +98,12 @@
           "currentReviews": 4
         },
         {
-          "title": "Absolute Bus Stops of Northern Europe and Beyond",
-          "previousScore": 82,
-          "currentScore": 85,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Crying At My Podiatrist",
           "previousScore": 86,
           "currentScore": 89,
           "delta": 3,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "When You Are a Tick",
-          "previousScore": 48,
-          "currentScore": 51,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 2
         },
         {
           "title": "11½ Angry Men",
@@ -112,30 +120,37 @@
           "delta": 2,
           "previousReviews": 6,
           "currentReviews": 7
-        },
-        {
-          "title": "Noted",
-          "previousScore": 85,
-          "currentScore": 83,
-          "delta": -2,
-          "previousReviews": 4,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
-        },
         {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
+          "title": "Pirates: You Wouldn't Steal A Boat",
+          "score": 81,
+          "reviews": 5
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Let's Listen to Some of Lou Bega's Other Songs Together for an Hour",
+          "score": 73,
+          "reviews": 2
+        },
+        {
           "title": "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Killian Sundermann: Killian Dollar Baby",
+          "score": 66,
           "reviews": 2
         }
       ],
@@ -1219,6 +1234,7 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
+        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
