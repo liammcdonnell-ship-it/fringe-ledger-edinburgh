@@ -2,36 +2,52 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T15:15:16.311Z",
-      "completedAt": "2026-09-04T15:15:16.311Z",
+      "id": "2026-09-04T18:38:30.846Z",
+      "completedAt": "2026-09-04T18:38:30.846Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1321,
-      "totalNotices": 4865,
-      "defaultVisible": 881,
+      "totalShows": 1325,
+      "totalNotices": 4882,
+      "defaultVisible": 879,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T15:21:25.764Z",
-      "windowEndedAt": "2026-09-04T15:15:16.311Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-03T18:58:46.015Z",
+      "windowEndedAt": "2026-09-04T18:38:30.846Z",
+      "windowCoverageHours": 23.7,
       "scansInWindow": 7,
-      "newReviews": 32007,
-      "newShows": -24,
-      "enteredRanking": 9,
+      "newReviews": 32087,
+      "newShows": 0,
+      "enteredRanking": 1,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 69,
-          "currentScore": 76,
-          "delta": 7,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Take Care",
+          "previousScore": 77,
+          "currentScore": 70,
+          "delta": -7,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Hanna Shammas Takes It To Heart",
@@ -42,19 +58,27 @@
           "currentReviews": 3
         },
         {
-          "title": "Steak Out",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 9,
-          "currentReviews": 8
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
-          "title": "Two Little Pigs",
-          "previousScore": 67,
-          "currentScore": 70,
+          "title": "Gyles Brandreth: Up Memory Lane!",
+          "previousScore": 72,
+          "currentScore": 75,
           "delta": 3,
-          "previousReviews": 9,
+          "previousReviews": 8,
+          "currentReviews": 9
+        },
+        {
+          "title": "Stand Up If You're Here Tonight",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 8,
           "currentReviews": 8
         },
         {
@@ -66,106 +90,42 @@
           "currentReviews": 7
         },
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 81,
-          "currentScore": 83,
-          "delta": 2,
-          "previousReviews": 17,
-          "currentReviews": 19
-        },
-        {
-          "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Jonathan Oldfield: Exquisite Corpse",
-          "previousScore": 81,
-          "currentScore": 83,
-          "delta": 2,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 68,
-          "currentScore": 66,
-          "delta": -2,
-          "previousReviews": 5,
+          "title": "Rockpools",
+          "previousScore": 92,
+          "currentScore": 89,
+          "delta": -3,
+          "previousReviews": 3,
           "currentReviews": 4
         },
         {
-          "title": "Smile, It Might Never Happen",
-          "previousScore": 89,
-          "currentScore": 87,
+          "title": "Crying At My Podiatrist",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "11½ Angry Men",
+          "previousScore": 56,
+          "currentScore": 54,
           "delta": -2,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousReviews": 12,
+          "currentReviews": 13
         },
         {
-          "title": "Friendliest",
-          "previousScore": 73,
-          "currentScore": 75,
-          "delta": 2,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "INDY!",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 3
+          "title": "The Shocking Truth About Flat Earth",
+          "previousScore": 85,
+          "currentScore": 83,
+          "delta": -2,
+          "previousReviews": 12,
+          "currentReviews": 11
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "The Shit Table",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "The Pleasance Comedy Reserve",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "You Are What You Eat",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "The Very Best of Tommy Cooper - Just Like That!",
-          "score": 72,
-          "reviews": 4
-        },
-        {
           "title": "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Understudy",
-          "score": 69,
-          "reviews": 7
-        },
-        {
-          "title": "Thermos Museum Books",
-          "score": 64,
           "reviews": 2
         }
       ],
@@ -635,6 +595,7 @@
         "Grimm AF",
         "Growing Up with Nits and Fleas",
         "Grubby Little Mitts: Late Night 70s Game Show (WIP)",
+        "Guilt Free",
         "Gutter",
         "Guy Branum: Be Fruitful",
         "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
@@ -649,6 +610,7 @@
         "Hamlet: The Musical",
         "Hanna Shammas Takes It To Heart",
         "Hannah Byczkowski: Killer",
+        "Hannah Morton: Crushed",
         "Happiest I&apos;ve Ever Been",
         "Happy",
         "Hard Pill",
@@ -934,6 +896,7 @@
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
         "Olivia Raine Atwood: Oops",
         "Olivia Xing: Baby of Colour",
+        "Omar Badawy: Guided Detour",
         "One Man Poe: The Business Man and The Case of M. Valdemar",
         "Only Bones - Daniel Nodder",
         "Operation Blank",
@@ -1258,7 +1221,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
