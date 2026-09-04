@@ -2,42 +2,50 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T06:42:44.992Z",
-      "completedAt": "2026-09-04T06:42:44.992Z",
+      "id": "2026-09-04T11:53:19.653Z",
+      "completedAt": "2026-09-04T11:53:19.653Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1351,
-      "totalNotices": 4887,
-      "defaultVisible": 883,
-      "duplicates": 32,
+      "totalShows": 1346,
+      "totalNotices": 4848,
+      "defaultVisible": 878,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T06:37:39.267Z",
-      "windowEndedAt": "2026-09-04T06:42:44.992Z",
+      "windowStartedAt": "2026-09-03T11:49:55.151Z",
+      "windowEndedAt": "2026-09-04T11:53:19.653Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 31977,
-      "newShows": 6,
-      "enteredRanking": 8,
+      "newReviews": 31971,
+      "newShows": -3,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "One Man Musical",
+          "previousScore": 85,
+          "currentScore": 76,
+          "delta": -9,
+          "previousReviews": 11,
+          "currentReviews": 2
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 68,
+          "currentScore": 76,
+          "delta": 8,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "My Beautiful Brain!",
           "previousScore": 70,
           "currentScore": 77,
           "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "After Careful Consideration",
-          "previousScore": 57,
-          "currentScore": 63,
-          "delta": 6,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -50,14 +58,6 @@
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
           "title": "Mother, Maiden and Crone",
           "previousScore": 91,
           "currentScore": 87,
@@ -66,12 +66,12 @@
           "currentReviews": 8
         },
         {
-          "title": "Freddie Meredith: Need A Light?",
-          "previousScore": 77,
-          "currentScore": 73,
-          "delta": -4,
-          "previousReviews": 7,
-          "currentReviews": 8
+          "title": "An American (Not) in Paris",
+          "previousScore": 80,
+          "currentScore": 84,
+          "delta": 4,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
@@ -90,11 +90,27 @@
           "currentReviews": 10
         },
         {
-          "title": "Paddy Young: Will Sir Be Laughing Alone?",
+          "title": "The Van Gogh Shogh",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "The Past",
           "previousScore": 81,
-          "currentScore": 78,
-          "delta": -3,
+          "currentScore": 84,
+          "delta": 3,
           "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 77,
+          "currentScore": 80,
+          "delta": 3,
+          "previousReviews": 7,
           "currentReviews": 6
         },
         {
@@ -104,39 +120,18 @@
           "delta": -3,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "Emmeline Downie: Gail",
-          "previousScore": 60,
-          "currentScore": 63,
-          "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Sad Bride",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
         {
           "title": "Police Cops: The Original",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "David Correos: Noise Zealand",
+          "title": "We Have a Dream",
           "score": 76,
-          "reviews": 2
+          "reviews": 4
         },
         {
           "title": "The Pleasance Comedy Reserve",
@@ -149,11 +144,6 @@
           "reviews": 2
         },
         {
-          "title": "Jamie Leonard: Blink of an Eye",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "Shatter Resistant",
           "score": 70,
           "reviews": 2
@@ -161,6 +151,11 @@
         {
           "title": "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
           "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "When You Are a Tick",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -1012,6 +1007,7 @@
         "Rip Her to Shreds",
         "Rizal Van Geyzel: Arrested",
         "Rob Duncan: Printer of the Year",
+        "Rob Duncan: Toilet",
         "Rob Kemp: Beatlesjuice",
         "Rob Moriarty: Sick in the Head",
         "RobWords Live",
@@ -1290,6 +1286,7 @@
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
         "Tori Morancay: Le French c&apos;est Freak",
+        "Trans Butch: Glorious Dog Woman",
         "Trans People Are Awful",
         "Transmission",
         "Trial by Jury",
