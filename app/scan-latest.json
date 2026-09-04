@@ -2,92 +2,60 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T11:53:19.653Z",
-      "completedAt": "2026-09-04T11:53:19.653Z",
+      "id": "2026-09-04T15:15:16.311Z",
+      "completedAt": "2026-09-04T15:15:16.311Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1346,
-      "totalNotices": 4848,
-      "defaultVisible": 878,
+      "totalShows": 1321,
+      "totalNotices": 4865,
+      "defaultVisible": 881,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T11:49:55.151Z",
-      "windowEndedAt": "2026-09-04T11:53:19.653Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-09-03T15:21:25.764Z",
+      "windowEndedAt": "2026-09-04T15:15:16.311Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 7,
-      "newReviews": 31971,
-      "newShows": -3,
-      "enteredRanking": 7,
+      "newReviews": 32007,
+      "newShows": -24,
+      "enteredRanking": 9,
       "newOutlets": [],
       "movers": [
         {
-          "title": "One Man Musical",
-          "previousScore": 85,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 69,
           "currentScore": 76,
-          "delta": -9,
-          "previousReviews": 11,
-          "currentReviews": 2
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 68,
-          "currentScore": 76,
-          "delta": 8,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "My Beautiful Brain!",
-          "previousScore": 70,
-          "currentScore": 77,
           "delta": 7,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Hanna Shammas Takes It To Heart",
+          "previousScore": 64,
+          "currentScore": 68,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "Kate Dolan: Trout",
+          "title": "Steak Out",
           "previousScore": 77,
-          "currentScore": 82,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Mother, Maiden and Crone",
-          "previousScore": 91,
-          "currentScore": 87,
-          "delta": -4,
-          "previousReviews": 7,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 9,
           "currentReviews": 8
         },
         {
-          "title": "An American (Not) in Paris",
-          "previousScore": 80,
-          "currentScore": 84,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
-          "previousScore": 79,
-          "currentScore": 75,
-          "delta": -4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Temi Wilkey: Lover Girl",
-          "previousScore": 71,
-          "currentScore": 74,
+          "title": "Two Little Pigs",
+          "previousScore": 67,
+          "currentScore": 70,
           "delta": 3,
           "previousReviews": 9,
-          "currentReviews": 10
+          "currentReviews": 8
         },
         {
           "title": "The Van Gogh Shogh",
@@ -98,40 +66,77 @@
           "currentReviews": 7
         },
         {
-          "title": "The Past",
+          "title": "Harriet Richardson: Creep",
           "previousScore": 81,
-          "currentScore": 84,
-          "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "currentScore": 83,
+          "delta": 2,
+          "previousReviews": 17,
+          "currentReviews": 19
         },
         {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 77,
-          "currentScore": 80,
-          "delta": 3,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "title": "Imogen Andrews: The Unlikeable Worms",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
+          "previousReviews": 10,
+          "currentReviews": 9
         },
         {
-          "title": "Robin Grainger: Lemonade",
+          "title": "Jonathan Oldfield: Exquisite Corpse",
           "previousScore": 81,
-          "currentScore": 78,
-          "delta": -3,
+          "currentScore": 83,
+          "delta": 2,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 68,
+          "currentScore": 66,
+          "delta": -2,
           "previousReviews": 5,
-          "currentReviews": 6
+          "currentReviews": 4
+        },
+        {
+          "title": "Smile, It Might Never Happen",
+          "previousScore": 89,
+          "currentScore": 87,
+          "delta": -2,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Friendliest",
+          "previousScore": 73,
+          "currentScore": 75,
+          "delta": 2,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Police Cops: The Original",
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "We Have a Dream",
-          "score": 76,
-          "reviews": 4
+          "title": "The Shit Table",
+          "score": 83,
+          "reviews": 2
         },
         {
           "title": "The Pleasance Comedy Reserve",
@@ -144,18 +149,23 @@
           "reviews": 2
         },
         {
-          "title": "Shatter Resistant",
+          "title": "The Very Best of Tommy Cooper - Just Like That!",
+          "score": 72,
+          "reviews": 4
+        },
+        {
+          "title": "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "Guy Williams: Rich people are stealing from you and blaming brown people and trans people and some people believe them aaahhhhhh!",
-          "score": 67,
-          "reviews": 2
+          "title": "The Understudy",
+          "score": 69,
+          "reviews": 7
         },
         {
-          "title": "When You Are a Tick",
-          "score": 51,
+          "title": "Thermos Museum Books",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -436,6 +446,7 @@
         "Collaborator",
         "Come As You Are",
         "Comedy Club 4 Kids",
+        "Comfortable",
         "Common Tongue",
         "Confessions Of A Mulatto Love Child",
         "Connor Burns: FLOW",
@@ -605,6 +616,7 @@
         "Girlbosses and Billionaires",
         "Girlfriends",
         "Giro Baby",
+        "Glenn & Flenn",
         "Glob",
         "Glow Job",
         "God Complex",
