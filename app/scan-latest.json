@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T01:34:21.862Z",
-      "completedAt": "2026-09-04T01:34:21.862Z",
+      "id": "2026-09-04T06:42:44.992Z",
+      "completedAt": "2026-09-04T06:42:44.992Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1329,
-      "totalNotices": 4857,
-      "defaultVisible": 879,
-      "duplicates": 7,
+      "totalShows": 1351,
+      "totalNotices": 4887,
+      "defaultVisible": 883,
+      "duplicates": 32,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T01:39:44.010Z",
-      "windowEndedAt": "2026-09-04T01:34:21.862Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-03T06:37:39.267Z",
+      "windowEndedAt": "2026-09-04T06:42:44.992Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 31861,
-      "newShows": -20,
-      "enteredRanking": 9,
+      "newReviews": 31977,
+      "newShows": 6,
+      "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "My Beautiful Brain!",
           "previousScore": 70,
@@ -50,19 +42,19 @@
           "currentReviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
           "title": "Kate Dolan: Trout",
           "previousScore": 77,
           "currentScore": 82,
           "delta": 5,
           "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
           "currentReviews": 4
         },
         {
@@ -90,14 +82,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
           "title": "Temi Wilkey: Lover Girl",
           "previousScore": 71,
           "currentScore": 74,
@@ -120,18 +104,29 @@
           "delta": -3,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Emmeline Downie: Gail",
+          "previousScore": 60,
+          "currentScore": 63,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Sad Bride",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
           "title": "Police Cops: The Original",
