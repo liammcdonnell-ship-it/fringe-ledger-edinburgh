@@ -2,58 +2,58 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-05T06:24:51.304Z",
-      "completedAt": "2026-09-05T06:24:51.304Z",
+      "id": "2026-09-05T11:00:48.093Z",
+      "completedAt": "2026-09-05T11:00:48.093Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1356,
-      "totalNotices": 4923,
-      "defaultVisible": 881,
-      "duplicates": 12,
+      "totalShows": 1338,
+      "totalNotices": 4924,
+      "defaultVisible": 887,
+      "duplicates": 11,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-04T06:42:44.992Z",
-      "windowEndedAt": "2026-09-05T06:24:51.304Z",
-      "windowCoverageHours": 23.7,
+      "windowStartedAt": "2026-09-04T11:53:19.653Z",
+      "windowEndedAt": "2026-09-05T11:00:48.093Z",
+      "windowCoverageHours": 23.1,
       "scansInWindow": 7,
-      "newReviews": 32320,
-      "newShows": 5,
-      "enteredRanking": 4,
+      "newReviews": 32442,
+      "newShows": -8,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Doughboys",
-          "previousScore": 82,
-          "currentScore": 74,
-          "delta": -8,
-          "previousReviews": 3,
+          "title": "One Man Musical",
+          "previousScore": 76,
+          "currentScore": 85,
+          "delta": 9,
+          "previousReviews": 2,
+          "currentReviews": 11
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
           "currentReviews": 4
         },
         {
           "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 77,
-          "currentScore": 81,
-          "delta": 4,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
+          "title": "Wild Wild Christian",
+          "previousScore": 75,
+          "currentScore": 71,
+          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -64,6 +64,14 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Gyles Brandreth: Up Memory Lane!",
@@ -82,50 +90,62 @@
           "currentReviews": 8
         },
         {
-          "title": "The Van Gogh Shogh",
-          "previousScore": 78,
-          "currentScore": 81,
-          "delta": 3,
+          "title": "The Last Drop",
+          "previousScore": 71,
+          "currentScore": 68,
+          "delta": -3,
+          "previousReviews": 7,
+          "currentReviews": 8
+        },
+        {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 80,
+          "currentScore": 77,
+          "delta": -3,
           "previousReviews": 6,
           "currentReviews": 7
         },
         {
-          "title": "Rockpools",
-          "previousScore": 92,
-          "currentScore": 89,
+          "title": "This Is How I Got Arrested...",
+          "previousScore": 81,
+          "currentScore": 78,
           "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
-          "title": "Crying At My Podiatrist",
-          "previousScore": 86,
-          "currentScore": 89,
-          "delta": 3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Sad Bride",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "11½ Angry Men",
-          "previousScore": 56,
-          "currentScore": 54,
-          "delta": -2,
-          "previousReviews": 12,
-          "currentReviews": 13
+          "title": "The Past",
+          "previousScore": 84,
+          "currentScore": 81,
+          "delta": -3,
+          "previousReviews": 6,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "title": "EVITA TOO",
           "score": 89,
+          "reviews": 17
+        },
+        {
+          "title": "Dom McGovern: Prize Hog",
+          "score": 87,
+          "reviews": 11
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Don Toberman: Ping-Pong Champ",
+          "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "Rizal Van Geyzel: Arrested",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -134,13 +154,28 @@
           "reviews": 2
         },
         {
+          "title": "Jonathan Rudge: Stay at Home Son",
+          "score": 66,
+          "reviews": 4
+        },
+        {
           "title": "Killian Sundermann: Killian Dollar Baby",
           "score": 66,
           "reviews": 2
         },
         {
-          "title": "Gameplay",
+          "title": "Henry VIII and His Groom",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Tom Little in His Comfort Zone",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Colour of Water",
+          "score": 45,
           "reviews": 2
         }
       ],
@@ -307,6 +342,7 @@
         "Baby Everything",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Baby Wants Candy",
+        "Babyface",
         "Bachelors of Fine Arts",
         "Bad Boy",
         "Bad Clowns and Good Friends",
@@ -354,6 +390,7 @@
         "Brit Barron: CHURCH",
         "Britain&apos;s Got Nonsense",
         "Broadguess",
+        "Brodie and Co.",
         "Broke and Fabulous in the 21st Century",
         "Broken Planet Show",
         "Bryn Woz: SMUT",
@@ -995,7 +1032,6 @@
         "Rip Her to Shreds",
         "Rizal Van Geyzel: Arrested",
         "Rob Duncan: Printer of the Year",
-        "Rob Duncan: Toilet",
         "Rob Kemp: Beatlesjuice",
         "Rob Moriarty: Sick in the Head",
         "RobWords Live",
@@ -1104,6 +1140,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
