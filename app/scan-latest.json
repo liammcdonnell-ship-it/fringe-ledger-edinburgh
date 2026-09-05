@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-05T18:39:56.594Z",
-      "completedAt": "2026-09-05T18:39:56.594Z",
+      "id": "2026-09-05T20:48:33.523Z",
+      "completedAt": "2026-09-05T20:48:33.523Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1336,
-      "totalNotices": 4939,
-      "defaultVisible": 888,
-      "duplicates": 6,
+      "totalShows": 1347,
+      "totalNotices": 4952,
+      "defaultVisible": 890,
+      "duplicates": 19,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-04T18:38:30.846Z",
-      "windowEndedAt": "2026-09-05T18:39:56.594Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-04T21:08:02.929Z",
+      "windowEndedAt": "2026-09-05T20:48:33.523Z",
+      "windowCoverageHours": 23.7,
       "scansInWindow": 8,
-      "newReviews": 37261,
-      "newShows": 11,
-      "enteredRanking": 9,
+      "newReviews": 37312,
+      "newShows": 25,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Take Care",
-          "previousScore": 70,
-          "currentScore": 77,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 69,
+          "currentScore": 76,
           "delta": 7,
-          "previousReviews": 4,
-          "currentReviews": 3
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
           "title": "Bi-Curious George: Snail Trail",
@@ -43,11 +43,11 @@
         },
         {
           "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Hater",
@@ -74,6 +74,14 @@
           "currentReviews": 9
         },
         {
+          "title": "Two Little Pigs",
+          "previousScore": 67,
+          "currentScore": 70,
+          "delta": 3,
+          "previousReviews": 9,
+          "currentReviews": 8
+        },
+        {
           "title": "The Last Drop",
           "previousScore": 71,
           "currentScore": 68,
@@ -98,31 +106,28 @@
           "currentReviews": 6
         },
         {
-          "title": "The Shocking Truth About Flat Earth",
-          "previousScore": 83,
-          "currentScore": 85,
-          "delta": 2,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "title": "Absolute Bus Stops of Northern Europe and Beyond",
+          "previousScore": 85,
+          "currentScore": 82,
+          "delta": -3,
+          "previousReviews": 4,
+          "currentReviews": 3
         },
         {
-          "title": "Werewolf",
-          "previousScore": 80,
-          "currentScore": 78,
-          "delta": -2,
-          "previousReviews": 8,
-          "currentReviews": 9
-        },
-        {
-          "title": "Dungeons and Shakespeare",
-          "previousScore": 87,
-          "currentScore": 89,
-          "delta": 2,
-          "previousReviews": 7,
-          "currentReviews": 8
+          "title": "When You Are a Tick",
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "A Head Full of Bees",
           "score": 76,
@@ -131,6 +136,11 @@
         {
           "title": "Don Toberman: Ping-Pong Champ",
           "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -1157,6 +1167,7 @@
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
         "Tasmin Sarkany: Now That&apos;s What I Call Bach!",
+        "Tattoo Dave - Tat&apos;s Life",
         "Ted Hill Teaches You Science, Most of Which Is True",
         "Ted Hill: PowerPoindexter",
         "Teen Spirit",
