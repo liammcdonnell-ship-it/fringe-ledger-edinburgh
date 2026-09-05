@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-05T20:48:33.523Z",
-      "completedAt": "2026-09-05T20:48:33.523Z",
+      "id": "2026-09-05T22:25:48.271Z",
+      "completedAt": "2026-09-05T22:25:48.271Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1347,
-      "totalNotices": 4952,
-      "defaultVisible": 890,
-      "duplicates": 19,
+      "totalShows": 1357,
+      "totalNotices": 4968,
+      "defaultVisible": 892,
+      "duplicates": 21,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-04T21:08:02.929Z",
-      "windowEndedAt": "2026-09-05T20:48:33.523Z",
-      "windowCoverageHours": 23.7,
+      "windowStartedAt": "2026-09-04T23:30:24.279Z",
+      "windowEndedAt": "2026-09-05T22:25:48.271Z",
+      "windowCoverageHours": 22.9,
       "scansInWindow": 8,
-      "newReviews": 37312,
-      "newShows": 25,
-      "enteredRanking": 11,
+      "newReviews": 37353,
+      "newShows": 31,
+      "enteredRanking": 14,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 69,
-          "currentScore": 76,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
           "delta": 7,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Bi-Curious George: Snail Trail",
@@ -40,14 +40,6 @@
           "delta": 5,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
         },
         {
           "title": "Hater",
@@ -66,6 +58,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
           "title": "Fempaths: Transistor Radio Hour",
           "previousScore": 72,
           "currentScore": 75,
@@ -74,10 +74,10 @@
           "currentReviews": 9
         },
         {
-          "title": "Two Little Pigs",
-          "previousScore": 67,
-          "currentScore": 70,
-          "delta": 3,
+          "title": "Steak Out",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
           "previousReviews": 9,
           "currentReviews": 8
         },
@@ -107,25 +107,40 @@
         },
         {
           "title": "Absolute Bus Stops of Northern Europe and Beyond",
-          "previousScore": 85,
-          "currentScore": 82,
-          "delta": -3,
-          "previousReviews": 4,
-          "currentReviews": 3
+          "previousScore": 82,
+          "currentScore": 85,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Werewolf",
+          "previousScore": 80,
+          "currentScore": 78,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 9
         }
       ],
       "newEntries": [
         {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
           "title": "Little Animals",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -136,6 +151,11 @@
         {
           "title": "Don Toberman: Ping-Pong Champ",
           "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -151,11 +171,6 @@
         {
           "title": "Spin Cycle",
           "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Killian Sundermann: Killian Dollar Baby",
-          "score": 66,
           "reviews": 2
         },
         {
@@ -1274,7 +1289,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
