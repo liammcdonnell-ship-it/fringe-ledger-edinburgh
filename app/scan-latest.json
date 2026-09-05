@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-04T23:30:24.279Z",
-      "completedAt": "2026-09-04T23:30:24.279Z",
+      "id": "2026-09-05T01:35:11.089Z",
+      "completedAt": "2026-09-05T01:35:11.089Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1326,
-      "totalNotices": 4886,
-      "defaultVisible": 880,
-      "duplicates": 1,
+      "totalShows": 1354,
+      "totalNotices": 4925,
+      "defaultVisible": 883,
+      "duplicates": 37,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-03T23:38:10.676Z",
-      "windowEndedAt": "2026-09-04T23:30:24.279Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-04T01:34:21.862Z",
+      "windowEndedAt": "2026-09-05T01:35:11.089Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 7,
-      "newReviews": 32203,
-      "newShows": -17,
-      "enteredRanking": 6,
+      "newReviews": 32316,
+      "newShows": 25,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Hanna Shammas Takes It To Heart",
@@ -42,28 +42,12 @@
           "currentReviews": 3
         },
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
-          "title": "Steak Out",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 8,
-          "currentReviews": 9
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Gyles Brandreth: Up Memory Lane!",
@@ -120,32 +104,53 @@
           "delta": 2,
           "previousReviews": 6,
           "currentReviews": 7
+        },
+        {
+          "title": "Noted",
+          "previousScore": 85,
+          "currentScore": 83,
+          "delta": -2,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 66,
+          "currentScore": 68,
+          "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Pirates: You Wouldn't Steal A Boat",
-          "score": 81,
-          "reviews": 5
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
-          "title": "Let's Listen to Some of Lou Bega's Other Songs Together for an Hour",
-          "score": 73,
+          "title": "Badgers",
+          "score": 79,
           "reviews": 2
         },
         {
           "title": "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -315,7 +320,6 @@
         "Baby Everything",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Baby Wants Candy",
-        "Babyface",
         "Bachelors of Fine Arts",
         "Bad Boy",
         "Bad Clowns and Good Friends",
@@ -363,7 +367,6 @@
         "Brit Barron: CHURCH",
         "Britain&apos;s Got Nonsense",
         "Broadguess",
-        "Brodie and Co.",
         "Broke and Fabulous in the 21st Century",
         "Broken Planet Show",
         "Bryn Woz: SMUT",
@@ -531,6 +534,7 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
+        "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
         "Enrico Touché: Hot Knees",
@@ -541,6 +545,7 @@
         "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
+        "Everybody's Got a Bomb",
         "Excel Comedy and Mathem-antics",
         "Explosive Science Show!",
         "Extra Dry",
@@ -762,6 +767,8 @@
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
+        "Keeping Secrets",
+        "Kevin Quantum: Invisible Force",
         "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
         "Killian Sundermann: Killian Dollar Baby",
@@ -845,6 +852,7 @@
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
         "Maxx Eddy: Bi Meets World",
+        "Meet Mayor Max",
         "Megasquirt: Fully Loaded",
         "Mel Hudson: Richard Ashcroft Revived My Libido",
         "Michael Brunström: William Tell vs the Algorithm",
