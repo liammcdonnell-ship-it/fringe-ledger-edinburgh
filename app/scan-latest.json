@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-05T13:40:43.008Z",
-      "completedAt": "2026-09-05T13:40:43.008Z",
+      "id": "2026-09-05T16:22:16.342Z",
+      "completedAt": "2026-09-05T16:22:16.342Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1332,
-      "totalNotices": 4934,
-      "defaultVisible": 888,
-      "duplicates": 1,
+      "totalShows": 1355,
+      "totalNotices": 4966,
+      "defaultVisible": 892,
+      "duplicates": 33,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-09-04T15:15:16.311Z",
-      "windowEndedAt": "2026-09-05T13:40:43.008Z",
-      "windowCoverageHours": 22.4,
-      "scansInWindow": 7,
-      "newReviews": 32532,
-      "newShows": 11,
-      "enteredRanking": 9,
+      "windowEndedAt": "2026-09-05T16:22:16.342Z",
+      "windowCoverageHours": 25.1,
+      "scansInWindow": 8,
+      "newReviews": 37244,
+      "newShows": 34,
+      "enteredRanking": 15,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 76,
-          "currentScore": 69,
-          "delta": -7,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
         {
           "title": "Bi-Curious George: Snail Trail",
           "previousScore": 68,
@@ -120,9 +104,45 @@
           "delta": -3,
           "previousReviews": 7,
           "currentReviews": 8
+        },
+        {
+          "title": "This Is How I Got Arrested...",
+          "previousScore": 81,
+          "currentScore": 78,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Crying At My Podiatrist",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
         {
           "title": "A Head Full of Bees",
           "score": 76,
@@ -134,6 +154,11 @@
           "reviews": 2
         },
         {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "The Trials of Magnus Coffinkey",
           "score": 70,
           "reviews": 2
@@ -141,6 +166,11 @@
         {
           "title": "Wisard",
           "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -155,8 +185,8 @@
         },
         {
           "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
-          "score": 60,
-          "reviews": 3
+          "score": 61,
+          "reviews": 2
         },
         {
           "title": "It's A Struggle Coming Out",
@@ -932,6 +962,7 @@
         "Octopus",
         "Of Mice And Men",
         "Oil & Whiskey",
+        "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
         "Olivia Raine Atwood: Oops",
