@@ -2,36 +2,60 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-05T01:35:11.089Z",
-      "completedAt": "2026-09-05T01:35:11.089Z",
+      "id": "2026-09-05T06:24:51.304Z",
+      "completedAt": "2026-09-05T06:24:51.304Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1354,
-      "totalNotices": 4925,
-      "defaultVisible": 883,
-      "duplicates": 37,
+      "totalShows": 1356,
+      "totalNotices": 4923,
+      "defaultVisible": 881,
+      "duplicates": 12,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-04T01:34:21.862Z",
-      "windowEndedAt": "2026-09-05T01:35:11.089Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-04T06:42:44.992Z",
+      "windowEndedAt": "2026-09-05T06:24:51.304Z",
+      "windowCoverageHours": 23.7,
       "scansInWindow": 7,
-      "newReviews": 32316,
-      "newShows": 25,
-      "enteredRanking": 7,
+      "newReviews": 32320,
+      "newShows": 5,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
+          "title": "Doughboys",
+          "previousScore": 82,
+          "currentScore": 74,
+          "delta": -8,
+          "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "previousScore": 77,
+          "currentScore": 81,
+          "delta": 4,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Hanna Shammas Takes It To Heart",
@@ -40,14 +64,6 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
         },
         {
           "title": "Gyles Brandreth: Up Memory Lane!",
@@ -90,57 +106,26 @@
           "currentReviews": 3
         },
         {
+          "title": "Sad Bride",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
           "title": "11½ Angry Men",
           "previousScore": 56,
           "currentScore": 54,
           "delta": -2,
           "previousReviews": 12,
           "currentReviews": 13
-        },
-        {
-          "title": "Jonathan Oldfield: Exquisite Corpse",
-          "previousScore": 81,
-          "currentScore": 83,
-          "delta": 2,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Noted",
-          "previousScore": 85,
-          "currentScore": 83,
-          "delta": -2,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 66,
-          "currentScore": 68,
-          "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
           "reviews": 2
         },
         {
@@ -149,13 +134,13 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Killian Sundermann: Killian Dollar Baby",
+          "score": 66,
           "reviews": 2
         },
         {
-          "title": "Killian Sundermann: Killian Dollar Baby",
-          "score": 66,
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -208,6 +193,7 @@
         "A Better Memory",
         "A Bunch of Characters - Hugo Hayes",
         "A Cat in a Box",
+        "A Clown's Lullaby",
         "A Companion",
         "A Complete Idiot&apos;s Guide to New Zealand",
         "A Different Kind of Heartbreak",
@@ -272,6 +258,7 @@
         "An American (Not) in Paris",
         "An Asexual Show About Cunnilingus by Eliott Simpson",
         "An Audience with Charles Manson",
+        "An Audience with Virginia Woolf: Writing One's Mind",
         "An Englishman, an Irishman and a Scotsman",
         "An Evening with Dame Granny Smith",
         "An Evening with Gerald Lloyd-Davies",
@@ -427,6 +414,7 @@
         "Coco The Time-Travelling Tart",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
+        "Collaborator",
         "Come As You Are",
         "Comedy Club 4 Kids",
         "Comfortable",
@@ -763,6 +751,7 @@
         "KEVIN!!!!!",
         "Kafka for Beginners",
         "Kanan Gill: Not This Again",
+        "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
@@ -916,7 +905,6 @@
         "Octopus",
         "Of Mice And Men",
         "Oil & Whiskey",
-        "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
         "Olivia Raine Atwood: Oops",
@@ -932,6 +920,7 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
+        "Owl at Home – Theatr Iolo",
         "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
@@ -1042,6 +1031,7 @@
         "Sarah Hester Ross: Serving C*nt",
         "Sarah Roberts: Scary Movie 7",
         "Sasha Nezlobin: I&apos;m Fine",
+        "Sasha Nezlobin: I'm Fine",
         "Sashi Perera - Pear Tree",
         "Scout Boxall: God&apos;s Favourite",
         "Sean Morley: Backchannel",
@@ -1089,6 +1079,7 @@
         "Smashing Shakespeare: Brave Macbeth",
         "Smile, It Might Never Happen",
         "Smile: The Charlie Chaplin Story",
+        "Snow",
         "Soaked",
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
@@ -1133,6 +1124,7 @@
         "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
+        "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
@@ -1236,6 +1228,7 @@
         "The Séance Starter Kit™",
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
+        "The Taming of the Shrew",
         "The Tao of Lloyd",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Toe Poke",
