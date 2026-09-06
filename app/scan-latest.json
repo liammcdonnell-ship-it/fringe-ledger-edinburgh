@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-06T00:20:48.758Z",
-      "completedAt": "2026-09-06T00:20:48.758Z",
+      "id": "2026-09-06T05:16:15.083Z",
+      "completedAt": "2026-09-06T05:16:15.083Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1367,
-      "totalNotices": 4978,
-      "defaultVisible": 892,
-      "duplicates": 14,
+      "totalShows": 1359,
+      "totalNotices": 4965,
+      "defaultVisible": 889,
+      "duplicates": 5,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-04T23:30:24.279Z",
-      "windowEndedAt": "2026-09-06T00:20:48.758Z",
-      "windowCoverageHours": 24.8,
-      "scansInWindow": 9,
-      "newReviews": 42015,
-      "newShows": 41,
-      "enteredRanking": 13,
+      "windowStartedAt": "2026-09-05T06:24:51.304Z",
+      "windowEndedAt": "2026-09-06T05:16:15.083Z",
+      "windowCoverageHours": 22.9,
+      "scansInWindow": 8,
+      "newReviews": 37346,
+      "newShows": 3,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Doughboys",
+          "previousScore": 74,
+          "currentScore": 82,
+          "delta": 8,
+          "previousReviews": 4,
+          "currentReviews": 4
+        },
         {
           "title": "Bi-Curious George: Snail Trail",
           "previousScore": 68,
@@ -34,17 +42,25 @@
           "currentReviews": 6
         },
         {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "previousScore": 81,
+          "currentScore": 77,
+          "delta": -4,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
           "title": "Hater",
           "previousScore": 83,
           "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
@@ -64,14 +80,6 @@
           "delta": 3,
           "previousReviews": 8,
           "currentReviews": 9
-        },
-        {
-          "title": "Steak Out",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 9,
-          "currentReviews": 8
         },
         {
           "title": "The Last Drop",
@@ -98,14 +106,6 @@
           "currentReviews": 6
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Werewolf",
           "previousScore": 80,
           "currentScore": 78,
@@ -129,16 +129,6 @@
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
           "title": "A Head Full of Bees",
           "score": 76,
           "reviews": 2
@@ -146,11 +136,6 @@
         {
           "title": "Don Toberman: Ping-Pong Champ",
           "score": 75,
-          "reviews": 2
-        },
-        {
-          "title": "Border Bodies",
-          "score": 70,
           "reviews": 2
         },
         {
@@ -164,8 +149,8 @@
           "reviews": 2
         },
         {
-          "title": "Gameplay",
-          "score": 64,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
@@ -1279,7 +1264,6 @@
         "The Séance Starter Kit™",
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
-        "The Taming of the Shrew",
         "The Tao of Lloyd",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Toe Poke",
