@@ -2,35 +2,43 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-06T18:44:13.540Z",
-      "completedAt": "2026-09-06T18:44:13.540Z",
+      "id": "2026-09-06T20:55:23.258Z",
+      "completedAt": "2026-09-06T20:55:23.258Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 1376,
-      "totalNotices": 5031,
-      "defaultVisible": 894,
-      "duplicates": 12,
+      "totalNotices": 5054,
+      "defaultVisible": 900,
+      "duplicates": 16,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-05T18:39:56.594Z",
-      "windowEndedAt": "2026-09-06T18:44:13.540Z",
+      "windowStartedAt": "2026-09-05T20:48:33.523Z",
+      "windowEndedAt": "2026-09-06T20:55:23.258Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 8,
-      "newReviews": 37608,
-      "newShows": 40,
-      "enteredRanking": 11,
+      "newReviews": 37675,
+      "newShows": 29,
+      "enteredRanking": 12,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 76,
+          "currentScore": 69,
+          "delta": -7,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Take Care",
+          "previousScore": 77,
+          "currentScore": 70,
+          "delta": -7,
+          "previousReviews": 3,
           "currentReviews": 4
         },
         {
@@ -58,20 +66,20 @@
           "currentReviews": 7
         },
         {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "Big Dog",
           "previousScore": 61,
           "currentScore": 56,
           "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 72,
-          "currentScore": 76,
-          "delta": 4,
-          "previousReviews": 8,
-          "currentReviews": 10
         },
         {
           "title": "Cruising",
@@ -90,20 +98,20 @@
           "currentReviews": 4
         },
         {
-          "title": "The Singer",
+          "title": "The Only Man Who Won't F*ck Me",
           "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
+          "currentScore": 72,
+          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 72,
+          "currentScore": 75,
+          "delta": 3,
+          "previousReviews": 8,
+          "currentReviews": 9
         },
         {
           "title": "Extra Dry",
@@ -112,21 +120,23 @@
           "delta": 3,
           "previousReviews": 5,
           "currentReviews": 6
-        },
-        {
-          "title": "Steffen Haanes: The Master",
-          "previousScore": 77,
-          "currentScore": 80,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
           "title": "Dracula: Lucy's Dream",
           "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "Kim Blythe: Puzzle",
@@ -149,6 +159,11 @@
           "reviews": 2
         },
         {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "That's Ace",
           "score": 70,
           "reviews": 2
@@ -156,16 +171,6 @@
         {
           "title": "The Italians in England",
           "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
           "reviews": 2
         },
         {
@@ -441,7 +446,6 @@
         "Chloe Jacobs: Twilight: Breaking Down",
         "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
         "Chris Forbes: Father Christmas",
-        "Chris Grace: 88%",
         "Chris Martin Lied To Us",
         "Christian Dart: GUMSHOE!",
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
@@ -477,7 +481,6 @@
         "Creepy Boys: SLUGS",
         "Cricket &#038; The Freebugs",
         "Crowd Work from Hell",
-        "Crowd Work with Frank Skinner",
         "Crudi Dench: Someone Help Her!",
         "Cruising",
         "Cry-Baby the Musical",
@@ -565,7 +568,6 @@
         "Emma Doran: Emmaculate",
         "Emma Holland: The Dog Dies at the Start",
         "Emmanuel Sonubi: What&apos;s Next? (WIP)",
-        "Endgame",
         "Endgame by Samuel Beckett",
         "Endometriosis: The Musical",
         "Enrico Touché: Hot Knees",
@@ -573,7 +575,6 @@
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
         "Escape Room: The Musical",
-        "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
         "Everybody's Got a Bomb",
@@ -633,7 +634,6 @@
         "Girlfriends",
         "Giro Baby",
         "Glenn & Flenn",
-        "Glob",
         "Glow Job",
         "God Complex",
         "Golden Beryl: Special Oblivion",
@@ -659,7 +659,6 @@
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
         "HOW TO FRINGE: a chat show with thom tuck",
-        "HR The Musical",
         "Hadid",
         "Hajar, Like Badger",
         "Half-Orphan",
@@ -803,8 +802,6 @@
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
-        "Keeping Secrets",
-        "Kevin Quantum: Invisible Force",
         "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
         "Killian Sundermann: Killian Dollar Baby",
@@ -900,7 +897,6 @@
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
         "Michelle Shocked: Bootleg This!",
-        "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
         "Milkdrunk",
@@ -962,7 +958,6 @@
         "Olivia Raine Atwood: Oops",
         "Olivia Xing: Baby of Colour",
         "Ollie West: Discovery (WIP)",
-        "Omar Badawy: Guided Detour",
         "One Man Poe: The Business Man and The Case of M. Valdemar",
         "Only Bones - Daniel Nodder",
         "Operation Blank",
@@ -1019,7 +1014,6 @@
         "Queen of The Empire",
         "Queer Diary",
         "Quentin Blake's Mrs Armitage on Wheels",
-        "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
@@ -1268,7 +1262,6 @@
         "The Problem",
         "The Proposal",
         "The Real Housewives of the Zombie Apocalypse",
-        "The Real Kyle McCarren",
         "The RemAIns of the Butler",
         "The Reunion",
         "The Shit Table",
