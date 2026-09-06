@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-06T16:33:12.756Z",
-      "completedAt": "2026-09-06T16:33:12.756Z",
+      "id": "2026-09-06T18:44:13.540Z",
+      "completedAt": "2026-09-06T18:44:13.540Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1374,
-      "totalNotices": 5037,
-      "defaultVisible": 897,
-      "duplicates": 1,
+      "totalShows": 1376,
+      "totalNotices": 5031,
+      "defaultVisible": 894,
+      "duplicates": 12,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-05T16:22:16.342Z",
-      "windowEndedAt": "2026-09-06T16:33:12.756Z",
-      "windowCoverageHours": 24.2,
+      "windowStartedAt": "2026-09-05T18:39:56.594Z",
+      "windowEndedAt": "2026-09-06T18:44:13.540Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 8,
-      "newReviews": 37532,
-      "newShows": 19,
-      "enteredRanking": 8,
+      "newReviews": 37608,
+      "newShows": 40,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 76,
-          "currentScore": 69,
-          "delta": -7,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Last Laugh",
@@ -66,6 +66,14 @@
           "currentReviews": 3
         },
         {
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 72,
+          "currentScore": 76,
+          "delta": 4,
+          "previousReviews": 8,
+          "currentReviews": 10
+        },
+        {
           "title": "Cruising",
           "previousScore": 67,
           "currentScore": 63,
@@ -82,20 +90,20 @@
           "currentReviews": 4
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
+          "title": "The Singer",
           "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 72,
-          "currentScore": 75,
-          "delta": 3,
-          "previousReviews": 8,
-          "currentReviews": 9
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Extra Dry",
@@ -112,17 +120,14 @@
           "delta": 3,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "The Durham Revue: Raiders of the Lost Laughs",
-          "previousScore": 75,
-          "currentScore": 72,
-          "delta": -3,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
         {
           "title": "Kim Blythe: Puzzle",
           "score": 79,
@@ -151,6 +156,16 @@
         {
           "title": "The Italians in England",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -1140,6 +1155,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
