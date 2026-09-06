@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-06T09:47:45.559Z",
-      "completedAt": "2026-09-06T09:47:45.559Z",
+      "id": "2026-09-06T13:15:01.892Z",
+      "completedAt": "2026-09-06T13:15:01.892Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1375,
-      "totalNotices": 5045,
-      "defaultVisible": 897,
-      "duplicates": 4,
+      "totalShows": 1376,
+      "totalNotices": 5049,
+      "defaultVisible": 898,
+      "duplicates": 17,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-05T11:00:48.093Z",
-      "windowEndedAt": "2026-09-06T09:47:45.559Z",
-      "windowCoverageHours": 22.8,
+      "windowStartedAt": "2026-09-05T13:40:43.008Z",
+      "windowEndedAt": "2026-09-06T13:15:01.892Z",
+      "windowCoverageHours": 23.6,
       "scansInWindow": 8,
-      "newReviews": 37437,
-      "newShows": 37,
-      "enteredRanking": 15,
+      "newReviews": 37524,
+      "newShows": 44,
+      "enteredRanking": 13,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 76,
-          "currentScore": 66,
-          "delta": -10,
-          "previousReviews": 2,
-          "currentReviews": 4
+          "title": "Doughboys",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Phil Nichol: The Naked Racist",
@@ -50,6 +50,22 @@
           "currentReviews": 3
         },
         {
+          "title": "FUCCBOIS: LIVE IN CONCERT",
+          "previousScore": 77,
+          "currentScore": 83,
+          "delta": 6,
+          "previousReviews": 10,
+          "currentReviews": 10
+        },
+        {
+          "title": "You Talkin' to Us?",
+          "previousScore": 72,
+          "currentScore": 66,
+          "delta": -6,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "We've Got Time",
           "previousScore": 76,
           "currentScore": 82,
@@ -66,28 +82,20 @@
           "currentReviews": 7
         },
         {
-          "title": "Bi-Curious George: Snail Trail",
-          "previousScore": 68,
-          "currentScore": 73,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
           "title": "Big Dog",
           "previousScore": 61,
           "currentScore": 56,
           "delta": -5,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Two Little Pigs",
+          "previousScore": 67,
+          "currentScore": 71,
+          "delta": 4,
+          "previousReviews": 9,
+          "currentReviews": 9
         },
         {
           "title": "Cruising",
@@ -106,26 +114,23 @@
           "currentReviews": 4
         },
         {
-          "title": "Hater",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Singer",
+          "title": "The Only Man Who Won't F*ck Me",
           "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
+          "currentScore": 72,
+          "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
           "reviews": 2
         },
         {
@@ -134,13 +139,13 @@
           "reviews": 3
         },
         {
-          "title": "Kim Blythe: Puzzle",
+          "title": "Badgers",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "A Head Full of Bees",
-          "score": 76,
+          "title": "Kim Blythe: Puzzle",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -159,6 +164,11 @@
           "reviews": 2
         },
         {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "That's Ace",
           "score": 70,
           "reviews": 2
@@ -169,33 +179,13 @@
           "reviews": 2
         },
         {
-          "title": "Wisard",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         },
         {
           "title": "Lance Mao: The Pig with the Dragon Tattoo",
           "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Sims Holland: Learning to Human",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
-          "score": 61,
-          "reviews": 2
-        },
-        {
-          "title": "It's A Struggle Coming Out",
-          "score": 57,
           "reviews": 2
         }
       ],
