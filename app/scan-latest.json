@@ -2,44 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-06T13:15:01.892Z",
-      "completedAt": "2026-09-06T13:15:01.892Z",
+      "id": "2026-09-06T16:33:12.756Z",
+      "completedAt": "2026-09-06T16:33:12.756Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1376,
-      "totalNotices": 5049,
-      "defaultVisible": 898,
-      "duplicates": 17,
+      "totalShows": 1374,
+      "totalNotices": 5037,
+      "defaultVisible": 897,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-05T13:40:43.008Z",
-      "windowEndedAt": "2026-09-06T13:15:01.892Z",
-      "windowCoverageHours": 23.6,
+      "windowStartedAt": "2026-09-05T16:22:16.342Z",
+      "windowEndedAt": "2026-09-06T16:33:12.756Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 8,
-      "newReviews": 37524,
-      "newShows": 44,
-      "enteredRanking": 13,
+      "newReviews": 37532,
+      "newShows": 19,
+      "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Doughboys",
-          "previousScore": 82,
-          "currentScore": 75,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 76,
+          "currentScore": 69,
           "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
           "title": "Last Laugh",
@@ -48,22 +40,6 @@
           "delta": 7,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "FUCCBOIS: LIVE IN CONCERT",
-          "previousScore": 77,
-          "currentScore": 83,
-          "delta": 6,
-          "previousReviews": 10,
-          "currentReviews": 10
-        },
-        {
-          "title": "You Talkin' to Us?",
-          "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
-          "previousReviews": 3,
-          "currentReviews": 4
         },
         {
           "title": "We've Got Time",
@@ -90,14 +66,6 @@
           "currentReviews": 3
         },
         {
-          "title": "Two Little Pigs",
-          "previousScore": 67,
-          "currentScore": 71,
-          "delta": 4,
-          "previousReviews": 9,
-          "currentReviews": 9
-        },
-        {
           "title": "Cruising",
           "previousScore": 67,
           "currentScore": 63,
@@ -120,29 +88,41 @@
           "delta": -4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 72,
+          "currentScore": 75,
+          "delta": 3,
+          "previousReviews": 8,
+          "currentReviews": 9
+        },
+        {
+          "title": "Extra Dry",
+          "previousScore": 59,
+          "currentScore": 62,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Steffen Haanes: The Master",
+          "previousScore": 77,
+          "currentScore": 80,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Durham Revue: Raiders of the Lost Laughs",
+          "previousScore": 75,
+          "currentScore": 72,
+          "delta": -3,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
         {
           "title": "Kim Blythe: Puzzle",
           "score": 79,
@@ -164,11 +144,6 @@
           "reviews": 2
         },
         {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
           "title": "That's Ace",
           "score": 70,
           "reviews": 2
@@ -179,12 +154,12 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Lance Mao: The Pig with the Dragon Tattoo",
+          "score": 64,
           "reviews": 2
         },
         {
-          "title": "Lance Mao: The Pig with the Dragon Tattoo",
+          "title": "Sims Holland: Learning to Human",
           "score": 64,
           "reviews": 2
         }
@@ -551,7 +526,6 @@
         "Doris, Dolly and the Dressing Room Divas",
         "Doughboys",
         "Dragon",
-        "Dragon Tales",
         "Dreamgun Film Reads",
         "Dru Cripps: Juicy Bits",
         "Dune! The Musical",
@@ -1014,7 +988,6 @@
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
-        "Pilate: The Lost Gospel",
         "Pimm&apos;s Without the Cucumber",
         "Pirates: You Wouldn&apos;t Steal A Boat",
         "Plano",
@@ -1116,7 +1089,6 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
-        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shatter Resistant",
@@ -1155,7 +1127,6 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
-        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1337,7 +1308,6 @@
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
         "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-        "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
