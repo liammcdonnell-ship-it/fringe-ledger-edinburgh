@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-07T10:51:34.407Z",
-      "completedAt": "2026-09-07T10:51:34.407Z",
+      "id": "2026-09-07T16:11:11.006Z",
+      "completedAt": "2026-09-07T16:11:11.006Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1369,
-      "totalNotices": 5018,
-      "defaultVisible": 895,
-      "duplicates": 30,
+      "totalShows": 1385,
+      "totalNotices": 5081,
+      "defaultVisible": 901,
+      "duplicates": 14,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-06T09:47:45.559Z",
-      "windowEndedAt": "2026-09-07T10:51:34.407Z",
-      "windowCoverageHours": 25.1,
-      "scansInWindow": 8,
-      "newReviews": 37941,
-      "newShows": -6,
+      "windowStartedAt": "2026-09-06T16:33:12.756Z",
+      "windowEndedAt": "2026-09-07T16:11:11.006Z",
+      "windowCoverageHours": 23.6,
+      "scansInWindow": 7,
+      "newReviews": 33241,
+      "newShows": 11,
       "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
@@ -34,6 +34,30 @@
           "currentReviews": 3
         },
         {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 69,
+          "currentScore": 76,
+          "delta": 7,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Sodom, The Quintessence of Debauchery",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "The Gay Divorce",
           "previousScore": 66,
           "currentScore": 72,
@@ -43,11 +67,19 @@
         },
         {
           "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
           "title": "Temi Wilkey: Lover Girl",
@@ -74,14 +106,6 @@
           "currentReviews": 5
         },
         {
-          "title": "Steffen Haanes: The Master",
-          "previousScore": 77,
-          "currentScore": 80,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Abby Govindan: Pushing 30",
           "previousScore": 67,
           "currentScore": 69,
@@ -90,48 +114,24 @@
           "currentReviews": 15
         },
         {
-          "title": "I Am Johnny",
-          "previousScore": 73,
-          "currentScore": 71,
-          "delta": -2,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
           "title": "Dogberry and Verges Are Scared",
           "previousScore": 87,
           "currentScore": 89,
           "delta": 2,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 70,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Kafka for Beginners",
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
           "score": 89,
           "reviews": 2
         },
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
+          "title": "Kafka for Beginners",
+          "score": 89,
+          "reviews": 2
         },
         {
           "title": "Ignacio Lopez: The Four Of Us Are Dying Up Here",
@@ -139,14 +139,9 @@
           "reviews": 2
         },
         {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
+          "title": "Heated Rivalry: The Musical Parody",
+          "score": 82,
+          "reviews": 9
         },
         {
           "title": "1 in 2 Men Think They Could Land A Plane - Could You?",
@@ -154,13 +149,18 @@
           "reviews": 2
         },
         {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
+          "title": "Grandma's Shop",
+          "score": 72,
+          "reviews": 3
         },
         {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
+          "title": "Hannah Platt: Cult Classic",
+          "score": 67,
+          "reviews": 6
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -575,7 +575,6 @@
         "Felicity Ward: I Wish I Could Come Out of My Shell",
         "Feral Daydreams",
         "Film Noir Frog",
-        "Fiona Allen: White Lies",
         "Flesh",
         "Fly, You Fools!",
         "Follow Me",
@@ -932,6 +931,7 @@
         "Obie: The Fuck It List",
         "Obsessive, Compulsive, Divine",
         "Octopus",
+        "Of Mice And Men",
         "Oil & Whiskey",
         "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
@@ -1039,7 +1039,6 @@
         "Rowan Hackett: Brewed",
         "Ruaridh Miller - Autocorrect Thinks My Name is \"Rubbish\"",
         "Ruby Carr: Bite Me",
-        "Ruby Wax: Absolutely Famous",
         "Ryan Cullen: Cullen Me Softly",
         "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
@@ -1153,6 +1152,7 @@
         "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
+        "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
