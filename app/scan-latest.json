@@ -2,92 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-07T05:24:32.230Z",
-      "completedAt": "2026-09-07T05:24:32.230Z",
+      "id": "2026-09-07T10:51:34.407Z",
+      "completedAt": "2026-09-07T10:51:34.407Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1355,
-      "totalNotices": 5024,
-      "defaultVisible": 896,
-      "duplicates": 4,
+      "totalShows": 1369,
+      "totalNotices": 5018,
+      "defaultVisible": 895,
+      "duplicates": 30,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-06T05:16:15.083Z",
-      "windowEndedAt": "2026-09-07T05:24:32.230Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-09-06T09:47:45.559Z",
+      "windowEndedAt": "2026-09-07T10:51:34.407Z",
+      "windowCoverageHours": 25.1,
       "scansInWindow": 8,
-      "newReviews": 37911,
-      "newShows": -4,
-      "enteredRanking": 11,
+      "newReviews": 37941,
+      "newShows": -6,
+      "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
+          "title": "Mina Liccione: Arabized",
+          "previousScore": 64,
+          "currentScore": 72,
+          "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Gay Divorce",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
           "previousReviews": 4,
           "currentReviews": 5
-        },
-        {
-          "title": "Last Laugh",
-          "previousScore": 51,
-          "currentScore": 58,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "We've Got Time",
-          "previousScore": 76,
-          "currentScore": 82,
-          "delta": 6,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Dear Michelle Kwan",
-          "previousScore": 76,
-          "currentScore": 71,
-          "delta": -5,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Big Dog",
-          "previousScore": 61,
-          "currentScore": 56,
-          "delta": -5,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Cruising",
-          "previousScore": 67,
-          "currentScore": 63,
-          "delta": -4,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Last Funny Woman",
-          "previousScore": 75,
-          "currentScore": 79,
-          "delta": 4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 76,
-          "currentScore": 72,
-          "delta": -4,
-          "previousReviews": 2,
-          "currentReviews": 3
         },
         {
           "title": "The Singer",
@@ -98,85 +50,118 @@
           "currentReviews": 2
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
+          "title": "Temi Wilkey: Lover Girl",
           "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 72,
-          "currentScore": 75,
-          "delta": 3,
-          "previousReviews": 8,
+          "currentScore": 71,
+          "delta": -3,
+          "previousReviews": 10,
           "currentReviews": 9
         },
         {
-          "title": "Extra Dry",
-          "previousScore": 59,
-          "currentScore": 62,
+          "title": "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
+          "previousScore": 73,
+          "currentScore": 76,
           "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Hope This Helps!",
+          "previousScore": 82,
+          "currentScore": 85,
+          "delta": 3,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Steffen Haanes: The Master",
+          "previousScore": 77,
+          "currentScore": 80,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "previousScore": 67,
+          "currentScore": 69,
+          "delta": 2,
+          "previousReviews": 14,
+          "currentReviews": 15
+        },
+        {
+          "title": "I Am Johnny",
+          "previousScore": 73,
+          "currentScore": 71,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Dogberry and Verges Are Scared",
+          "previousScore": 87,
+          "currentScore": 89,
+          "delta": 2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Kafka for Beginners",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Ignacio Lopez: The Four Of Us Are Dying Up Here",
+          "score": 86,
+          "reviews": 2
+        },
+        {
+          "title": "Little Animals",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Kim Blythe: Puzzle",
+          "title": "Badgers",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "Every Ghost Story Ever",
+          "title": "1 in 2 Men Think They Could Land A Plane - Could You?",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "Rachel Creeger: \"Queen of the Jews!\"",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Michael Shafar: Inappropriate",
-          "score": 73,
-          "reviews": 2
-        },
-        {
-          "title": "That's Ace",
+          "title": "Border Bodies",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "The Italians in England",
+          "title": "The Trials of Magnus Coffinkey",
           "score": 70,
           "reviews": 2
-        },
-        {
-          "title": "Lance Mao: The Pig with the Dragon Tattoo",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Sims Holland: Learning to Human",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Eric's Tales of the Sea - A Submariner's Yarn",
-          "score": 61,
-          "reviews": 2
-        },
-        {
-          "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
-          "score": 58,
-          "reviews": 3
         }
       ],
       "newShowTitles": [
@@ -284,6 +269,7 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -314,6 +300,7 @@
         "Andrew White: What a Life!",
         "Andrew and Carrie: A Night of Comedy, Violins and Violence",
         "Andy Field: Giddy Up",
+        "Andy Roach: Best Comedy Newcomer",
         "Angela Bra - Secret Diary of a Bingo Call Girl",
         "Angelshark",
         "Anime-Zing Kids!",
@@ -452,6 +439,7 @@
         "Clive",
         "Cluedo",
         "Coco The Time-Travelling Tart",
+        "Coco&apos;s Art History Comedy Highlights Tour",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
         "Collaborator",
@@ -466,6 +454,7 @@
         "Couplet: Folk Marry Kill",
         "Courtney Büchner: One of the Girls",
         "Craig Hill: You&apos;re Not Even Safe Up the Back!",
+        "Craig Hill: You're Not Even Safe Up the Back!",
         "Craig Speirs: Problem Child",
         "Crapp&apos;s River",
         "Crash Course",
@@ -604,6 +593,7 @@
         "Fruit Flies",
         "Furniture Boys",
         "GANNET",
+        "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
         "Gagula: The Panto with Teeth!",
@@ -649,6 +639,7 @@
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
         "HOW TO FRINGE: a chat show with thom tuck",
+        "HR The Musical",
         "Hadid",
         "Hajar, Like Badger",
         "Half-Orphan",
@@ -702,6 +693,7 @@
         "I Am Going to Reveal Something Personal About Myself",
         "I Bought a Flip Phone",
         "I Love Thee, I Love Thee Not",
+        "I REGRET THIS ALREADY",
         "I Think I Hate Actors",
         "I Think I&apos;m Turning Japanese (I Really Think So, Not!)",
         "I&apos;m Mom",
@@ -779,6 +771,7 @@
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
         "Julie Belliveau: Enlightened?",
+        "Juliette Burton: Villain Era",
         "Just Blokes",
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
@@ -818,6 +811,7 @@
         "Leviathan X Asmodeus",
         "Lianna Holston: Haha, Oh God 2.0",
         "Liberace and Liza - A Tribute",
+        "Liberace and Liza – A Tribute",
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
@@ -883,6 +877,8 @@
         "Michael McPheat is BRUTAL!",
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
+        "Michelle Shocked: Bootleg This!",
+        "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
         "Milkdrunk",
@@ -911,6 +907,7 @@
         "My Grandpa Doesn&apos;t Follow Me On Instagram",
         "My Life Is a Sonnet",
         "My Name is Spring Day and Other Stupid Facts",
+        "NON HUMAN ANIMAL",
         "Natalie and I",
         "Nate Kitch Replica",
         "Nathan Cassidy: Ewwww!",
@@ -978,9 +975,11 @@
         "Phil Nichol: The Naked Racist",
         "Phuckets and Rainbows",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
+        "Pierre Novellie: Do the One About&#8230;",
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
+        "Pilate: The Lost Gospel",
         "Pimm&apos;s Without the Cucumber",
         "Pirates: You Wouldn&apos;t Steal A Boat",
         "Plano",
@@ -996,6 +995,7 @@
         "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
         "Queen of The Empire",
         "Queer Diary",
+        "Quentin Blake's Mrs Armitage on Wheels",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
@@ -1011,6 +1011,7 @@
         "Refashioned: From Childhood Dream to Stylish Nightmare",
         "Reformer",
         "Reginald D Hunter: Something Wicked That Other Way Comes",
+        "Remember, Remember!",
         "Reparations",
         "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
         "Rev Awdry: The Thomas the Tank Engine Man",
@@ -1040,6 +1041,7 @@
         "Ruby Carr: Bite Me",
         "Ruby Wax: Absolutely Famous",
         "Ryan Cullen: Cullen Me Softly",
+        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "STAY",
@@ -1050,7 +1052,6 @@
         "Sam Serrano: Mars",
         "Samantha Day: I&apos;ve Started So I&apos;ll Finish",
         "Sami Abu-Wardeh: Palestine - Peace de Resistance",
-        "Sammy J: Hero Complex",
         "Sansha: To Be Fair To Me",
         "Sapphire McIntosh - Squeaky Bum Time",
         "Sara Pascoe: For One Night Only",
@@ -1078,6 +1079,7 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
+        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shatter Resistant",
@@ -1116,6 +1118,7 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
+        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1146,9 +1149,10 @@
         "TITCLOWN: daddy&apos;s little girl",
         "TO BE FRANK",
         "Tabletop Role-Playing Game: The Musical",
+        "Taiwan Season: Birthday Party",
         "Take Care",
+        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
-        "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
@@ -1240,6 +1244,7 @@
         "The Problem",
         "The Proposal",
         "The Real Housewives of the Zombie Apocalypse",
+        "The Real Kyle McCarren",
         "The RemAIns of the Butler",
         "The Reunion",
         "The Shit Table",
@@ -1269,6 +1274,7 @@
         "The Vampire Run",
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
+        "The Very Best of Tommy Cooper – Just Like That!",
         "The Wedding Date",
         "The Wolf of Poyais",
         "The Woman in the Mirror",
@@ -1294,6 +1300,7 @@
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
         "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+        "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
@@ -1343,6 +1350,7 @@
         "Will & Noah: Dinner Dinner Chicken Winner",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "Will BF: Moon Team IIIV",
+        "Will Davies: Heroic Scale",
         "Will Sebag-Montefiore: Game of Phones",
         "Wisard",
         "Woman Seeking Cuddles",
