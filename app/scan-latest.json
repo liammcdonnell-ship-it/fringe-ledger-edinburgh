@@ -2,34 +2,42 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-08T06:38:21.803Z",
-      "completedAt": "2026-09-08T06:38:21.803Z",
+      "id": "2026-09-08T11:50:34.879Z",
+      "completedAt": "2026-09-08T11:50:34.879Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1386,
-      "totalNotices": 5084,
-      "defaultVisible": 903,
-      "duplicates": 17,
+      "totalShows": 1388,
+      "totalNotices": 5095,
+      "defaultVisible": 906,
+      "duplicates": 4,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-07T05:24:32.230Z",
-      "windowEndedAt": "2026-09-08T06:38:21.803Z",
-      "windowCoverageHours": 25.2,
+      "windowStartedAt": "2026-09-07T10:51:34.407Z",
+      "windowEndedAt": "2026-09-08T11:50:34.879Z",
+      "windowCoverageHours": 25,
       "scansInWindow": 6,
-      "newReviews": 28643,
-      "newShows": 31,
-      "enteredRanking": 10,
+      "newReviews": 28642,
+      "newShows": 19,
+      "enteredRanking": 11,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Mina Liccione: Arabized",
-          "previousScore": 64,
-          "currentScore": 72,
-          "delta": 8,
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 69,
+          "currentScore": 76,
+          "delta": 7,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Kafka for Beginners",
+          "previousScore": 89,
+          "currentScore": 82,
+          "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -42,12 +50,12 @@
           "currentReviews": 5
         },
         {
-          "title": "The Gay Divorce",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "An A to Z Guide to Dating",
@@ -66,44 +74,28 @@
           "currentReviews": 3
         },
         {
-          "title": "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
-          "previousScore": 73,
-          "currentScore": 76,
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 71,
+          "currentScore": 74,
           "delta": 3,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
-          "title": "Hope This Helps!",
-          "previousScore": 82,
-          "currentScore": 85,
+          "title": "Stayin' Alive",
+          "previousScore": 75,
+          "currentScore": 78,
           "delta": 3,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "previousScore": 67,
-          "currentScore": 69,
-          "delta": 2,
-          "previousReviews": 14,
-          "currentReviews": 15
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
         },
         {
-          "title": "Dogberry and Verges Are Scared",
-          "previousScore": 87,
-          "currentScore": 89,
+          "title": "Tom Read Wilson: A-Z of Me",
+          "previousScore": 85,
+          "currentScore": 87,
           "delta": 2,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
@@ -114,49 +106,32 @@
           "currentReviews": 4
         },
         {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 72,
-          "currentScore": 71,
+          "title": "Lara Ricote: Inkling",
+          "previousScore": 84,
+          "currentScore": 83,
           "delta": -1,
-          "previousReviews": 14,
-          "currentReviews": 13
+          "previousReviews": 13,
+          "currentReviews": 14
+        },
+        {
+          "title": "Eleanor Morton: The Mermaid",
+          "previousScore": 78,
+          "currentScore": 79,
+          "delta": 1,
+          "previousReviews": 6,
+          "currentReviews": 7
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Ignacio Lopez: The Four Of Us Are Dying Up Here",
-          "score": 86,
-          "reviews": 2
-        },
-        {
-          "title": "Little Animals",
+          "title": "East Infection",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Kafka for Beginners",
-          "score": 82,
-          "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "1 in 2 Men Think They Could Land A Plane - Could You?",
-          "score": 76,
-          "reviews": 2
+          "title": "boobytrapped",
+          "score": 77,
+          "reviews": 9
         },
         {
           "title": "After Party",
@@ -164,13 +139,43 @@
           "reviews": 2
         },
         {
-          "title": "Border Bodies",
-          "score": 70,
+          "title": "A&E",
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "Bryn Woz: SMUT",
+          "score": 74,
+          "reviews": 10
+        },
+        {
+          "title": "Aalex Mandel-Dallal: Where Was I?",
+          "score": 73,
           "reviews": 2
+        },
+        {
+          "title": "A Better Memory",
+          "score": 72,
+          "reviews": 11
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 68,
+          "reviews": 13
         },
         {
           "title": "Gameplay",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
+          "score": 58,
+          "reviews": 3
+        },
+        {
+          "title": "A Queen's Way",
+          "score": 57,
           "reviews": 2
         }
       ],
@@ -567,7 +572,6 @@
         "Escape Room: The Musical",
         "Eve and Adam",
         "Every Ghost Story Ever",
-        "Everybody's Got a Bomb",
         "Excel Comedy and Mathem-antics",
         "Explosive Science Show!",
         "Extra Dry",
@@ -988,7 +992,6 @@
         "Phil Nichol: The Naked Racist",
         "Phuckets and Rainbows",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
-        "Pierre Novellie: Do the One About&#8230;",
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
@@ -1092,7 +1095,6 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
-        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shatter Resistant",
@@ -1164,7 +1166,6 @@
         "Tabletop Role-Playing Game: The Musical",
         "Taiwan Season: Birthday Party",
         "Take Care",
-        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
         "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
@@ -1258,7 +1259,6 @@
         "The Problem",
         "The Proposal",
         "The Real Housewives of the Zombie Apocalypse",
-        "The Real Kyle McCarren",
         "The RemAIns of the Butler",
         "The Reunion",
         "The Shit Table",
