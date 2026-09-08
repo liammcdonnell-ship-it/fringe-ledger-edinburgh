@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-08T11:50:34.879Z",
-      "completedAt": "2026-09-08T11:50:34.879Z",
+      "id": "2026-09-08T15:28:02.597Z",
+      "completedAt": "2026-09-08T15:28:02.597Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1388,
-      "totalNotices": 5095,
-      "defaultVisible": 906,
-      "duplicates": 4,
+      "totalShows": 1379,
+      "totalNotices": 5082,
+      "defaultVisible": 905,
+      "duplicates": 6,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-07T10:51:34.407Z",
-      "windowEndedAt": "2026-09-08T11:50:34.879Z",
-      "windowCoverageHours": 25,
+      "windowStartedAt": "2026-09-07T16:11:11.006Z",
+      "windowEndedAt": "2026-09-08T15:28:02.597Z",
+      "windowCoverageHours": 23.3,
       "scansInWindow": 6,
-      "newReviews": 28642,
-      "newShows": 19,
-      "enteredRanking": 11,
+      "newReviews": 28629,
+      "newShows": -6,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
         {
           "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 69,
-          "currentScore": 76,
-          "delta": 7,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousScore": 76,
+          "currentScore": 69,
+          "delta": -7,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
           "title": "Kafka for Beginners",
@@ -40,14 +40,6 @@
           "delta": -7,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Sodom, The Quintessence of Debauchery",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 5
         },
         {
           "title": "The Séance Starter Kit™",
@@ -66,12 +58,20 @@
           "currentReviews": 9
         },
         {
+          "title": "Phil Ellis: Bath Mat",
+          "previousScore": 87,
+          "currentScore": 83,
+          "delta": -4,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "Temi Wilkey: Lover Girl",
@@ -90,6 +90,14 @@
           "currentReviews": 6
         },
         {
+          "title": "Hard to Swallow: Reuben Kaye",
+          "previousScore": 88,
+          "currentScore": 85,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "Tom Read Wilson: A-Z of Me",
           "previousScore": 85,
           "currentScore": 87,
@@ -98,84 +106,51 @@
           "currentReviews": 6
         },
         {
-          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
+          "title": "Viggo Venn: Only One",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Lara Ricote: Inkling",
-          "previousScore": 84,
-          "currentScore": 83,
-          "delta": -1,
-          "previousReviews": 13,
-          "currentReviews": 14
-        },
-        {
-          "title": "Eleanor Morton: The Mermaid",
-          "previousScore": 78,
-          "currentScore": 79,
-          "delta": 1,
-          "previousReviews": 6,
-          "currentReviews": 7
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
         {
           "title": "East Infection",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "boobytrapped",
-          "score": 77,
-          "reviews": 9
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
-          "title": "After Party",
+          "title": "Noah Szto - Med School",
           "score": 76,
           "reviews": 2
         },
         {
-          "title": "A&E",
-          "score": 75,
-          "reviews": 3
-        },
-        {
-          "title": "Bryn Woz: SMUT",
-          "score": 74,
-          "reviews": 10
-        },
-        {
-          "title": "Aalex Mandel-Dallal: Where Was I?",
-          "score": 73,
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
           "reviews": 2
         },
         {
-          "title": "A Better Memory",
-          "score": 72,
-          "reviews": 11
-        },
-        {
-          "title": "Ayo Adenekan: Homeland Insecurity",
-          "score": 68,
-          "reviews": 13
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "A Man Proposes to a Balloon, or Possibly Something Worse",
-          "score": 58,
-          "reviews": 3
-        },
-        {
-          "title": "A Queen's Way",
-          "score": 57,
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         }
       ],
