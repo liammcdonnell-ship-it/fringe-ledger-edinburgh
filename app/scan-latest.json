@@ -2,60 +2,68 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-09T18:06:34.870Z",
-      "completedAt": "2026-09-09T18:06:34.870Z",
+      "id": "2026-09-09T21:20:47.509Z",
+      "completedAt": "2026-09-09T21:20:47.509Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1376,
-      "totalNotices": 5082,
-      "defaultVisible": 905,
-      "duplicates": 22,
+      "totalShows": 1374,
+      "totalNotices": 5069,
+      "defaultVisible": 904,
+      "duplicates": 21,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-08T19:04:50.080Z",
-      "windowEndedAt": "2026-09-09T18:06:34.870Z",
-      "windowCoverageHours": 23,
+      "windowStartedAt": "2026-09-08T22:07:24.658Z",
+      "windowEndedAt": "2026-09-09T21:20:47.509Z",
+      "windowCoverageHours": 23.2,
       "scansInWindow": 6,
-      "newReviews": 28765,
-      "newShows": 5,
-      "enteredRanking": 7,
+      "newReviews": 28745,
+      "newShows": -4,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Megasquirt: Fully Loaded",
-          "previousScore": 81,
-          "currentScore": 78,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 83,
+          "currentScore": 80,
           "delta": -3,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousReviews": 6,
+          "currentReviews": 5
         },
         {
           "title": "When You Are a Tick",
-          "previousScore": 48,
-          "currentScore": 51,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Omar Badawy: Guided Detour",
-          "previousScore": 75,
-          "currentScore": 77,
-          "delta": 2,
-          "previousReviews": 17,
-          "currentReviews": 16
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 67,
-          "currentScore": 65,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
+          "previousReviews": 10,
+          "currentReviews": 9
         },
         {
           "title": "Mark Thomas: 40 in Stand-Up Years",
@@ -66,83 +74,31 @@
           "currentReviews": 6
         },
         {
-          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 70,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "Harriet Richardson: Creep",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 19,
-          "currentReviews": 18
-        },
-        {
-          "title": "Mothman: A Romance Musical",
-          "previousScore": 88,
-          "currentScore": 89,
+          "previousScore": 82,
+          "currentScore": 83,
           "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 17
+          "previousReviews": 18,
+          "currentReviews": 19
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 66,
-          "currentScore": 67,
-          "delta": 1,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 66,
-          "currentScore": 65,
+          "title": "Mark Vigeant: OUT THERE",
+          "previousScore": 71,
+          "currentScore": 70,
           "delta": -1,
-          "previousReviews": 4,
+          "previousReviews": 6,
           "currentReviews": 5
         }
       ],
       "newEntries": [
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Tim Key: Loganberry",
-          "score": 76,
-          "reviews": 2
-        },
         {
           "title": "Do Better: A Dramagedy",
           "score": 70,
           "reviews": 2
         },
         {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Thermos Museum Books",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -362,6 +318,7 @@
         "Bread and Circuses",
         "Brennan Reece: Live",
         "Brew Hill",
+        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -990,6 +947,7 @@
         "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
         "Queen of The Empire",
         "Queer Diary",
+        "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
