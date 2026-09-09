@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-09T05:29:55.111Z",
-      "completedAt": "2026-09-09T05:29:55.111Z",
+      "id": "2026-09-09T10:13:48.893Z",
+      "completedAt": "2026-09-09T10:13:48.893Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1370,
-      "totalNotices": 5075,
+      "totalShows": 1374,
+      "totalNotices": 5074,
       "defaultVisible": 902,
-      "duplicates": 13,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-08T06:38:21.803Z",
-      "windowEndedAt": "2026-09-09T05:29:55.111Z",
-      "windowCoverageHours": 22.9,
+      "windowStartedAt": "2026-09-08T11:50:34.879Z",
+      "windowEndedAt": "2026-09-09T10:13:48.893Z",
+      "windowCoverageHours": 22.4,
       "scansInWindow": 6,
-      "newReviews": 28664,
-      "newShows": -16,
+      "newReviews": 28691,
+      "newShows": -14,
       "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 76,
+          "currentScore": 69,
+          "delta": -7,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
         {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 75,
@@ -34,12 +42,12 @@
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
           "previousReviews": 4,
-          "currentReviews": 5
+          "currentReviews": 3
         },
         {
           "title": "The Singer",
@@ -58,68 +66,60 @@
           "currentReviews": 12
         },
         {
-          "title": "Stayin' Alive",
-          "previousScore": 75,
-          "currentScore": 78,
-          "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 68,
-          "currentScore": 66,
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 81,
+          "currentScore": 79,
           "delta": -2,
-          "previousReviews": 8,
-          "currentReviews": 7
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
-          "title": "Tom Read Wilson: A-Z of Me",
-          "previousScore": 85,
-          "currentScore": 87,
+          "title": "Mark Thomas: 40 in Stand-Up Years",
+          "previousScore": 90,
+          "currentScore": 92,
           "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
         },
         {
-          "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 71,
-          "currentScore": 72,
-          "delta": 1,
-          "previousReviews": 13,
-          "currentReviews": 14
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 5
         },
         {
-          "title": "Eleanor Morton: The Mermaid",
+          "title": "Lara Ricote: Inkling",
+          "previousScore": 83,
+          "currentScore": 84,
+          "delta": 1,
+          "previousReviews": 14,
+          "currentReviews": 13
+        },
+        {
+          "title": "Tarang Hardikar: If I'm Not Wrong",
           "previousScore": 78,
-          "currentScore": 79,
-          "delta": 1,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "currentScore": 77,
+          "delta": -1,
+          "previousReviews": 10,
+          "currentReviews": 11
         },
         {
-          "title": "FORIEGNER",
-          "previousScore": 73,
-          "currentScore": 74,
+          "title": "Viggo Venn: Only One",
+          "previousScore": 70,
+          "currentScore": 71,
           "delta": 1,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "Kate Dolan: Trout",
-          "previousScore": 82,
-          "currentScore": 81,
-          "delta": -1,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
@@ -129,7 +129,7 @@
           "reviews": 2
         },
         {
-          "title": "East Infection",
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
@@ -139,8 +139,8 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Do Better: A Dramagedy",
+          "score": 70,
           "reviews": 2
         }
       ],
@@ -249,6 +249,7 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -635,7 +636,6 @@
         "Harry Stachini: Lobster",
         "Harun Musho&apos;d: A History of the Last Conservative Government, In Their Own Stupid Words",
         "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
-        "Hater",
         "Having a Baby - The Sh!t They Don&apos;t Tell You in Books",
         "Heart Beats Strong",
         "Heated Rivalry: The Musical Parody!",
@@ -749,6 +749,7 @@
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
         "Julie Belliveau: Enlightened?",
+        "Juliette Burton: Villain Era",
         "Just Blokes",
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
@@ -789,6 +790,7 @@
         "Leviathan X Asmodeus",
         "Lianna Holston: Haha, Oh God 2.0",
         "Liberace and Liza - A Tribute",
+        "Liberace and Liza – A Tribute",
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
@@ -855,6 +857,7 @@
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
         "Michelle Shocked: Bootleg This!",
+        "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
         "Milkdrunk",
@@ -1105,7 +1108,6 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
-        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
@@ -1234,12 +1236,14 @@
         "The Séance Starter Kit™",
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
+        "The Taming of the Shrew",
         "The Tao of Lloyd",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Toe Poke",
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
+        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
