@@ -2,60 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-08T22:07:24.658Z",
-      "completedAt": "2026-09-08T22:07:24.658Z",
+      "id": "2026-09-09T00:47:51.311Z",
+      "completedAt": "2026-09-09T00:47:51.311Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1378,
-      "totalNotices": 5084,
-      "defaultVisible": 905,
-      "duplicates": 23,
+      "totalShows": 1377,
+      "totalNotices": 5082,
+      "defaultVisible": 904,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-07T23:07:40.268Z",
-      "windowEndedAt": "2026-09-08T22:07:24.658Z",
-      "windowCoverageHours": 23,
+      "windowStartedAt": "2026-09-08T01:36:54.504Z",
+      "windowEndedAt": "2026-09-09T00:47:51.311Z",
+      "windowCoverageHours": 23.2,
       "scansInWindow": 6,
-      "newReviews": 28698,
-      "newShows": 14,
-      "enteredRanking": 10,
+      "newReviews": 28656,
+      "newShows": -3,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
+          "title": "Take Care",
+          "previousScore": 70,
+          "currentScore": 77,
           "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
           "previousReviews": 4,
           "currentReviews": 3
-        },
-        {
-          "title": "An A to Z Guide to Dating",
-          "previousScore": 60,
-          "currentScore": 56,
-          "delta": -4,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
         },
         {
           "title": "Stayin' Alive",
@@ -66,12 +42,12 @@
           "currentReviews": 6
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 81,
-          "currentScore": 79,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "title": "The Shocking Truth About Flat Earth",
+          "previousScore": 83,
+          "currentScore": 85,
+          "delta": 2,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Tom Read Wilson: A-Z of Me",
@@ -82,36 +58,36 @@
           "currentReviews": 6
         },
         {
-          "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
+          "title": "Sasha Nezlobin: I'm Fine",
+          "previousScore": 73,
+          "currentScore": 71,
+          "delta": -2,
           "previousReviews": 5,
           "currentReviews": 6
         },
         {
-          "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 70,
+          "title": "Phil Ellis: Bath Mat",
+          "previousScore": 89,
+          "currentScore": 87,
           "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
         },
         {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 78,
-          "currentScore": 77,
-          "delta": -1,
-          "previousReviews": 10,
-          "currentReviews": 11
+          "title": "The Real Kyle McCarren",
+          "previousScore": 90,
+          "currentScore": 91,
+          "delta": 1,
+          "previousReviews": 16,
+          "currentReviews": 15
         },
         {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 76,
-          "currentScore": 75,
-          "delta": -1,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "title": "Rob Auton: JUPITER",
+          "previousScore": 84,
+          "currentScore": 85,
+          "delta": 1,
+          "previousReviews": 16,
+          "currentReviews": 15
         },
         {
           "title": "Eleanor Morton: The Mermaid",
@@ -120,57 +96,41 @@
           "delta": 1,
           "previousReviews": 6,
           "currentReviews": 7
+        },
+        {
+          "title": "FORIEGNER",
+          "previousScore": 73,
+          "currentScore": 74,
+          "delta": 1,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Top Gunchained",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "The Pigeon Factory",
+          "previousScore": 71,
+          "currentScore": 70,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
         {
           "title": "East Infection",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
-        },
-        {
           "title": "Tim Key: Loganberry",
           "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Henry VIII and His Groom",
-          "score": 64,
           "reviews": 2
         }
       ],
@@ -279,7 +239,6 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
-        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -385,7 +344,6 @@
         "Bread and Circuses",
         "Brennan Reece: Live",
         "Brew Hill",
-        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brick",
         "Bride To Be",
         "Brit Barron: CHURCH",
@@ -651,7 +609,6 @@
         "Guys Sing Dolls",
         "Gyles Brandreth: Up Memory Lane!",
         "HOW TO FRINGE: a chat show with thom tuck",
-        "HR The Musical",
         "Hadid",
         "Hajar, Like Badger",
         "Half-Orphan",
@@ -717,7 +674,6 @@
         "Ify Nwadiwe&apos;s Big Facts",
         "Ignacio Lopez: Nada (secret show)",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
-        "Il canto dell'assiolo",
         "Imogen Andrews: The Unlikeable Worms",
         "Improbotics Presents: Artificial Reality",
         "Impromptunes - The Completely Improvised Musical",
@@ -783,7 +739,6 @@
         "Jules Oakes: Fragile",
         "Julian Clary: Fully Dilated",
         "Julie Belliveau: Enlightened?",
-        "Juliette Burton: Villain Era",
         "Just Blokes",
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
@@ -824,7 +779,6 @@
         "Leviathan X Asmodeus",
         "Lianna Holston: Haha, Oh God 2.0",
         "Liberace and Liza - A Tribute",
-        "Liberace and Liza – A Tribute",
         "Likewise",
         "Lil&apos; Miss Kate - Ward of the State",
         "Lilla Multipass: Woman(33)",
@@ -883,7 +837,6 @@
         "Max Fulham: Memory Foam",
         "Max Olesker: Making the Cut",
         "Maxx Eddy: Bi Meets World",
-        "Meet Mayor Max",
         "Megasquirt: Fully Loaded",
         "Mel Hudson: Richard Ashcroft Revived My Libido",
         "Michael Brunström: William Tell vs the Algorithm",
@@ -892,7 +845,6 @@
         "Michael Shafar: Inappropriate",
         "Michael Spicer: Hope All&apos;s Well",
         "Michelle Shocked: Bootleg This!",
-        "Midsummer!",
         "Mike Rice: Cruel Little Man",
         "Mike Wozniak: The Bench",
         "Milkdrunk",
@@ -995,7 +947,6 @@
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
-        "Pilate: The Lost Gospel",
         "Pimm&apos;s Without the Cucumber",
         "Pirates: You Wouldn&apos;t Steal A Boat",
         "Plano",
@@ -1011,7 +962,6 @@
         "Puck Bunnies: A Heated Rivalry Drag Musical Parody",
         "Queen of The Empire",
         "Queer Diary",
-        "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
@@ -1028,7 +978,6 @@
         "Refashioned: From Childhood Dream to Stylish Nightmare",
         "Reformer",
         "Reginald D Hunter: Something Wicked That Other Way Comes",
-        "Remember, Remember!",
         "Reparations",
         "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
         "Rev Awdry: The Thomas the Tank Engine Man",
@@ -1058,7 +1007,6 @@
         "Ruby Carr: Bite Me",
         "Ruby Wax: Absolutely Famous",
         "Ryan Cullen: Cullen Me Softly",
-        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "STAY",
@@ -1134,7 +1082,6 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
-        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1318,7 +1265,6 @@
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
         "Tom Read Wilson: A-Z of Me",
         "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-        "Tom Stade Rules",
         "Tom Towelling Teaches You to Knit",
         "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
