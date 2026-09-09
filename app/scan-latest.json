@@ -2,36 +2,60 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-09T00:47:51.311Z",
-      "completedAt": "2026-09-09T00:47:51.311Z",
+      "id": "2026-09-09T05:29:55.111Z",
+      "completedAt": "2026-09-09T05:29:55.111Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1377,
-      "totalNotices": 5082,
-      "defaultVisible": 904,
-      "duplicates": 1,
+      "totalShows": 1370,
+      "totalNotices": 5075,
+      "defaultVisible": 902,
+      "duplicates": 13,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-08T01:36:54.504Z",
-      "windowEndedAt": "2026-09-09T00:47:51.311Z",
-      "windowCoverageHours": 23.2,
+      "windowStartedAt": "2026-09-08T06:38:21.803Z",
+      "windowEndedAt": "2026-09-09T05:29:55.111Z",
+      "windowCoverageHours": 22.9,
       "scansInWindow": 6,
-      "newReviews": 28656,
-      "newShows": -3,
-      "enteredRanking": 2,
+      "newReviews": 28664,
+      "newShows": -16,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Take Care",
-          "previousScore": 70,
-          "currentScore": 77,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
           "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
           "previousReviews": 4,
-          "currentReviews": 3
+          "currentReviews": 5
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Stayin' Alive",
@@ -42,12 +66,20 @@
           "currentReviews": 6
         },
         {
-          "title": "The Shocking Truth About Flat Earth",
-          "previousScore": 83,
-          "currentScore": 85,
-          "delta": 2,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "title": "When You Are a Tick",
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 68,
+          "currentScore": 66,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 7
         },
         {
           "title": "Tom Read Wilson: A-Z of Me",
@@ -58,36 +90,12 @@
           "currentReviews": 6
         },
         {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "previousScore": 73,
-          "currentScore": 71,
-          "delta": -2,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 89,
-          "currentScore": 87,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 90,
-          "currentScore": 91,
+          "title": "UNDERGROUND MONK SHOW",
+          "previousScore": 71,
+          "currentScore": 72,
           "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 15
-        },
-        {
-          "title": "Rob Auton: JUPITER",
-          "previousScore": 84,
-          "currentScore": 85,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 15
+          "previousReviews": 13,
+          "currentReviews": 14
         },
         {
           "title": "Eleanor Morton: The Mermaid",
@@ -106,23 +114,20 @@
           "currentReviews": 7
         },
         {
-          "title": "Top Gunchained",
-          "previousScore": 77,
-          "currentScore": 76,
+          "title": "Kate Dolan: Trout",
+          "previousScore": 82,
+          "currentScore": 81,
           "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "The Pigeon Factory",
-          "previousScore": 71,
-          "currentScore": 70,
-          "delta": -1,
-          "previousReviews": 6,
+          "previousReviews": 4,
           "currentReviews": 5
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
         {
           "title": "East Infection",
           "score": 83,
@@ -131,6 +136,11 @@
         {
           "title": "Tim Key: Loganberry",
           "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         }
       ],
@@ -1224,7 +1234,6 @@
         "The Séance Starter Kit™",
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
-        "The Taming of the Shrew",
         "The Tao of Lloyd",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Toe Poke",
