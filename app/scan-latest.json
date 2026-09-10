@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-10T11:56:25.492Z",
-      "completedAt": "2026-09-10T11:56:25.492Z",
+      "id": "2026-09-10T15:19:56.043Z",
+      "completedAt": "2026-09-10T15:19:56.043Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1379,
-      "totalNotices": 5088,
-      "defaultVisible": 906,
-      "duplicates": 28,
+      "totalShows": 1370,
+      "totalNotices": 5049,
+      "defaultVisible": 900,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-09T10:13:48.893Z",
-      "windowEndedAt": "2026-09-10T11:56:25.492Z",
-      "windowCoverageHours": 25.7,
+      "windowStartedAt": "2026-09-09T14:53:14.729Z",
+      "windowEndedAt": "2026-09-10T15:19:56.043Z",
+      "windowCoverageHours": 24.4,
       "scansInWindow": 7,
-      "newReviews": 33558,
-      "newShows": 5,
-      "enteredRanking": 6,
+      "newReviews": 33506,
+      "newShows": 13,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 83,
+          "currentScore": 80,
+          "delta": -3,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "When You Are a Tick",
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
         {
           "title": "Reparations",
           "previousScore": 65,
@@ -34,20 +50,28 @@
           "currentReviews": 6
         },
         {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 75,
-          "currentScore": 76,
-          "delta": 1,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
-          "title": "Viggo Venn: Only One",
-          "previousScore": 71,
-          "currentScore": 70,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "title": "Lara Ricote: Inkling",
+          "previousScore": 83,
+          "currentScore": 84,
+          "delta": 1,
+          "previousReviews": 14,
+          "currentReviews": 13
+        },
+        {
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 73,
+          "currentScore": 74,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "You and Me (and Whoever Comes Next)",
@@ -80,8 +104,13 @@
           "reviews": 2
         },
         {
-          "title": "Cult",
-          "score": 57,
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Thermos Museum Books",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -385,7 +414,6 @@
         "Crash Course",
         "Creepy Boys: SLUGS",
         "Crowd Work from Hell",
-        "Crowd Work with Frank Skinner",
         "Crudi Dench: Someone Help Her!",
         "Cruising",
         "Cry-Baby the Musical",
