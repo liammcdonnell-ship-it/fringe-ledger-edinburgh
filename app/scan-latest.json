@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-10T01:39:19.649Z",
-      "completedAt": "2026-09-10T01:39:19.649Z",
+      "id": "2026-09-10T06:46:51.954Z",
+      "completedAt": "2026-09-10T06:46:51.954Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1377,
-      "totalNotices": 5087,
-      "defaultVisible": 906,
-      "duplicates": 1,
+      "totalShows": 1365,
+      "totalNotices": 5072,
+      "defaultVisible": 905,
+      "duplicates": 10,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-09T00:47:51.311Z",
-      "windowEndedAt": "2026-09-10T01:39:19.649Z",
-      "windowCoverageHours": 24.9,
+      "windowStartedAt": "2026-09-09T05:29:55.111Z",
+      "windowEndedAt": "2026-09-10T06:46:51.954Z",
+      "windowCoverageHours": 25.3,
       "scansInWindow": 7,
-      "newReviews": 33525,
-      "newShows": 0,
-      "enteredRanking": 2,
+      "newReviews": 33527,
+      "newShows": -5,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "When You Are a Tick",
+          "previousScore": 48,
+          "currentScore": 51,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "Mark Thomas: 40 in Stand-Up Years",
           "previousScore": 90,
@@ -32,9 +40,67 @@
           "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 67,
+          "delta": 1,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Kate Dolan: Trout",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
         {
           "title": "Do Better: A Dramagedy",
           "score": 70,
@@ -342,7 +408,6 @@
         "Crapp&apos;s River",
         "Crash Course",
         "Creepy Boys: SLUGS",
-        "Cricket &#038; The Freebugs",
         "Crowd Work from Hell",
         "Crowd Work with Frank Skinner",
         "Crudi Dench: Someone Help Her!",
