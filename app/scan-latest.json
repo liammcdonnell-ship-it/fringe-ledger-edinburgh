@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-11T21:25:15.939Z",
-      "completedAt": "2026-09-11T21:25:15.939Z",
+      "id": "2026-09-11T23:38:08.412Z",
+      "completedAt": "2026-09-11T23:38:08.412Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1351,
-      "totalNotices": 5056,
-      "defaultVisible": 904,
-      "duplicates": 1,
+      "totalShows": 1362,
+      "totalNotices": 5068,
+      "defaultVisible": 906,
+      "duplicates": 14,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-10T21:17:42.007Z",
-      "windowEndedAt": "2026-09-11T21:25:15.939Z",
+      "windowStartedAt": "2026-09-10T23:30:24.614Z",
+      "windowEndedAt": "2026-09-11T23:38:08.412Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 33538,
-      "newShows": -27,
-      "enteredRanking": 1,
+      "newReviews": 33590,
+      "newShows": -17,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
@@ -34,14 +34,6 @@
           "currentReviews": 4
         },
         {
-          "title": "Metroland Live: As Seen On TV",
-          "previousScore": 56,
-          "currentScore": 61,
-          "delta": 5,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "We've Got Time",
           "previousScore": 82,
           "currentScore": 78,
@@ -50,20 +42,44 @@
           "currentReviews": 4
         },
         {
-          "title": "Jack Brookmyre: Impressionable",
-          "previousScore": 73,
-          "currentScore": 76,
-          "delta": 3,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "title": "Two Little Pigs",
+          "previousScore": 71,
+          "currentScore": 68,
+          "delta": -3,
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
-          "title": "Nate Kitch Replica",
-          "previousScore": 75,
-          "currentScore": 73,
-          "delta": -2,
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 74,
+          "currentScore": 71,
+          "delta": -3,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "Sid Singh: Love Bombing",
+          "previousScore": 80,
+          "currentScore": 77,
+          "delta": -3,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 80,
+          "currentScore": 83,
+          "delta": 3,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Imogen Andrews: The Unlikeable Worms",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
           "title": "Reparations",
@@ -80,12 +96,41 @@
           "delta": 2,
           "previousReviews": 4,
           "currentReviews": 3
+        },
+        {
+          "title": "The Meeples: XXX",
+          "previousScore": 68,
+          "currentScore": 70,
+          "delta": 2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Harriet Richardson: Creep",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 19,
+          "currentReviews": 18
+        },
+        {
+          "title": "Tarang Hardikar: If I'm Not Wrong",
+          "previousScore": 77,
+          "currentScore": 78,
+          "delta": 1,
+          "previousReviews": 11,
+          "currentReviews": 10
         }
       ],
       "newEntries": [
         {
           "title": "Bigfoot Ripped My Dog in Half I Saw It",
           "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Giro Baby",
+          "score": 61,
           "reviews": 2
         }
       ],
@@ -140,6 +185,7 @@
         "A Better Memory",
         "A Bunch of Characters - Hugo Hayes",
         "A Cat in a Box",
+        "A Clown's Lullaby",
         "A Companion",
         "A Complete Idiot&apos;s Guide to New Zealand",
         "A Different Kind of Heartbreak",
@@ -713,6 +759,7 @@
         "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Keeping Secrets",
+        "Kevin Quantum: Invisible Force",
         "Kevin! [The Musical]",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
         "Killian Sundermann: Killian Dollar Baby",
@@ -957,7 +1004,6 @@
         "Rip Her to Shreds",
         "Rizal Van Geyzel: Arrested",
         "Rob Duncan: Printer of the Year",
-        "Rob Duncan: Toilet",
         "Rob Kemp: Beatlesjuice",
         "Rob Moriarty: Sick in the Head",
         "RobWords Live",
@@ -1064,6 +1110,7 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
