@@ -2,87 +2,100 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-10T23:30:24.614Z",
-      "completedAt": "2026-09-10T23:30:24.614Z",
+      "id": "2026-09-11T01:39:52.546Z",
+      "completedAt": "2026-09-11T01:39:52.546Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1379,
-      "totalNotices": 5089,
-      "defaultVisible": 908,
-      "duplicates": 1,
+      "totalShows": 1367,
+      "totalNotices": 5068,
+      "defaultVisible": 905,
+      "duplicates": 13,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-09T23:37:58.745Z",
-      "windowEndedAt": "2026-09-10T23:30:24.614Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-10T01:39:19.649Z",
+      "windowEndedAt": "2026-09-11T01:39:52.546Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 7,
-      "newReviews": 33446,
-      "newShows": 2,
-      "enteredRanking": 3,
+      "newReviews": 33453,
+      "newShows": -10,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Two Little Pigs",
-          "previousScore": 68,
-          "currentScore": 71,
-          "delta": 3,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 77,
-          "currentScore": 80,
-          "delta": 3,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 83,
-          "currentScore": 80,
-          "delta": -3,
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
           "previousReviews": 6,
           "currentReviews": 5
         },
         {
-          "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "title": "The Real Kyle McCarren",
+          "previousScore": 91,
+          "currentScore": 90,
+          "delta": -1,
+          "previousReviews": 15,
+          "currentReviews": 16
         },
         {
-          "title": "The Meeples: XXX",
+          "title": "Top Gunchained",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
           "previousScore": 70,
-          "currentScore": 68,
-          "delta": -2,
+          "currentScore": 71,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "The Pigeon Factory",
+          "previousScore": 70,
+          "currentScore": 71,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 82,
-          "currentScore": 83,
+          "title": "The Crimes of Pete",
+          "previousScore": 76,
+          "currentScore": 77,
           "delta": 1,
-          "previousReviews": 18,
-          "currentReviews": 19
-        },
-        {
-          "title": "Mark Vigeant: OUT THERE",
-          "previousScore": 71,
-          "currentScore": 70,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
         {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
@@ -91,6 +104,16 @@
         {
           "title": "That's Why Mums Go to Switzerland",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -216,6 +239,7 @@
         "An American (Not) in Paris",
         "An Asexual Show About Cunnilingus by Eliott Simpson",
         "An Audience with Charles Manson",
+        "An Audience with Virginia Woolf: Writing One's Mind",
         "An Englishman, an Irishman and a Scotsman",
         "An Evening with Dame Granny Smith",
         "An Evening with Gerald Lloyd-Davies",
@@ -374,6 +398,7 @@
         "Coco&apos;s Art History Comedy Highlights Tour",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
+        "Collaborator",
         "Come As You Are",
         "Comedy Club 4 Kids",
         "Comfortable",
@@ -390,6 +415,7 @@
         "Crapp&apos;s River",
         "Crash Course",
         "Creepy Boys: SLUGS",
+        "Cricket &#038; The Freebugs",
         "Crowd Work from Hell",
         "Crudi Dench: Someone Help Her!",
         "Cruising",
@@ -522,6 +548,7 @@
         "Fruit Flies",
         "Furniture Boys",
         "GANNET",
+        "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
         "Gagula: The Panto with Teeth!",
@@ -876,6 +903,7 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
+        "Owl at Home – Theatr Iolo",
         "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
@@ -984,6 +1012,7 @@
         "Sarah Hester Ross: Serving C*nt",
         "Sarah Roberts: Scary Movie 7",
         "Sasha Nezlobin: I&apos;m Fine",
+        "Sasha Nezlobin: I'm Fine",
         "Sashi Perera - Pear Tree",
         "Scout Boxall: God&apos;s Favourite",
         "Sean Morley: Backchannel",
@@ -1035,6 +1064,7 @@
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
         "Soft Lock",
+        "Soft Spot",
         "Sokopop Quiz Night",
         "Solo from the Pit",
         "Solve-Along-A-Murder-She-Wrote",
@@ -1196,6 +1226,7 @@
         "The Vampire Run",
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
+        "The Very Best of Tommy Cooper – Just Like That!",
         "The Wedding Date",
         "The Wolf of Poyais",
         "The Woman in the Mirror",
