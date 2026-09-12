@@ -2,70 +2,94 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-12T19:46:47.530Z",
-      "completedAt": "2026-09-12T19:46:47.530Z",
+      "id": "2026-09-12T21:48:36.055Z",
+      "completedAt": "2026-09-12T21:48:36.055Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1349,
-      "totalNotices": 5022,
-      "defaultVisible": 899,
-      "duplicates": 1,
+      "totalShows": 1364,
+      "totalNotices": 5072,
+      "defaultVisible": 906,
+      "duplicates": 17,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-11T18:51:57.224Z",
-      "windowEndedAt": "2026-09-12T19:46:47.530Z",
-      "windowCoverageHours": 24.9,
+      "windowStartedAt": "2026-09-11T21:25:15.939Z",
+      "windowEndedAt": "2026-09-12T21:48:36.055Z",
+      "windowCoverageHours": 24.4,
       "scansInWindow": 8,
-      "newReviews": 38405,
-      "newShows": -7,
+      "newReviews": 38426,
+      "newShows": 13,
       "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
-          "title": "We've Got Time",
-          "previousScore": 82,
-          "currentScore": 78,
-          "delta": -4,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
           "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 67,
-          "currentScore": 66,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "previousScore": 66,
+          "currentScore": 67,
+          "delta": 1,
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
           "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 65,
-          "currentScore": 66,
-          "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Dan Tiernan: Quartz And All",
+          "title": "Badgers",
           "score": 79,
-          "reviews": 8
+          "reviews": 2
         },
         {
-          "title": "David Correos: Noise Zealand",
+          "title": "After Party",
           "score": 76,
           "reviews": 2
         }
