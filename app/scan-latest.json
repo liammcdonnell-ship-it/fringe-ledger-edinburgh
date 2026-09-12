@@ -2,37 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-12T06:37:45.495Z",
-      "completedAt": "2026-09-12T06:37:45.495Z",
+      "id": "2026-09-12T11:21:26.852Z",
+      "completedAt": "2026-09-12T11:21:26.852Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1386,
-      "totalNotices": 5103,
-      "defaultVisible": 910,
-      "duplicates": 17,
+      "totalShows": 1358,
+      "totalNotices": 5066,
+      "defaultVisible": 905,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-11T06:43:38.077Z",
-      "windowEndedAt": "2026-09-12T06:37:45.495Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-11T11:54:49.421Z",
+      "windowEndedAt": "2026-09-12T11:21:26.852Z",
+      "windowCoverageHours": 23.4,
       "scansInWindow": 7,
-      "newReviews": 33597,
-      "newShows": 8,
-      "enteredRanking": 5,
+      "newReviews": 33596,
+      "newShows": -20,
+      "enteredRanking": 1,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
         {
           "title": "We've Got Time",
           "previousScore": 82,
@@ -42,110 +34,74 @@
           "currentReviews": 4
         },
         {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Steak Out",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 8,
+          "currentReviews": 9
         },
         {
-          "title": "Lizzy Sunshine",
+          "title": "Megasquirt: Fully Loaded",
           "previousScore": 78,
           "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Jack Brookmyre: Impressionable",
+          "previousScore": 73,
+          "currentScore": 76,
           "delta": 3,
           "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 89,
-          "currentScore": 87,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 68,
+          "delta": 2,
+          "previousReviews": 7,
+          "currentReviews": 8
         },
         {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 91,
-          "currentScore": 90,
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "Mothman: A Romance Musical",
+          "previousScore": 89,
+          "currentScore": 88,
           "delta": -1,
-          "previousReviews": 15,
+          "previousReviews": 17,
           "currentReviews": 16
         },
         {
           "title": "UNDERGROUND MONK SHOW",
-          "previousScore": 71,
-          "currentScore": 72,
-          "delta": 1,
-          "previousReviews": 13,
-          "currentReviews": 14
-        },
-        {
-          "title": "Rosalie Minnitt: Clementine 2",
-          "previousScore": 79,
-          "currentScore": 78,
+          "previousScore": 72,
+          "currentScore": 71,
           "delta": -1,
-          "previousReviews": 12,
+          "previousReviews": 14,
           "currentReviews": 13
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 67,
-          "currentScore": 66,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Top Gunchained",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Pigeon Factory",
-          "previousScore": 70,
-          "currentScore": 71,
-          "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Viggo Venn: Only One",
-          "previousScore": 71,
+          "title": "The Understudy",
+          "previousScore": 69,
           "currentScore": 70,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "delta": 1,
+          "previousReviews": 7,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
         {
           "title": "Bigfoot Ripped My Dog in Half I Saw It",
           "score": 89,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
           "reviews": 2
         }
       ],
