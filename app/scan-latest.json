@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-12T21:48:36.055Z",
-      "completedAt": "2026-09-12T21:48:36.055Z",
+      "id": "2026-09-12T23:30:52.453Z",
+      "completedAt": "2026-09-12T23:30:52.453Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1364,
-      "totalNotices": 5072,
-      "defaultVisible": 906,
-      "duplicates": 17,
+      "totalShows": 1379,
+      "totalNotices": 5091,
+      "defaultVisible": 908,
+      "duplicates": 33,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-11T21:25:15.939Z",
-      "windowEndedAt": "2026-09-12T21:48:36.055Z",
-      "windowCoverageHours": 24.4,
+      "windowStartedAt": "2026-09-11T23:38:08.412Z",
+      "windowEndedAt": "2026-09-12T23:30:52.453Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 8,
       "newReviews": 38426,
-      "newShows": 13,
-      "enteredRanking": 2,
+      "newShows": 17,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
         {
@@ -50,47 +50,49 @@
           "currentReviews": 12
         },
         {
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 71,
+          "currentScore": 74,
+          "delta": 3,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
           "title": "INDY!",
           "previousScore": 72,
           "currentScore": 70,
           "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 66,
-          "currentScore": 67,
-          "delta": 1,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 66,
-          "currentScore": 65,
-          "delta": -1,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Badgers",
-          "score": 79,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "After Party",
-          "score": 76,
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         }
       ],
@@ -1073,7 +1075,6 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
-        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
