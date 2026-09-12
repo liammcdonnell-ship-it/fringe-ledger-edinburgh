@@ -2,29 +2,45 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-11T23:38:08.412Z",
-      "completedAt": "2026-09-11T23:38:08.412Z",
+      "id": "2026-09-12T01:45:57.699Z",
+      "completedAt": "2026-09-12T01:45:57.699Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1362,
-      "totalNotices": 5068,
-      "defaultVisible": 906,
-      "duplicates": 14,
+      "totalShows": 1374,
+      "totalNotices": 5071,
+      "defaultVisible": 904,
+      "duplicates": 32,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-10T23:30:24.614Z",
-      "windowEndedAt": "2026-09-11T23:38:08.412Z",
+      "windowStartedAt": "2026-09-11T01:39:52.546Z",
+      "windowEndedAt": "2026-09-12T01:45:57.699Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 33590,
-      "newShows": -17,
-      "enteredRanking": 2,
+      "newReviews": 33620,
+      "newShows": 7,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
         {
           "title": "Lizzy Sunshine",
           "previousScore": 76,
@@ -42,95 +58,75 @@
           "currentReviews": 4
         },
         {
-          "title": "Two Little Pigs",
-          "previousScore": 71,
-          "currentScore": 68,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
           "delta": -3,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
-          "title": "Temi Wilkey: Lover Girl",
-          "previousScore": 74,
-          "currentScore": 71,
-          "delta": -3,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Sid Singh: Love Bombing",
-          "previousScore": 80,
-          "currentScore": 77,
-          "delta": -3,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 80,
-          "currentScore": 83,
-          "delta": 3,
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
         },
         {
-          "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 67,
-          "currentScore": 65,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 67,
-          "currentScore": 65,
-          "delta": -2,
+          "title": "Mark Vigeant: OUT THERE",
+          "previousScore": 71,
+          "currentScore": 70,
+          "delta": -1,
           "previousReviews": 6,
           "currentReviews": 5
         },
         {
-          "title": "INDY!",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Meeples: XXX",
-          "previousScore": 68,
-          "currentScore": 70,
-          "delta": 2,
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
           "previousReviews": 3,
           "currentReviews": 2
         },
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 19,
-          "currentReviews": 18
-        },
-        {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
+          "title": "The Crimes of Pete",
           "previousScore": 77,
-          "currentScore": 78,
-          "delta": 1,
-          "previousReviews": 11,
-          "currentReviews": 10
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Giro Baby",
-          "score": 61,
+          "title": "I Am Johnny",
+          "score": 71,
+          "reviews": 7
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
           "reviews": 2
         }
       ],
@@ -239,6 +235,7 @@
         "Alice Fraser: Oh Man!",
         "Alice Keys: Rocket Fan",
         "Already Here",
+        "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
         "Amelia Hamilton: Moral Support",
@@ -958,6 +955,7 @@
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
+        "Pilate: The Lost Gospel",
         "Pimm&apos;s Without the Cucumber",
         "Pirates: You Wouldn&apos;t Steal A Boat",
         "Plano",
@@ -1021,6 +1019,7 @@
         "Ruby Carr: Bite Me",
         "Ruby Wax: Absolutely Famous",
         "Ryan Cullen: Cullen Me Softly",
+        "SAND",
         "SINNER. A Musical Tragicomedy About Breaking Up With White Jesus",
         "SLAY",
         "STAY",
@@ -1059,6 +1058,7 @@
         "Shakespeare for Breakfast",
         "Shakespeare x 5",
         "Shakespeare&apos;s Big Brother",
+        "Shamaniac",
         "Shamilton! The Improvised Hip-Hop Musical",
         "Shane Daniel Byrne: Baby This Time",
         "Shatter Resistant",
@@ -1097,6 +1097,7 @@
         "Solve-Along-A-Murder-She-Wrote",
         "Sophia Wren: The Best Girl in the World",
         "Sophie Garrad: A Period Drama",
+        "Space In Between",
         "Spare Room",
         "Spencer Jones: Dogs",
         "SpinQueen™",
@@ -1127,6 +1128,7 @@
         "TITCLOWN: daddy&apos;s little girl",
         "TO BE FRANK",
         "Tabletop Role-Playing Game: The Musical",
+        "Taiwan Season: Birthday Party",
         "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
@@ -1233,6 +1235,7 @@
         "The Spy Who Came in from the Park",
         "The Stand at W Edinburgh",
         "The Subplot: A Hyperfixation on the Titan Submersible",
+        "The Sumo Show HIRAKUZA",
         "The Séance Starter Kit™",
         "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
         "The Tamer Tamed or, The Woman&apos;s Prize",
