@@ -2,74 +2,77 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-13T01:35:19.571Z",
-      "completedAt": "2026-09-13T01:35:19.571Z",
+      "id": "2026-09-13T06:54:21.004Z",
+      "completedAt": "2026-09-13T06:54:21.004Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1378,
-      "totalNotices": 5091,
+      "totalShows": 1376,
+      "totalNotices": 5086,
       "defaultVisible": 907,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-12T01:45:57.699Z",
-      "windowEndedAt": "2026-09-13T01:35:19.571Z",
-      "windowCoverageHours": 23.8,
+      "windowStartedAt": "2026-09-12T06:37:45.495Z",
+      "windowEndedAt": "2026-09-13T06:54:21.004Z",
+      "windowCoverageHours": 24.3,
       "scansInWindow": 8,
-      "newReviews": 38391,
-      "newShows": 4,
-      "enteredRanking": 4,
+      "newReviews": 38367,
+      "newShows": -10,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Two Little Pigs",
-          "previousScore": 68,
-          "currentScore": 71,
-          "delta": 3,
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 79,
+          "currentScore": 81,
+          "delta": 2,
           "previousReviews": 10,
           "currentReviews": 9
         },
         {
-          "title": "Nuns!",
-          "previousScore": 83,
-          "currentScore": 85,
-          "delta": 2,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "title": "The Librarians: A Very Serious Comedy!",
+          "previousScore": 62,
+          "currentScore": 63,
+          "delta": 1,
+          "previousReviews": 16,
+          "currentReviews": 17
         },
         {
-          "title": "The Meeples: XXX",
-          "previousScore": 70,
-          "currentScore": 68,
-          "delta": -2,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "The Joker and The Thief",
-          "score": 83,
-          "reviews": 8
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
         },
         {
-          "title": "Jonathan Oldfield: Exquisite Corpse",
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
-          "reviews": 7
-        },
-        {
-          "title": "¡Ay! Papi: Jilberto Soto",
-          "score": 70,
           "reviews": 2
         },
         {
-          "title": "The Heterosexuals",
-          "score": 68,
-          "reviews": 3
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -288,7 +291,6 @@
         "Brit Barron: CHURCH",
         "Britain&apos;s Got Nonsense",
         "Broadguess",
-        "Brodie and Co.",
         "Broke and Fabulous in the 21st Century",
         "Broken Planet Show",
         "Bryn Woz: SMUT",
@@ -339,7 +341,6 @@
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
-        "Circa: Wolf",
         "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
@@ -351,7 +352,6 @@
         "Coco&apos;s Art History Comedy Highlights Tour",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
-        "Collaborator",
         "Come As You Are",
         "Comedy Club 4 Kids",
         "Comfortable",
@@ -506,7 +506,6 @@
         "Fruit Flies",
         "Furniture Boys",
         "GANNET",
-        "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
         "Gagula: The Panto with Teeth!",
@@ -893,7 +892,6 @@
         "Phil Nichol: The Naked Racist",
         "Phuckets and Rainbows",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
-        "Pierre Novellie: Do the One About&#8230;",
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
