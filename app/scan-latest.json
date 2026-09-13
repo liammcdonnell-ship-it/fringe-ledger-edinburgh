@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-13T19:03:51.379Z",
-      "completedAt": "2026-09-13T19:03:51.379Z",
+      "id": "2026-09-13T21:53:41.376Z",
+      "completedAt": "2026-09-13T21:53:41.376Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1379,
-      "totalNotices": 5092,
-      "defaultVisible": 908,
-      "duplicates": 36,
+      "totalShows": 1349,
+      "totalNotices": 5051,
+      "defaultVisible": 903,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-12T19:46:47.530Z",
-      "windowEndedAt": "2026-09-13T19:03:51.379Z",
-      "windowCoverageHours": 23.3,
+      "windowStartedAt": "2026-09-12T21:48:36.055Z",
+      "windowEndedAt": "2026-09-13T21:53:41.376Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 33630,
-      "newShows": 30,
-      "enteredRanking": 10,
+      "newReviews": 33569,
+      "newShows": -15,
+      "enteredRanking": 0,
       "newOutlets": [],
       "movers": [
         {
@@ -34,146 +34,55 @@
           "currentReviews": 3
         },
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 69,
-          "currentScore": 76,
-          "delta": 7,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "SpinQueen™",
-          "previousScore": 78,
-          "currentScore": 81,
-          "delta": 3,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
           "title": "When You Are a Tick",
-          "previousScore": 48,
-          "currentScore": 51,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 70,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 87,
-          "currentScore": 89,
+          "previousScore": 70,
+          "currentScore": 72,
           "delta": 2,
           "previousReviews": 4,
           "currentReviews": 3
         },
         {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 90,
-          "currentScore": 91,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 15
-        },
-        {
-          "title": "Lara Ricote: Inkling",
-          "previousScore": 84,
-          "currentScore": 83,
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 67,
+          "currentScore": 66,
           "delta": -1,
-          "previousReviews": 13,
-          "currentReviews": 14
-        },
-        {
-          "title": "The Ghost of White Hart Lane",
-          "previousScore": 73,
-          "currentScore": 74,
-          "delta": 1,
           "previousReviews": 6,
           "currentReviews": 7
         },
         {
-          "title": "The Problem",
-          "previousScore": 69,
-          "currentScore": 70,
-          "delta": 1,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "previousScore": 74,
+          "currentScore": 73,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 5
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 66,
-          "currentScore": 67,
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 65,
+          "currentScore": 66,
           "delta": 1,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
-      "newEntries": [
-        {
-          "title": "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
-          "score": 91,
-          "reviews": 8
-        },
-        {
-          "title": "Mother, Maiden and Crone",
-          "score": 87,
-          "reviews": 8
-        },
-        {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Nesting",
-          "score": 81,
-          "reviews": 9
-        },
-        {
-          "title": "Isle of No'Man",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Marty Gleeson: Dog Ear",
-          "score": 75,
-          "reviews": 10
-        },
-        {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        }
-      ],
+      "newEntries": [],
       "newShowTitles": [
         "\"Be Good!\" with Paulette",
         "& taxes",
@@ -946,6 +855,7 @@
         "Obie: The Fuck It List",
         "Obsessive, Compulsive, Divine",
         "Octopus",
+        "Of Mice And Men",
         "Oil & Whiskey",
         "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
@@ -964,7 +874,6 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
-        "Owl at Home – Theatr Iolo",
         "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
