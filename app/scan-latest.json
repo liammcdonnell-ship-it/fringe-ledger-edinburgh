@@ -2,76 +2,127 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-13T06:54:21.004Z",
-      "completedAt": "2026-09-13T06:54:21.004Z",
+      "id": "2026-09-13T12:24:38.683Z",
+      "completedAt": "2026-09-13T12:24:38.683Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1376,
-      "totalNotices": 5086,
-      "defaultVisible": 907,
-      "duplicates": 1,
+      "totalShows": 1361,
+      "totalNotices": 5070,
+      "defaultVisible": 905,
+      "duplicates": 8,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-12T06:37:45.495Z",
-      "windowEndedAt": "2026-09-13T06:54:21.004Z",
-      "windowCoverageHours": 24.3,
+      "windowStartedAt": "2026-09-12T11:21:26.852Z",
+      "windowEndedAt": "2026-09-13T12:24:38.683Z",
+      "windowCoverageHours": 25.1,
       "scansInWindow": 8,
-      "newReviews": 38367,
-      "newShows": -10,
-      "enteredRanking": 3,
+      "newReviews": 38377,
+      "newShows": 3,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "title": "9/11 Birds and the Bees",
+          "previousScore": 67,
+          "currentScore": 75,
+          "delta": 8,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 79,
-          "currentScore": 81,
-          "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "title": "Steak Out",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 9,
+          "currentReviews": 8
         },
         {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "previousScore": 62,
-          "currentScore": 63,
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 81,
+          "currentScore": 78,
+          "delta": -3,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 83,
+          "currentScore": 80,
+          "delta": -3,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Omar Badawy: Guided Detour",
+          "previousScore": 77,
+          "currentScore": 75,
+          "delta": -2,
+          "previousReviews": 16,
+          "currentReviews": 17
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 68,
+          "currentScore": 66,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 7
+        },
+        {
+          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Mothman: A Romance Musical",
+          "previousScore": 88,
+          "currentScore": 89,
           "delta": 1,
           "previousReviews": 16,
           "currentReviews": 17
         },
         {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 82,
-          "currentScore": 83,
+          "title": "UNDERGROUND MONK SHOW",
+          "previousScore": 71,
+          "currentScore": 72,
           "delta": 1,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousReviews": 13,
+          "currentReviews": 14
+        },
+        {
+          "title": "The Understudy",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "Viggo Venn: Only One",
+          "previousScore": 70,
+          "currentScore": 71,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
+          "title": "Badgers",
+          "score": 79,
           "reviews": 2
         },
         {
-          "title": "Little Animals",
-          "score": 83,
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         }
       ],
