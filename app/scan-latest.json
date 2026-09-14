@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-14T01:53:58.810Z",
-      "completedAt": "2026-09-14T01:53:58.810Z",
+      "id": "2026-09-14T07:18:18.804Z",
+      "completedAt": "2026-09-14T07:18:18.804Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1378,
-      "totalNotices": 5092,
-      "defaultVisible": 907,
+      "totalShows": 1347,
+      "totalNotices": 5049,
+      "defaultVisible": 902,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-13T01:35:19.571Z",
-      "windowEndedAt": "2026-09-14T01:53:58.810Z",
-      "windowCoverageHours": 24.3,
+      "windowStartedAt": "2026-09-13T06:54:21.004Z",
+      "windowEndedAt": "2026-09-14T07:18:18.804Z",
+      "windowCoverageHours": 24.4,
       "scansInWindow": 7,
-      "newReviews": 33594,
-      "newShows": 0,
-      "enteredRanking": 0,
+      "newReviews": 33592,
+      "newShows": -29,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
@@ -35,38 +35,65 @@
         },
         {
           "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
-          "title": "1 Hour of Insane Magic",
-          "previousScore": 87,
-          "currentScore": 83,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 81,
+          "currentScore": 79,
+          "delta": -2,
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
-          "title": "Imogen Andrews: The Unlikeable Worms",
-          "previousScore": 65,
-          "currentScore": 67,
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 72,
           "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "previousReviews": 4,
+          "currentReviews": 3
         },
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 82,
-          "currentScore": 83,
+          "title": "The Librarians: A Very Serious Comedy!",
+          "previousScore": 63,
+          "currentScore": 62,
+          "delta": -1,
+          "previousReviews": 17,
+          "currentReviews": 16
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
+          "previousScore": 70,
+          "currentScore": 71,
           "delta": 1,
-          "previousReviews": 18,
-          "currentReviews": 20
+          "previousReviews": 5,
+          "currentReviews": 6
         }
       ],
-      "newEntries": [],
+      "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "Support Group",
+          "score": 65,
+          "reviews": 3
+        }
+      ],
       "newShowTitles": [
         "\"Be Good!\" with Paulette",
         "& taxes",
