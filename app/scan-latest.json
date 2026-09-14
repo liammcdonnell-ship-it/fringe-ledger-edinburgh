@@ -2,96 +2,150 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-14T07:18:18.804Z",
-      "completedAt": "2026-09-14T07:18:18.804Z",
+      "id": "2026-09-14T14:33:59.510Z",
+      "completedAt": "2026-09-14T14:33:59.510Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1347,
-      "totalNotices": 5049,
-      "defaultVisible": 902,
-      "duplicates": 1,
+      "totalShows": 1394,
+      "totalNotices": 5110,
+      "defaultVisible": 911,
+      "duplicates": 58,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-13T06:54:21.004Z",
-      "windowEndedAt": "2026-09-14T07:18:18.804Z",
-      "windowCoverageHours": 24.4,
+      "windowStartedAt": "2026-09-13T12:24:38.683Z",
+      "windowEndedAt": "2026-09-14T14:33:59.510Z",
+      "windowCoverageHours": 26.2,
       "scansInWindow": 7,
-      "newReviews": 33592,
-      "newShows": -29,
-      "enteredRanking": 2,
+      "newReviews": 33678,
+      "newShows": 33,
+      "enteredRanking": 8,
       "newOutlets": [],
       "movers": [
         {
-          "title": "9/11 Birds and the Bees",
-          "previousScore": 67,
-          "currentScore": 75,
-          "delta": 8,
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 80,
+          "currentScore": 83,
+          "delta": 3,
           "previousReviews": 4,
-          "currentReviews": 5
+          "currentReviews": 6
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 81,
-          "currentScore": 79,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 67,
-          "currentScore": 65,
-          "delta": -2,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "INDY!",
-          "previousScore": 70,
-          "currentScore": 72,
+          "title": "Omar Badawy: Guided Detour",
+          "previousScore": 75,
+          "currentScore": 77,
           "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "previousScore": 63,
-          "currentScore": 62,
-          "delta": -1,
           "previousReviews": 17,
           "currentReviews": 16
         },
         {
-          "title": "Mark Vigeant: OUT THERE",
-          "previousScore": 70,
-          "currentScore": 71,
-          "delta": 1,
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
           "previousReviews": 5,
           "currentReviews": 6
+        },
+        {
+          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 67,
+          "delta": 1,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Viggo Venn: Only One",
+          "previousScore": 71,
+          "currentScore": 70,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Chris Forbes: Father Christmas",
+          "previousScore": 86,
+          "currentScore": 87,
+          "delta": 1,
+          "previousReviews": 8,
+          "currentReviews": 3
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Little Animals",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Support Group",
-          "score": 65,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -145,6 +199,7 @@
         "A Better Memory",
         "A Bunch of Characters - Hugo Hayes",
         "A Cat in a Box",
+        "A Clown's Lullaby",
         "A Companion",
         "A Complete Idiot&apos;s Guide to New Zealand",
         "A Different Kind of Heartbreak",
@@ -211,6 +266,7 @@
         "An American (Not) in Paris",
         "An Asexual Show About Cunnilingus by Eliott Simpson",
         "An Audience with Charles Manson",
+        "An Audience with Virginia Woolf: Writing One's Mind",
         "An Englishman, an Irishman and a Scotsman",
         "An Evening with Dame Granny Smith",
         "An Evening with Gerald Lloyd-Davies",
@@ -322,6 +378,7 @@
         "Burning Down the Horse",
         "Bush! The Musical",
         "CABAPOCALYPSARET",
+        "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CAKE: A Crime of Love",
         "CHUCK",
@@ -360,6 +417,7 @@
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
+        "Circa: Wolf",
         "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
@@ -371,6 +429,7 @@
         "Coco&apos;s Art History Comedy Highlights Tour",
         "Cogito, Ergo... Something?",
         "Colin Cloud: Hoax",
+        "Collaborator",
         "Come As You Are",
         "Comedy Club 4 Kids",
         "Comfortable",
@@ -525,6 +584,7 @@
         "Fruit Flies",
         "Furniture Boys",
         "GANNET",
+        "GIRLZ",
         "Gabey Lucas: Check Out This Potato That Looks Like a Beluga Whale",
         "Gag Writer",
         "Gagula: The Panto with Teeth!",
@@ -637,6 +697,7 @@
         "Ify Nwadiwe&apos;s Big Facts",
         "Ignacio Lopez: Nada (secret show)",
         "Ignacio Lopez: The Four Of Us Are Dying Up Here",
+        "Il canto dell'assiolo",
         "Imogen Andrews: The Unlikeable Worms",
         "Improbotics Presents: Artificial Reality",
         "Impromptunes - The Completely Improvised Musical",
@@ -885,6 +946,7 @@
         "Otto & Astrid: The Stages Tour",
         "Otuz Bir",
         "Our Town Needs A Nando&apos;s",
+        "Owl at Home – Theatr Iolo",
         "PUSS PUSS",
         "Paddy Young: Will Sir Be Laughing Alone?",
         "Padlocked!",
@@ -910,6 +972,7 @@
         "Phil Nichol: The Naked Racist",
         "Phuckets and Rainbows",
         "Pickle-Based Game Show - Crunchy, Briny and Chaotic",
+        "Pierre Novellie: Do the One About&#8230;",
         "Pierre Novellie: Do the One About...",
         "Pierre Novellie: Okay, One More Then Bedtime",
         "Pigeon Syndrome",
@@ -996,6 +1059,7 @@
         "Sarah Hester Ross: Serving C*nt",
         "Sarah Roberts: Scary Movie 7",
         "Sasha Nezlobin: I&apos;m Fine",
+        "Sasha Nezlobin: I'm Fine",
         "Sashi Perera - Pear Tree",
         "Scout Boxall: God&apos;s Favourite",
         "Sean Morley: Backchannel",
@@ -1048,6 +1112,7 @@
         "Sodom, The Quintessence of Debauchery",
         "Sofie Hagen - I Think Some of This Is My Fault",
         "Soft Lock",
+        "Soft Spot",
         "Sokopop Quiz Night",
         "Solo from the Pit",
         "Solve-Along-A-Murder-She-Wrote",
@@ -1088,6 +1153,7 @@
         "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
+        "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
