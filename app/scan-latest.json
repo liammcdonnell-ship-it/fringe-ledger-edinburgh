@@ -2,42 +2,42 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-14T19:42:31.955Z",
-      "completedAt": "2026-09-14T19:42:31.955Z",
+      "id": "2026-09-14T22:51:00.740Z",
+      "completedAt": "2026-09-14T22:51:00.740Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1395,
-      "totalNotices": 5115,
-      "defaultVisible": 910,
+      "totalShows": 1360,
+      "totalNotices": 5069,
+      "defaultVisible": 907,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-13T19:03:51.379Z",
-      "windowEndedAt": "2026-09-14T19:42:31.955Z",
-      "windowCoverageHours": 24.6,
-      "scansInWindow": 6,
-      "newReviews": 28805,
-      "newShows": 16,
-      "enteredRanking": 4,
+      "windowStartedAt": "2026-09-13T23:44:18.169Z",
+      "windowEndedAt": "2026-09-14T22:51:00.740Z",
+      "windowCoverageHours": 23.1,
+      "scansInWindow": 5,
+      "newReviews": 23935,
+      "newShows": -17,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
           "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
+          "title": "Phil Ellis: Bath Mat",
+          "previousScore": 87,
+          "currentScore": 83,
+          "delta": -4,
           "previousReviews": 4,
           "currentReviews": 5
         },
@@ -50,27 +50,51 @@
           "currentReviews": 3
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
-          "title": "SpinQueen™",
-          "previousScore": 81,
-          "currentScore": 78,
-          "delta": -3,
+          "title": "When You Are a Tick",
+          "previousScore": 48,
+          "currentScore": 51,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 68,
+          "delta": 2,
           "previousReviews": 7,
-          "currentReviews": 6
+          "currentReviews": 8
         },
         {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 91,
-          "currentScore": 90,
+          "title": "Reparations",
+          "previousScore": 67,
+          "currentScore": 65,
+          "delta": -2,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Mothman: A Romance Musical",
+          "previousScore": 89,
+          "currentScore": 88,
           "delta": -1,
-          "previousReviews": 15,
+          "previousReviews": 17,
           "currentReviews": 16
         },
         {
@@ -82,39 +106,7 @@
           "currentReviews": 13
         },
         {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 77,
-          "currentScore": 78,
-          "delta": 1,
-          "previousReviews": 11,
-          "currentReviews": 10
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 67,
-          "currentScore": 68,
-          "delta": 1,
-          "previousReviews": 6,
-          "currentReviews": 8
-        },
-        {
-          "title": "The Problem",
-          "previousScore": 70,
-          "currentScore": 69,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "The Ghost of White Hart Lane",
-          "previousScore": 74,
-          "currentScore": 73,
-          "delta": -1,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "The Pigeon Factory",
+          "title": "Mark Vigeant: OUT THERE",
           "previousScore": 70,
           "currentScore": 71,
           "delta": 1,
@@ -123,6 +115,11 @@
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
         {
           "title": "Dracula: Lucy's Dream",
           "score": 80,
