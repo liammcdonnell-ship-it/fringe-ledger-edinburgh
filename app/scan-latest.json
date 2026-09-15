@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-15T17:24:38.872Z",
-      "completedAt": "2026-09-15T17:24:38.872Z",
+      "id": "2026-09-15T20:32:53.038Z",
+      "completedAt": "2026-09-15T20:32:53.038Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1347,
-      "totalNotices": 5048,
-      "defaultVisible": 901,
-      "duplicates": 1,
+      "totalShows": 1346,
+      "totalNotices": 5026,
+      "defaultVisible": 900,
+      "duplicates": 5,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-09-14T19:42:31.955Z",
-      "windowEndedAt": "2026-09-15T17:24:38.872Z",
-      "windowCoverageHours": 21.7,
-      "scansInWindow": 5,
-      "newReviews": 23918,
-      "newShows": -48,
-      "enteredRanking": 3,
+      "windowEndedAt": "2026-09-15T20:32:53.038Z",
+      "windowCoverageHours": 24.8,
+      "scansInWindow": 6,
+      "newReviews": 28705,
+      "newShows": -49,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
@@ -34,6 +34,14 @@
           "currentReviews": 7
         },
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
           "title": "The Singer",
           "previousScore": 80,
           "currentScore": 76,
@@ -42,11 +50,19 @@
           "currentReviews": 2
         },
         {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 68,
-          "currentScore": 66,
-          "delta": -2,
-          "previousReviews": 8,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
+        },
+        {
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
           "currentReviews": 7
         },
         {
@@ -58,20 +74,20 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 89,
-          "currentScore": 87,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
           "title": "INDY!",
           "previousScore": 70,
           "currentScore": 72,
           "delta": 2,
           "previousReviews": 4,
           "currentReviews": 3
+        },
+        {
+          "title": "Mothman: A Romance Musical",
+          "previousScore": 89,
+          "currentScore": 88,
+          "delta": -1,
+          "previousReviews": 17,
+          "currentReviews": 16
         },
         {
           "title": "UNDERGROUND MONK SHOW",
@@ -98,20 +114,15 @@
           "currentReviews": 11
         },
         {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 82,
-          "currentScore": 83,
-          "delta": 1,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 8,
+          "currentReviews": 6
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
-        },
         {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
