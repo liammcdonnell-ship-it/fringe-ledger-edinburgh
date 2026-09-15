@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-15T20:32:53.038Z",
-      "completedAt": "2026-09-15T20:32:53.038Z",
+      "id": "2026-09-15T23:16:06.945Z",
+      "completedAt": "2026-09-15T23:16:06.945Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1346,
-      "totalNotices": 5026,
-      "defaultVisible": 900,
-      "duplicates": 5,
+      "totalShows": 1354,
+      "totalNotices": 5062,
+      "defaultVisible": 904,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-14T19:42:31.955Z",
-      "windowEndedAt": "2026-09-15T20:32:53.038Z",
-      "windowCoverageHours": 24.8,
+      "windowStartedAt": "2026-09-14T22:51:00.740Z",
+      "windowEndedAt": "2026-09-15T23:16:06.945Z",
+      "windowCoverageHours": 24.4,
       "scansInWindow": 6,
-      "newReviews": 28705,
-      "newShows": -49,
-      "enteredRanking": 2,
+      "newReviews": 28765,
+      "newShows": -6,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 76,
-          "currentScore": 69,
-          "delta": -7,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
         {
           "title": "The Singer",
           "previousScore": 80,
@@ -50,28 +34,28 @@
           "currentReviews": 2
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
           "title": "Megasquirt: Fully Loaded",
-          "previousScore": 78,
-          "currentScore": 81,
-          "delta": 3,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "previousScore": 81,
+          "currentScore": 78,
+          "delta": -3,
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
-          "title": "Reparations",
-          "previousScore": 67,
-          "currentScore": 65,
-          "delta": -2,
-          "previousReviews": 6,
+          "title": "Jack Brookmyre: Impressionable",
+          "previousScore": 76,
+          "currentScore": 73,
+          "delta": -3,
+          "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 68,
+          "currentScore": 66,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 7
         },
         {
           "title": "INDY!",
@@ -83,11 +67,11 @@
         },
         {
           "title": "Mothman: A Romance Musical",
-          "previousScore": 89,
-          "currentScore": 88,
-          "delta": -1,
-          "previousReviews": 17,
-          "currentReviews": 16
+          "previousScore": 88,
+          "currentScore": 89,
+          "delta": 1,
+          "previousReviews": 16,
+          "currentReviews": 17
         },
         {
           "title": "UNDERGROUND MONK SHOW",
@@ -98,40 +82,29 @@
           "currentReviews": 14
         },
         {
-          "title": "Lara Ricote: Inkling",
-          "previousScore": 83,
-          "currentScore": 84,
-          "delta": 1,
-          "previousReviews": 14,
-          "currentReviews": 13
-        },
-        {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 78,
-          "currentScore": 77,
+          "title": "Mark Vigeant: OUT THERE",
+          "previousScore": 71,
+          "currentScore": 70,
           "delta": -1,
-          "previousReviews": 10,
-          "currentReviews": 11
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 68,
-          "currentScore": 67,
-          "delta": -1,
-          "previousReviews": 8,
-          "currentReviews": 6
+          "previousReviews": 6,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
+        {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
         {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
-          "reviews": 2
+          "title": "Baby Everything",
+          "score": 75,
+          "reviews": 5
         }
       ],
       "newShowTitles": [
