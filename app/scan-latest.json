@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-15T12:19:26.859Z",
-      "completedAt": "2026-09-15T12:19:26.859Z",
+      "id": "2026-09-15T17:24:38.872Z",
+      "completedAt": "2026-09-15T17:24:38.872Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1348,
-      "totalNotices": 5054,
-      "defaultVisible": 903,
-      "duplicates": 5,
+      "totalShows": 1347,
+      "totalNotices": 5048,
+      "defaultVisible": 901,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-14T14:33:59.510Z",
-      "windowEndedAt": "2026-09-15T12:19:26.859Z",
-      "windowCoverageHours": 21.8,
+      "windowStartedAt": "2026-09-14T19:42:31.955Z",
+      "windowEndedAt": "2026-09-15T17:24:38.872Z",
+      "windowCoverageHours": 21.7,
       "scansInWindow": 5,
-      "newReviews": 23873,
-      "newShows": -46,
-      "enteredRanking": 1,
+      "newReviews": 23918,
+      "newShows": -48,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 76,
+          "currentScore": 69,
+          "delta": -7,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
         {
           "title": "The Singer",
           "previousScore": 80,
@@ -32,6 +40,14 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 68,
+          "currentScore": 66,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 7
         },
         {
           "title": "Reparations",
@@ -42,6 +58,14 @@
           "currentReviews": 5
         },
         {
+          "title": "Phil Ellis: Bath Mat",
+          "previousScore": 89,
+          "currentScore": 87,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
           "title": "INDY!",
           "previousScore": 70,
           "currentScore": 72,
@@ -50,36 +74,28 @@
           "currentReviews": 3
         },
         {
-          "title": "Chris Forbes: Father Christmas",
-          "previousScore": 87,
-          "currentScore": 86,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 8
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 67,
-          "currentScore": 66,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Persona",
-          "previousScore": 65,
-          "currentScore": 66,
+          "title": "UNDERGROUND MONK SHOW",
+          "previousScore": 71,
+          "currentScore": 72,
           "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 13,
+          "currentReviews": 14
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 65,
-          "currentScore": 66,
+          "title": "Lara Ricote: Inkling",
+          "previousScore": 83,
+          "currentScore": 84,
           "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 14,
+          "currentReviews": 13
+        },
+        {
+          "title": "Tarang Hardikar: If I'm Not Wrong",
+          "previousScore": 78,
+          "currentScore": 77,
+          "delta": -1,
+          "previousReviews": 10,
+          "currentReviews": 11
         },
         {
           "title": "You and Me (and Whoever Comes Next)",
@@ -92,8 +108,18 @@
       ],
       "newEntries": [
         {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
           "reviews": 2
         }
       ],
@@ -409,6 +435,7 @@
         "Dan Tiernan: Quartz and All",
         "Dane Buckley: Darling",
         "Daniel Downie: Alba",
+        "Daniel Foxx: How Lovely.",
         "Daniel Kitson: Thrum",
         "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Darren Gaffney: The Full Gaffney",
@@ -488,6 +515,7 @@
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
         "Escape Room: The Musical",
+        "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
         "Excel Comedy and Mathem-antics",
@@ -709,6 +737,7 @@
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
+        "KEVIN!!!!!",
         "Kafka for Beginners",
         "Kanan Gill: Not This Again",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
@@ -870,6 +899,7 @@
         "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
+        "Olivia Raine Atwood: Oops",
         "Olivia Xing: Baby of Colour",
         "Ollie West: Discovery (WIP)",
         "Omar Badawy: Guided Detour",
@@ -988,6 +1018,7 @@
         "Sam Serrano: Mars",
         "Samantha Day: I&apos;ve Started So I&apos;ll Finish",
         "Sami Abu-Wardeh: Palestine - Peace de Resistance",
+        "Sammy J: Hero Complex",
         "Sansha: To Be Fair To Me",
         "Sapphire McIntosh - Squeaky Bum Time",
         "Sara Pascoe: For One Night Only",
@@ -1067,7 +1098,6 @@
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
-        "Stephen Carlin: Kapitan Bomba",
         "Stephen Catling: Clown Fish Out Of Water",
         "Steve Richards Presents Rock and Roll Politics",
         "Stories From the Office of a Sex Dungeon",
@@ -1109,6 +1139,7 @@
         "The Bear",
         "The Best Comedy Magic Show You&apos;ll See in the Next 45 Minutes (Probably) at the Free Fringe 2026",
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
+        "The Bob Ross Effect",
         "The Body I Left in Susquehanna National Forest",
         "The Boline Inn",
         "The Breakup Variety Hour",
