@@ -2,84 +2,60 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-16T20:33:18.122Z",
-      "completedAt": "2026-09-16T20:33:18.122Z",
+      "id": "2026-09-16T23:21:09.908Z",
+      "completedAt": "2026-09-16T23:21:09.908Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1350,
-      "totalNotices": 5055,
-      "defaultVisible": 903,
-      "duplicates": 1,
+      "totalShows": 1356,
+      "totalNotices": 5070,
+      "defaultVisible": 906,
+      "duplicates": 10,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-15T20:32:53.038Z",
-      "windowEndedAt": "2026-09-16T20:33:18.122Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-15T23:16:06.945Z",
+      "windowEndedAt": "2026-09-16T23:21:09.908Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 6,
-      "newReviews": 28889,
-      "newShows": 4,
-      "enteredRanking": 6,
+      "newReviews": 28903,
+      "newShows": 2,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
+          "title": "Phil Ellis: Bath Mat",
+          "previousScore": 83,
+          "currentScore": 89,
+          "delta": 6,
           "previousReviews": 5,
-          "currentReviews": 4
+          "currentReviews": 3
         },
         {
-          "title": "Lou Wall: Where Are All The Tall Grandmas?",
-          "previousScore": 87,
-          "currentScore": 83,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "An American (Not) in Paris",
-          "previousScore": 84,
-          "currentScore": 80,
-          "delta": -4,
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
           "previousReviews": 4,
           "currentReviews": 5
         },
         {
-          "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 54,
-          "currentScore": 58,
-          "delta": 4,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
-        },
-        {
           "title": "Megasquirt: Fully Loaded",
-          "previousScore": 81,
-          "currentScore": 78,
-          "delta": -3,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousScore": 78,
+          "currentScore": 81,
+          "delta": 3,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
-          "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "title": "Jack Brookmyre: Impressionable",
+          "previousScore": 73,
+          "currentScore": 76,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Scaramouche Jones",
@@ -90,28 +66,28 @@
           "currentReviews": 7
         },
         {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 89,
-          "currentScore": 87,
+          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
           "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
         },
         {
           "title": "Mothman: A Romance Musical",
-          "previousScore": 88,
-          "currentScore": 89,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 17
-        },
-        {
-          "title": "Chris Cantrill: Rewilding",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 13
+          "previousScore": 89,
+          "currentScore": 88,
+          "delta": -1,
+          "previousReviews": 17,
+          "currentReviews": 16
         },
         {
           "title": "Jonno: Here Comes Mr Funny",
@@ -120,6 +96,30 @@
           "delta": -1,
           "previousReviews": 9,
           "currentReviews": 10
+        },
+        {
+          "title": "Target Audience",
+          "previousScore": 71,
+          "currentScore": 72,
+          "delta": 1,
+          "previousReviews": 11,
+          "currentReviews": 10
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 67,
+          "delta": 1,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
@@ -129,29 +129,14 @@
           "reviews": 2
         },
         {
-          "title": "Alastair Clark: On The Record",
-          "score": 82,
-          "reviews": 4
-        },
-        {
-          "title": "Charlene Kaye: Diversity Shredder",
-          "score": 81,
-          "reviews": 7
-        },
-        {
-          "title": "Adults Only Magic Show",
-          "score": 81,
-          "reviews": 5
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "John Tothill: This Must Be Heaven",
           "score": 76,
           "reviews": 2
-        },
-        {
-          "title": "Chris Rutter: Ignorance Is Chris",
-          "score": 62,
-          "reviews": 6
         }
       ],
       "newShowTitles": [
