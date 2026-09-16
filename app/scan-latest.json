@@ -2,36 +2,52 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-16T01:53:50.055Z",
-      "completedAt": "2026-09-16T01:53:50.055Z",
+      "id": "2026-09-16T06:56:40.071Z",
+      "completedAt": "2026-09-16T06:56:40.071Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1375,
-      "totalNotices": 5091,
-      "defaultVisible": 908,
-      "duplicates": 32,
+      "totalShows": 1360,
+      "totalNotices": 5070,
+      "defaultVisible": 905,
+      "duplicates": 2,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-15T01:04:35.622Z",
-      "windowEndedAt": "2026-09-16T01:53:50.055Z",
-      "windowCoverageHours": 24.8,
+      "windowStartedAt": "2026-09-15T06:52:43.723Z",
+      "windowEndedAt": "2026-09-16T06:56:40.071Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 6,
-      "newReviews": 28773,
-      "newShows": -19,
-      "enteredRanking": 1,
+      "newReviews": 28845,
+      "newShows": 5,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
+          "title": "Dee Allum: Raumdeuter",
+          "previousScore": 69,
+          "currentScore": 76,
           "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 2,
+          "currentReviews": 12
+        },
+        {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Take Care",
+          "previousScore": 70,
+          "currentScore": 77,
+          "delta": 7,
+          "previousReviews": 4,
+          "currentReviews": 3
         },
         {
           "title": "The Séance Starter Kit™",
@@ -43,50 +59,96 @@
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 48,
-          "currentScore": 51,
+          "title": "Two Little Pigs",
+          "previousScore": 68,
+          "currentScore": 71,
+          "delta": 3,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "Yvette Segan: Guy's Girl",
+          "previousScore": 70,
+          "currentScore": 73,
           "delta": 3,
           "previousReviews": 3,
           "currentReviews": 2
         },
         {
-          "title": "Reparations",
-          "previousScore": 67,
-          "currentScore": 65,
+          "title": "The Shocking Truth About Flat Earth",
+          "previousScore": 83,
+          "currentScore": 85,
+          "delta": 2,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
+          "title": "The Meeples: XXX",
+          "previousScore": 70,
+          "currentScore": 68,
           "delta": -2,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "The Real Kyle McCarren",
-          "previousScore": 91,
-          "currentScore": 90,
-          "delta": -1,
-          "previousReviews": 15,
-          "currentReviews": 16
+          "title": "Lara Ricote: Inkling",
+          "previousScore": 83,
+          "currentScore": 84,
+          "delta": 1,
+          "previousReviews": 14,
+          "currentReviews": 13
         },
         {
-          "title": "Target Audience",
-          "previousScore": 72,
-          "currentScore": 71,
-          "delta": -1,
-          "previousReviews": 12,
-          "currentReviews": 11
+          "title": "Kate Dolan: Trout",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
+          "title": "Betsy and Patty Find Out",
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "Don Toberman: Ping-Pong Champ",
+          "score": 75,
           "reviews": 2
+        },
+        {
+          "title": "Magners Share the Craic presents Ashlee Bentley: Wallflower",
+          "score": 74,
+          "reviews": 5
+        },
+        {
+          "title": "Deckhand",
+          "score": 72,
+          "reviews": 3
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "score": 69,
+          "reviews": 15
+        },
+        {
+          "title": "Buddha vs Jesus",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Big Dog",
+          "score": 56,
+          "reviews": 3
         }
       ],
       "newShowTitles": [
@@ -1045,6 +1107,7 @@
         "Spooky Dookie: Cool New Planet!!",
         "Spraywatch: A Beautiful Rescue",
         "Stand Up If You&apos;re Here Tonight",
+        "Stand-up Philosophy",
         "Stanislavski Can&apos;t Save Me From The Apocalypse",
         "Star Wars: The Next Generation",
         "Stayin&apos; Alive",
@@ -1185,7 +1248,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
