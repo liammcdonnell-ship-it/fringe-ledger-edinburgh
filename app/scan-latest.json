@@ -2,100 +2,52 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-17T17:22:14.827Z",
-      "completedAt": "2026-09-17T17:22:14.827Z",
+      "id": "2026-09-17T20:40:54.440Z",
+      "completedAt": "2026-09-17T20:40:54.440Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1370,
-      "totalNotices": 5093,
-      "defaultVisible": 910,
-      "duplicates": 12,
+      "totalShows": 1353,
+      "totalNotices": 5056,
+      "defaultVisible": 906,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-16T17:24:05.090Z",
-      "windowEndedAt": "2026-09-17T17:22:14.827Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-16T20:33:18.122Z",
+      "windowEndedAt": "2026-09-17T20:40:54.440Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 6,
-      "newReviews": 28838,
-      "newShows": -24,
-      "enteredRanking": 3,
+      "newReviews": 28866,
+      "newShows": 3,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
+          "title": "Lou Wall: Where Are All The Tall Grandmas?",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "An American (Not) in Paris",
+          "previousScore": 80,
+          "currentScore": 84,
+          "delta": 4,
           "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Lou Wall: Where Are All The Tall Grandmas?",
-          "previousScore": 87,
-          "currentScore": 83,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
           "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 54,
-          "currentScore": 58,
-          "delta": 4,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
-        },
-        {
-          "title": "YUCK Circus: Naughties",
-          "previousScore": 83,
-          "currentScore": 80,
-          "delta": -3,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 81,
-          "currentScore": 79,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "Kate Hammer: Government Approved Comedian",
-          "previousScore": 73,
-          "currentScore": 71,
-          "delta": -2,
-          "previousReviews": 5,
-          "currentReviews": 6
+          "previousScore": 58,
+          "currentScore": 54,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "Sapphire McIntosh: Squeaky Bum Time",
@@ -106,27 +58,35 @@
           "currentReviews": 5
         },
         {
-          "title": "Reparations",
-          "previousScore": 67,
-          "currentScore": 65,
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
           "delta": -2,
-          "previousReviews": 6,
-          "currentReviews": 5
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
+          "previousScore": 70,
+          "currentScore": 71,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "Rip Her to Shreds",
           "previousScore": 57,
-          "currentScore": 55,
-          "delta": -2,
+          "currentScore": 58,
+          "delta": 1,
           "previousReviews": 2,
-          "currentReviews": 4
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
+          "title": "Heart Beats Strong",
+          "score": 90,
+          "reviews": 6
         },
         {
           "title": "The End of the World",
@@ -134,9 +94,19 @@
           "reviews": 2
         },
         {
-          "title": "Thermos Museum Books",
-          "score": 63,
+          "title": "Helicops 1: Find Your Wings!",
+          "score": 82,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "1518: The Dancing Plague",
+          "score": 76,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
