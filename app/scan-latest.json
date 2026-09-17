@@ -2,57 +2,65 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-17T01:59:29.759Z",
-      "completedAt": "2026-09-17T01:59:29.759Z",
+      "id": "2026-09-17T06:52:44.816Z",
+      "completedAt": "2026-09-17T06:52:44.816Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1353,
-      "totalNotices": 5061,
-      "defaultVisible": 904,
-      "duplicates": 5,
+      "totalShows": 1372,
+      "totalNotices": 5091,
+      "defaultVisible": 909,
+      "duplicates": 12,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-16T01:53:50.055Z",
-      "windowEndedAt": "2026-09-17T01:59:29.759Z",
-      "windowCoverageHours": 24.1,
+      "windowStartedAt": "2026-09-16T06:56:40.071Z",
+      "windowEndedAt": "2026-09-17T06:52:44.816Z",
+      "windowCoverageHours": 23.9,
       "scansInWindow": 6,
-      "newReviews": 28859,
-      "newShows": -22,
-      "enteredRanking": 2,
+      "newReviews": 28897,
+      "newShows": 12,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
+          "title": "Two Little Pigs",
+          "previousScore": 71,
+          "currentScore": 68,
+          "delta": -3,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "Yvette Segan: Guy's Girl",
+          "previousScore": 73,
+          "currentScore": 70,
           "delta": -3,
           "previousReviews": 2,
           "currentReviews": 3
@@ -66,6 +74,14 @@
           "currentReviews": 7
         },
         {
+          "title": "The Meeples: XXX",
+          "previousScore": 68,
+          "currentScore": 70,
+          "delta": 2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Jonno: Here Comes Mr Funny",
           "previousScore": 74,
           "currentScore": 73,
@@ -74,31 +90,46 @@
           "currentReviews": 10
         },
         {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Rhino Conservation Erotic Novel",
           "previousScore": 76,
           "currentScore": 77,
           "delta": 1,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 82,
-          "currentScore": 83,
-          "delta": 1,
-          "previousReviews": 3,
-          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
           "title": "John Tothill: This Must Be Heaven",
           "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -1079,7 +1110,6 @@
         "Spooky Dookie: Cool New Planet!!",
         "Spraywatch: A Beautiful Rescue",
         "Stand Up If You&apos;re Here Tonight",
-        "Stand-up Philosophy",
         "Stanislavski Can&apos;t Save Me From The Apocalypse",
         "Star Wars: The Next Generation",
         "Stayin&apos; Alive",
