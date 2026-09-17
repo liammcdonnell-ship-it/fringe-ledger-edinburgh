@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-17T06:52:44.816Z",
-      "completedAt": "2026-09-17T06:52:44.816Z",
+      "id": "2026-09-17T12:18:57.710Z",
+      "completedAt": "2026-09-17T12:18:57.710Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1372,
-      "totalNotices": 5091,
-      "defaultVisible": 909,
-      "duplicates": 12,
+      "totalShows": 1360,
+      "totalNotices": 5079,
+      "defaultVisible": 907,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-16T06:56:40.071Z",
-      "windowEndedAt": "2026-09-17T06:52:44.816Z",
-      "windowCoverageHours": 23.9,
+      "windowStartedAt": "2026-09-16T12:17:59.020Z",
+      "windowEndedAt": "2026-09-17T12:18:57.710Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 6,
-      "newReviews": 28897,
-      "newShows": 12,
-      "enteredRanking": 5,
+      "newReviews": 28889,
+      "newShows": 7,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,12 @@
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
@@ -50,20 +50,28 @@
           "currentReviews": 12
         },
         {
-          "title": "Two Little Pigs",
-          "previousScore": 71,
-          "currentScore": 68,
-          "delta": -3,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 80,
+          "currentScore": 83,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
-          "title": "Yvette Segan: Guy's Girl",
-          "previousScore": 73,
-          "currentScore": 70,
+          "title": "The Past",
+          "previousScore": 84,
+          "currentScore": 81,
           "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 81,
+          "currentScore": 79,
+          "delta": -2,
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
           "title": "Scaramouche Jones",
@@ -74,12 +82,36 @@
           "currentReviews": 7
         },
         {
-          "title": "The Meeples: XXX",
-          "previousScore": 68,
-          "currentScore": 70,
+          "title": "Sapphire McIntosh: Squeaky Bum Time",
+          "previousScore": 64,
+          "currentScore": 66,
           "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
           "previousReviews": 3,
-          "currentReviews": 2
+          "currentReviews": 4
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "previousScore": 63,
+          "currentScore": 62,
+          "delta": -1,
+          "previousReviews": 17,
+          "currentReviews": 16
+        },
+        {
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 75,
+          "currentScore": 76,
+          "delta": 1,
+          "previousReviews": 9,
+          "currentReviews": 10
         },
         {
           "title": "Jonno: Here Comes Mr Funny",
@@ -88,29 +120,18 @@
           "delta": -1,
           "previousReviews": 9,
           "currentReviews": 10
-        },
-        {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Rhino Conservation Erotic Novel",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
+          "title": "The End of the World",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "After Party",
@@ -129,6 +150,11 @@
         },
         {
           "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Tom Little in His Comfort Zone",
           "score": 64,
           "reviews": 2
         }
