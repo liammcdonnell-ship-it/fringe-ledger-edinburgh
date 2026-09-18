@@ -2,26 +2,26 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-18T15:18:32.498Z",
-      "completedAt": "2026-09-18T15:18:32.498Z",
+      "id": "2026-09-18T18:42:34.446Z",
+      "completedAt": "2026-09-18T18:42:34.446Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1357,
-      "totalNotices": 5074,
-      "defaultVisible": 907,
-      "duplicates": 7,
+      "totalShows": 1391,
+      "totalNotices": 5121,
+      "defaultVisible": 914,
+      "duplicates": 46,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-09-17T17:22:14.827Z",
-      "windowEndedAt": "2026-09-18T15:18:32.498Z",
-      "windowCoverageHours": 21.9,
-      "scansInWindow": 6,
-      "newReviews": 28816,
-      "newShows": -13,
+      "windowEndedAt": "2026-09-18T18:42:34.446Z",
+      "windowCoverageHours": 25.3,
+      "scansInWindow": 7,
+      "newReviews": 33690,
+      "newShows": 21,
       "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
@@ -50,36 +50,12 @@
           "currentReviews": 4
         },
         {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
           "title": "Phil Nichol: Aren't We Lucky",
           "previousScore": 74,
           "currentScore": 77,
           "delta": 3,
           "previousReviews": 12,
           "currentReviews": 11
-        },
-        {
-          "title": "Temi Wilkey: Lover Girl",
-          "previousScore": 74,
-          "currentScore": 71,
-          "delta": -3,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Two Little Pigs",
-          "previousScore": 68,
-          "currentScore": 71,
-          "delta": 3,
-          "previousReviews": 10,
-          "currentReviews": 9
         },
         {
           "title": "YUCK Circus: Naughties",
@@ -98,12 +74,12 @@
           "currentReviews": 3
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 79,
-          "currentScore": 81,
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
           "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
+          "previousReviews": 5,
+          "currentReviews": 6
         },
         {
           "title": "Kate Hammer: Government Approved Comedian",
@@ -114,22 +90,25 @@
           "currentReviews": 5
         },
         {
-          "title": "INDY!",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
-          "previousReviews": 4,
+          "title": "Maia Tassalini: I Was 22 and Stunning",
+          "previousScore": 72,
+          "currentScore": 71,
+          "delta": -1,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
           "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy’s Dream",
+          "title": "Little Animals",
           "score": 83,
           "reviews": 2
         },
@@ -144,8 +123,13 @@
           "reviews": 2
         },
         {
-          "title": "Giro Baby",
-          "score": 61,
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
           "reviews": 2
         }
       ],
@@ -189,6 +173,7 @@
         "3 Times I Killed",
         "4 Aussies, For Aussies",
         "4 Better or 4 Worse",
+        "44 Minutes",
         "5 Comedians Do Comedy and Karaoke",
         "5 Lesbians Eating A Quiche",
         "5 Mistakes That Changed History",
@@ -464,6 +449,7 @@
         "Dan Tiernan: Quartz and All",
         "Dane Buckley: Darling",
         "Daniel Downie: Alba",
+        "Daniel Foxx: How Lovely.",
         "Daniel Kitson: Thrum",
         "Danny O&apos;Brien: Sure Look, Be Grand.",
         "Darren Gaffney: The Full Gaffney",
@@ -511,6 +497,7 @@
         "Doris, Dolly and the Dressing Room Divas",
         "Doughboys",
         "Dragon",
+        "Dragon Tales",
         "Dreamgun Film Reads",
         "Dru Cripps: Juicy Bits",
         "Dune! The Musical",
@@ -543,6 +530,7 @@
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
         "Escape Room: The Musical",
+        "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
         "Everybody's Got a Bomb",
@@ -765,8 +753,10 @@
         "Just William",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "Justina Seselskaite: Settled",
+        "KEVIN!!!!!",
         "Kafka for Beginners",
         "Kanan Gill: Not This Again",
+        "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
@@ -922,10 +912,12 @@
         "Obie: The Fuck It List",
         "Obsessive, Compulsive, Divine",
         "Octopus",
+        "Of Mice And Men",
         "Oil & Whiskey",
         "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
+        "Olivia Raine Atwood: Oops",
         "Olivia Xing: Baby of Colour",
         "Ollie West: Discovery (WIP)",
         "Omar Badawy: Guided Detour",
@@ -1044,6 +1036,7 @@
         "Sam Serrano: Mars",
         "Samantha Day: I&apos;ve Started So I&apos;ll Finish",
         "Sami Abu-Wardeh: Palestine - Peace de Resistance",
+        "Sammy J: Hero Complex",
         "Sansha: To Be Fair To Me",
         "Sapphire McIntosh - Squeaky Bum Time",
         "Sara Pascoe: For One Night Only",
@@ -1144,6 +1137,7 @@
         "Take Care",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat&apos;s Ass",
+        "Tamsyn Kelly: Rat's Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
@@ -1167,6 +1161,7 @@
         "The Best Comedy Magic Show You&apos;ll See in the Next 45 Minutes (Probably) at the Free Fringe 2026",
         "The Big Fat Whisky Quiz",
         "The Big Show: Monkey Barrel Comedy&apos;s Fringe Showcase!",
+        "The Bob Ross Effect",
         "The Body I Left in Susquehanna National Forest",
         "The Boline Inn",
         "The Breakup Variety Hour",
