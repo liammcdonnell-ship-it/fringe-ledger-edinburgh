@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-18T11:58:58.627Z",
-      "completedAt": "2026-09-18T11:58:58.627Z",
+      "id": "2026-09-18T15:18:32.498Z",
+      "completedAt": "2026-09-18T15:18:32.498Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1364,
-      "totalNotices": 5089,
-      "defaultVisible": 911,
-      "duplicates": 1,
+      "totalShows": 1357,
+      "totalNotices": 5074,
+      "defaultVisible": 907,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-17T12:18:57.710Z",
-      "windowEndedAt": "2026-09-18T11:58:58.627Z",
-      "windowCoverageHours": 23.7,
+      "windowStartedAt": "2026-09-17T17:22:14.827Z",
+      "windowEndedAt": "2026-09-18T15:18:32.498Z",
+      "windowCoverageHours": 21.9,
       "scansInWindow": 6,
-      "newReviews": 28825,
-      "newShows": 4,
-      "enteredRanking": 4,
+      "newReviews": 28816,
+      "newShows": -13,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
@@ -34,6 +34,30 @@
           "currentReviews": 5
         },
         {
+          "title": "Lou Wall: Where Are All The Tall Grandmas?",
+          "previousScore": 83,
+          "currentScore": 87,
+          "delta": 4,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "Matthew Gallagher: Last Minute",
+          "previousScore": 58,
+          "currentScore": 54,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Phil Nichol: Aren't We Lucky",
           "previousScore": 74,
           "currentScore": 77,
@@ -42,39 +66,71 @@
           "currentReviews": 11
         },
         {
-          "title": "When You Are a Tick",
-          "previousScore": 51,
-          "currentScore": 48,
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 74,
+          "currentScore": 71,
           "delta": -3,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 76,
-          "currentScore": 75,
-          "delta": -1,
           "previousReviews": 10,
           "currentReviews": 9
         },
         {
-          "title": "Kate Dolan: Trout",
-          "previousScore": 82,
-          "currentScore": 81,
-          "delta": -1,
+          "title": "Two Little Pigs",
+          "previousScore": 68,
+          "currentScore": 71,
+          "delta": 3,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "YUCK Circus: Naughties",
+          "previousScore": 80,
+          "currentScore": 83,
+          "delta": 3,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Rip Her to Shreds",
+          "previousScore": 55,
+          "currentScore": 58,
+          "delta": 3,
           "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 79,
+          "currentScore": 81,
+          "delta": 2,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 71,
+          "currentScore": 73,
+          "delta": 2,
+          "previousReviews": 6,
           "currentReviews": 5
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "One Man Poe: The Business Man and The Case of M. Valdemar",
-          "score": 82,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
           "reviews": 3
         },
         {
-          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-          "score": 78,
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
           "reviews": 2
         },
         {
@@ -83,8 +139,13 @@
           "reviews": 2
         },
         {
-          "title": "Michael McPheat is BRUTAL!",
-          "score": 64,
+          "title": "Tim Key: Loganberry",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Giro Baby",
+          "score": 61,
           "reviews": 2
         }
       ],
@@ -1196,6 +1257,7 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
+        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
