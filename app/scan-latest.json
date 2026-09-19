@@ -2,92 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-19T21:52:22.713Z",
-      "completedAt": "2026-09-19T21:52:22.713Z",
+      "id": "2026-09-19T23:43:58.866Z",
+      "completedAt": "2026-09-19T23:43:58.866Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1397,
-      "totalNotices": 5128,
-      "defaultVisible": 914,
-      "duplicates": 58,
+      "totalShows": 1381,
+      "totalNotices": 5108,
+      "defaultVisible": 911,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-18T21:20:50.043Z",
-      "windowEndedAt": "2026-09-19T21:52:22.713Z",
-      "windowCoverageHours": 24.5,
+      "windowStartedAt": "2026-09-18T23:44:48.776Z",
+      "windowEndedAt": "2026-09-19T23:43:58.866Z",
+      "windowCoverageHours": 24,
       "scansInWindow": 8,
-      "newReviews": 38566,
-      "newShows": 45,
-      "enteredRanking": 9,
+      "newReviews": 38486,
+      "newShows": 4,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
           "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "Lou Wall: Where Are All The Tall Grandmas?",
-          "previousScore": 83,
-          "currentScore": 87,
-          "delta": 4,
-          "previousReviews": 7,
-          "currentReviews": 6
-        },
-        {
-          "title": "Matthew Gallagher: Last Minute",
-          "previousScore": 58,
-          "currentScore": 54,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Temi Wilkey: Lover Girl",
-          "previousScore": 74,
-          "currentScore": 71,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
           "delta": -3,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Kate Hammer: Government Approved Comedian",
-          "previousScore": 71,
-          "currentScore": 73,
-          "delta": 2,
-          "previousReviews": 6,
-          "currentReviews": 5
-        },
-        {
-          "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 70,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 4
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
           "title": "Edith Alibec: The Void",
@@ -96,68 +48,22 @@
           "delta": 1,
           "previousReviews": 9,
           "currentReviews": 10
-        },
-        {
-          "title": "Maia Tassalini: I Was 22 and Stunning",
-          "previousScore": 72,
-          "currentScore": 71,
-          "delta": -1,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
+          "title": "A Gay Masseur's Guide to Happy Endings",
+          "score": 78,
+          "reviews": 5
         },
         {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
+          "title": "Aarian Mehrabani: How's Your Head?",
           "score": 76,
-          "reviews": 2
+          "reviews": 6
         },
         {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
+          "title": "A Queen's Way",
+          "score": 57,
           "reviews": 2
         }
       ],
