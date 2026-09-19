@@ -2,53 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-18T23:44:48.776Z",
-      "completedAt": "2026-09-18T23:44:48.776Z",
+      "id": "2026-09-19T01:50:16.683Z",
+      "completedAt": "2026-09-19T01:50:16.683Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1377,
-      "totalNotices": 5093,
+      "totalShows": 1357,
+      "totalNotices": 5074,
       "defaultVisible": 908,
-      "duplicates": 38,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-17T23:13:44.298Z",
-      "windowEndedAt": "2026-09-18T23:44:48.776Z",
-      "windowCoverageHours": 24.5,
+      "windowStartedAt": "2026-09-18T01:46:16.924Z",
+      "windowEndedAt": "2026-09-19T01:50:16.683Z",
+      "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 33721,
-      "newShows": 9,
+      "newReviews": 33675,
+      "newShows": -40,
       "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Dee Allum: Raumdeuter",
-          "previousScore": 69,
-          "currentScore": 76,
-          "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 12
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "The Only Man Who Won't F*ck Me",
-          "previousScore": 66,
-          "currentScore": 72,
-          "delta": 6,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
         {
           "title": "The Séance Starter Kit™",
           "previousScore": 70,
@@ -58,72 +34,88 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Megasquirt: Fully Loaded",
+          "previousScore": 81,
+          "currentScore": 78,
+          "delta": -3,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
+        {
+          "title": "The Shocking Truth About Flat Earth",
+          "previousScore": 85,
+          "currentScore": 83,
+          "delta": -2,
           "previousReviews": 12,
           "currentReviews": 11
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 81,
-          "currentScore": 79,
-          "delta": -2,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
           "title": "Reparations",
-          "previousScore": 65,
-          "currentScore": 67,
-          "delta": 2,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "Tom Towelling Teaches You to Knit",
           "previousScore": 67,
-          "currentScore": 66,
-          "delta": -1,
-          "previousReviews": 6,
-          "currentReviews": 7
-        },
-        {
-          "title": "Mark Vigeant: OUT THERE",
-          "previousScore": 71,
-          "currentScore": 70,
-          "delta": -1,
+          "currentScore": 65,
+          "delta": -2,
           "previousReviews": 6,
           "currentReviews": 5
         },
         {
-          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 65,
-          "currentScore": 66,
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Mothman: A Romance Musical",
+          "previousScore": 88,
+          "currentScore": 89,
           "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousReviews": 16,
+          "currentReviews": 17
+        },
+        {
+          "title": "Tarang Hardikar: If I'm Not Wrong",
+          "previousScore": 77,
+          "currentScore": 78,
+          "delta": 1,
+          "previousReviews": 11,
+          "currentReviews": 10
+        },
+        {
+          "title": "Steffan Alun: Windows",
+          "previousScore": 72,
+          "currentScore": 71,
+          "delta": -1,
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
           "title": "You and Me (and Whoever Comes Next)",
-          "previousScore": 83,
-          "currentScore": 82,
-          "delta": -1,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Dear Lihua",
-          "score": 87,
-          "reviews": 3
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
+          "title": "Lorraine Hoodless: Mean",
+          "score": 61,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -191,7 +183,6 @@
         "A Play on Words",
         "A Queen&apos;s Way",
         "A STAN IS BORN! - Encore",
-        "A Seance Spectacular with the Mystical Medium Wolf Sisters from the Great White North",
         "A Simply Beastly Murder",
         "A Traitors Pantomime",
         "A Vacuum at the Centre",
@@ -343,7 +334,6 @@
         "Brit Barron: CHURCH",
         "Britain&apos;s Got Nonsense",
         "Broadguess",
-        "Brodie and Co.",
         "Broke and Fabulous in the 21st Century",
         "Broken Planet Show",
         "Bryn Woz: SMUT",
@@ -395,7 +385,6 @@
         "Christopher Beanland: Hipster Hell - Small Plates Ruined My Life (WIP)",
         "Christopher Hall: Pizazz",
         "Churchill&apos;s Urinal",
-        "Circa: Wolf",
         "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
@@ -972,7 +961,6 @@
         "Queen of The Empire",
         "Queer Diary",
         "Quentin Blake's Mrs Armitage on Wheels",
-        "R/evolution(s)",
         "RANK.",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
@@ -1023,6 +1011,7 @@
         "SLAY",
         "STAY",
         "Sad Bride",
+        "Sadia Azmat: Rapism",
         "Sam Morrison: DUCK",
         "Sam Nicoresti: Baby Doomer",
         "Sam Rhodes: Toy Cocoon",
