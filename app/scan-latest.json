@@ -2,107 +2,161 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-19T11:42:52.068Z",
-      "completedAt": "2026-09-19T11:42:52.068Z",
+      "id": "2026-09-19T14:56:45.933Z",
+      "completedAt": "2026-09-19T14:56:45.933Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1365,
-      "totalNotices": 5060,
+      "totalShows": 1367,
+      "totalNotices": 5078,
       "defaultVisible": 905,
-      "duplicates": 1,
+      "duplicates": 18,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-18T11:58:58.627Z",
-      "windowEndedAt": "2026-09-19T11:42:52.068Z",
-      "windowCoverageHours": 23.7,
+      "windowStartedAt": "2026-09-18T15:18:32.498Z",
+      "windowEndedAt": "2026-09-19T14:56:45.933Z",
+      "windowCoverageHours": 23.6,
       "scansInWindow": 7,
-      "newReviews": 33742,
-      "newShows": 1,
-      "enteredRanking": 1,
+      "newReviews": 33725,
+      "newShows": 10,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "The Only Man Who Won't F*ck Me",
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 71,
+          "currentScore": 74,
+          "delta": 3,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "Two Little Pigs",
+          "previousScore": 71,
+          "currentScore": 68,
+          "delta": -3,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "When You Are a Tick",
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 81,
+          "currentScore": 79,
+          "delta": -2,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "INDY!",
           "previousScore": 72,
-          "currentScore": 66,
-          "delta": -6,
+          "currentScore": 70,
+          "delta": -2,
           "previousReviews": 3,
           "currentReviews": 4
         },
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
+          "title": "The Meeples: XXX",
+          "previousScore": 68,
           "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
-        },
-        {
-          "title": "When You Are a Tick",
-          "previousScore": 48,
-          "currentScore": 51,
-          "delta": 3,
+          "delta": 2,
           "previousReviews": 3,
           "currentReviews": 2
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 79,
-          "currentScore": 81,
-          "delta": 2,
+          "title": "The Librarians: A Very Serious Comedy!",
+          "previousScore": 63,
+          "currentScore": 62,
+          "delta": -1,
+          "previousReviews": 17,
+          "currentReviews": 16
+        },
+        {
+          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
+          "previousScore": 76,
+          "currentScore": 75,
+          "delta": -1,
           "previousReviews": 10,
           "currentReviews": 9
         },
         {
           "title": "Tom Towelling Teaches You to Knit",
-          "previousScore": 66,
-          "currentScore": 67,
-          "delta": 1,
-          "previousReviews": 7,
-          "currentReviews": 6
+          "previousScore": 67,
+          "currentScore": 66,
+          "delta": -1,
+          "previousReviews": 6,
+          "currentReviews": 7
         },
         {
           "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
-          "previousScore": 66,
-          "currentScore": 65,
-          "delta": -1,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Kate Dolan: Trout",
-          "previousScore": 81,
-          "currentScore": 82,
+          "previousScore": 65,
+          "currentScore": 66,
           "delta": 1,
           "previousReviews": 5,
           "currentReviews": 4
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
+        {
           "title": "Dracula: Lucy's Dream",
           "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -1222,7 +1276,6 @@
         "The Tom Brace Magic Hour",
         "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
-        "The Unforeseen Annoyances of Intimacy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
         "The Upside Down Cabaret",
