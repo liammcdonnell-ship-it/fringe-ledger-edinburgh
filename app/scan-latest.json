@@ -2,36 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-19T06:47:02.112Z",
-      "completedAt": "2026-09-19T06:47:02.112Z",
+      "id": "2026-09-19T11:42:52.068Z",
+      "completedAt": "2026-09-19T11:42:52.068Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1378,
-      "totalNotices": 5102,
-      "defaultVisible": 911,
-      "duplicates": 33,
+      "totalShows": 1365,
+      "totalNotices": 5060,
+      "defaultVisible": 905,
+      "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-18T06:48:11.569Z",
-      "windowEndedAt": "2026-09-19T06:47:02.112Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-18T11:58:58.627Z",
+      "windowEndedAt": "2026-09-19T11:42:52.068Z",
+      "windowCoverageHours": 23.7,
       "scansInWindow": 7,
-      "newReviews": 33758,
-      "newShows": -13,
+      "newReviews": 33742,
+      "newShows": 1,
       "enteredRanking": 1,
       "newOutlets": [],
       "movers": [
         {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 72,
+          "currentScore": 66,
+          "delta": -6,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
           "title": "The Séance Starter Kit™",
@@ -42,67 +50,59 @@
           "currentReviews": 4
         },
         {
-          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
-          "previousScore": 69,
-          "currentScore": 73,
-          "delta": 4,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "Lindsey Santoro: It Was Like That When I Got Here",
-          "previousScore": 70,
-          "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 4
-        },
-        {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 74,
-          "currentScore": 77,
-          "delta": 3,
-          "previousReviews": 12,
-          "currentReviews": 11
-        },
-        {
-          "title": "Maya Ricote: Ay Am!",
           "previousScore": 77,
-          "currentScore": 79,
-          "delta": 2,
-          "previousReviews": 7,
-          "currentReviews": 8
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
         },
         {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "previousScore": 73,
-          "currentScore": 71,
-          "delta": -2,
-          "previousReviews": 5,
+          "title": "When You Are a Tick",
+          "previousScore": 48,
+          "currentScore": 51,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 79,
+          "currentScore": 81,
+          "delta": 2,
+          "previousReviews": 10,
+          "currentReviews": 9
+        },
+        {
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 67,
+          "delta": 1,
+          "previousReviews": 7,
           "currentReviews": 6
         },
         {
-          "title": "Rob Auton: JUPITER",
-          "previousScore": 84,
-          "currentScore": 85,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 15
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 78,
-          "currentScore": 77,
-          "delta": -1,
-          "previousReviews": 10,
-          "currentReviews": 11
+          "title": "Kate Dolan: Trout",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         }
       ],
       "newShowTitles": [
