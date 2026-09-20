@@ -2,36 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-20T22:00:49.695Z",
-      "completedAt": "2026-09-20T22:00:49.695Z",
+      "id": "2026-09-20T23:47:36.965Z",
+      "completedAt": "2026-09-20T23:47:36.965Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1373,
-      "totalNotices": 5097,
-      "defaultVisible": 908,
-      "duplicates": 14,
+      "totalShows": 1358,
+      "totalNotices": 5082,
+      "defaultVisible": 907,
+      "duplicates": 7,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-19T21:52:22.713Z",
-      "windowEndedAt": "2026-09-20T22:00:49.695Z",
+      "windowStartedAt": "2026-09-19T23:43:58.866Z",
+      "windowEndedAt": "2026-09-20T23:47:36.965Z",
       "windowCoverageHours": 24.1,
       "scansInWindow": 7,
-      "newReviews": 33644,
-      "newShows": -24,
-      "enteredRanking": 1,
+      "newReviews": 33681,
+      "newShows": -23,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
           "previousReviews": 4,
           "currentReviews": 5
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Will BF: Moon Team IIIV",
@@ -42,28 +50,20 @@
           "currentReviews": 11
         },
         {
-          "title": "Temi Wilkey: Lover Girl",
-          "previousScore": 71,
-          "currentScore": 74,
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 74,
+          "currentScore": 77,
           "delta": 3,
-          "previousReviews": 9,
-          "currentReviews": 10
-        },
-        {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 79,
-          "currentScore": 81,
-          "delta": 2,
-          "previousReviews": 10,
-          "currentReviews": 9
-        },
-        {
-          "title": "Lindsey Santoro: It Was Like That When I Got Here",
-          "previousScore": 66,
-          "currentScore": 68,
-          "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
           "title": "Reparations",
@@ -74,34 +74,31 @@
           "currentReviews": 5
         },
         {
-          "title": "Phil Ellis: Bath Mat",
-          "previousScore": 89,
-          "currentScore": 87,
-          "delta": -2,
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 82,
+          "currentScore": 83,
+          "delta": 1,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "previousScore": 62,
-          "currentScore": 63,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 17
-        },
-        {
-          "title": "Tom Neenan: Portrait of a Tom as a Young Neenan",
-          "previousScore": 75,
-          "currentScore": 76,
-          "delta": 1,
-          "previousReviews": 9,
-          "currentReviews": 10
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
           "reviews": 2
         }
       ],
