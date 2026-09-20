@@ -2,36 +2,44 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-20T16:35:03.734Z",
-      "completedAt": "2026-09-20T16:35:03.734Z",
+      "id": "2026-09-20T19:11:04.531Z",
+      "completedAt": "2026-09-20T19:11:04.531Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1356,
-      "totalNotices": 5081,
-      "defaultVisible": 907,
-      "duplicates": 1,
+      "totalShows": 1363,
+      "totalNotices": 5090,
+      "defaultVisible": 909,
+      "duplicates": 19,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-19T17:33:56.531Z",
-      "windowEndedAt": "2026-09-20T16:35:03.734Z",
-      "windowCoverageHours": 23,
+      "windowStartedAt": "2026-09-19T19:41:03.486Z",
+      "windowEndedAt": "2026-09-20T19:11:04.531Z",
+      "windowCoverageHours": 23.5,
       "scansInWindow": 7,
-      "newReviews": 33678,
-      "newShows": -12,
-      "enteredRanking": 1,
+      "newReviews": 33711,
+      "newShows": 10,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
         {
+          "title": "Phil Nichol: The Naked Racist",
+          "previousScore": 75,
+          "currentScore": 82,
+          "delta": 7,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
           "title": "The Séance Starter Kit™",
-          "previousScore": 70,
-          "currentScore": 65,
-          "delta": -5,
-          "previousReviews": 4,
-          "currentReviews": 5
+          "previousScore": 65,
+          "currentScore": 70,
+          "delta": 5,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Will BF: Moon Team IIIV",
@@ -42,75 +50,90 @@
           "currentReviews": 11
         },
         {
-          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
-          "previousScore": 73,
-          "currentScore": 69,
-          "delta": -4,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
           "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
-          "previousScore": 81,
-          "currentScore": 79,
-          "delta": -2,
+          "title": "Phil Nichol: Aren't We Lucky",
+          "previousScore": 77,
+          "currentScore": 74,
+          "delta": -3,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
+          "title": "Temi Wilkey: Lover Girl",
+          "previousScore": 71,
+          "currentScore": 74,
+          "delta": 3,
           "previousReviews": 9,
           "currentReviews": 10
         },
         {
-          "title": "Tap Out! (Or I'll Hit You Again)",
-          "previousScore": 68,
-          "currentScore": 66,
-          "delta": -2,
+          "title": "Ray O'Leary: I Can See O'Leary Now The Ray Has Gone",
+          "previousScore": 70,
+          "currentScore": 72,
+          "delta": 2,
           "previousReviews": 3,
           "currentReviews": 4
         },
         {
           "title": "INDY!",
-          "previousScore": 70,
-          "currentScore": 72,
-          "delta": 2,
-          "previousReviews": 4,
-          "currentReviews": 3
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
         },
         {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "previousScore": 63,
-          "currentScore": 62,
-          "delta": -1,
-          "previousReviews": 17,
+          "title": "Omar Badawy: Guided Detour",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 18,
           "currentReviews": 16
         },
         {
-          "title": "Tarang Hardikar: If I'm Not Wrong",
-          "previousScore": 77,
-          "currentScore": 78,
+          "title": "Tom Towelling Teaches You to Knit",
+          "previousScore": 66,
+          "currentScore": 67,
           "delta": 1,
-          "previousReviews": 11,
-          "currentReviews": 10
+          "previousReviews": 7,
+          "currentReviews": 6
         },
         {
-          "title": "Sitting (In Silence)",
-          "previousScore": 65,
-          "currentScore": 66,
-          "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "title": "Tom Short: I Get ChatGPT To Write My Edinburgh Show",
+          "previousScore": 66,
+          "currentScore": 65,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -736,6 +759,7 @@
         "KEVIN!!!!!",
         "Kafka for Beginners",
         "Kanan Gill: Not This Again",
+        "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
         "Katie Pritchard is Sir Elton Scone",
