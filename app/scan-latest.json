@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-19T23:43:58.866Z",
-      "completedAt": "2026-09-19T23:43:58.866Z",
+      "id": "2026-09-20T01:53:03.121Z",
+      "completedAt": "2026-09-20T01:53:03.121Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1381,
-      "totalNotices": 5108,
+      "totalShows": 1373,
+      "totalNotices": 5099,
       "defaultVisible": 911,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-18T23:44:48.776Z",
-      "windowEndedAt": "2026-09-19T23:43:58.866Z",
+      "windowStartedAt": "2026-09-19T01:50:16.683Z",
+      "windowEndedAt": "2026-09-20T01:53:03.121Z",
       "windowCoverageHours": 24,
       "scansInWindow": 8,
-      "newReviews": 38486,
-      "newShows": 4,
-      "enteredRanking": 3,
+      "newReviews": 38484,
+      "newShows": 16,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Fanny Bleach: The Nearly Naked Show",
+          "previousScore": 69,
+          "currentScore": 76,
+          "delta": 7,
+          "previousReviews": 7,
+          "currentReviews": 6
+        },
         {
           "title": "Phil Nichol: The Naked Racist",
           "previousScore": 75,
@@ -32,6 +40,14 @@
           "delta": 7,
           "previousReviews": 5,
           "currentReviews": 4
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
@@ -42,28 +58,83 @@
           "currentReviews": 12
         },
         {
+          "title": "The Shocking Truth About Flat Earth",
+          "previousScore": 83,
+          "currentScore": 85,
+          "delta": 2,
+          "previousReviews": 11,
+          "currentReviews": 12
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 72,
+          "currentScore": 70,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tarang Hardikar: If I'm Not Wrong",
+          "previousScore": 78,
+          "currentScore": 77,
+          "delta": -1,
+          "previousReviews": 10,
+          "currentReviews": 11
+        },
+        {
           "title": "Edith Alibec: The Void",
           "previousScore": 75,
           "currentScore": 76,
           "delta": 1,
           "previousReviews": 9,
           "currentReviews": 10
+        },
+        {
+          "title": "Steffan Alun: Windows",
+          "previousScore": 71,
+          "currentScore": 72,
+          "delta": 1,
+          "previousReviews": 6,
+          "currentReviews": 7
+        },
+        {
+          "title": "You and Me (and Whoever Comes Next)",
+          "previousScore": 83,
+          "currentScore": 82,
+          "delta": -1,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "A Gay Masseur's Guide to Happy Endings",
-          "score": 78,
-          "reviews": 5
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
         },
         {
-          "title": "Aarian Mehrabani: How's Your Head?",
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
           "score": 76,
-          "reviews": 6
+          "reviews": 2
         },
         {
-          "title": "A Queen's Way",
-          "score": 57,
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         }
       ],
@@ -964,7 +1035,6 @@
         "SLAY",
         "STAY",
         "Sad Bride",
-        "Sadia Azmat: Rapism",
         "Sam Morrison: DUCK",
         "Sam Nicoresti: Baby Doomer",
         "Sam Rhodes: Toy Cocoon",
