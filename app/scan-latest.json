@@ -2,77 +2,113 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-20T07:12:00.909Z",
-      "completedAt": "2026-09-20T07:12:00.909Z",
+      "id": "2026-09-20T12:43:21.210Z",
+      "completedAt": "2026-09-20T12:43:21.210Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
-      "sourcesChecked": 83,
-      "accessFailed": 19,
-      "totalShows": 1381,
-      "totalNotices": 5109,
-      "defaultVisible": 912,
-      "duplicates": 9,
+      "sourcesChecked": 102,
+      "accessFailed": 0,
+      "totalShows": 1396,
+      "totalNotices": 5131,
+      "defaultVisible": 914,
+      "duplicates": 20,
       "ambiguous": 0,
-      "accessFailures": [
-        "Arts Reviews Edinburgh",
-        "Braw Theatre",
-        "Broadway Baby",
-        "Edinburgh Evening News",
-        "Edinburgh Music Review",
-        "European Comedy",
-        "FringeReview",
-        "On the Mic",
-        "Rolandâ€™s Reviews",
-        "Scottish Field",
-        "Sounds & Stage",
-        "StageSideUK",
-        "STARBURST",
-        "The Flaneur",
-        "The Independent",
-        "The Scotsman",
-        "The Standard",
-        "What The Fringe",
-        "WhatsOnStage"
-      ],
+      "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-19T06:47:02.112Z",
-      "windowEndedAt": "2026-09-20T07:12:00.909Z",
-      "windowCoverageHours": 24.4,
+      "windowStartedAt": "2026-09-19T11:42:52.068Z",
+      "windowEndedAt": "2026-09-20T12:43:21.210Z",
+      "windowCoverageHours": 25,
       "scansInWindow": 8,
-      "newReviews": 38439,
-      "newShows": 3,
-      "enteredRanking": 1,
+      "newReviews": 38490,
+      "newShows": 31,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
         {
           "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 75,
-          "currentScore": 82,
-          "delta": 7,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "previousScore": 82,
+          "currentScore": 75,
+          "delta": -7,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "The Only Man Who Won't F*ck Me",
+          "previousScore": 66,
+          "currentScore": 72,
+          "delta": 6,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Séance Starter Kit™",
+          "previousScore": 70,
+          "currentScore": 65,
+          "delta": -5,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Will BF: Moon Team IIIV",
           "previousScore": 91,
-          "currentScore": 86,
-          "delta": -5,
+          "currentScore": 87,
+          "delta": -4,
           "previousReviews": 8,
-          "currentReviews": 9
+          "currentReviews": 11
+        },
+        {
+          "title": "Lindsey Santoro: It Was Like That When I Got Here",
+          "previousScore": 66,
+          "currentScore": 70,
+          "delta": 4,
+          "previousReviews": 4,
+          "currentReviews": 6
         },
         {
           "title": "Phil Nichol: Aren't We Lucky",
-          "previousScore": 77,
-          "currentScore": 74,
-          "delta": -3,
-          "previousReviews": 11,
-          "currentReviews": 12
+          "previousScore": 74,
+          "currentScore": 77,
+          "delta": 3,
+          "previousReviews": 12,
+          "currentReviews": 11
         },
         {
-          "title": "The Second Best School Shooting",
-          "previousScore": 78,
+          "title": "The Subplot: A Hyperfixation on the Titan Submersible",
+          "previousScore": 81,
+          "currentScore": 79,
+          "delta": -2,
+          "previousReviews": 9,
+          "currentReviews": 11
+        },
+        {
+          "title": "Maya Ricote: Ay Am!",
+          "previousScore": 79,
           "currentScore": 77,
+          "delta": -2,
+          "previousReviews": 8,
+          "currentReviews": 7
+        },
+        {
+          "title": "Reparations",
+          "previousScore": 65,
+          "currentScore": 67,
+          "delta": 2,
+          "previousReviews": 5,
+          "currentReviews": 6
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "previousScore": 71,
+          "currentScore": 73,
+          "delta": 2,
+          "previousReviews": 6,
+          "currentReviews": 5
+        },
+        {
+          "title": "Rob Auton: JUPITER",
+          "previousScore": 85,
+          "currentScore": 84,
           "delta": -1,
           "previousReviews": 15,
           "currentReviews": 16
@@ -88,9 +124,54 @@
       ],
       "newEntries": [
         {
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Ignacio Lopez: The Four Of Us Are Dying Up Here",
+          "score": 86,
+          "reviews": 2
+        },
+        {
           "title": "Little Animals",
           "score": 83,
           "reviews": 2
+        },
+        {
+          "title": "In the Black",
+          "score": 79,
+          "reviews": 8
+        },
+        {
+          "title": "Am I Losing My Mind Or Just My Figure?",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Most of My Moms Are Gay",
+          "score": 75,
+          "reviews": 9
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "House Fly",
+          "score": 68,
+          "reviews": 5
+        },
+        {
+          "title": "Josh Pickar: Getting Off",
+          "score": 60,
+          "reviews": 8
         }
       ],
       "newShowTitles": [
