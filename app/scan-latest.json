@@ -2,64 +2,77 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-21T01:53:55.083Z",
-      "completedAt": "2026-09-21T01:53:55.083Z",
+      "id": "2026-09-21T07:22:29.283Z",
+      "completedAt": "2026-09-21T07:22:29.283Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1383,
-      "totalNotices": 5115,
-      "defaultVisible": 912,
-      "duplicates": 39,
+      "totalShows": 1391,
+      "totalNotices": 5116,
+      "defaultVisible": 908,
+      "duplicates": 18,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-20T01:53:03.121Z",
-      "windowEndedAt": "2026-09-21T01:53:55.083Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-09-20T07:12:00.909Z",
+      "windowEndedAt": "2026-09-21T07:22:29.283Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 7,
-      "newReviews": 33752,
+      "newReviews": 33739,
       "newShows": 10,
-      "enteredRanking": 2,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Fanny Bleach: The Nearly Naked Show",
-          "previousScore": 76,
-          "currentScore": 69,
-          "delta": -7,
-          "previousReviews": 6,
-          "currentReviews": 7
+          "title": "When You Are a Tick",
+          "previousScore": 51,
+          "currentScore": 48,
+          "delta": -3,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
-          "title": "The Séance Starter Kit™",
+          "title": "Reparations",
           "previousScore": 65,
-          "currentScore": 70,
-          "delta": 5,
+          "currentScore": 67,
+          "delta": 2,
           "previousReviews": 5,
-          "currentReviews": 4
+          "currentReviews": 6
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "previousScore": 77,
+          "currentScore": 78,
+          "delta": 1,
+          "previousReviews": 16,
+          "currentReviews": 15
         },
         {
           "title": "Will BF: Moon Team IIIV",
-          "previousScore": 91,
+          "previousScore": 86,
           "currentScore": 87,
-          "delta": -4,
-          "previousReviews": 8,
+          "delta": 1,
+          "previousReviews": 9,
           "currentReviews": 11
         }
       ],
       "newEntries": [
         {
-          "title": "Little Animals",
-          "score": 83,
+          "title": "Bigfoot Ripped My Dog In Half I Saw It",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "Border Bodies",
+          "score": 70,
           "reviews": 2
         },
         {
-          "title": "Thermos Museum Books",
-          "score": 63,
-          "reviews": 3
+          "title": "The Trials of Magnus Coffinkey",
+          "score": 70,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
