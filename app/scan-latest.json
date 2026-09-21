@@ -2,103 +2,153 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-21T14:38:43.177Z",
-      "completedAt": "2026-09-21T14:38:43.177Z",
+      "id": "2026-09-21T19:50:02.655Z",
+      "completedAt": "2026-09-21T19:50:02.655Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 1396,
-      "totalNotices": 5134,
-      "defaultVisible": 914,
+      "totalShows": 458,
+      "totalNotices": 1318,
+      "defaultVisible": 199,
       "duplicates": 1,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-20T12:43:21.210Z",
-      "windowEndedAt": "2026-09-21T14:38:43.177Z",
-      "windowCoverageHours": 25.9,
-      "scansInWindow": 7,
-      "newReviews": 33703,
-      "newShows": 0,
-      "enteredRanking": 0,
+      "windowStartedAt": "2026-09-20T19:11:04.531Z",
+      "windowEndedAt": "2026-09-21T19:50:02.655Z",
+      "windowCoverageHours": 24.6,
+      "scansInWindow": 6,
+      "newReviews": 25024,
+      "newShows": -905,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
-          "title": "The Séance Starter Kit™",
-          "previousScore": 65,
+          "title": "Hole!",
+          "previousScore": 86,
           "currentScore": 70,
-          "delta": 5,
-          "previousReviews": 5,
-          "currentReviews": 4
+          "delta": -16,
+          "previousReviews": 14,
+          "currentReviews": 2
         },
         {
-          "title": "Lindsey Santoro: It Was Like That When I Got Here",
-          "previousScore": 70,
-          "currentScore": 66,
-          "delta": -4,
-          "previousReviews": 6,
-          "currentReviews": 4
+          "title": "Bog Witch",
+          "previousScore": 84,
+          "currentScore": 69,
+          "delta": -15,
+          "previousReviews": 23,
+          "currentReviews": 2
         },
         {
-          "title": "Maya Ricote: Ay Am!",
-          "previousScore": 77,
+          "title": "How to Art",
+          "previousScore": 67,
+          "currentScore": 57,
+          "delta": -10,
+          "previousReviews": 8,
+          "currentReviews": 2
+        },
+        {
+          "title": "Sammy J: Hero Complex",
+          "previousScore": 88,
           "currentScore": 79,
-          "delta": 2,
-          "previousReviews": 7,
-          "currentReviews": 8
-        },
-        {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "previousScore": 73,
-          "currentScore": 71,
-          "delta": -2,
-          "previousReviews": 5,
-          "currentReviews": 6
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 72,
-          "currentScore": 73,
-          "delta": 1,
-          "previousReviews": 19,
-          "currentReviews": 20
-        },
-        {
-          "title": "The Second Best School Shooting",
-          "previousScore": 78,
-          "currentScore": 77,
-          "delta": -1,
-          "previousReviews": 15,
-          "currentReviews": 16
-        },
-        {
-          "title": "Rob Auton: JUPITER",
-          "previousScore": 84,
-          "currentScore": 85,
-          "delta": 1,
-          "previousReviews": 16,
-          "currentReviews": 15
-        },
-        {
-          "title": "Lara Ricote: Inkling",
-          "previousScore": 84,
-          "currentScore": 83,
-          "delta": -1,
-          "previousReviews": 13,
-          "currentReviews": 14
-        },
-        {
-          "title": "The Pigeon Factory",
-          "previousScore": 71,
-          "currentScore": 70,
-          "delta": -1,
+          "delta": -9,
           "previousReviews": 6,
-          "currentReviews": 5
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Dehnert: Echo",
+          "previousScore": 83,
+          "currentScore": 74,
+          "delta": -9,
+          "previousReviews": 8,
+          "currentReviews": 2
+        },
+        {
+          "title": "Bunny!",
+          "previousScore": 83,
+          "currentScore": 76,
+          "delta": -7,
+          "previousReviews": 7,
+          "currentReviews": 2
+        },
+        {
+          "title": "Andrew Doherty: Reviewers Welcome... TO DIE!",
+          "previousScore": 78,
+          "currentScore": 71,
+          "delta": -7,
+          "previousReviews": 11,
+          "currentReviews": 2
+        },
+        {
+          "title": "Dee Allum: Raumdeuter",
+          "previousScore": 76,
+          "currentScore": 69,
+          "delta": -7,
+          "previousReviews": 12,
+          "currentReviews": 2
+        },
+        {
+          "title": "Darryl J Carrington: Tennish",
+          "previousScore": 71,
+          "currentScore": 64,
+          "delta": -7,
+          "previousReviews": 5,
+          "currentReviews": 2
+        },
+        {
+          "title": "INDY!",
+          "previousScore": 70,
+          "currentScore": 64,
+          "delta": -6,
+          "previousReviews": 4,
+          "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 94,
+          "currentScore": 89,
+          "delta": -5,
+          "previousReviews": 29,
+          "currentReviews": 4
+        },
+        {
+          "title": "Scout Boxall: God's Favourite",
+          "previousScore": 81,
+          "currentScore": 76,
+          "delta": -5,
+          "previousReviews": 6,
+          "currentReviews": 2
         }
       ],
-      "newEntries": [],
+      "newEntries": [
+        {
+          "title": "Angela Bra - Secret Diary of a Bingo Call Girl",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Laughing Matters",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Nathan Cassidy: Ewwww!",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Thermos Museum Books",
+          "score": 63,
+          "reviews": 3
+        }
+      ],
       "newShowTitles": [
         "\"Be Good!\" with Paulette",
         "& taxes",
@@ -496,7 +546,6 @@
         "Eric&apos;s Tales of the Sea - A Submariner&apos;s Yarn",
         "Eryn Tett: Tasting Menu",
         "Escape Room: The Musical",
-        "Evaldas Karosas: A Very Capable Man",
         "Eve and Adam",
         "Every Ghost Story Ever",
         "Everybody's Got a Bomb",
@@ -789,6 +838,7 @@
         "MIND ER3CTION",
         "MISTRANSLATED",
         "MUSE: The Shakespeare Mayhem Musical",
+        "Mad Ron Presents Identity Theft - The Gameshow",
         "Madam(e) Lou",
         "Madame Chandelier&apos;s Grand Theft Opera",
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
@@ -879,6 +929,7 @@
         "Obsessive, Compulsive, Divine",
         "Octopus",
         "Of Mice And Men",
+        "Offgridland",
         "Oil & Whiskey",
         "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
@@ -1076,6 +1127,7 @@
         "Spooky Dookie: Cool New Planet!!",
         "Spraywatch: A Beautiful Rescue",
         "Stand Up If You&apos;re Here Tonight",
+        "Stand-up Philosophy",
         "Stanislavski Can&apos;t Save Me From The Apocalypse",
         "Star Wars: The Next Generation",
         "Stayin&apos; Alive",
@@ -1162,7 +1214,6 @@
         "The Improv All Stars",
         "The Italians in England",
         "The Joker and The Thief",
-        "The Jolly Fisherman",
         "The Kaye Hole Hosted by Reuben Kaye",
         "The Lady Doth Protest",
         "The Landlady",
