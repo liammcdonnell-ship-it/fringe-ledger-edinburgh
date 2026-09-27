@@ -2,27 +2,46 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-09-27T14:25:10.595Z",
-      "completedAt": "2026-09-27T14:25:10.595Z",
+      "id": "2026-09-27T18:45:16.387Z",
+      "completedAt": "2026-09-27T18:45:16.387Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
-      "sourcesChecked": 102,
-      "accessFailed": 0,
-      "totalShows": 737,
-      "totalNotices": 2515,
-      "defaultVisible": 398,
-      "duplicates": 7,
+      "sourcesChecked": 84,
+      "accessFailed": 18,
+      "totalShows": 795,
+      "totalNotices": 2815,
+      "defaultVisible": 457,
+      "duplicates": 1,
       "ambiguous": 0,
-      "accessFailures": [],
+      "accessFailures": [
+        "Arts Reviews Edinburgh",
+        "Braw Theatre",
+        "Broadway Baby",
+        "Country & Town House",
+        "Edinburgh Evening News",
+        "Edinburgh Music Review",
+        "European Comedy",
+        "FringeReview",
+        "Rolandâ€™s Reviews",
+        "Scottish Field",
+        "Sounds & Stage",
+        "StageSideUK",
+        "STARBURST",
+        "The Flaneur",
+        "The Independent",
+        "The Scotsman",
+        "The Standard",
+        "What The Fringe"
+      ],
       "windowHours": 24,
-      "windowStartedAt": "2026-09-26T14:49:42.652Z",
-      "windowEndedAt": "2026-09-27T14:25:10.595Z",
-      "windowCoverageHours": 23.6,
+      "windowStartedAt": "2026-09-26T18:09:04.292Z",
+      "windowEndedAt": "2026-09-27T18:45:16.387Z",
+      "windowCoverageHours": 24.6,
       "scansInWindow": 6,
-      "newReviews": 4302,
-      "newShows": -152,
-      "enteredRanking": 166,
+      "newReviews": 4629,
+      "newShows": -55,
+      "enteredRanking": 207,
       "newOutlets": [],
       "movers": [
         {
@@ -34,6 +53,14 @@
           "currentReviews": 15
         },
         {
+          "title": "Juliette Burton: Villain Era",
+          "previousScore": 60,
+          "currentScore": 73,
+          "delta": 13,
+          "previousReviews": 2,
+          "currentReviews": 7
+        },
+        {
           "title": "How to Art",
           "previousScore": 57,
           "currentScore": 67,
@@ -43,10 +70,10 @@
         },
         {
           "title": "Jitters",
-          "previousScore": 85,
+          "previousScore": 86,
           "currentScore": 76,
-          "delta": -9,
-          "previousReviews": 11,
+          "delta": -10,
+          "previousReviews": 12,
           "currentReviews": 2
         },
         {
@@ -66,60 +93,52 @@
           "currentReviews": 2
         },
         {
-          "title": "INDY!",
-          "previousScore": 72,
-          "currentScore": 64,
-          "delta": -8,
-          "previousReviews": 5,
-          "currentReviews": 2
-        },
-        {
-          "title": "Dee Allum: Raumdeuter",
-          "previousScore": 69,
-          "currentScore": 76,
+          "title": "Doughboys",
+          "previousScore": 75,
+          "currentScore": 82,
           "delta": 7,
-          "previousReviews": 2,
-          "currentReviews": 12
-        },
-        {
-          "title": "Phil Nichol: The Naked Racist",
-          "previousScore": 82,
-          "currentScore": 75,
-          "delta": -7,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Remember, Remember!",
-          "previousScore": 83,
-          "currentScore": 76,
-          "delta": -7,
-          "previousReviews": 21,
-          "currentReviews": 2
-        },
-        {
-          "title": "Diary of a Mad Man",
-          "previousScore": 68,
-          "currentScore": 62,
-          "delta": -6,
-          "previousReviews": 3,
+          "previousReviews": 5,
           "currentReviews": 4
         },
         {
-          "title": "Silky in 'No, YOU'RE Poster Syndrome'",
-          "previousScore": 73,
-          "currentScore": 68,
-          "delta": -5,
-          "previousReviews": 4,
+          "title": "Scout Boxall: God's Favourite",
+          "previousScore": 76,
+          "currentScore": 81,
+          "delta": 5,
+          "previousReviews": 2,
           "currentReviews": 6
         },
         {
-          "title": "Elf Lyons is The Woman on the Edge",
-          "previousScore": 94,
-          "currentScore": 89,
+          "title": "The Librarians: A Very Serious Comedy!",
+          "previousScore": 62,
+          "currentScore": 57,
           "delta": -5,
-          "previousReviews": 30,
-          "currentReviews": 4
+          "previousReviews": 16,
+          "currentReviews": 2
+        },
+        {
+          "title": "Good Girl",
+          "previousScore": 83,
+          "currentScore": 79,
+          "delta": -4,
+          "previousReviews": 9,
+          "currentReviews": 10
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 66,
+          "currentScore": 70,
+          "delta": 4,
+          "previousReviews": 9,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
@@ -134,12 +153,12 @@
           "reviews": 3
         },
         {
-          "title": "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
+          "title": "Crying At My Podiatrist",
           "score": 91,
-          "reviews": 8
+          "reviews": 4
         },
         {
-          "title": "Crying At My Podiatrist",
+          "title": "John Robertson's The Dark Room",
           "score": 91,
           "reviews": 4
         },
@@ -147,16 +166,6 @@
           "title": "EVITA TOO",
           "score": 89,
           "reviews": 17
-        },
-        {
-          "title": "Dungeons and Shakespeare",
-          "score": 89,
-          "reviews": 9
-        },
-        {
-          "title": "Dane Buckley: Darling",
-          "score": 89,
-          "reviews": 4
         },
         {
           "title": "Milkdrunk",
@@ -169,9 +178,9 @@
           "reviews": 7
         },
         {
-          "title": "Scaramouche Jones",
+          "title": "Sammy J: Hero Complex",
           "score": 88,
-          "reviews": 7
+          "reviews": 6
         },
         {
           "title": "Will BF: Moon Team IIIV",
@@ -189,9 +198,29 @@
           "reviews": 3
         },
         {
+          "title": "My Life Is a Sonnet",
+          "score": 87,
+          "reviews": 3
+        },
+        {
           "title": "Smashing Shakespeare: Brave Macbeth",
           "score": 87,
           "reviews": 3
+        },
+        {
+          "title": "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
+          "score": 87,
+          "reviews": 3
+        },
+        {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "score": 86,
+          "reviews": 14
+        },
+        {
+          "title": "Madeleine Brettingham: Legend",
+          "score": 86,
+          "reviews": 11
         },
         {
           "title": "Gregor Fisher: An (Early) Evening With Gregor Fisher",
@@ -209,19 +238,44 @@
           "reviews": 9
         },
         {
+          "title": "...Earnest?",
+          "score": 85,
+          "reviews": 6
+        },
+        {
+          "title": "The Horse of Jenin",
+          "score": 85,
+          "reviews": 4
+        },
+        {
           "title": "Tim Biglowe: Plonka",
           "score": 85,
           "reviews": 4
         },
         {
-          "title": "Ben Hart: The Labyrinth",
-          "score": 84,
-          "reviews": 12
+          "title": "Gutter",
+          "score": 85,
+          "reviews": 2
         },
         {
           "title": "Fake",
           "score": 84,
           "reviews": 6
+        },
+        {
+          "title": "Celia Pacquola: Gift Horse",
+          "score": 84,
+          "reviews": 2
+        },
+        {
+          "title": "Olga Koch: Fat Tom Cruise",
+          "score": 83,
+          "reviews": 14
+        },
+        {
+          "title": "Jordan Brookes: The Part of You That's Always Screaming",
+          "score": 83,
+          "reviews": 10
         },
         {
           "title": "Murder, She Didn't Write",
@@ -244,7 +298,12 @@
           "reviews": 5
         },
         {
-          "title": "Little Animals",
+          "title": "Brendan Scannell: The Abyss",
+          "score": 83,
+          "reviews": 4
+        },
+        {
+          "title": "Daniel Foxx: How Lovely.",
           "score": 83,
           "reviews": 2
         },
@@ -259,9 +318,9 @@
           "reviews": 2
         },
         {
-          "title": "Heated Rivalry: The Musical Parody",
-          "score": 82,
-          "reviews": 9
+          "title": "Well-Balanced Dads",
+          "score": 83,
+          "reviews": 2
         },
         {
           "title": "YUCK Circus: Naughties",
@@ -269,12 +328,12 @@
           "reviews": 8
         },
         {
-          "title": "I Almost Died for This?! (A love story. Sort of.)",
+          "title": "Fly, You Fools!",
           "score": 82,
           "reviews": 4
         },
         {
-          "title": "Kristen Schaal: The Legend of Crystal Shell",
+          "title": "I Almost Died for This?! (A love story. Sort of.)",
           "score": 82,
           "reviews": 4
         },
@@ -295,6 +354,11 @@
         },
         {
           "title": "Jack Docherty: Butterfly",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Jill's Tupperware Party",
           "score": 82,
           "reviews": 3
         },
@@ -329,6 +393,16 @@
           "reviews": 5
         },
         {
+          "title": "Hater",
+          "score": 81,
+          "reviews": 5
+        },
+        {
+          "title": "Sophie Duker: Hot Beef Injection",
+          "score": 80,
+          "reviews": 13
+        },
+        {
           "title": "SUCCUBUS",
           "score": 80,
           "reviews": 10
@@ -342,6 +416,11 @@
           "title": "Japanese Grandma Funeral",
           "score": 80,
           "reviews": 4
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
         },
         {
           "title": "Wally Baram: My Snake's Quinceañera",
@@ -374,11 +453,6 @@
           "reviews": 9
         },
         {
-          "title": "Maya Ricote: Ay Am!",
-          "score": 79,
-          "reviews": 8
-        },
-        {
           "title": "SpinQueen™",
           "score": 79,
           "reviews": 7
@@ -389,7 +463,22 @@
           "reviews": 2
         },
         {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "CSI: Crime Scene Improvisation",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Do You Wanna Go?",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Kim Blythe: Puzzle",
           "score": 79,
           "reviews": 2
         },
@@ -397,16 +486,6 @@
           "title": "Rosalie Minnitt: Clementine 2",
           "score": 78,
           "reviews": 13
-        },
-        {
-          "title": "Baby Everything",
-          "score": 78,
-          "reviews": 6
-        },
-        {
-          "title": "Hater",
-          "score": 78,
-          "reviews": 6
         },
         {
           "title": "100 Million Fish in the Aquarium",
@@ -424,14 +503,39 @@
           "reviews": 3
         },
         {
+          "title": "Finlay Christie: Champagne Casanova",
+          "score": 77,
+          "reviews": 16
+        },
+        {
           "title": "Ted Hill: PowerPoindexter",
           "score": 77,
           "reviews": 13
         },
         {
-          "title": "Top Gunchained",
+          "title": "A Simply Beastly Murder",
           "score": 77,
           "reviews": 7
+        },
+        {
+          "title": "Max Olesker: Making the Cut",
+          "score": 77,
+          "reviews": 7
+        },
+        {
+          "title": "Georgina Thomas: Hysterical Soprano",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "In A Bad Way",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "It's Always Sunny on Olympus",
+          "score": 77,
+          "reviews": 3
         },
         {
           "title": "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
@@ -444,12 +548,17 @@
           "reviews": 3
         },
         {
-          "title": "Sarah Bradley: How to Write a Romcom",
+          "title": "Rachel Creeger: \"Queen of the Jews!\"",
           "score": 77,
           "reviews": 3
         },
         {
-          "title": "the Kobold Show!",
+          "title": "Rhino Conservation Erotic Novel",
+          "score": 77,
+          "reviews": 3
+        },
+        {
+          "title": "Sarah Bradley: How to Write a Romcom",
           "score": 77,
           "reviews": 3
         },
@@ -464,14 +573,14 @@
           "reviews": 10
         },
         {
-          "title": "Bilal Zafar: Rubicon",
+          "title": "Edith Alibec: The Void",
           "score": 76,
-          "reviews": 7
+          "reviews": 10
         },
         {
-          "title": "Mandy: Prince of Darkness",
+          "title": "Will & Noah: Dinner Dinner Chicken Winner",
           "score": 76,
-          "reviews": 7
+          "reviews": 8
         },
         {
           "title": "Little Pink Dress",
@@ -484,7 +593,22 @@
           "reviews": 4
         },
         {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Armageddon Outta Here",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Boy in a Box",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Lisa! The Mona Lisa Musical",
           "score": 76,
           "reviews": 2
         },
@@ -509,11 +633,6 @@
           "reviews": 2
         },
         {
-          "title": "Tim Key: Loganberry",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Van Gogh & Me",
           "score": 76,
           "reviews": 2
@@ -524,7 +643,32 @@
           "reviews": 9
         },
         {
+          "title": "Those People",
+          "score": 75,
+          "reviews": 7
+        },
+        {
+          "title": "Bilal Zafar: Rubicon",
+          "score": 75,
+          "reviews": 6
+        },
+        {
+          "title": "Baby Everything",
+          "score": 75,
+          "reviews": 5
+        },
+        {
           "title": "9/11 Birds and the Bees",
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "Brit Barron: CHURCH",
+          "score": 75,
+          "reviews": 3
+        },
+        {
+          "title": "ShakeItUp: The Improvised Shakespeare Show",
           "score": 75,
           "reviews": 3
         },
@@ -544,14 +688,14 @@
           "reviews": 6
         },
         {
-          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
+          "title": "The Passion of Mr Cardboard",
           "score": 74,
           "reviews": 6
         },
         {
-          "title": "In A Bad Way",
+          "title": "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We're Not Talking Now)",
           "score": 74,
-          "reviews": 4
+          "reviews": 6
         },
         {
           "title": "Kemah Bob: Love Child",
@@ -569,14 +713,9 @@
           "reviews": 3
         },
         {
-          "title": "MAN!FEST: The Drag Boyband Musical",
-          "score": 73,
-          "reviews": 12
-        },
-        {
-          "title": "New York City Dreams",
-          "score": 73,
-          "reviews": 8
+          "title": "Lilla Multipass: Woman(33)",
+          "score": 74,
+          "reviews": 3
         },
         {
           "title": "The Tao of Lloyd",
@@ -604,9 +743,9 @@
           "reviews": 5
         },
         {
-          "title": "Brit Barron: CHURCH",
+          "title": "B48Y Crash Lands on Earth!",
           "score": 73,
-          "reviews": 2
+          "reviews": 3
         },
         {
           "title": "Ethan & Gigi Present: THE MOVEMENT",
@@ -619,12 +758,17 @@
           "reviews": 2
         },
         {
+          "title": "MAN!FEST: The Drag Boyband Musical",
+          "score": 72,
+          "reviews": 13
+        },
+        {
           "title": "Steffan Alun: Windows",
           "score": 72,
           "reviews": 7
         },
         {
-          "title": "How Not to Make it in America",
+          "title": "The Gay Divorce",
           "score": 72,
           "reviews": 5
         },
@@ -634,7 +778,17 @@
           "reviews": 4
         },
         {
+          "title": "An Evening with Dame Granny Smith",
+          "score": 72,
+          "reviews": 3
+        },
+        {
           "title": "Cogito, Ergo... Something?",
+          "score": 72,
+          "reviews": 3
+        },
+        {
+          "title": "Crudi Dench: Someone Help Her!",
           "score": 72,
           "reviews": 3
         },
@@ -647,6 +801,11 @@
           "title": "Do Better: A Dramagedy",
           "score": 72,
           "reviews": 3
+        },
+        {
+          "title": "Adam Flood: Life and Death of the Party",
+          "score": 71,
+          "reviews": 9
         },
         {
           "title": "Book of Shadows",
@@ -669,6 +828,11 @@
           "reviews": 7
         },
         {
+          "title": "Jake Baker: The Gentle Men's Club",
+          "score": 70,
+          "reviews": 5
+        },
+        {
           "title": "Bottom's Dream",
           "score": 70,
           "reviews": 4
@@ -679,14 +843,9 @@
           "reviews": 4
         },
         {
-          "title": "It's Always Sunny on Olympus",
+          "title": "Aditya Mayya Pretends to Be Sad",
           "score": 70,
-          "reviews": 4
-        },
-        {
-          "title": "Jennifer Jane: Happy Tea",
-          "score": 70,
-          "reviews": 4
+          "reviews": 3
         },
         {
           "title": "Good Boy",
@@ -695,16 +854,6 @@
         },
         {
           "title": "Boxticker",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Follow Me",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Gavin Webster: The Last Ever Punk Rocker",
           "score": 70,
           "reviews": 2
         },
@@ -724,6 +873,11 @@
           "reviews": 2
         },
         {
+          "title": "Solo from the Pit",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "The 40-Year-Old Ballerino",
           "score": 70,
           "reviews": 2
@@ -737,11 +891,6 @@
           "title": "Irene Woo: Golden Child",
           "score": 69,
           "reviews": 5
-        },
-        {
-          "title": "Matt Klein: Boyoyoyoyoing",
-          "score": 69,
-          "reviews": 2
         },
         {
           "title": "Eric Lampaert: Zero Minus One",
@@ -769,12 +918,17 @@
           "reviews": 3
         },
         {
+          "title": "Otto & Astrid: The Stages Tour",
+          "score": 68,
+          "reviews": 3
+        },
+        {
           "title": "Paper Cuts (and other small tragedies)",
           "score": 68,
           "reviews": 3
         },
         {
-          "title": "Shakespeare for Breakfast",
+          "title": "The Heterosexuals",
           "score": 68,
           "reviews": 3
         },
@@ -782,6 +936,11 @@
           "title": "The New Year",
           "score": 68,
           "reviews": 3
+        },
+        {
+          "title": "Chip and Gus: A Comedy with Balls",
+          "score": 67,
+          "reviews": 6
         },
         {
           "title": "In Memory of Me",
@@ -794,7 +953,22 @@
           "reviews": 3
         },
         {
+          "title": "Mark Vigeant: OUT THERE",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Bachelors of Fine Arts",
+          "score": 66,
+          "reviews": 4
+        },
+        {
+          "title": "CRUSH",
           "score": 66,
           "reviews": 4
         },
@@ -802,6 +976,11 @@
           "title": "Last Orders",
           "score": 66,
           "reviews": 4
+        },
+        {
+          "title": "Imogen Andrews: The Unlikeable Worms",
+          "score": 65,
+          "reviews": 10
         },
         {
           "title": "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
@@ -814,12 +993,42 @@
           "reviews": 5
         },
         {
+          "title": "The Séance Starter Kit™",
+          "score": 65,
+          "reviews": 5
+        },
+        {
           "title": "Killian Sundermann: Killian Dollar Baby",
           "score": 65,
           "reviews": 3
         },
         {
+          "title": "A Cat in a Box",
+          "score": 64,
+          "reviews": 5
+        },
+        {
+          "title": "Bread and Circuses",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "Buddha vs Jesus",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Just Blokes",
           "score": 64,
           "reviews": 2
         },
@@ -830,6 +1039,11 @@
         },
         {
           "title": "Michael McPheat is BRUTAL!",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Natalie and I",
           "score": 64,
           "reviews": 2
         },
@@ -849,9 +1063,9 @@
           "reviews": 2
         },
         {
-          "title": "Emmeline Downie: Gail",
+          "title": "Carys Should be the UK's Next Eurovision Entry",
           "score": 63,
-          "reviews": 5
+          "reviews": 8
         },
         {
           "title": "Em Humble: Lady of the Lakes",
@@ -884,12 +1098,12 @@
           "reviews": 4
         },
         {
-          "title": "Delphi: The Musical",
-          "score": 60,
-          "reviews": 3
+          "title": "Burce Tutku Tuncali: Perfectly Imperfeckt!",
+          "score": 61,
+          "reviews": 2
         },
         {
-          "title": "The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours",
+          "title": "Delphi: The Musical",
           "score": 60,
           "reviews": 3
         },
@@ -924,6 +1138,11 @@
           "reviews": 3
         },
         {
+          "title": "The Tale of the Original Jekyll and Hyde (Told by a Mad Hatter from Stockport)",
+          "score": 55,
+          "reviews": 4
+        },
+        {
           "title": "Matthew Gallagher: Last Minute",
           "score": 54,
           "reviews": 4
@@ -944,6 +1163,11 @@
           "reviews": 2
         },
         {
+          "title": "Lysistrata",
+          "score": 51,
+          "reviews": 2
+        },
+        {
           "title": "Putting the Ass in Brass",
           "score": 51,
           "reviews": 2
@@ -960,15 +1184,18 @@
         "...Earnest?",
         "0 Ambition - A Jew Running the Numbers",
         "0 BC: Before Crisis",
+        "0 Hair - Bald Man Sings Rihanna",
         "1 Big Aussie Showcase",
         "1 Hour of Insane Magic",
         "1 Pill 2 Pill, Red Pill Blue Pill: A Matrix Parody Musical",
         "100 Million Fish in the Aquarium",
         "100% Badgers 2: Badgers vs Hedgehogs with Matt Hobs",
+        "101 Rules for a Better World (by Comedians)",
         "10A: The Fitting Room",
         "116 Grams: A Play to Lose Weight",
         "1518: The Dancing Plague",
         "1979: Persianality Disorder",
+        "199 Jokes Before Lunchtime: Danny Matinee!",
         "2 Muslim 2 Furious 3: Sharia? I Hardly Know Her!",
         "2 Slut Drops and a Chicken Burger",
         "2 White Guys Rapping: Macshane and Delby",
@@ -983,9 +1210,10 @@
         "5 Mistakes That Changed History",
         "58 To Go",
         "9/11 Birds and the Bees",
+        "90s Magic Throwback with Chris Fleming",
         "@Jenna",
+        "A Cat in a Box",
         "A Clown's Lullaby",
-        "A Complete Idiot&apos;s Guide to New Zealand",
         "A Different Kind of Heartbreak",
         "A Murder Mystery Musical - The Detective&apos;s Demise",
         "A STAN IS BORN! - Encore",
@@ -1018,6 +1246,7 @@
         "Always, Sometimes, Maybe",
         "Am I Losing My Mind Or Just My Figure?",
         "Amadan and Mortair Kill the King",
+        "Amelia Hamilton: Moral Support",
         "American Assholes: Escape to Edinburgh",
         "Among the Pigeons",
         "Amy Webber: Joy Ride",
@@ -1066,6 +1295,7 @@
         "Baby Wants Candy",
         "Bachelors of Fine Arts",
         "Bad Boy",
+        "BeetleMania",
         "Bella Hull: Mad Cow Disease",
         "Ben Hart: The Labyrinth",
         "Ben&apos;s Book Club",
@@ -1083,6 +1313,7 @@
         "Blackjack! (and other ways to get lucky) in Your Parents&apos; Basement",
         "Bliss",
         "Bloated In Vegas",
+        "Bloody Knees",
         "Bob Graham - Tap Dancing on a Sinking Ship",
         "Bob Koomen: Pear",
         "Book Club",
@@ -1090,6 +1321,8 @@
         "Bottom&apos;s Dream",
         "Boxticker",
         "Boy in a Box",
+        "Brassed Off",
+        "Bread and Circuses",
         "Brennan Reece: Live",
         "Brew Hill",
         "Brian Bilston: How to Lay an Egg with a Horse Inside",
@@ -1110,33 +1343,40 @@
         "CADEL: Lungs on Legs",
         "CADET KELLY IS THE BEST MOVIE I&apos;VE EVER SEEN IN MY FRIGGIN LIFE",
         "CHUCK",
+        "CIRCLE",
         "CROWD WORK",
         "CRUSH",
         "CSI: Crime Scene Improvisation",
         "CVNT",
         "Cabbage the Clown: Cinemadrome",
+        "Caitriona Dowden: Sesh Head",
         "Camelton",
+        "Cameron Sinclair Harris: Speak Now Or Forever Hold Your Peace",
         "Candace Bryan: Don&apos;t Be Ridiculous, Everybody Wants This",
         "Carl Carzana THE Comedian Creative Genius",
         "Carl Donnelly: Extra Show!",
         "Carys Should be the UK&apos;s Next Eurovision Entry",
+        "Casey Filips: What a Character",
         "Casual Receptionist of the Quarter",
         "Celia Pacquola - Gift Horse",
         "Celya AB: We Must Stop Meeting Like This",
+        "Cerys Bradley: On Road Signs WIP",
         "Chad Goes Deep - Chill Towards Enlightenment",
         "Charming! The Musical",
-        "Chelsea Birkby: Is In Full Control The Entire Time",
         "Chief Petty Officer",
         "Chloe Jacobs: Twilight: Breaking Down",
+        "Choose Your WIP: A Choose Your Own Adventure Comedy Show / Jacob Williams: Space Peace",
         "Chris Forbes: Father Christmas",
         "Chris Martin Lied To Us",
         "Churchill&apos;s Urinal",
+        "Circus The Show",
         "Citizen Chen",
         "Citizen Otherplace",
         "Claire Robin: NUN SLUT",
         "Clary",
         "Clive",
         "Cluedo",
+        "Coco The Time-Travelling Tart",
         "Cogito, Ergo... Something?",
         "Collaborator",
         "Common Tongue",
@@ -1235,7 +1475,6 @@
         "Francisco de Nata",
         "Frenchy: The Instigator",
         "Freya Parker: An Hour Of Decay!",
-        "Frisky&apos;s Remix Roulette",
         "Fruit Flies",
         "Furniture Boys",
         "GANNET",
@@ -1253,6 +1492,7 @@
         "George, Don&apos;t Do That... The Joy of Joyce Grenfell",
         "Georgia Polly-Taylor: Very Hot. Very Messy.",
         "Georgina Thomas: Hysterical Soprano",
+        "Gerry Carroll: Young",
         "Get Your Geek On: A Nerdy Comedy Showcase",
         "Girlbosses and Billionaires",
         "Glow Job",
@@ -1301,6 +1541,7 @@
         "Homunculus",
         "Honkers",
         "Hope This Helps!",
+        "Hot Singles in Your Area Play D&D",
         "How Do I Hold It?",
         "How My Hormonal Imbalances Killed My Friends",
         "How Not to Make it in America",
@@ -1338,6 +1579,7 @@
         "Is This Your First Crime?",
         "Isabelle Glinn On Ice",
         "Isle of No&apos;Man",
+        "It Happened on a Tuesday",
         "It&apos;s A Struggle Coming Out",
         "It&apos;s Always Sunny on Olympus",
         "Jack Docherty: Butterfly",
@@ -1362,6 +1604,7 @@
         "Jeromaia Detto: Giuseppe&apos;s Love Quest",
         "Jess Carrivick: For Your Consideration",
         "Jess Robinson: Elton Reimagined",
+        "Jimmy Rees: In Reel Life",
         "Jitters",
         "Joe Casey and Pierce Higgins: Northern Soul",
         "Joe Sib: Aggie - A Comedy About Moms",
@@ -1375,13 +1618,13 @@
         "Julian Clary: Fully Dilated",
         "Julie Belliveau: Enlightened?",
         "Juliette Burton: Villain Era",
+        "Just Blokes",
         "Justin Elizabeth Sayre Is a 40-Year-Old Woman",
         "KEVIN!!!!!",
         "Kafka for Beginners",
         "Kanpur: 1857",
         "Kate Smurthwaite Writes And Performs A Brand New Full-Length Stand-Up Show Every Single Day For The Entire Edinburgh Fringe Based On Audience Suggestions From the Previous Day (Not Tuesdays)",
         "Katie Boyle: Irish Immigrant",
-        "Katie Pritchard is Sir Elton Scone",
         "Keeley Hazell: Everyone&apos;s Seen My Tits",
         "Kevin Quantum: Invisible Force",
         "Kiell Smith-Bynoe&apos;s Kool Story Bro",
@@ -1393,6 +1636,7 @@
         "Kristen Schaal: The Legend of Crystal Shell",
         "Krystyna Hutchinson: Congrats On Not Killing Yourself!",
         "Lachlan Werner: Sleeper Hit (WIP)",
+        "Lady Bolognese: Class War",
         "Lance Mao: The Pig with the Dragon Tattoo",
         "Last Orders",
         "Laughing Horse Clean Pick of the Fringe",
@@ -1435,13 +1679,13 @@
         "Magners Share the Craic presents Ashlee Bentley: Wallflower",
         "Maia Tassalini: I Was 22 and Stunning",
         "Making Love with David Magidoff",
-        "Mandy: Prince of Darkness",
         "Marc Burrows in the Ten Best Songs of All Time",
         "Marina di Marzo: Love in the Time of Fifth Grade",
         "Mark Dean Quinn: Tries To Walk Towards A Flip Chart",
         "Mark Row: A Class Act",
         "Mark Simmons: Jokes At Noon",
         "Mark Steel: What The F*** Is Going On?",
+        "Mark Thomas: 40 in Stand-Up Years",
         "Mates Rates - The Golden Age Begins",
         "Matt Forde: Project Holy Moly",
         "Matt Klein: Boyoyoyoyoing",
@@ -1474,6 +1718,7 @@
         "My Life Is a Sonnet",
         "My Name is Spring Day and Other Stupid Facts",
         "NON HUMAN ANIMAL",
+        "Natalie and I",
         "Nate Kitch Replica",
         "Nathan Cassidy: Ewwww!",
         "Nathan Cassidy: From the Ashes",
@@ -1492,7 +1737,6 @@
         "Nuns!",
         "Obie: The Fuck It List",
         "Of Mice And Men",
-        "Oil &#038; Whiskey",
         "Olaf Falafel Presents: I Used to Work in a Helium Balloon Factory Until they Let Me Go",
         "Olaf Falafel&apos;s Stupidest Super Stupid Show: This Time It&apos;s Stupider!",
         "Ollie West: Discovery (WIP)",
@@ -1529,6 +1773,7 @@
         "Pigeon Syndrome",
         "Pilate: The Lost Gospel",
         "Pirates: You Wouldn&apos;t Steal A Boat",
+        "Platformed",
         "Play Dead",
         "Plaything",
         "Police Cops in Space",
@@ -1544,6 +1789,7 @@
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "ROOMIES",
         "Rachel Baker Presents: Gwen - This is Not a Pyramid Scheme",
+        "Rachel Creeger: \"Queen of the Jews!\"",
         "Rachel Fairburn: Vexy Beasts",
         "Rachel Kaly: Between Us (A Crowd Work Show)",
         "Ramsey Smith: Keep the Receipt",
@@ -1555,6 +1801,7 @@
         "Remember, Remember!",
         "Reparations",
         "Reuben Solo: Someone in This Crowd Will Betray Me [Revenge Edition]",
+        "Rev Awdry: The Thomas the Tank Engine Man",
         "Rhino Conservation Erotic Novel",
         "Rhys James: Chop Logic",
         "Richard Pulsford: Gold Fashioned Jokes",
@@ -1636,12 +1883,12 @@
         "SpinQueen™",
         "Spraywatch: A Beautiful Rescue",
         "Stand Up If You&apos;re Here Tonight",
-        "Stanislavski Can&apos;t Save Me From The Apocalypse",
         "Star Wars: The Next Generation",
         "Steak Out",
         "Stefania Licari: I Can Make You Italian in 55 Minutes",
         "Steffan Alun: Windows",
         "Steffen Haanes: The Master",
+        "Stephen Catling: Clown Fish Out Of Water",
         "Strange Face: Adventures with a Lost Nick Drake Recording... The Story Continues",
         "Struan Logan: Chaotic Good",
         "Support Group",
@@ -1652,7 +1899,6 @@
         "Tabletop Role-Playing Game: The Musical",
         "Taiwan Season: Birthday Party",
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
-        "Tamsyn Kelly: Rat&apos;s Ass",
         "Tap Out! (Or I&apos;ll Hit You Again)",
         "Tarang Hardikar: If I&apos;m Not Wrong",
         "Tartan Tabletop: A Dungeons & Dragons Comedy",
@@ -1676,10 +1922,12 @@
         "The Double G Comedy Rodeo",
         "The Dream Machine",
         "The Duo: A Three-Person Magic Show",
+        "The End of the World",
         "The Event",
         "The Extraordinary Life of a Rat Racer",
         "The Faustus Project",
         "The Frank Carson Story",
+        "The Gay Divorce",
         "The Ghost of White Hart Lane",
         "The Good, The Bad and The Almighty",
         "The Guilty Feminist",
@@ -1697,13 +1945,13 @@
         "The Longer My Mother Is Dead the More I Like Her",
         "The Man Who Said Too Much",
         "The Manchester Revue",
-        "The Meeples: XXX",
         "The Most Toast",
         "The New Year",
         "The Past",
         "The Pigeon Factory",
         "The Pitch",
         "The Pleasance Comedy Reserve",
+        "The Pleb&apos;s Pow Wow",
         "The Political Party with Matt Forde",
         "The Powerpop Girls: A New Diva Religion",
         "The Problem",
@@ -1726,6 +1974,7 @@
         "The Tao of Lloyd",
         "The Thinking Drinkers&apos; Great British Pub Ride",
         "The Tom Brace Magic Hour",
+        "The Umbrella Man: What We Talk About When We Talk About the JFK Assassination",
         "The Understudy",
         "The Unsolvable Case of Keir Starmer",
         "The Unwilling Accomplice",
@@ -1735,13 +1984,13 @@
         "The Van Gogh Shogh",
         "The Very Best of Tommy Cooper - Just Like That!",
         "The Very Best of Tommy Cooper – Just Like That!",
+        "The Wolf of Poyais",
         "The Woman in the Mirror",
         "Thermos Museum Books",
         "This Is How I Got Arrested...",
         "Tilly Fletcher: Television",
         "Tim Biglowe: Plonka",
         "Tim Kenneth Kicks the Bucket",
-        "Tim Key: Loganberry",
         "Time Travel Postman",
         "Tom Ballard: Be Funny Challenge (Impossible)",
         "Tom Cashman: NPC (Nearly Proficient Comedian)",
@@ -1751,6 +2000,8 @@
         "Tom Neenan: Portrait of a Tom as a Young Neenan",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
+        "Tom Towelling Teaches You to Knit",
+        "Tony Cantwell: You Cry Weird",
         "Top Gunchained",
         "Tori Morancay: Le French c&apos;est Freak",
         "Trans Butch: Glorious Dog Woman",
@@ -1786,6 +2037,7 @@
         "When You Are a Tick",
         "Wherefore Art Thou, Woman-Hater?",
         "Whose Play Is It Anyway?",
+        "Wild Wild Christian",
         "Will & Noah: Dinner Dinner Chicken Winner",
         "Will Adamsdale: AI, AI, Oh... (Or How I Wrote a Hit Sitcom with ChatGPT But We&apos;re Not Talking Now)",
         "Will BF: Moon Team IIIV",
