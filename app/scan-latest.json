@@ -2,34 +2,121 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-16T05:14:46.346Z",
-      "completedAt": "2026-10-16T05:14:46.346Z",
+      "id": "2026-10-16T10:16:19.090Z",
+      "completedAt": "2026-10-16T10:16:19.090Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 306,
-      "totalNotices": 370,
-      "defaultVisible": 50,
+      "totalShows": 330,
+      "totalNotices": 410,
+      "defaultVisible": 63,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-15T05:39:17.840Z",
-      "windowEndedAt": "2026-10-16T05:14:46.346Z",
-      "windowCoverageHours": 23.6,
+      "windowStartedAt": "2026-10-15T10:28:04.826Z",
+      "windowEndedAt": "2026-10-16T10:16:19.090Z",
+      "windowCoverageHours": 23.8,
       "scansInWindow": 6,
-      "newReviews": 178,
-      "newShows": -4,
-      "enteredRanking": 1,
+      "newReviews": 232,
+      "newShows": 28,
+      "enteredRanking": 15,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Lions",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
         {
-          "title": "Jill's Tupperware Party",
-          "score": 82,
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "EVITA TOO",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Jitters",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Omar Badawy: Guided Detour",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "One Man Musical",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Remember, Remember!",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 51,
+          "reviews": 2
+        },
+        {
+          "title": "Bliss",
+          "score": 45,
+          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -38,7 +125,6 @@
         "44 Minutes",
         "A Clown's Lullaby",
         "A Simply Beastly Murder",
-        "Alastair Clark: On The Record",
         "Always, Sometimes, Maybe",
         "Amnesia",
         "An A to Z Guide to Dating",
@@ -128,6 +214,7 @@
         "Sasha Nezlobin: I'm Fine",
         "Shamaniac",
         "Snow",
+        "Soft Spot",
         "Sophie Garrad: A Period Drama",
         "Space In Between",
         "Tabletop Role-Playing Game: The Musical",
@@ -140,9 +227,11 @@
         "The Poetical Life of Philomena McGuinness",
         "The Real Kyle McCarren",
         "The Shit Table",
+        "The Shocking Truth About Flat Earth",
         "The Sumo Show HIRAKUZA",
         "The Very Best of Tommy Cooper – Just Like That!",
         "The Wolf of Poyais",
+        "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
         "Yes Person",
         "You and Me (and Whoever Comes Next)",
