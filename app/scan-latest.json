@@ -2,34 +2,74 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-17T18:56:58.188Z",
-      "completedAt": "2026-10-17T18:56:58.188Z",
+      "id": "2026-10-17T21:08:07.295Z",
+      "completedAt": "2026-10-17T21:08:07.295Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 310,
-      "totalNotices": 385,
-      "defaultVisible": 58,
+      "totalShows": 335,
+      "totalNotices": 425,
+      "defaultVisible": 67,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-16T19:08:11.927Z",
-      "windowEndedAt": "2026-10-17T18:56:58.188Z",
-      "windowCoverageHours": 23.8,
+      "windowStartedAt": "2026-10-16T22:18:33.404Z",
+      "windowEndedAt": "2026-10-17T21:08:07.295Z",
+      "windowCoverageHours": 22.8,
       "scansInWindow": 7,
-      "newReviews": 138,
-      "newShows": 12,
-      "enteredRanking": 7,
+      "newReviews": 171,
+      "newShows": 40,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
         {
           "title": "Jonno: Here Comes Mr Funny",
           "previousScore": 73,
           "currentScore": 75,
           "delta": 2,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 82,
+          "currentScore": 81,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Lions",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -52,9 +92,29 @@
       ],
       "newEntries": [
         {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "score": 83,
+          "reviews": 2
+        },
+        {
           "title": "Jill's Tupperware Party",
           "score": 82,
           "reviews": 3
+        },
+        {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "Sammy J: Hero Complex",
@@ -62,8 +122,23 @@
           "reviews": 2
         },
         {
-          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
-          "score": 71,
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "score": 69,
           "reviews": 2
         },
         {
@@ -77,13 +152,33 @@
           "reviews": 2
         },
         {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Lil Wenker: BOYKING",
           "score": 66,
           "reviews": 2
         },
         {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
           "title": "INDY!",
           "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 51,
           "reviews": 2
         }
       ],
@@ -98,7 +193,9 @@
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Baby Lame: Hit Me Baby One More Lame!",
+        "Bi-Curious George: Snail Trail",
         "Brian Bilston: How to Lay an Egg with a Horse Inside",
+        "Camelton",
         "Chris Grace: 88%",
         "Collaborator",
         "Confessions Of A Mulatto Love Child",
@@ -125,12 +222,13 @@
         "MUSE: The Shakespeare Mayhem Musical",
         "Mark Steel: What The F*** Is Going On?",
         "Meet Mayor Max",
+        "Midsummer!",
         "Mothman: A Romance Musical",
         "NON HUMAN ANIMAL",
         "Nina&apos;s C*nti Cabaret",
-        "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
+        "Pilate: The Lost Gospel",
         "Quentin Blake's Mrs Armitage on Wheels",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Reparations",
@@ -141,8 +239,10 @@
         "Shamaniac",
         "Snow",
         "Sophie Garrad: A Period Drama",
+        "Space In Between",
         "Tabletop Role-Playing Game: The Musical",
         "Taiwan Season: Birthday Party",
+        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat's Ass",
         "The Bob Ross Effect",
         "The Jolly Fisherman",
