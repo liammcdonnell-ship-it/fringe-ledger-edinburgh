@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-18T14:59:30.854Z",
-      "completedAt": "2026-10-18T14:59:30.854Z",
+      "id": "2026-10-18T17:42:29.861Z",
+      "completedAt": "2026-10-18T17:42:29.861Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 292,
-      "totalNotices": 354,
-      "defaultVisible": 50,
+      "totalShows": 310,
+      "totalNotices": 392,
+      "defaultVisible": 62,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-17T13:21:24.395Z",
-      "windowEndedAt": "2026-10-18T14:59:30.854Z",
-      "windowCoverageHours": 25.6,
+      "windowStartedAt": "2026-10-17T16:44:37.683Z",
+      "windowEndedAt": "2026-10-18T17:42:29.861Z",
+      "windowCoverageHours": 25,
       "scansInWindow": 8,
-      "newReviews": 123,
-      "newShows": -37,
-      "enteredRanking": 4,
+      "newReviews": 154,
+      "newShows": -12,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Harriet Richardson: Creep",
+          "previousScore": 79,
+          "currentScore": 84,
+          "delta": 5,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
         {
           "title": "Chris Cantrill: Rewilding",
           "previousScore": 80,
@@ -32,83 +40,17 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Elf Lyons is The Woman on the Edge",
-          "previousScore": 89,
-          "currentScore": 86,
-          "delta": -3,
-          "previousReviews": 4,
-          "currentReviews": 3
-        },
-        {
-          "title": "Jonno: Here Comes Mr Funny",
-          "previousScore": 75,
-          "currentScore": 73,
-          "delta": -2,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Cathy",
-          "previousScore": 81,
-          "currentScore": 82,
-          "delta": 1,
-          "previousReviews": 5,
-          "currentReviews": 4
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 77,
-          "currentScore": 76,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Tamsyn Kelly: Rat's Ass",
-          "previousScore": 70,
-          "currentScore": 69,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Kate Hammer: Government Approved Comedian",
-          "previousScore": 68,
-          "currentScore": 67,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Dracula: Lucy’s Dream",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Jill’s Tupperware Party",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
-          "score": 83,
-          "reviews": 2
-        },
-        {
           "title": "Baby Lame: Hit Me Baby One More Lame!",
           "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Bliss",
+          "score": 45,
           "reviews": 2
         }
       ],
@@ -119,8 +61,10 @@
         "A Simply Beastly Murder",
         "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
+        "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
+        "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
         "Camelton",
@@ -136,7 +80,6 @@
         "Everybody's Got a Bomb",
         "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
-        "Harry Stachini: Lobster",
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Irene Woo: Golden Child",
@@ -149,7 +92,6 @@
         "Mark Steel: What The F*** Is Going On?",
         "Midsummer!",
         "Nesting",
-        "Nina&apos;s C*nti Cabaret",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
         "Pierre Novellie: Do the One About&#8230;",
@@ -158,7 +100,7 @@
         "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
-        "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+        "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
         "Sarah Hester Ross: Serving C*nt",
         "Sasha Nezlobin: I'm Fine",
@@ -171,6 +113,7 @@
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat's Ass",
         "The Bob Ross Effect",
+        "The Distance",
         "The Jolly Fisherman",
         "The Real Kyle McCarren",
         "The Shocking Truth About Flat Earth",
