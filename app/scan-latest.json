@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-18T11:50:37.689Z",
-      "completedAt": "2026-10-18T11:50:37.689Z",
+      "id": "2026-10-18T14:59:30.854Z",
+      "completedAt": "2026-10-18T14:59:30.854Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 305,
-      "totalNotices": 370,
-      "defaultVisible": 52,
+      "totalShows": 292,
+      "totalNotices": 354,
+      "defaultVisible": 50,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-10-17T13:21:24.395Z",
-      "windowEndedAt": "2026-10-18T11:50:37.689Z",
-      "windowCoverageHours": 22.5,
-      "scansInWindow": 7,
-      "newReviews": 120,
-      "newShows": -24,
+      "windowEndedAt": "2026-10-18T14:59:30.854Z",
+      "windowCoverageHours": 25.6,
+      "scansInWindow": 8,
+      "newReviews": 123,
+      "newShows": -37,
       "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "The Singer",
           "previousScore": 80,
@@ -84,11 +92,6 @@
       ],
       "newEntries": [
         {
-          "title": "Doktor Kaboom and the Wheel of Science!",
-          "score": 105,
-          "reviews": 2
-        },
-        {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
@@ -101,6 +104,11 @@
         {
           "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Baby Lame: Hit Me Baby One More Lame!",
+          "score": 78,
           "reviews": 2
         }
       ],
