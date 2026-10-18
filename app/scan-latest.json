@@ -2,63 +2,127 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-18T06:43:32.824Z",
-      "completedAt": "2026-10-18T06:43:32.824Z",
+      "id": "2026-10-18T11:50:37.689Z",
+      "completedAt": "2026-10-18T11:50:37.689Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 300,
-      "totalNotices": 365,
+      "totalShows": 305,
+      "totalNotices": 370,
       "defaultVisible": 52,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-17T05:09:50.205Z",
-      "windowEndedAt": "2026-10-18T06:43:32.824Z",
-      "windowCoverageHours": 25.6,
-      "scansInWindow": 8,
-      "newReviews": 160,
-      "newShows": -2,
-      "enteredRanking": 3,
+      "windowStartedAt": "2026-10-17T13:21:24.395Z",
+      "windowEndedAt": "2026-10-18T11:50:37.689Z",
+      "windowCoverageHours": 22.5,
+      "scansInWindow": 7,
+      "newReviews": 120,
+      "newShows": -24,
+      "enteredRanking": 4,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 89,
+          "currentScore": 86,
+          "delta": -3,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 75,
+          "currentScore": 73,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        }
+      ],
       "newEntries": [
         {
-          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "title": "Doktor Kaboom and the Wheel of Science!",
+          "score": 105,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Rob Auton: JUPITER",
-          "score": 67,
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Lil Wenker: BOYKING",
-          "score": 66,
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "score": 83,
           "reviews": 2
         }
       ],
       "newShowTitles": [
+        "0 Ambition - A Jew Running the Numbers",
         "44 Minutes",
         "A Clown's Lullaby",
+        "A Simply Beastly Murder",
+        "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
-        "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Camelton",
         "Chris Grace: 88%",
-        "Collaborator",
         "Confessions Of A Mulatto Love Child",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Cricket &#038; The Freebugs",
         "Crowd Work with Frank Skinner",
         "Daniel Foxx: How Lovely.",
+        "Doktor Kaboom and the Wheel of Science!",
         "Dragon Tales",
         "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
@@ -68,16 +132,14 @@
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Irene Woo: Golden Child",
-        "Juliette Burton: Villain Era",
+        "John Robertson&apos;s The Dark Room",
         "KEVIN!!!!!",
         "Kanpur: 1857",
-        "Kevin Quantum: Invisible Force",
+        "MAN!FEST: The Drag Boyband Musical",
         "MC Hammersmith: Ice Ice Nepo Baby",
         "MUSE: The Shakespeare Mayhem Musical",
         "Mark Steel: What The F*** Is Going On?",
-        "Meet Mayor Max",
         "Midsummer!",
-        "NON HUMAN ANIMAL",
         "Nesting",
         "Nina&apos;s C*nti Cabaret",
         "Of Mice And Men",
@@ -89,8 +151,6 @@
         "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
-        "Reparations",
-        "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
         "Sarah Hester Ross: Serving C*nt",
         "Sasha Nezlobin: I'm Fine",
@@ -108,7 +168,8 @@
         "The Shocking Truth About Flat Earth",
         "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
-        "Tom Stade Rules"
+        "Tom Stade Rules",
+        "boobytrapped"
       ]
     }
   ]
