@@ -2,38 +2,78 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-18T23:54:19.847Z",
-      "completedAt": "2026-10-18T23:54:19.847Z",
+      "id": "2026-10-19T02:00:43.227Z",
+      "completedAt": "2026-10-19T02:00:43.227Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 295,
-      "totalNotices": 359,
-      "defaultVisible": 51,
+      "totalShows": 321,
+      "totalNotices": 399,
+      "defaultVisible": 59,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-17T23:35:15.451Z",
-      "windowEndedAt": "2026-10-18T23:54:19.847Z",
+      "windowStartedAt": "2026-10-18T01:42:51.127Z",
+      "windowEndedAt": "2026-10-19T02:00:43.227Z",
       "windowCoverageHours": 24.3,
       "scansInWindow": 8,
-      "newReviews": 162,
-      "newShows": -16,
-      "enteredRanking": 2,
+      "newReviews": 172,
+      "newShows": 4,
+      "enteredRanking": 5,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 89,
+          "currentScore": 86,
+          "delta": -3,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
+        {
+          "title": "Doktor Kaboom and the Wheel of Science!",
+          "score": 105,
+          "reviews": 2
+        },
         {
           "title": "Baby Lame: Hit Me Baby One More Lame!",
           "score": 78,
           "reviews": 2
         },
         {
-          "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
-          "score": 69,
+          "title": "One Man Musical",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
           "reviews": 2
         }
       ],
@@ -71,17 +111,18 @@
         "Kanpur: 1857",
         "MAN!FEST: The Drag Boyband Musical",
         "MC Hammersmith: Ice Ice Nepo Baby",
-        "MUSE: The Shakespeare Mayhem Musical",
         "Mark Steel: What The F*** Is Going On?",
         "Midsummer!",
         "Mothman: A Romance Musical",
         "Nesting",
+        "Nina&apos;s C*nti Cabaret",
         "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
         "Pierre Novellie: Do the One About&#8230;",
         "Play Dead",
         "Playback",
+        "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
@@ -97,7 +138,6 @@
         "The Bob Ross Effect",
         "The Distance",
         "The Jolly Fisherman",
-        "The Real Kyle McCarren",
         "The Shocking Truth About Flat Earth",
         "The Wolf of Poyais",
         "boobytrapped"
