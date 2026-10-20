@@ -2,46 +2,39 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-20T18:12:43.540Z",
-      "completedAt": "2026-10-20T18:12:43.540Z",
+      "id": "2026-10-20T22:00:43.128Z",
+      "completedAt": "2026-10-20T22:00:43.128Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 300,
-      "totalNotices": 368,
-      "defaultVisible": 55,
+      "totalShows": 292,
+      "totalNotices": 354,
+      "defaultVisible": 50,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-10-19T20:48:27.065Z",
-      "windowEndedAt": "2026-10-20T18:12:43.540Z",
-      "windowCoverageHours": 21.4,
-      "scansInWindow": 4,
-      "newReviews": 39,
-      "newShows": -4,
-      "enteredRanking": 3,
+      "windowEndedAt": "2026-10-20T22:00:43.128Z",
+      "windowCoverageHours": 25.2,
+      "scansInWindow": 5,
+      "newReviews": 40,
+      "newShows": -12,
+      "enteredRanking": 0,
       "newOutlets": [],
-      "movers": [],
-      "newEntries": [
+      "movers": [
         {
-          "title": "Amanda Knox: Cartwheel",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "11½ Angry Men",
-          "score": 51,
-          "reviews": 2
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
+      "newEntries": [],
       "newShowTitles": [
         "100% Badgers with Matt Hobs",
         "44 Minutes",
@@ -56,6 +49,7 @@
         "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
         "Grimm AF",
+        "Harry Stachini: Lobster",
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "John Robertson&apos;s The Dark Room",
