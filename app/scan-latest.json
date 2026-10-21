@@ -2,33 +2,47 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-21T19:45:01.254Z",
-      "completedAt": "2026-10-21T19:45:01.254Z",
+      "id": "2026-10-21T22:52:02.900Z",
+      "completedAt": "2026-10-21T22:52:02.900Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 312,
-      "totalNotices": 381,
-      "defaultVisible": 56,
+      "totalShows": 310,
+      "totalNotices": 382,
+      "defaultVisible": 59,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-20T18:12:43.540Z",
-      "windowEndedAt": "2026-10-21T19:45:01.254Z",
-      "windowCoverageHours": 25.5,
+      "windowStartedAt": "2026-10-20T22:00:43.128Z",
+      "windowEndedAt": "2026-10-21T22:52:02.900Z",
+      "windowCoverageHours": 24.9,
       "scansInWindow": 6,
-      "newReviews": 183,
-      "newShows": 12,
-      "enteredRanking": 5,
+      "newReviews": 189,
+      "newShows": 18,
+      "enteredRanking": 10,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
         {
           "title": "Doktor Kaboom and the Wheel of Science!",
           "score": 105,
+          "reviews": 2
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
           "reviews": 2
         },
         {
@@ -42,12 +56,32 @@
           "reviews": 2
         },
         {
+          "title": "Larry Dean: Hellbent",
+          "score": 74,
+          "reviews": 2
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "score": 72,
+          "reviews": 2
+        },
+        {
           "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
           "score": 71,
           "reviews": 2
         },
         {
+          "title": "Rob Auton: JUPITER",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Chris Grace: 88%",
+          "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
           "score": 66,
           "reviews": 2
         }
@@ -80,6 +114,7 @@
         "Circa: Wolf",
         "Collaborator",
         "Confessions Of A Mulatto Love Child",
+        "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Crowd Work from Hell",
         "Crowd Work with Frank Skinner",
@@ -101,7 +136,6 @@
         "Grimm AF",
         "HR The Musical",
         "Hajar, Like Badger",
-        "Harry Stachini: Lobster",
         "Hater",
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
