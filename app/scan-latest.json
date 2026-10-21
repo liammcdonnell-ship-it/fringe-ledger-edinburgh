@@ -2,45 +2,29 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-21T00:20:23.243Z",
-      "completedAt": "2026-10-21T00:20:23.243Z",
+      "id": "2026-10-21T05:29:19.293Z",
+      "completedAt": "2026-10-21T05:29:19.293Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 368,
-      "totalNotices": 468,
-      "defaultVisible": 75,
+      "totalShows": 298,
+      "totalNotices": 360,
+      "defaultVisible": 50,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-20T00:02:04.903Z",
-      "windowEndedAt": "2026-10-21T00:20:23.243Z",
-      "windowCoverageHours": 24.3,
+      "windowStartedAt": "2026-10-20T03:18:26.800Z",
+      "windowEndedAt": "2026-10-21T05:29:19.293Z",
+      "windowCoverageHours": 26.2,
       "scansInWindow": 5,
-      "newReviews": 143,
-      "newShows": 61,
-      "enteredRanking": 24,
+      "newReviews": 142,
+      "newShows": -8,
+      "enteredRanking": 1,
       "newOutlets": [],
       "movers": [
-        {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
         {
           "title": "Chris Cantrill: Rewilding",
           "previousScore": 80,
@@ -48,183 +32,12 @@
           "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
-        },
-        {
-          "title": "Chris Grace: 88%",
-          "previousScore": 66,
-          "currentScore": 70,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 2
-        },
-        {
-          "title": "Elf Lyons is The Woman on the Edge",
-          "previousScore": 86,
-          "currentScore": 89,
-          "delta": 3,
-          "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Jonno: Here Comes Mr Funny",
-          "previousScore": 73,
-          "currentScore": 75,
-          "delta": 2,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Cathy",
-          "previousScore": 82,
-          "currentScore": 81,
-          "delta": -1,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Lions",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Tamsyn Kelly: Rat's Ass",
-          "previousScore": 69,
-          "currentScore": 70,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
-          "title": "Little Animals",
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "EVITA TOO",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Jitters",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Katie Norris: Mother Succubus",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Krapp's Last Tape",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Omar Badawy: Guided Detour",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "One Man Musical",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Remember, Remember!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Amanda Knox: Cartwheel",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Ayo Adenekan: Homeland Insecurity",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "INDY!",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "11½ Angry Men",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "Bliss",
-          "score": 45,
           "reviews": 2
         }
       ],
@@ -232,6 +45,7 @@
         "100% Badgers with Matt Hobs",
         "44 Minutes",
         "A Clown's Lullaby",
+        "Alastair Clark: On The Record",
         "Always, Sometimes, Maybe",
         "Amnesia",
         "An Audience with Virginia Woolf: Writing One's Mind",
@@ -240,6 +54,7 @@
         "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Babyface",
+        "Bi-Curious George: Snail Trail",
         "Brian Bilston: How to Lay an Egg with a Horse Inside",
         "Brodie and Co.",
         "CADEL: Lungs on Legs",
@@ -253,6 +68,7 @@
         "Crowd Work with Frank Skinner",
         "Daniel Foxx: How Lovely.",
         "Disenchanted! The Hit Musical",
+        "Doktor Kaboom and the Wheel of Science!",
         "Dragon",
         "Dragon Tales",
         "EXIT",
@@ -285,6 +101,7 @@
         "Midsummer!",
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
+        "Nesting",
         "Of Mice And Men",
         "Oil &#038; Whiskey",
         "Olivia Raine Atwood: Oops",
@@ -322,8 +139,7 @@
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
         "Yes Person",
-        "You and Me (and Whoever Comes Next)",
-        "boobytrapped"
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
