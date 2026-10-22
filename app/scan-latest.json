@@ -2,33 +2,42 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-22T06:45:01.296Z",
-      "completedAt": "2026-10-22T06:45:01.296Z",
+      "id": "2026-10-22T12:36:32.055Z",
+      "completedAt": "2026-10-22T12:36:32.055Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 304,
-      "totalNotices": 371,
-      "defaultVisible": 55,
+      "totalShows": 303,
+      "totalNotices": 367,
+      "defaultVisible": 52,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-21T05:29:19.293Z",
-      "windowEndedAt": "2026-10-22T06:45:01.296Z",
-      "windowCoverageHours": 25.3,
+      "windowStartedAt": "2026-10-21T10:43:25.858Z",
+      "windowEndedAt": "2026-10-22T12:36:32.055Z",
+      "windowCoverageHours": 25.9,
       "scansInWindow": 6,
-      "newReviews": 90,
-      "newShows": 6,
-      "enteredRanking": 6,
+      "newReviews": 66,
+      "newShows": -9,
+      "enteredRanking": 3,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        }
+      ],
       "newEntries": [
         {
-          "title": "Jess Carrivick: For Your Consideration",
-          "score": 75,
+          "title": "Doktor Kaboom and the Wheel of Science!",
+          "score": 105,
           "reviews": 2
         },
         {
@@ -40,28 +49,13 @@
           "title": "The Second Best School Shooting",
           "score": 72,
           "reviews": 2
-        },
-        {
-          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
-          "score": 71,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Rob Auton: JUPITER",
-          "score": 67,
-          "reviews": 2
         }
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
+        "100% Badgers with Matt Hobs",
         "A Simply Beastly Murder",
         "Alastair Clark: On The Record",
-        "Alice Fraser: Oh Man!",
         "An A to Z Guide to Dating",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
@@ -71,7 +65,6 @@
         "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Crowd Work from Hell",
-        "David O&apos;Doherty: At This Stage",
         "Doktor Kaboom and the Wheel of Science!",
         "Goodbye Dandelion",
         "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
@@ -82,22 +75,20 @@
         "Jess Carrivick: For Your Consideration",
         "John Robertson&apos;s The Dark Room",
         "Kanpur: 1857",
-        "MAN!FEST: The Drag Boyband Musical",
         "Mark Steel: What The F*** Is Going On?",
         "Midsummer!",
-        "Mothman: A Romance Musical",
         "Nesting",
         "Nina&apos;s C*nti Cabaret",
         "Nuns!",
         "Pierre Novellie: Do the One About&#8230;",
         "Play Dead",
-        "Playback",
         "R/evolution(s)",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Sarah Hester Ross: Serving C*nt",
         "Sophie Garrad: A Period Drama",
+        "The Poetical Life of Philomena McGuinness",
         "The Shocking Truth About Flat Earth",
-        "The Wolf of Poyais",
+        "Tom Stade Rules",
         "boobytrapped"
       ]
     }
