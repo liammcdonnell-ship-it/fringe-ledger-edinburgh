@@ -2,39 +2,98 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-23T08:01:53.771Z",
-      "completedAt": "2026-10-23T08:01:53.771Z",
+      "id": "2026-10-23T13:07:22.156Z",
+      "completedAt": "2026-10-23T13:07:22.156Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 304,
-      "totalNotices": 366,
-      "defaultVisible": 50,
+      "totalShows": 313,
+      "totalNotices": 386,
+      "defaultVisible": 57,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-22T06:45:01.296Z",
-      "windowEndedAt": "2026-10-23T08:01:53.771Z",
-      "windowCoverageHours": 25.3,
+      "windowStartedAt": "2026-10-22T12:36:32.055Z",
+      "windowEndedAt": "2026-10-23T13:07:22.156Z",
+      "windowCoverageHours": 24.5,
       "scansInWindow": 6,
-      "newReviews": 166,
-      "newShows": 0,
-      "enteredRanking": 1,
+      "newReviews": 191,
+      "newShows": 10,
+      "enteredRanking": 8,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 69,
+          "currentScore": 70,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 67,
+          "currentScore": 68,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
+        {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Jill's Tupperware Party",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Sammy J: Hero Complex",
+          "score": 79,
+          "reviews": 2
+        },
         {
           "title": "Baby Lame: Hit Me Baby One More Lame!",
           "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Chris Grace: 88%",
+          "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
           "reviews": 2
         }
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
-        "100% Badgers with Matt Hobs",
         "44 Minutes",
         "A Clown's Lullaby",
         "A Simply Beastly Murder",
@@ -75,6 +134,7 @@
         "GIRLZ",
         "Glob",
         "Goodbye Dandelion",
+        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
         "HR The Musical",
         "Hajar, Like Badger",
@@ -84,6 +144,7 @@
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Jitters",
+        "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
         "Just William",
         "KEVIN!!!!!",
@@ -102,6 +163,7 @@
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
         "Nesting",
+        "Nina&apos;s C*nti Cabaret",
         "Nuns!",
         "Of Mice And Men",
         "Oil &#038; Whiskey",
@@ -111,6 +173,7 @@
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
         "Play Dead",
+        "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
@@ -121,6 +184,7 @@
         "SLAY",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
+        "Sarah Hester Ross: Serving C*nt",
         "Sasha Nezlobin: I'm Fine",
         "Shamaniac",
         "Snow",
@@ -141,7 +205,6 @@
         "The Very Best of Tommy Cooper – Just Like That!",
         "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
-        "Tom Stade Rules",
         "Yes Person",
         "You and Me (and Whoever Comes Next)",
         "boobytrapped"
