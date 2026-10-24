@@ -2,193 +2,47 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-24T19:09:44.256Z",
-      "completedAt": "2026-10-24T19:09:44.256Z",
+      "id": "2026-10-24T22:03:59.154Z",
+      "completedAt": "2026-10-24T22:03:59.154Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 346,
-      "totalNotices": 442,
-      "defaultVisible": 71,
+      "totalShows": 299,
+      "totalNotices": 362,
+      "defaultVisible": 51,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-23T18:02:01.973Z",
-      "windowEndedAt": "2026-10-24T19:09:44.256Z",
+      "windowStartedAt": "2026-10-23T21:00:36.652Z",
+      "windowEndedAt": "2026-10-24T22:03:59.154Z",
       "windowCoverageHours": 25.1,
       "scansInWindow": 7,
-      "newReviews": 221,
-      "newShows": 40,
-      "enteredRanking": 20,
+      "newReviews": 214,
+      "newShows": -9,
+      "enteredRanking": 2,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "The Singer",
-          "previousScore": 76,
-          "currentScore": 80,
-          "delta": 4,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Elf Lyons is The Woman on the Edge",
-          "previousScore": 86,
-          "currentScore": 89,
-          "delta": 3,
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
           "previousReviews": 3,
-          "currentReviews": 4
-        },
-        {
-          "title": "Jonno: Here Comes Mr Funny",
-          "previousScore": 73,
-          "currentScore": 75,
-          "delta": 2,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Cathy",
-          "previousScore": 82,
-          "currentScore": 81,
-          "delta": -1,
-          "previousReviews": 4,
-          "currentReviews": 5
-        },
-        {
-          "title": "Lions",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "Kate Hammer: Government Approved Comedian",
-          "previousScore": 67,
-          "currentScore": 68,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
-        {
-          "title": "Jill's Tupperware Party",
-          "score": 82,
-          "reviews": 3
-        },
-        {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Badgers",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "Sammy J: Hero Complex",
-          "score": 79,
-          "reviews": 2
-        },
-        {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Jitters",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "One Man Musical",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Remember, Remember!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Amanda Knox: Cartwheel",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Ayo Adenekan: Homeland Insecurity",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "score": 69,
+          "title": "The Second Best School Shooting",
+          "score": 72,
           "reviews": 2
         },
         {
           "title": "Mark Vigeant: OUT THERE",
           "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "Gameplay",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "INDY!",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "11½ Angry Men",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "Bliss",
-          "score": 45,
           "reviews": 2
         }
       ],
@@ -204,7 +58,6 @@
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
-        "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
         "Brodie and Co.",
@@ -229,16 +82,13 @@
         "GIRLZ",
         "Glob",
         "Goodbye Dandelion",
-        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
         "HR The Musical",
         "Harry Stachini: Lobster",
         "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Irene Woo: Golden Child",
-        "Jess Carrivick: For Your Consideration",
         "Jitters",
-        "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
         "Just William",
         "KEVIN!!!!!",
@@ -257,7 +107,6 @@
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
         "Nesting",
-        "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
         "Omar Badawy: Guided Detour",
@@ -265,7 +114,6 @@
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
         "Play Dead",
-        "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
         "Remember, Remember!",
