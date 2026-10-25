@@ -2,39 +2,75 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-25T10:16:27.731Z",
-      "completedAt": "2026-10-25T10:16:27.731Z",
+      "id": "2026-10-25T14:39:58.450Z",
+      "completedAt": "2026-10-25T14:39:58.450Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 299,
-      "totalNotices": 360,
-      "defaultVisible": 49,
+      "totalShows": 306,
+      "totalNotices": 380,
+      "defaultVisible": 57,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-24T12:18:57.208Z",
-      "windowEndedAt": "2026-10-25T10:16:27.731Z",
-      "windowCoverageHours": 22,
+      "windowStartedAt": "2026-10-24T16:21:57.961Z",
+      "windowEndedAt": "2026-10-25T14:39:58.450Z",
+      "windowCoverageHours": 22.3,
       "scansInWindow": 6,
-      "newReviews": 153,
-      "newShows": -9,
-      "enteredRanking": 0,
+      "newReviews": 165,
+      "newShows": 4,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Chris Cantrill: Rewilding",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
           "previousReviews": 3,
-          "currentReviews": 2
+          "currentReviews": 4
         }
       ],
-      "newEntries": [],
+      "newEntries": [
+        {
+          "title": "Jill's Tupperware Party",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Baby Lame: Hit Me Baby One More Lame!",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
+          "score": 71,
+          "reviews": 2
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
+          "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
+          "reviews": 2
+        }
+      ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
         "44 Minutes",
@@ -55,10 +91,10 @@
         "Circa: Wolf",
         "Collaborator",
         "Confessions Of A Mulatto Love Child",
-        "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Cricket &#038; The Freebugs",
         "Daniel Foxx: How Lovely.",
+        "David O&apos;Doherty: At This Stage",
         "Dragon Tales",
         "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
@@ -68,6 +104,7 @@
         "Harry Stachini: Lobster",
         "Heist: How to Steal a Masterpiece",
         "Irene Woo: Golden Child",
+        "Jess Carrivick: For Your Consideration",
         "Jitters",
         "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
@@ -76,7 +113,6 @@
         "Kevin Quantum: Invisible Force",
         "Liberace and Liza – A Tribute",
         "MAN!FEST: The Drag Boyband Musical",
-        "MC Hammersmith: Ice Ice Nepo Baby",
         "MUSE: The Shakespeare Mayhem Musical",
         "Mark Steel: What The F*** Is Going On?",
         "Michelle Shocked: Bootleg This!",
@@ -115,8 +151,7 @@
         "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
-        "You and Me (and Whoever Comes Next)",
-        "boobytrapped"
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
