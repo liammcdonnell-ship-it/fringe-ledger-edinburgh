@@ -2,30 +2,92 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-25T22:54:11.536Z",
-      "completedAt": "2026-10-25T22:54:11.536Z",
+      "id": "2026-10-26T00:49:33.811Z",
+      "completedAt": "2026-10-26T00:49:33.811Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 295,
-      "totalNotices": 357,
-      "defaultVisible": 50,
+      "totalShows": 296,
+      "totalNotices": 359,
+      "defaultVisible": 51,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-24T22:03:59.154Z",
-      "windowEndedAt": "2026-10-25T22:54:11.536Z",
-      "windowCoverageHours": 24.8,
+      "windowStartedAt": "2026-10-25T00:39:43.229Z",
+      "windowEndedAt": "2026-10-26T00:49:33.811Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 7,
-      "newReviews": 204,
-      "newShows": -4,
-      "enteredRanking": 2,
+      "newReviews": 160,
+      "newShows": -22,
+      "enteredRanking": 3,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 89,
+          "currentScore": 86,
+          "delta": -3,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 75,
+          "currentScore": 73,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        }
+      ],
       "newEntries": [
+        {
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
+          "reviews": 2
+        },
         {
           "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "score": 83,
@@ -123,7 +185,6 @@
         "SLAY",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
-        "Sarah Hester Ross: Serving C*nt",
         "Sasha Nezlobin: I'm Fine",
         "Shamaniac",
         "Shaun Guff: Enuff Is Enuff",
