@@ -2,42 +2,66 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-29T03:03:37.058Z",
-      "completedAt": "2026-10-29T03:03:37.058Z",
+      "id": "2026-10-29T10:31:47.296Z",
+      "completedAt": "2026-10-29T10:31:47.296Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 308,
-      "totalNotices": 379,
-      "defaultVisible": 55,
+      "totalShows": 333,
+      "totalNotices": 419,
+      "defaultVisible": 64,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-28T01:53:30.618Z",
-      "windowEndedAt": "2026-10-29T03:03:37.058Z",
-      "windowCoverageHours": 25.2,
+      "windowStartedAt": "2026-10-28T07:41:33.801Z",
+      "windowEndedAt": "2026-10-29T10:31:47.296Z",
+      "windowCoverageHours": 26.8,
       "scansInWindow": 5,
-      "newReviews": 79,
-      "newShows": 7,
-      "enteredRanking": 3,
+      "newReviews": 118,
+      "newShows": 33,
+      "enteredRanking": 18,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Chris Cantrill: Rewilding",
-          "previousScore": 80,
-          "currentScore": 76,
-          "delta": -4,
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
           "previousReviews": 3,
-          "currentReviews": 2
+          "currentReviews": 4
         },
         {
           "title": "Jonno: Here Comes Mr Funny",
           "previousScore": 73,
           "currentScore": 75,
           "delta": 2,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 82,
+          "currentScore": 81,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Lions",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -65,24 +89,102 @@
           "reviews": 3
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
+          "reviews": 2
+        },
+        {
           "title": "Sammy J: Hero Complex",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "One Man Musical",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
           "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Mark Vigeant: OUT THERE",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Chris Grace: 88%",
+          "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 51,
+          "reviews": 2
+        },
+        {
+          "title": "Bliss",
+          "score": 45,
           "reviews": 2
         }
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
+        "100% Badgers with Matt Hobs",
         "44 Minutes",
         "A Clown's Lullaby",
         "Alastair Clark: On The Record",
+        "Alice Fraser: Oh Man!",
         "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
+        "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
@@ -91,41 +193,48 @@
         "Confessions Of A Mulatto Love Child",
         "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
+        "Cricket &#038; The Freebugs",
         "Crowd Work from Hell",
         "Daniel Foxx: How Lovely.",
+        "David O&apos;Doherty: At This Stage",
         "Dragon Tales",
         "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
         "Goodbye Dandelion",
-        "Harry Stachini: Lobster",
-        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
+        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
+        "Grimm AF",
         "Heist: How to Steal a Masterpiece",
         "Irene Woo: Golden Child",
-        "John Robertson&apos;s The Dark Room",
         "KEVIN!!!!!",
         "Kanpur: 1857",
         "Liberace and Liza – A Tribute",
         "MC Hammersmith: Ice Ice Nepo Baby",
         "MUSE: The Shakespeare Mayhem Musical",
         "Mark Steel: What The F*** Is Going On?",
+        "Midsummer!",
         "Mothman: A Romance Musical",
         "Nina&apos;s C*nti Cabaret",
         "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
+        "Pilate: The Lost Gospel",
         "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Sammy J: Hero Complex",
+        "Sasha Nezlobin: I'm Fine",
+        "Shamaniac",
         "Snow",
-        "Sophie Garrad: A Period Drama",
-        "Tabletop Role-Playing Game: The Musical",
+        "Space In Between",
         "Taiwan Season: Birthday Party",
+        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat's Ass",
         "The Bob Ross Effect",
         "The Jolly Fisherman",
         "The Poetical Life of Philomena McGuinness",
         "The Wolf of Poyais",
+        "Tom Read Wilson: A-Z of Me",
+        "Tom Stade Rules",
         "boobytrapped"
       ]
     }
