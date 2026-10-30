@@ -2,36 +2,52 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-30T16:20:45.373Z",
-      "completedAt": "2026-10-30T16:20:45.373Z",
+      "id": "2026-10-30T21:13:06.331Z",
+      "completedAt": "2026-10-30T21:13:06.331Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 320,
-      "totalNotices": 399,
-      "defaultVisible": 60,
+      "totalShows": 313,
+      "totalNotices": 382,
+      "defaultVisible": 54,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-29T17:11:07.226Z",
-      "windowEndedAt": "2026-10-30T16:20:45.373Z",
-      "windowCoverageHours": 23.2,
+      "windowStartedAt": "2026-10-29T22:07:19.123Z",
+      "windowEndedAt": "2026-10-30T21:13:06.331Z",
+      "windowCoverageHours": 23.1,
       "scansInWindow": 4,
-      "newReviews": 42,
-      "newShows": -57,
-      "enteredRanking": 4,
+      "newReviews": 43,
+      "newShows": -35,
+      "enteredRanking": 5,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 84,
-          "currentScore": 79,
-          "delta": -5,
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
           "previousReviews": 3,
           "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 89,
+          "currentScore": 86,
+          "delta": -3,
+          "previousReviews": 4,
+          "currentReviews": 3
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
         },
         {
           "title": "Lions",
@@ -48,27 +64,40 @@
           "delta": -1,
           "previousReviews": 3,
           "currentReviews": 2
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
-        {
-          "title": "Bigfoot Ripped My Dog in Half I Saw It",
-          "score": 89,
-          "reviews": 2
-        },
         {
           "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "The Second Best School Shooting",
-          "score": 72,
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Lil Wenker: BOYKING",
-          "score": 66,
+          "title": "Baby Lame: Hit Me Baby One More Lame!",
+          "score": 78,
+          "reviews": 2
+        },
+        {
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 75,
+          "reviews": 2
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "score": 72,
           "reviews": 2
         }
       ],
@@ -78,6 +107,7 @@
         "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
         "An A to Z Guide to Dating",
+        "An Audience with Virginia Woolf: Writing One's Mind",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
@@ -86,7 +116,6 @@
         "Crowd Work from Hell",
         "David O&apos;Doherty: At This Stage",
         "Goodbye Dandelion",
-        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
         "Heist: How to Steal a Masterpiece",
         "Irene Woo: Golden Child",
@@ -94,6 +123,7 @@
         "John Robertson&apos;s The Dark Room",
         "MAN!FEST: The Drag Boyband Musical",
         "MUSE: The Shakespeare Mayhem Musical",
+        "Midsummer!",
         "Mothman: A Romance Musical",
         "Nina&apos;s C*nti Cabaret",
         "Nuns!",
@@ -104,6 +134,7 @@
         "Shaun Guff: Enuff Is Enuff",
         "Sophie Garrad: A Period Drama",
         "The Wolf of Poyais",
+        "You and Me (and Whoever Comes Next)",
         "boobytrapped"
       ]
     }
