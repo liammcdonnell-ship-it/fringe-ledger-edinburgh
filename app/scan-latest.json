@@ -2,34 +2,50 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-31T18:04:37.467Z",
-      "completedAt": "2026-10-31T18:04:37.467Z",
+      "id": "2026-10-31T22:01:34.321Z",
+      "completedAt": "2026-10-31T22:01:34.321Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 321,
-      "totalNotices": 405,
-      "defaultVisible": 64,
+      "totalShows": 314,
+      "totalNotices": 396,
+      "defaultVisible": 63,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-10-30T16:20:45.373Z",
-      "windowEndedAt": "2026-10-31T18:04:37.467Z",
-      "windowCoverageHours": 25.7,
+      "windowStartedAt": "2026-10-30T21:13:06.331Z",
+      "windowEndedAt": "2026-10-31T22:01:34.321Z",
+      "windowCoverageHours": 24.8,
       "scansInWindow": 5,
-      "newReviews": 200,
+      "newReviews": 201,
       "newShows": 1,
-      "enteredRanking": 7,
+      "enteredRanking": 12,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Chris Cantrill: Rewilding",
+          "title": "The Singer",
           "previousScore": 76,
           "currentScore": 80,
           "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 69,
+          "currentScore": 70,
+          "delta": 1,
           "previousReviews": 2,
           "currentReviews": 3
         }
@@ -41,7 +57,22 @@
           "reviews": 2
         },
         {
-          "title": "Jitters",
+          "title": "Jill's Tupperware Party",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
           "score": 76,
           "reviews": 2
         },
@@ -51,8 +82,13 @@
           "reviews": 2
         },
         {
-          "title": "Amanda Knox: Cartwheel",
+          "title": "Ayo Adenekan: Homeland Insecurity",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "score": 69,
           "reviews": 2
         },
         {
@@ -61,8 +97,13 @@
           "reviews": 2
         },
         {
-          "title": "Spin Cycle",
-          "score": 67,
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -80,6 +121,7 @@
         "Alice Fraser: Oh Man!",
         "Always, Sometimes, Maybe",
         "Amnesia",
+        "An A to Z Guide to Dating",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
@@ -159,6 +201,7 @@
         "The Jolly Fisherman",
         "The Poetical Life of Philomena McGuinness",
         "The Real Kyle McCarren",
+        "The Shocking Truth About Flat Earth",
         "The Sumo Show HIRAKUZA",
         "The Very Best of Tommy Cooper – Just Like That!",
         "Tom Read Wilson: A-Z of Me",
