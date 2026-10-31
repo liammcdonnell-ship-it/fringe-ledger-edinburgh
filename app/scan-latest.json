@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-10-31T14:00:15.782Z",
-      "completedAt": "2026-10-31T14:00:15.782Z",
+      "id": "2026-10-31T18:04:37.467Z",
+      "completedAt": "2026-10-31T18:04:37.467Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 344,
-      "totalNotices": 441,
-      "defaultVisible": 73,
+      "totalShows": 321,
+      "totalNotices": 405,
+      "defaultVisible": 64,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-10-30T16:20:45.373Z",
-      "windowEndedAt": "2026-10-31T14:00:15.782Z",
-      "windowCoverageHours": 21.7,
-      "scansInWindow": 4,
-      "newReviews": 198,
-      "newShows": 24,
-      "enteredRanking": 16,
+      "windowEndedAt": "2026-10-31T18:04:37.467Z",
+      "windowCoverageHours": 25.7,
+      "scansInWindow": 5,
+      "newReviews": 200,
+      "newShows": 1,
+      "enteredRanking": 7,
       "newOutlets": [],
       "movers": [
         {
@@ -32,57 +32,16 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
-        },
-        {
-          "title": "Lions",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
         }
       ],
       "newEntries": [
-        {
-          "title": "Little Animals",
-          "score": 83,
-          "reviews": 2
-        },
         {
           "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
           "title": "Jitters",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Katie Norris: Mother Succubus",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "One Man Musical",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Remember, Remember!",
           "score": 76,
           "reviews": 2
         },
@@ -97,11 +56,6 @@
           "reviews": 2
         },
         {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "score": 69,
-          "reviews": 2
-        },
-        {
           "title": "Rob Auton: JUPITER",
           "score": 67,
           "reviews": 2
@@ -112,23 +66,8 @@
           "reviews": 2
         },
         {
-          "title": "Abby Govindan: Pushing 30",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
           "title": "11½ Angry Men",
           "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "Bliss",
-          "score": 45,
           "reviews": 2
         }
       ],
