@@ -2,27 +2,27 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-02T08:35:54.939Z",
-      "completedAt": "2026-11-02T08:35:54.939Z",
+      "id": "2026-11-02T18:58:13.170Z",
+      "completedAt": "2026-11-02T18:58:13.170Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 376,
-      "totalNotices": 477,
-      "defaultVisible": 75,
+      "totalShows": 373,
+      "totalNotices": 476,
+      "defaultVisible": 77,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-01T06:59:06.685Z",
-      "windowEndedAt": "2026-11-02T08:35:54.939Z",
-      "windowCoverageHours": 25.6,
-      "scansInWindow": 5,
-      "newReviews": 143,
-      "newShows": 25,
-      "enteredRanking": 11,
+      "windowStartedAt": "2026-11-01T18:41:27.418Z",
+      "windowEndedAt": "2026-11-02T18:58:13.170Z",
+      "windowCoverageHours": 24.3,
+      "scansInWindow": 4,
+      "newReviews": 137,
+      "newShows": 43,
+      "enteredRanking": 20,
       "newOutlets": [],
       "movers": [
         {
@@ -34,12 +34,36 @@
           "currentReviews": 3
         },
         {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
           "title": "Chris Grace: 88%",
           "previousScore": 66,
           "currentScore": 70,
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 2
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Lions",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
         },
         {
           "title": "ROLEPLAY",
@@ -62,8 +86,18 @@
           "reviews": 2
         },
         {
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
           "title": "EVITA TOO",
           "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "After Party",
+          "score": 76,
           "reviews": 2
         },
         {
@@ -87,8 +121,18 @@
           "reviews": 2
         },
         {
+          "title": "One Man Musical",
+          "score": 76,
+          "reviews": 2
+        },
+        {
           "title": "Remember, Remember!",
           "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -102,12 +146,38 @@
           "reviews": 2
         },
         {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "score": 69,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 51,
+          "reviews": 2
+        },
+        {
           "title": "Bliss",
           "score": 45,
           "reviews": 2
         }
       ],
       "newShowTitles": [
+        "0 Ambition - A Jew Running the Numbers",
         "44 Minutes",
         "A Clown's Lullaby",
         "Alice Fraser: Oh Man!",
@@ -117,6 +187,7 @@
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
+        "Baby Lame: Hit Me Baby One More Lame!",
         "Babyface",
         "Bi-Curious George: Snail Trail",
         "Brian Bilston: How to Lay an Egg with a Horse Inside",
@@ -127,6 +198,7 @@
         "Circa: Wolf",
         "Collaborator",
         "Confessions Of A Mulatto Love Child",
+        "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Cricket &#038; The Freebugs",
         "Crowd Work with Frank Skinner",
@@ -145,8 +217,10 @@
         "Grimm AF",
         "HR The Musical",
         "Hajar, Like Badger",
+        "Harry Stachini: Lobster",
         "Hater",
         "Il canto dell'assiolo",
+        "Irene Woo: Golden Child",
         "Jitters",
         "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
@@ -157,6 +231,7 @@
         "Kevin Quantum: Invisible Force",
         "Krapp's Last Tape",
         "Liberace and Liza – A Tribute",
+        "MC Hammersmith: Ice Ice Nepo Baby",
         "MUSE: The Shakespeare Mayhem Musical",
         "Meet Mayor Max",
         "Michelle Shocked: Bootleg This!",
@@ -197,7 +272,6 @@
         "The Shit Table",
         "The Sumo Show HIRAKUZA",
         "The Very Best of Tommy Cooper – Just Like That!",
-        "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
         "Yes Person",
