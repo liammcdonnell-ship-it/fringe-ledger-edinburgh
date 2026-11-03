@@ -2,36 +2,36 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-02T18:58:13.170Z",
-      "completedAt": "2026-11-02T18:58:13.170Z",
+      "id": "2026-11-03T01:25:15.144Z",
+      "completedAt": "2026-11-03T01:25:15.144Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
       "totalShows": 373,
-      "totalNotices": 476,
-      "defaultVisible": 77,
+      "totalNotices": 469,
+      "defaultVisible": 73,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-01T18:41:27.418Z",
-      "windowEndedAt": "2026-11-02T18:58:13.170Z",
-      "windowCoverageHours": 24.3,
-      "scansInWindow": 4,
-      "newReviews": 137,
-      "newShows": 43,
-      "enteredRanking": 20,
+      "windowStartedAt": "2026-11-02T01:58:55.529Z",
+      "windowEndedAt": "2026-11-03T01:25:15.144Z",
+      "windowCoverageHours": 23.4,
+      "scansInWindow": 3,
+      "newReviews": 111,
+      "newShows": 42,
+      "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
         {
           "title": "Harriet Richardson: Creep",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousScore": 84,
+          "currentScore": 79,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "The Singer",
@@ -40,6 +40,14 @@
           "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
+        },
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
         },
         {
           "title": "Chris Grace: 88%",
@@ -56,6 +64,14 @@
           "delta": 3,
           "previousReviews": 3,
           "currentReviews": 4
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 82,
+          "currentScore": 81,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
         },
         {
           "title": "Lions",
@@ -76,11 +92,6 @@
       ],
       "newEntries": [
         {
-          "title": "Bigfoot Ripped My Dog In Half I Saw It",
-          "score": 87,
-          "reviews": 3
-        },
-        {
           "title": "Little Animals",
           "score": 83,
           "reviews": 2
@@ -91,22 +102,12 @@
           "reviews": 3
         },
         {
-          "title": "EVITA TOO",
+          "title": "Badgers",
           "score": 79,
           "reviews": 2
         },
         {
-          "title": "After Party",
-          "score": 76,
-          "reviews": 2
-        },
-        {
           "title": "Jitters",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Katie Norris: Mother Succubus",
           "score": 76,
           "reviews": 2
         },
@@ -131,17 +132,17 @@
           "reviews": 2
         },
         {
+          "title": "Amanda Knox: Cartwheel",
+          "score": 70,
+          "reviews": 2
+        },
+        {
           "title": "Ayo Adenekan: Homeland Insecurity",
           "score": 70,
           "reviews": 2
         },
         {
           "title": "Border Bodies",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "The Trials of Magnus Coffinkey",
           "score": 70,
           "reviews": 2
         },
@@ -161,8 +162,8 @@
           "reviews": 2
         },
         {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
+          "title": "Gameplay",
+          "score": 64,
           "reviews": 2
         },
         {
@@ -178,13 +179,11 @@
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
-        "44 Minutes",
-        "A Clown's Lullaby",
         "Alice Fraser: Oh Man!",
         "Always, Sometimes, Maybe",
         "Amnesia",
+        "An A to Z Guide to Dating",
         "An Audience with Virginia Woolf: Writing One's Mind",
-        "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
@@ -197,50 +196,44 @@
         "Camelton",
         "Circa: Wolf",
         "Collaborator",
-        "Confessions Of A Mulatto Love Child",
         "Courtney Büchner: One of the Girls",
-        "Craig Hill: You're Not Even Safe Up the Back!",
         "Cricket &#038; The Freebugs",
         "Crowd Work with Frank Skinner",
-        "Daniel Foxx: How Lovely.",
+        "David O&apos;Doherty: At This Stage",
         "Disenchanted! The Hit Musical",
         "Dragon",
-        "Dragon Tales",
         "EXIT",
         "Endgame",
-        "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
         "Fiona Allen: White Lies",
         "GIRLZ",
         "Glob",
-        "Goodbye Dandelion",
         "Grimm AF",
         "HR The Musical",
         "Hajar, Like Badger",
         "Harry Stachini: Lobster",
+        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
         "Hater",
+        "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Irene Woo: Golden Child",
         "Jitters",
-        "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
         "Just William",
-        "KEVIN!!!!!",
-        "Kanpur: 1857",
         "Keeping Secrets",
         "Kevin Quantum: Invisible Force",
         "Krapp's Last Tape",
         "Liberace and Liza – A Tribute",
+        "MAN!FEST: The Drag Boyband Musical",
         "MC Hammersmith: Ice Ice Nepo Baby",
         "MUSE: The Shakespeare Mayhem Musical",
+        "Mark Steel: What The F*** Is Going On?",
         "Meet Mayor Max",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
-        "Of Mice And Men",
         "Oil &#038; Whiskey",
-        "Olivia Raine Atwood: Oops",
         "Omar Badawy: Guided Detour",
         "Owl at Home – Theatr Iolo",
         "Pierre Novellie: Do the One About&#8230;",
@@ -254,20 +247,15 @@
         "Ruby Wax: Absolutely Famous",
         "SAND",
         "SLAY",
-        "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
-        "Sammy J: Hero Complex",
         "Sasha Nezlobin: I'm Fine",
         "Shamaniac",
-        "Shaun Guff: Enuff Is Enuff",
         "Snow",
         "Soft Spot",
         "Space In Between",
         "Taiwan Season: Birthday Party",
-        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
-        "Tamsyn Kelly: Rat's Ass",
         "The Bob Ross Effect",
         "The Distance",
-        "The Jolly Fisherman",
+        "The Poetical Life of Philomena McGuinness",
         "The Real Kyle McCarren",
         "The Shit Table",
         "The Sumo Show HIRAKUZA",
