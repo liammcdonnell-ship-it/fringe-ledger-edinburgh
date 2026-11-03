@@ -2,29 +2,38 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-03T16:44:08.386Z",
-      "completedAt": "2026-11-03T16:44:08.386Z",
+      "id": "2026-11-03T22:09:31.334Z",
+      "completedAt": "2026-11-03T22:09:31.334Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 347,
-      "totalNotices": 440,
-      "defaultVisible": 69,
+      "totalShows": 333,
+      "totalNotices": 420,
+      "defaultVisible": 64,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
       "windowStartedAt": "2026-11-02T18:58:13.170Z",
-      "windowEndedAt": "2026-11-03T16:44:08.386Z",
-      "windowCoverageHours": 21.8,
-      "scansInWindow": 3,
-      "newReviews": 40,
-      "newShows": -26,
-      "enteredRanking": 4,
+      "windowEndedAt": "2026-11-03T22:09:31.334Z",
+      "windowCoverageHours": 27.2,
+      "scansInWindow": 4,
+      "newReviews": 42,
+      "newShows": -40,
+      "enteredRanking": 3,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Harriet Richardson: Creep",
+          "previousScore": 84,
+          "currentScore": 79,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 2
+        }
+      ],
       "newEntries": [
         {
           "title": "Bigfoot Ripped My Dog in Half I Saw It",
@@ -40,11 +49,6 @@
           "title": "Larry Dean: Hellbent",
           "score": 74,
           "reviews": 2
-        },
-        {
-          "title": "The Second Best School Shooting",
-          "score": 72,
-          "reviews": 2
         }
       ],
       "newShowTitles": [
@@ -57,6 +61,7 @@
         "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
         "CODE",
+        "Crowd Work from Hell",
         "David O&apos;Doherty: At This Stage",
         "Hajar, Like Badger",
         "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
@@ -75,6 +80,7 @@
         "Sophie Garrad: A Period Drama",
         "The Poetical Life of Philomena McGuinness",
         "The Shit Table",
+        "The Sumo Show HIRAKUZA",
         "boobytrapped"
       ]
     }
