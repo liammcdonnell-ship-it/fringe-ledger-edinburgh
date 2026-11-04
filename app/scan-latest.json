@@ -2,63 +2,87 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-04T17:50:45.834Z",
-      "completedAt": "2026-11-04T17:50:45.834Z",
+      "id": "2026-11-04T23:00:22.945Z",
+      "completedAt": "2026-11-04T23:00:22.945Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 327,
-      "totalNotices": 411,
-      "defaultVisible": 63,
+      "totalShows": 363,
+      "totalNotices": 460,
+      "defaultVisible": 72,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-03T16:44:08.386Z",
-      "windowEndedAt": "2026-11-04T17:50:45.834Z",
-      "windowCoverageHours": 25.1,
+      "windowStartedAt": "2026-11-03T22:09:31.334Z",
+      "windowEndedAt": "2026-11-04T23:00:22.945Z",
+      "windowCoverageHours": 24.8,
       "scansInWindow": 4,
-      "newReviews": 93,
-      "newShows": -20,
-      "enteredRanking": 2,
+      "newReviews": 142,
+      "newShows": 30,
+      "enteredRanking": 10,
       "newOutlets": [],
       "movers": [
         {
           "title": "Harriet Richardson: Creep",
-          "previousScore": 84,
-          "currentScore": 79,
-          "delta": -5,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "Lions",
-          "previousScore": 77,
-          "currentScore": 76,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 2
-        },
-        {
-          "title": "ROLEPLAY",
-          "previousScore": 77,
-          "currentScore": 76,
-          "delta": -1,
-          "previousReviews": 3,
-          "currentReviews": 2
+          "previousScore": 79,
+          "currentScore": 84,
+          "delta": 5,
+          "previousReviews": 2,
+          "currentReviews": 3
         }
       ],
       "newEntries": [
+        {
+          "title": "Little Animals",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Omar Badawy: Guided Detour",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Remember, Remember!",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Chris Grace: 88%",
+          "score": 70,
+          "reviews": 2
+        },
         {
           "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
           "score": 69,
           "reviews": 2
         },
         {
+          "title": "Rob Auton: JUPITER",
+          "score": 67,
+          "reviews": 2
+        },
+        {
           "title": "Lil Wenker: BOYKING",
           "score": 66,
+          "reviews": 2
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "Bliss",
+          "score": 45,
           "reviews": 2
         }
       ],
@@ -79,8 +103,10 @@
         "Brodie and Co.",
         "CADEL: Lungs on Legs",
         "CODE",
+        "Camelton",
         "Chris Grace: 88%",
         "Circa: Wolf",
+        "Collaborator",
         "Confessions Of A Mulatto Love Child",
         "Crowd Work from Hell",
         "Crowd Work with Frank Skinner",
@@ -118,6 +144,7 @@
         "Omar Badawy: Guided Detour",
         "Owl at Home – Theatr Iolo",
         "Pierre Novellie: Do the One About&#8230;",
+        "Pilate: The Lost Gospel",
         "Play Dead",
         "Playback",
         "R/evolution(s)",
@@ -125,17 +152,23 @@
         "Remember, Remember!",
         "Reparations",
         "Ruby Wax: Absolutely Famous",
+        "SAND",
         "SLAY",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sarah Hester Ross: Serving C*nt",
+        "Soft Spot",
         "Sophie Garrad: A Period Drama",
         "The Distance",
         "The Real Kyle McCarren",
         "The Shit Table",
         "The Shocking Truth About Flat Earth",
         "The Sumo Show HIRAKUZA",
+        "The Very Best of Tommy Cooper – Just Like That!",
         "The Wolf of Poyais",
+        "Tom Read Wilson: A-Z of Me",
+        "Tom Stade Rules",
         "Yes Person",
+        "You and Me (and Whoever Comes Next)",
         "boobytrapped"
       ]
     }
