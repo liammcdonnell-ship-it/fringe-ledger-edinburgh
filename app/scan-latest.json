@@ -2,107 +2,76 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-04T23:00:22.945Z",
-      "completedAt": "2026-11-04T23:00:22.945Z",
+      "id": "2026-11-05T02:59:49.064Z",
+      "completedAt": "2026-11-05T02:59:49.064Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 363,
-      "totalNotices": 460,
-      "defaultVisible": 72,
+      "totalShows": 344,
+      "totalNotices": 440,
+      "defaultVisible": 73,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-03T22:09:31.334Z",
-      "windowEndedAt": "2026-11-04T23:00:22.945Z",
-      "windowCoverageHours": 24.8,
+      "windowStartedAt": "2026-11-04T02:49:53.683Z",
+      "windowEndedAt": "2026-11-05T02:59:49.064Z",
+      "windowCoverageHours": 24.2,
       "scansInWindow": 4,
-      "newReviews": 142,
-      "newShows": 30,
-      "enteredRanking": 10,
+      "newReviews": 81,
+      "newShows": -36,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
           "title": "Harriet Richardson: Creep",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
+          "previousScore": 84,
+          "currentScore": 79,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Chris Cantrill: Rewilding",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         }
       ],
       "newEntries": [
         {
-          "title": "Little Animals",
+          "title": "Bigfoot Ripped My Dog in Half I Saw It",
+          "score": 89,
+          "reviews": 2
+        },
+        {
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Omar Badawy: Guided Detour",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Remember, Remember!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Chris Grace: 88%",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Kate Butch: A Kate in the Hand is Worth Two in the Butch",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Rob Auton: JUPITER",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Lil Wenker: BOYKING",
-          "score": 66,
-          "reviews": 2
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "Bliss",
-          "score": 45,
+          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
+          "score": 71,
           "reviews": 2
         }
       ],
       "newShowTitles": [
-        "0 Ambition - A Jew Running the Numbers",
         "100% Badgers with Matt Hobs",
         "A Simply Beastly Murder",
-        "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
         "Always, Sometimes, Maybe",
-        "Amnesia",
         "An A to Z Guide to Dating",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
-        "Babyface",
-        "Brian Bilston: How to Lay an Egg with a Horse Inside",
+        "Bi-Curious George: Snail Trail",
+        "Blip Barp: An Alien Love Story",
         "Brodie and Co.",
         "CADEL: Lungs on Legs",
-        "CODE",
         "Camelton",
         "Chris Grace: 88%",
         "Circa: Wolf",
@@ -111,31 +80,27 @@
         "Crowd Work from Hell",
         "Crowd Work with Frank Skinner",
         "David O&apos;Doherty: At This Stage",
-        "Disenchanted! The Hit Musical",
-        "Doktor Kaboom and the Wheel of Science!",
         "Dragon",
         "EXIT",
         "Endgame",
-        "Fiona Allen: White Lies",
         "GIRLZ",
         "Glob",
         "Goodbye Dandelion",
         "HR The Musical",
-        "Hajar, Like Badger",
         "Harry Stachini: Lobster",
-        "Hater",
+        "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
         "Irene Woo: Golden Child",
+        "Jess Carrivick: For Your Consideration",
         "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
-        "Just William",
         "Keeping Secrets",
         "Kevin Quantum: Invisible Force",
-        "Krapp's Last Tape",
         "Liberace and Liza – A Tribute",
         "Meet Mayor Max",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
+        "Mothman: A Romance Musical",
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
         "Nesting",
@@ -145,31 +110,22 @@
         "Owl at Home – Theatr Iolo",
         "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
-        "Play Dead",
         "Playback",
         "R/evolution(s)",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Remember, Remember!",
-        "Reparations",
-        "Ruby Wax: Absolutely Famous",
         "SAND",
-        "SLAY",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
-        "Sarah Hester Ross: Serving C*nt",
         "Soft Spot",
-        "Sophie Garrad: A Period Drama",
+        "Tabletop Role-Playing Game: The Musical",
         "The Distance",
         "The Real Kyle McCarren",
-        "The Shit Table",
-        "The Shocking Truth About Flat Earth",
         "The Sumo Show HIRAKUZA",
         "The Very Best of Tommy Cooper – Just Like That!",
         "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
-        "Yes Person",
-        "You and Me (and Whoever Comes Next)",
-        "boobytrapped"
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
