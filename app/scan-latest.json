@@ -2,34 +2,34 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-07T03:26:11.474Z",
-      "completedAt": "2026-11-07T03:26:11.474Z",
+      "id": "2026-11-07T10:48:01.449Z",
+      "completedAt": "2026-11-07T10:48:01.449Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 345,
+      "totalShows": 347,
       "totalNotices": 442,
-      "defaultVisible": 72,
+      "defaultVisible": 71,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-06T03:51:33.448Z",
-      "windowEndedAt": "2026-11-07T03:26:11.474Z",
-      "windowCoverageHours": 23.6,
+      "windowStartedAt": "2026-11-06T11:41:44.363Z",
+      "windowEndedAt": "2026-11-07T10:48:01.449Z",
+      "windowCoverageHours": 23.1,
       "scansInWindow": 4,
-      "newReviews": 104,
-      "newShows": 20,
-      "enteredRanking": 14,
+      "newReviews": 100,
+      "newShows": 24,
+      "enteredRanking": 17,
       "newOutlets": [],
       "movers": [
         {
-          "title": "Harriet Richardson: Creep",
-          "previousScore": 79,
-          "currentScore": 84,
-          "delta": 5,
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
           "previousReviews": 2,
           "currentReviews": 3
         },
@@ -68,6 +68,11 @@
       ],
       "newEntries": [
         {
+          "title": "Doktor Kaboom and the Wheel of Science!",
+          "score": 105,
+          "reviews": 2
+        },
+        {
           "title": "Little Animals",
           "score": 83,
           "reviews": 2
@@ -81,6 +86,11 @@
           "title": "Dracula: Lucy's Dream",
           "score": 80,
           "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
         },
         {
           "title": "After Party",
@@ -98,18 +108,13 @@
           "reviews": 2
         },
         {
-          "title": "Remember, Remember!",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "The Second Best School Shooting",
-          "score": 72,
-          "reviews": 2
-        },
-        {
           "title": "Amanda Knox: Cartwheel",
           "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Sasha Nezlobin: I'm Fine",
+          "score": 69,
           "reviews": 2
         },
         {
@@ -119,6 +124,16 @@
         },
         {
           "title": "Abby Govindan: Pushing 30",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "Gameplay",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "INDY!",
           "score": 64,
           "reviews": 2
         },
@@ -139,18 +154,17 @@
         }
       ],
       "newShowTitles": [
-        "0 Ambition - A Jew Running the Numbers",
         "44 Minutes",
         "A Clown's Lullaby",
         "A Simply Beastly Murder",
+        "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
         "Always, Sometimes, Maybe",
+        "Amnesia",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
-        "Baby Lame: Hit Me Baby One More Lame!",
-        "Bi-Curious George: Snail Trail",
         "CADEL: Lungs on Legs",
         "Camelton",
         "Collaborator",
@@ -159,18 +173,16 @@
         "Cricket &#038; The Freebugs",
         "Crowd Work from Hell",
         "Daniel Foxx: How Lovely.",
-        "David O&apos;Doherty: At This Stage",
         "Doktor Kaboom and the Wheel of Science!",
         "Dragon Tales",
+        "EXIT",
         "Everybody's Got a Bomb",
+        "Fiona Allen: White Lies",
         "GIRLZ",
         "Grimm AF",
         "HR The Musical",
-        "Harry Stachini: Lobster",
         "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
-        "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
-        "Irene Woo: Golden Child",
         "Jitters",
         "John Robertson&apos;s The Dark Room",
         "Juliette Burton: Villain Era",
@@ -181,7 +193,6 @@
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
         "NON HUMAN ANIMAL",
-        "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
         "Owl at Home – Theatr Iolo",
@@ -190,6 +201,7 @@
         "Quentin Blake's Mrs Armitage on Wheels",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Remember, Remember!",
+        "Ruby Wax: Absolutely Famous",
         "SAND",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
@@ -197,6 +209,7 @@
         "Shamaniac",
         "Snow",
         "Soft Spot",
+        "Sophie Garrad: A Period Drama",
         "Space In Between",
         "Tabletop Role-Playing Game: The Musical",
         "Taiwan Season: Birthday Party",
@@ -205,10 +218,13 @@
         "The Bob Ross Effect",
         "The Distance",
         "The Jolly Fisherman",
+        "The Shit Table",
         "The Shocking Truth About Flat Earth",
         "The Very Best of Tommy Cooper – Just Like That!",
+        "The Wolf of Poyais",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
+        "Yes Person",
         "You and Me (and Whoever Comes Next)"
       ]
     }
