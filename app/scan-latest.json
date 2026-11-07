@@ -2,33 +2,74 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-06T23:37:46.977Z",
-      "completedAt": "2026-11-06T23:37:46.977Z",
+      "id": "2026-11-07T03:26:11.474Z",
+      "completedAt": "2026-11-07T03:26:11.474Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 338,
-      "totalNotices": 430,
-      "defaultVisible": 69,
+      "totalShows": 345,
+      "totalNotices": 442,
+      "defaultVisible": 72,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-05T23:55:44.387Z",
-      "windowEndedAt": "2026-11-06T23:37:46.977Z",
-      "windowCoverageHours": 23.7,
+      "windowStartedAt": "2026-11-06T03:51:33.448Z",
+      "windowEndedAt": "2026-11-07T03:26:11.474Z",
+      "windowCoverageHours": 23.6,
       "scansInWindow": 4,
-      "newReviews": 111,
-      "newShows": -29,
-      "enteredRanking": 3,
+      "newReviews": 104,
+      "newShows": 20,
+      "enteredRanking": 14,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "Harriet Richardson: Creep",
+          "previousScore": 79,
+          "currentScore": 84,
+          "delta": 5,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 82,
+          "currentScore": 81,
+          "delta": -1,
+          "previousReviews": 4,
+          "currentReviews": 5
+        },
+        {
+          "title": "Lions",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 76,
+          "currentScore": 77,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
         {
-          "title": "Doktor Kaboom and the Wheel of Science!",
-          "score": 105,
+          "title": "Little Animals",
+          "score": 83,
           "reviews": 2
         },
         {
@@ -37,39 +78,92 @@
           "reviews": 2
         },
         {
-          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
-          "score": 71,
+          "title": "Dracula: Lucy's Dream",
+          "score": 80,
+          "reviews": 3
+        },
+        {
+          "title": "After Party",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Jitters",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "One Man Musical",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "Remember, Remember!",
+          "score": 76,
+          "reviews": 2
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "score": 72,
+          "reviews": 2
+        },
+        {
+          "title": "Amanda Knox: Cartwheel",
+          "score": 70,
+          "reviews": 2
+        },
+        {
+          "title": "Spin Cycle",
+          "score": 67,
+          "reviews": 2
+        },
+        {
+          "title": "Abby Govindan: Pushing 30",
+          "score": 64,
+          "reviews": 2
+        },
+        {
+          "title": "The Librarians: A Very Serious Comedy!",
+          "score": 57,
+          "reviews": 2
+        },
+        {
+          "title": "11½ Angry Men",
+          "score": 51,
+          "reviews": 2
+        },
+        {
+          "title": "Bliss",
+          "score": 45,
           "reviews": 2
         }
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
-        "100% Badgers with Matt Hobs",
         "44 Minutes",
         "A Clown's Lullaby",
         "A Simply Beastly Murder",
-        "Alastair Clark: On The Record",
         "Alice Fraser: Oh Man!",
+        "Always, Sometimes, Maybe",
         "An Audience with Virginia Woolf: Writing One's Mind",
         "Annie Wobbler (Revisited)",
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
         "Bi-Curious George: Snail Trail",
-        "Blip Barp: An Alien Love Story",
+        "CADEL: Lungs on Legs",
         "Camelton",
         "Collaborator",
         "Confessions Of A Mulatto Love Child",
-        "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Cricket &#038; The Freebugs",
+        "Crowd Work from Hell",
         "Daniel Foxx: How Lovely.",
         "David O&apos;Doherty: At This Stage",
         "Doktor Kaboom and the Wheel of Science!",
         "Dragon Tales",
         "Everybody's Got a Bomb",
         "GIRLZ",
-        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
         "HR The Musical",
         "Harry Stachini: Lobster",
@@ -79,30 +173,28 @@
         "Irene Woo: Golden Child",
         "Jitters",
         "John Robertson&apos;s The Dark Room",
+        "Juliette Burton: Villain Era",
         "KEVIN!!!!!",
         "Kanpur: 1857",
-        "MAN!FEST: The Drag Boyband Musical",
+        "Kevin Quantum: Invisible Force",
         "MUSE: The Shakespeare Mayhem Musical",
-        "Mark Steel: What The F*** Is Going On?",
         "Michelle Shocked: Bootleg This!",
         "Midsummer!",
-        "Mothman: A Romance Musical",
         "NON HUMAN ANIMAL",
-        "Nina&apos;s C*nti Cabaret",
         "Nuns!",
         "Of Mice And Men",
         "Olivia Raine Atwood: Oops",
+        "Owl at Home – Theatr Iolo",
+        "Pierre Novellie: Do the One About&#8230;",
         "Pilate: The Lost Gospel",
-        "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+        "Remember, Remember!",
         "SAND",
         "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
         "Sammy J: Hero Complex",
-        "Sarah Hester Ross: Serving C*nt",
         "Sasha Nezlobin: I'm Fine",
         "Shamaniac",
-        "Shaun Guff: Enuff Is Enuff",
         "Snow",
         "Soft Spot",
         "Space In Between",
@@ -111,14 +203,13 @@
         "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
         "Tamsyn Kelly: Rat's Ass",
         "The Bob Ross Effect",
+        "The Distance",
         "The Jolly Fisherman",
-        "The Poetical Life of Philomena McGuinness",
         "The Shocking Truth About Flat Earth",
-        "The Wolf of Poyais",
+        "The Very Best of Tommy Cooper – Just Like That!",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
-        "You and Me (and Whoever Comes Next)",
-        "boobytrapped"
+        "You and Me (and Whoever Comes Next)"
       ]
     }
   ]
