@@ -2,35 +2,51 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-09T10:32:30.819Z",
-      "completedAt": "2026-11-09T10:32:30.819Z",
+      "id": "2026-11-09T21:12:06.293Z",
+      "completedAt": "2026-11-09T21:12:06.293Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 337,
-      "totalNotices": 421,
-      "defaultVisible": 64,
+      "totalShows": 304,
+      "totalNotices": 371,
+      "defaultVisible": 54,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-08T13:59:56.823Z",
-      "windowEndedAt": "2026-11-09T10:32:30.819Z",
-      "windowCoverageHours": 20.5,
-      "scansInWindow": 4,
-      "newReviews": 60,
-      "newShows": 4,
-      "enteredRanking": 1,
+      "windowStartedAt": "2026-11-08T22:36:52.364Z",
+      "windowEndedAt": "2026-11-09T21:12:06.293Z",
+      "windowCoverageHours": 22.6,
+      "scansInWindow": 3,
+      "newReviews": 22,
+      "newShows": -57,
+      "enteredRanking": 6,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "Harriet Richardson: Creep",
+          "previousScore": 84,
+          "currentScore": 79,
+          "delta": -5,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "The Singer",
           "previousScore": 80,
           "currentScore": 76,
           "delta": -4,
           "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Chris Grace: 88%",
+          "previousScore": 70,
+          "currentScore": 66,
+          "delta": -4,
+          "previousReviews": 2,
           "currentReviews": 2
         },
         {
@@ -42,73 +58,103 @@
           "currentReviews": 3
         },
         {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 75,
+          "currentScore": 73,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
           "title": "Cathy",
           "previousScore": 81,
           "currentScore": 82,
           "delta": 1,
           "previousReviews": 5,
           "currentReviews": 4
+        },
+        {
+          "title": "Lions",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Larry Dean: Hellbent",
-          "score": 74,
+          "title": "Doktor Kaboom and the Wheel of Science!",
+          "score": 105,
+          "reviews": 2
+        },
+        {
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "The Second Best School Shooting",
+          "score": 72,
+          "reviews": 2
+        },
+        {
+          "title": "Skank Sinatra: How to Succeed in Show Business Without Really Trying",
+          "score": 71,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
           "reviews": 2
         }
       ],
       "newShowTitles": [
-        "Alastair Clark: On The Record",
-        "Always, Sometimes, Maybe",
-        "Ayoade Bamgboye: Swings And Roundabouts",
-        "BLISS",
+        "0 Ambition - A Jew Running the Numbers",
         "Babyface",
-        "Brodie and Co.",
-        "CADEL: Lungs on Legs",
-        "Camelton",
+        "Bi-Curious George: Snail Trail",
         "Chris Grace: 88%",
-        "Collaborator",
-        "Crowd Work with Frank Skinner",
-        "EXIT",
-        "Endgame",
-        "GIRLZ",
-        "Glob",
-        "HR The Musical",
-        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
-        "Hater",
+        "Courtney Büchner: One of the Girls",
+        "Doktor Kaboom and the Wheel of Science!",
+        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Heist: How to Steal a Masterpiece",
-        "Jitters",
-        "Juliette Burton: Villain Era",
-        "Kevin Quantum: Invisible Force",
-        "Liberace and Liza – A Tribute",
-        "Mark Steel: What The F*** Is Going On?",
-        "Meet Mayor Max",
-        "Michelle Shocked: Bootleg This!",
-        "Midsummer!",
-        "Murder, She Didn't Write",
-        "NON HUMAN ANIMAL",
-        "Nesting",
-        "Nina&apos;s C*nti Cabaret",
-        "Omar Badawy: Guided Detour",
-        "Owl at Home – Theatr Iolo",
-        "Pierre Novellie: Do the One About&#8230;",
-        "Pilate: The Lost Gospel",
-        "Play Dead",
+        "MC Hammersmith: Ice Ice Nepo Baby",
         "Playback",
-        "R/evolution(s)",
-        "Remember, Remember!",
-        "SAND",
-        "Salome – Oscar Wilde’s Tragedy Lost to Fringe Abstraction",
-        "Shamaniac",
-        "Shaun Guff: Enuff Is Enuff",
-        "Soft Spot",
-        "Space In Between",
-        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
-        "The Distance",
-        "The Real Kyle McCarren",
-        "The Sumo Show HIRAKUZA",
-        "The Very Best of Tommy Cooper – Just Like That!",
-        "Yes Person"
+        "Sophie Garrad: A Period Drama",
+        "Tabletop Role-Playing Game: The Musical",
+        "The Poetical Life of Philomena McGuinness",
+        "The Shocking Truth About Flat Earth",
+        "Yes Person",
+        "boobytrapped"
       ]
     }
   ]
