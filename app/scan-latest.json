@@ -2,29 +2,37 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-11T18:58:29.287Z",
-      "completedAt": "2026-11-11T18:58:29.287Z",
+      "id": "2026-11-12T01:09:07.767Z",
+      "completedAt": "2026-11-12T01:09:07.767Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 308,
-      "totalNotices": 383,
-      "defaultVisible": 56,
+      "totalShows": 296,
+      "totalNotices": 361,
+      "defaultVisible": 52,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-10T19:01:09.167Z",
-      "windowEndedAt": "2026-11-11T18:58:29.287Z",
-      "windowCoverageHours": 24,
+      "windowStartedAt": "2026-11-10T23:53:34.779Z",
+      "windowEndedAt": "2026-11-12T01:09:07.767Z",
+      "windowCoverageHours": 25.3,
       "scansInWindow": 4,
-      "newReviews": 133,
-      "newShows": -13,
-      "enteredRanking": 3,
+      "newReviews": 121,
+      "newShows": -35,
+      "enteredRanking": 4,
       "newOutlets": [],
       "movers": [
+        {
+          "title": "The Singer",
+          "previousScore": 80,
+          "currentScore": 76,
+          "delta": -4,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
         {
           "title": "Elf Lyons is The Woman on the Edge",
           "previousScore": 89,
@@ -32,22 +40,75 @@
           "delta": -3,
           "previousReviews": 4,
           "currentReviews": 3
+        },
+        {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 75,
+          "currentScore": 73,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 81,
+          "currentScore": 82,
+          "delta": 1,
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Lions",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Doktor Kaboom and the Wheel of Science!",
-          "score": 105,
+          "title": "Dracula: Lucy’s Dream",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Baby Lame: Hit Me Baby One More Lame!",
-          "score": 78,
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "Rob Auton: JUPITER",
-          "score": 67,
+          "title": "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
+          "score": 83,
+          "reviews": 2
+        },
+        {
+          "title": "Lil Wenker: BOYKING",
+          "score": 66,
           "reviews": 2
         }
       ],
@@ -65,6 +126,7 @@
         "Ayoade Bamgboye: Swings And Roundabouts",
         "BLISS",
         "Baby Lame: Hit Me Baby One More Lame!",
+        "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
         "CADEL: Lungs on Legs",
         "Camelton",
@@ -86,9 +148,9 @@
         "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
         "HR The Musical",
-        "Hater",
+        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
+        "Heist: How to Steal a Masterpiece",
         "Il canto dell'assiolo",
-        "Irene Woo: Golden Child",
         "Jess Carrivick: For Your Consideration",
         "Jitters",
         "John Robertson&apos;s The Dark Room",
@@ -108,6 +170,7 @@
         "Murder, She Didn't Write",
         "NON HUMAN ANIMAL",
         "Nesting",
+        "Nina&apos;s C*nti Cabaret",
         "Of Mice And Men",
         "Omar Badawy: Guided Detour",
         "Owl at Home – Theatr Iolo",
@@ -116,6 +179,7 @@
         "Playback",
         "Quentin Blake's Mrs Armitage on Wheels",
         "R/evolution(s)",
+        "REDACTED: The Cover-Up of a Cover-Up of a Cover-Up",
         "Remember, Remember!",
         "Reparations",
         "SAND",
@@ -138,7 +202,8 @@
         "The Very Best of Tommy Cooper – Just Like That!",
         "Tom Read Wilson: A-Z of Me",
         "Tom Stade Rules",
-        "You and Me (and Whoever Comes Next)"
+        "You and Me (and Whoever Comes Next)",
+        "boobytrapped"
       ]
     }
   ]
