@@ -2,33 +2,94 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-14T04:34:33.558Z",
-      "completedAt": "2026-11-14T04:34:33.558Z",
+      "id": "2026-11-14T11:51:55.563Z",
+      "completedAt": "2026-11-14T11:51:55.563Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 317,
-      "totalNotices": 396,
-      "defaultVisible": 59,
+      "totalShows": 313,
+      "totalNotices": 388,
+      "defaultVisible": 56,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-13T03:02:49.685Z",
-      "windowEndedAt": "2026-11-14T04:34:33.558Z",
-      "windowCoverageHours": 25.5,
+      "windowStartedAt": "2026-11-13T10:32:30.087Z",
+      "windowEndedAt": "2026-11-14T11:51:55.563Z",
+      "windowCoverageHours": 25.3,
       "scansInWindow": 4,
-      "newReviews": 89,
-      "newShows": 3,
-      "enteredRanking": 3,
+      "newReviews": 91,
+      "newShows": 7,
+      "enteredRanking": 7,
       "newOutlets": [],
-      "movers": [],
+      "movers": [
+        {
+          "title": "The Singer",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 86,
+          "currentScore": 89,
+          "delta": 3,
+          "previousReviews": 3,
+          "currentReviews": 4
+        },
+        {
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 73,
+          "currentScore": 75,
+          "delta": 2,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 69,
+          "currentScore": 70,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 67,
+          "currentScore": 68,
+          "delta": 1,
+          "previousReviews": 2,
+          "currentReviews": 3
+        }
+      ],
       "newEntries": [
         {
-          "title": "Doktor Kaboom and the Wheel of Science!",
-          "score": 105,
+          "title": "Jill's Tupperware Party",
+          "score": 82,
+          "reviews": 3
+        },
+        {
+          "title": "Badgers",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Brendan Scannell: The Abyss",
+          "score": 79,
+          "reviews": 2
+        },
+        {
+          "title": "Larry Dean: Hellbent",
+          "score": 74,
+          "reviews": 2
+        },
+        {
+          "title": "Ayo Adenekan: Homeland Insecurity",
+          "score": 70,
           "reviews": 2
         },
         {
@@ -37,13 +98,14 @@
           "reviews": 2
         },
         {
-          "title": "Gameplay",
-          "score": 64,
+          "title": "Mark Vigeant: OUT THERE",
+          "score": 67,
           "reviews": 2
         }
       ],
       "newShowTitles": [
         "0 Ambition - A Jew Running the Numbers",
+        "100% Badgers with Matt Hobs",
         "44 Minutes",
         "A Clown's Lullaby",
         "A Simply Beastly Murder",
@@ -51,16 +113,20 @@
         "Alice Fraser: Oh Man!",
         "Annie Wobbler (Revisited)",
         "Baby Lame: Hit Me Baby One More Lame!",
+        "Bi-Curious George: Snail Trail",
         "Blip Barp: An Alien Love Story",
+        "Confessions Of A Mulatto Love Child",
         "Courtney Büchner: One of the Girls",
         "Craig Hill: You're Not Even Safe Up the Back!",
         "Daniel Foxx: How Lovely.",
+        "David O&apos;Doherty: At This Stage",
         "Doktor Kaboom and the Wheel of Science!",
         "Dragon Tales",
         "Evaldas Karosas: A Very Capable Man",
         "Everybody's Got a Bomb",
         "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
         "Grimm AF",
+        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
         "Heist: How to Steal a Masterpiece",
         "Irene Woo: Golden Child",
         "John Robertson&apos;s The Dark Room",
