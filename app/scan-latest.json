@@ -2,31 +2,39 @@
   "version": 2,
   "scans": [
     {
-      "id": "2026-11-17T18:52:14.922Z",
-      "completedAt": "2026-11-17T18:52:14.922Z",
+      "id": "2026-11-18T09:22:37.216Z",
+      "completedAt": "2026-11-18T09:22:37.216Z",
       "status": "complete",
       "sourcesListed": 102,
       "sourcesAttempted": 102,
       "sourcesChecked": 102,
       "accessFailed": 0,
-      "totalShows": 359,
-      "totalNotices": 454,
-      "defaultVisible": 72,
+      "totalShows": 298,
+      "totalNotices": 361,
+      "defaultVisible": 50,
       "duplicates": 0,
       "ambiguous": 0,
       "accessFailures": [],
       "windowHours": 24,
-      "windowStartedAt": "2026-11-15T20:41:28.884Z",
-      "windowEndedAt": "2026-11-17T18:52:14.922Z",
-      "windowCoverageHours": 46.2,
+      "windowStartedAt": "2026-11-17T18:52:14.922Z",
+      "windowEndedAt": "2026-11-18T09:22:37.216Z",
+      "windowCoverageHours": 14.5,
       "scansInWindow": 1,
-      "newReviews": 60,
-      "newShows": 37,
-      "enteredRanking": 11,
+      "newReviews": 6,
+      "newShows": -61,
+      "enteredRanking": 3,
       "newOutlets": [],
       "movers": [
         {
           "title": "Chris Cantrill: Rewilding",
+          "previousScore": 76,
+          "currentScore": 80,
+          "delta": 4,
+          "previousReviews": 2,
+          "currentReviews": 3
+        },
+        {
+          "title": "The Singer",
           "previousScore": 80,
           "currentScore": 76,
           "delta": -4,
@@ -34,130 +42,85 @@
           "currentReviews": 2
         },
         {
-          "title": "Lions",
-          "previousScore": 76,
-          "currentScore": 77,
-          "delta": 1,
-          "previousReviews": 2,
+          "title": "Elf Lyons is The Woman on the Edge",
+          "previousScore": 89,
+          "currentScore": 86,
+          "delta": -3,
+          "previousReviews": 4,
           "currentReviews": 3
         },
         {
-          "title": "ROLEPLAY",
-          "previousScore": 76,
-          "currentScore": 77,
+          "title": "Jonno: Here Comes Mr Funny",
+          "previousScore": 75,
+          "currentScore": 73,
+          "delta": -2,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Cathy",
+          "previousScore": 81,
+          "currentScore": 82,
           "delta": 1,
-          "previousReviews": 2,
-          "currentReviews": 3
+          "previousReviews": 5,
+          "currentReviews": 4
+        },
+        {
+          "title": "Lions",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "ROLEPLAY",
+          "previousScore": 77,
+          "currentScore": 76,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Tamsyn Kelly: Rat's Ass",
+          "previousScore": 70,
+          "currentScore": 69,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
+        },
+        {
+          "title": "Kate Hammer: Government Approved Comedian",
+          "previousScore": 68,
+          "currentScore": 67,
+          "delta": -1,
+          "previousReviews": 3,
+          "currentReviews": 2
         }
       ],
       "newEntries": [
         {
-          "title": "Little Animals",
+          "title": "Dracula: Lucy’s Dream",
           "score": 83,
           "reviews": 2
         },
         {
-          "title": "Dracula: Lucy's Dream",
-          "score": 80,
-          "reviews": 3
-        },
-        {
-          "title": "Jitters",
-          "score": 76,
+          "title": "Jill’s Tupperware Party",
+          "score": 83,
           "reviews": 2
         },
         {
-          "title": "One Man Musical",
-          "score": 76,
-          "reviews": 2
-        },
-        {
-          "title": "Amanda Knox: Cartwheel",
-          "score": 70,
-          "reviews": 2
-        },
-        {
-          "title": "Sasha Nezlobin: I'm Fine",
-          "score": 69,
-          "reviews": 2
-        },
-        {
-          "title": "Spin Cycle",
-          "score": 67,
-          "reviews": 2
-        },
-        {
-          "title": "Abby Govindan: Pushing 30",
-          "score": 64,
-          "reviews": 2
-        },
-        {
-          "title": "The Librarians: A Very Serious Comedy!",
-          "score": 57,
-          "reviews": 2
-        },
-        {
-          "title": "11½ Angry Men",
-          "score": 51,
-          "reviews": 2
-        },
-        {
-          "title": "Bliss",
-          "score": 45,
+          "title": "Jess Carrivick: For Your Consideration",
+          "score": 75,
           "reviews": 2
         }
       ],
       "newShowTitles": [
-        "100% Badgers with Matt Hobs",
-        "A Simply Beastly Murder",
-        "Always, Sometimes, Maybe",
-        "An A to Z Guide to Dating",
-        "An Audience with Virginia Woolf: Writing One's Mind",
-        "Ayoade Bamgboye: Swings And Roundabouts",
-        "BLISS",
-        "CADEL: Lungs on Legs",
-        "Camelton",
-        "Collaborator",
-        "Craig Hill: You're Not Even Safe Up the Back!",
-        "Cricket &#038; The Freebugs",
-        "Crowd Work from Hell",
-        "EXIT",
-        "Everybody's Got a Bomb",
-        "GIRLZ",
-        "Goodbye Dandelion",
-        "Goodbye Horses: An Unauthorised Solo Retelling of The Silence of the Lambs",
-        "Grimm AF",
-        "HR The Musical",
-        "Harry Stachini: Lobster",
-        "Harvey Cobb: Pink Boots and an Alcoholic Sock Puppet",
-        "Jitters",
-        "Juliette Burton: Villain Era",
-        "Kevin Quantum: Invisible Force",
-        "Liberace and Liza – A Tribute",
-        "MAN!FEST: The Drag Boyband Musical",
-        "MUSE: The Shakespeare Mayhem Musical",
-        "Meet Mayor Max",
-        "Michelle Shocked: Bootleg This!",
-        "Murder, She Didn't Write",
-        "NON HUMAN ANIMAL",
-        "Owl at Home – Theatr Iolo",
-        "Pierre Novellie: Do the One About&#8230;",
-        "Pilate: The Lost Gospel",
-        "SAND",
-        "Sarah Hester Ross: Serving C*nt",
-        "Sasha Nezlobin: I'm Fine",
-        "Shamaniac",
-        "Shaun Guff: Enuff Is Enuff",
-        "Soft Spot",
-        "Space In Between",
-        "Tabletop Role-Playing Game: The Musical",
-        "Tale of the Firebird – Concerto for Violin, Fire &#038; Acrobatic Orchestra",
-        "The Real Kyle McCarren",
-        "The Shocking Truth About Flat Earth",
-        "The Sumo Show HIRAKUZA",
-        "The Very Best of Tommy Cooper – Just Like That!",
-        "Tom Read Wilson: A-Z of Me",
-        "You and Me (and Whoever Comes Next)"
+        "Jess Carrivick: For Your Consideration",
+        "John Robertson&apos;s The Dark Room",
+        "Nina&apos;s C*nti Cabaret",
+        "Play Dead",
+        "Sophie Garrad: A Period Drama"
       ]
     }
   ]
